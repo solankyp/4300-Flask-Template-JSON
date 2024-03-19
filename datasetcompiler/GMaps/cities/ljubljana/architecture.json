@@ -1,0 +1,1086 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbGuX3AKOZq6a6W-hJPDjCn_t5UW86srEtVckCzCKdiIb3VYD7dRmASCXs4H-np1rzfXkXnrlliVt36zXHknWOE7IJAXcp3qrNBojuoB6jD2T5YrKN4-BdEc_9ZWL0PKOun8f0UM8vQTIRdgRRVtQezC7GzpMEl-F-LWNNdA-Iqms027Oq9TweUz9azNJGz0dkWNkE6heXfwvokqvq69Dpi_dnQHIUmdVHalVWyoMOH6lGG9axy8vhkMXxrM2Ddhn_B5IzhmKbwbR-QqvmEzC0sxrwfimc1_Hh5UcT99v9wI0gcKx3lMCX1-0i0K94UwdX7hpWu9FCsDf0X19yFf5grP2iBygs4DmkGbuvaddAAbAJk9zpa_sUC4sBj8aGY-t43P38VKy8Yl3_EXEhPVo2ejV58g8A",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6, Karunova ulica 4, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0424506,
+               "lng" : 14.5022701
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.04380622989272,
+                  "lng" : 14.50374952989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04110657010727,
+                  "lng" : 14.50104987010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Plečnik House",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106458648551670914898\"\u003eAndreas Rapp\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaUeANQxPeR-cA1QuvOhDRSKFZCuXmlpdqINVnPcWoHIIl47TO80Xtxq8dvexTPEE65yo1XNMEioM8NdWEHQbnkPxxt-vgJk9LyW2BTSLOUWx-mhe_tmh_O4aH-YRRlTKtkfdLiZzpx5OnIjBpJMgT9B6gVJYWoMknwhXKtgbSShvpW",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJmzEeB28tZUcRNW7NSciZPVw",
+         "plus_code" : 
+         {
+            "compound_code" : "2GR2+XW Ljubljana, Slovenia",
+            "global_code" : "8FRP2GR2+XW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJmzEeB28tZUcRNW7NSciZPVw",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 509
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cesta v Gorice 1, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0345378,
+               "lng" : 14.4624805
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.03585822989272,
+                  "lng" : 14.46359832989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.03315857010728,
+                  "lng" : 14.46089867010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "KUB arhitektura d.o.o.",
+         "photos" : 
+         [
+            {
+               "height" : 795,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112703568938597092130\"\u003eKUB arhitektura d.o.o.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY-YJ_wWRo66bnpl7vYQGXx00HGUpfp1MXV4JE0ThK5g8kN_VK4JEnai0xGU9GEWVrpcNvaU5Uw7n10W3SNV2Hof2kk6mEee-uyHyBRRy2aQD0SQdTfMWKljK1nbElIg7mlD09K0yw8NMLb19Ni9bivbhl3DiKyBFE5L-AjiqU833xh",
+               "width" : 1281
+            }
+         ],
+         "place_id" : "ChIJtQqvJDMtZUcRJfy8Z0f2s3w",
+         "plus_code" : 
+         {
+            "compound_code" : "2FM6+RX Ljubljana, Slovenia",
+            "global_code" : "8FRP2FM6+RX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJtQqvJDMtZUcRJfy8Z0f2s3w",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Linhartova cesta 8, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0629585,
+               "lng" : 14.50975
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.06424942989273,
+                  "lng" : 14.51112072989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.06154977010728,
+                  "lng" : 14.50842107010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "GAO arhitekti",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 798,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102277408501144459108\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYoUCkSO88gi5EMc4s0J26PP3c-nMnSybZWqZOhPzkCkoMYvq9bsXVvb_hkMUFnH1-9_lmZwhWtjY2RKkedpvnNl-GhUS4eeFJxEQz6wCMfFAguss3Y8AWKE-28xxmPAgjmwyNGxr5J14s8Fr9aCwvRel3DLlYoDwxI0AhG6_uvkYz9",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJI7_W_5kyZUcRz343bmQbbc8",
+         "plus_code" : 
+         {
+            "compound_code" : "3G75+5V Ljubljana, Slovenia",
+            "global_code" : "8FRP3G75+5V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJI7_W_5kyZUcRz343bmQbbc8",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rusjanov trg 7, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0506383,
+               "lng" : 14.5634738
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05206482989271,
+                  "lng" : 14.56482672989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04936517010727,
+                  "lng" : 14.56212707010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Muzej za arhitekturo in oblikovanje",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2604,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102044834615740749308\"\u003eИрина Багно\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbQJEJXrxkXq7sTWmIN-CjLlJlw1yvKcHTuzAWZqWz6avIYSJz5zrjNDyLCgqbEDGAhvm0yvKEB2RFq4j6r5ZwdkL4pfUygilRNtQuNw14LLphZ0sfeJZHZ_USQToDHK05jKlnfBv_NQMZ4NCqjRMABf0A2WtiLtQIjZkgdbgEaexXT",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJ5XDlU3MyZUcRBB8kp3R68E0",
+         "plus_code" : 
+         {
+            "compound_code" : "3H27+69 Ljubljana, Slovenia",
+            "global_code" : "8FRP3H27+69"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ5XDlU3MyZUcRBB8kp3R68E0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 483
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Wolfova ulica 1, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0509384,
+               "lng" : 14.5054931
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05182882989273,
+                  "lng" : 14.50646102989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04912917010728,
+                  "lng" : 14.50376137010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sadar + Vuga, arhitekturno projektiranje in Urbanistično načrtovanje, d.o.o.",
+         "place_id" : "ChIJpUAQw54yZUcR2TrX_DTKuNg",
+         "plus_code" : 
+         {
+            "compound_code" : "3G24+95 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G24+95"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJpUAQw54yZUcR2TrX_DTKuNg",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cesta v Mestni log 73, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0337626,
+               "lng" : 14.4817754
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.03513927989273,
+                  "lng" : 14.48329087989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.03243962010728,
+                  "lng" : 14.48059122010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kragelj arhitekti d.o.o.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103250679090034891374\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYkiQjjWFV8oetwbPl9jC-e43BpNCTVuosh29PXSRMLpAqojWZM_-GSXfb-8KOPpeT2m2gMCewSr5mpyYr8jFut8OMbwQYNTmtzfbi1oMA7pmk6I-7ekEMZ_-MPbJ_jUoIiFe6Vy5LERyW7-iI8ralFUiEGKtGb--bvYWFwVIg6Okdy",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJdZTQFzktZUcRZfnipJZhQ04",
+         "plus_code" : 
+         {
+            "compound_code" : "2FMJ+GP Ljubljana, Slovenia",
+            "global_code" : "8FRP2FMJ+GP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJdZTQFzktZUcRZfnipJZhQ04",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Zoisova cesta 12, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.045813,
+               "lng" : 14.5039195
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.04717202989271,
+                  "lng" : 14.50527107989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04447237010727,
+                  "lng" : 14.50257142010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "University of Ljubljana, Faculty of Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117646624012931610469\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYux9BsRLMhnwUXniFbn6Fx31C_FQy5r3lPyUbW87Kb1YyVyHTxtIAyfqePJxXwTeKUrZi02hjlc3Zygts40LqH3CIdfUx2TLiyetjNssIIQ3kQjBtr3TpdippNZu7Su02IvddUfYSMXEouGhnp4ckSMkKgTuDj8MN6K0l9CRkVXMuv",
+               "width" : 1002
+            }
+         ],
+         "place_id" : "ChIJdalPv2UtZUcRLL9-pU_8hO4",
+         "plus_code" : 
+         {
+            "compound_code" : "2GW3+7H Ljubljana, Slovenia",
+            "global_code" : "8FRP2GW3+7H"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJdalPv2UtZUcRLL9-pU_8hO4",
+         "types" : 
+         [
+            "university",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Masarykova cesta 14, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0574713,
+               "lng" : 14.5146017
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05892042989272,
+                  "lng" : 14.51594942989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05622077010728,
+                  "lng" : 14.51324977010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Magnet design, arhitekturno projektiranje, d.o.o.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1329,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111470051780704128007\"\u003eŽiga I\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbpYFSFJ53jdX-fiemo39V67rHkhv3x1yZTeYJTkUsaUFcaZeJf3-F6sM0OJcCVjaN08PesLCRHA5IScVeH3YJUl-GYxvt4wxeEQ8OIKh0i3cHoi27VNoe33q48Jz14J3u9GI5hdhHGf8OI8TGbPT8cj3xIEwXX23qWwwtIKJMpd6HB",
+               "width" : 1994
+            }
+         ],
+         "place_id" : "ChIJG1t2WIMyZUcRJBRd2PKt_no",
+         "plus_code" : 
+         {
+            "compound_code" : "3G47+XR Ljubljana, Slovenia",
+            "global_code" : "8FRP3G47+XR"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJG1t2WIMyZUcRJBRd2PKt_no",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tavčarjeva ulica 2, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0547583,
+               "lng" : 14.5050243
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05617062989272,
+                  "lng" : 14.50640227989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05347097010727,
+                  "lng" : 14.50370262010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "OFIS arhitekti d.o.o.",
+         "photos" : 
+         [
+            {
+               "height" : 320,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118098130221830252302\"\u003eOFIS arhitekti d.o.o.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZBgNtdUCurxrK0-AF08sQ4conk0t3Bz4yp3ylKGiVNfkKjRMjkCvaHJfHPewzxsH7L4XLTopExdjMTCthzQeLJTFAZb3DpHj3t0Hv7y5sbKxWnV74rJ1oBIXrIYSQ5PBPXdnC2zGIj9Ma34BDwcakPmGfR2OrL_dhCGTXlUjQu-7gS",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJy2MyxmEtZUcRixB_VZ4Qr_c",
+         "plus_code" : 
+         {
+            "compound_code" : "3G34+W2 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G34+W2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJy2MyxmEtZUcRixB_VZ4Qr_c",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Brnčičeva ul. 13, 1231 Ljubljana - Črnuče, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0992887,
+               "lng" : 14.5413091
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.10067862989272,
+                  "lng" : 14.54268307989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.09797897010728,
+                  "lng" : 14.53998342010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gartner arhitekti d.o.o.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 563,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110634701110797224336\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYaKSq17PMtsizkR2JhxiT7-WjlX8sK10m9eQXRy5905IdTCoPAuXjWi84LgdrjnU4osKUqLBcQCfeBhzI3yui7A0yI3eARPFdhLaEbjv2G3S-C2Ic6r24zP8pUMsuRhuRhRsSJ7fmdfq26Dz3i-C1MIKdW1XTny8eT1brMR0wRdbC2",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJAdmOWr0yZUcRwj3tbdH-VpI",
+         "plus_code" : 
+         {
+            "compound_code" : "3GXR+PG Ljubljana - Črnuče, Slovenia",
+            "global_code" : "8FRP3GXR+PG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAdmOWr0yZUcRwj3tbdH-VpI",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pšatnik 19, 1211 Ljubljana - Šmartno, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.1228759,
+               "lng" : 14.4739996
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.12423632989272,
+                  "lng" : 14.47523862989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.12153667010728,
+                  "lng" : 14.47253897010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bojc Lenča - Arhitektka",
+         "photos" : 
+         [
+            {
+               "height" : 3056,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116937794430550082045\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJawxUd25_PHqTApU8gZN2gNgwHzhbMs_4SFDTMmDGu7PEWBc14DkCWihIh6wludZ7rW3mbBG6Qm1P6VcUv_IAWYziPr8ctSWXTOZC2OlZ9RjzcgLBY7yziRM3lLeG4-ZEFzrDZgYa3K6Fg-aO239YIK4-DGOWnjgAhIqFn_xB5fBfxI",
+               "width" : 4592
+            }
+         ],
+         "place_id" : "ChIJ_yipsajMekcR-5O0X_DWoZ8",
+         "plus_code" : 
+         {
+            "compound_code" : "4FFF+5H Ljubljana - Šmartno, Slovenia",
+            "global_code" : "8FRP4FFF+5H"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_yipsajMekcR-5O0X_DWoZ8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gregorčičeva ulica 9, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0481296,
+               "lng" : 14.5009829
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.04953697989271,
+                  "lng" : 14.50235602989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04683732010727,
+                  "lng" : 14.49965637010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ravnikar Potokar arhitekturni biro d.o.o.",
+         "place_id" : "ChIJzX8HhmYtZUcRtLMxB5Bj5Kc",
+         "plus_code" : 
+         {
+            "compound_code" : "2GX2+79 Ljubljana, Slovenia",
+            "global_code" : "8FRP2GX2+79"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJzX8HhmYtZUcRtLMxB5Bj5Kc",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dunajska c. 49, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.06448289999999,
+               "lng" : 14.5084276
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.06581037989272,
+                  "lng" : 14.50990792989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.06311072010728,
+                  "lng" : 14.50720827010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bevk Perović arhitekti, projektiranje, d.o.o.",
+         "place_id" : "ChIJ3_DwEpcyZUcRbhqXxFp3nlk",
+         "plus_code" : 
+         {
+            "compound_code" : "3G75+Q9 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G75+Q9"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ3_DwEpcyZUcRbhqXxFp3nlk",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Zaloška cesta 69, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0563817,
+               "lng" : 14.5384306
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05762487989271,
+                  "lng" : 14.53974847989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05492522010727,
+                  "lng" : 14.53704882010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Enplan, arhitekturni biro d.o.o.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105814287597435058462\"\u003eEnplan, arhitekturni biro d.o.o.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZymWhiB5QUUs37iZIYl809lnRuJJgZ7_bXg5cnBKy21kOLS4gwAwpJj1K--XJC5oM_VzHXw3cQLjNETUr0zeqvTQ3rBP83tIaqK9BdXwtbTGqu8580djsxuhfHwwgyDyixsp_qxtd75P-g-fGYA3fJJOjzn-TrUn8xPMpMFtA-1xv6",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJCRQScHoyZUcRXBff3yf0vs8",
+         "plus_code" : 
+         {
+            "compound_code" : "3G4Q+H9 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G4Q+H9"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJCRQScHoyZUcRXBff3yf0vs8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mala ulica 6, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0531949,
+               "lng" : 14.5080761
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05454442989272,
+                  "lng" : 14.50942732989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05184477010728,
+                  "lng" : 14.50672767010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "AAB Arhitektura d.o.o.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 524,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103986004120611978444\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaWYnN4JunDspSbjP-5nnn1sdbGPdopmJkvj9K_gH8oTMydittbndRA-QPAYGRjjvOOgrTqmyn1vouHa2QXlkKhJqaM6CjpyKxmW8WqX6LVQQr2u0A87DjKsQlaEts04p9o7x3aHILSyCVCNAtXPMHDdgK09iKUqtZzTOGUhQIMSgqF",
+               "width" : 525
+            }
+         ],
+         "place_id" : "ChIJmR_vy5IzZUcRjjaEmv5b-kY",
+         "plus_code" : 
+         {
+            "compound_code" : "3G35+76 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G35+76"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJmR_vy5IzZUcRjjaEmv5b-kY",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dalmatinova ulica 11, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0537666,
+               "lng" : 14.507725
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05506372989272,
+                  "lng" : 14.50905207989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05236407010728,
+                  "lng" : 14.50635242010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dekleva Gregorič architects",
+         "place_id" : "ChIJt5rpiJ0yZUcRcDWbk-HX_qQ",
+         "plus_code" : 
+         {
+            "compound_code" : "3G35+G3 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G35+G3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJt5rpiJ0yZUcRcDWbk-HX_qQ",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rimska cesta 22, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.04790209999999,
+               "lng" : 14.4979552
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.04918517989272,
+                  "lng" : 14.49931317989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04648552010727,
+                  "lng" : 14.49661352010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kombinat arhitekti, projektiranje, d.o.o.",
+         "photos" : 
+         [
+            {
+               "height" : 801,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116020458778943706181\"\u003eprostoRož\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbRWI05Nr3NmNNIs1KPlj-GIZpAHyPJ9JITUSmbx7S0rWyy9XxAQu7YUDQLRZjyqW0SEHRw3OizvXia6iU1ZFAHmBwchDMxyBEwRU-cqRYPqqc72Nua1hUzJGXEg08sEpi1EhS9mu01hFaViGIRrn8ocNZ3s9O0Aptt8JcmLiURQ1lK",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJqbKtCGctZUcRn0kID9lPSdI",
+         "plus_code" : 
+         {
+            "compound_code" : "2FXX+55 Ljubljana, Slovenia",
+            "global_code" : "8FRP2FXX+55"
+         },
+         "rating" : 5,
+         "reference" : "ChIJqbKtCGctZUcRn0kID9lPSdI",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ciril-Metodov trg 15, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0504042,
+               "lng" : 14.5078781
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05191572989271,
+                  "lng" : 14.50891012989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04921607010727,
+                  "lng" : 14.50621047010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gužič Trplan arhitekti d.o.o.",
+         "place_id" : "ChIJbXx-Hn0tZUcR0WDgZfpkIu8",
+         "plus_code" : 
+         {
+            "compound_code" : "3G25+55 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G25+55"
+         },
+         "rating" : 4,
+         "reference" : "ChIJbXx-Hn0tZUcR0WDgZfpkIu8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kotnikova ulica 5, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0540015,
+               "lng" : 14.5124838
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05532382989271,
+                  "lng" : 14.51405557989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05262417010727,
+                  "lng" : 14.51135592010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Xplan, d.o.o.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113836621344144486739\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYtA7ttxnlFxLjpM7IrTKPdLO0FLl1DOhA4z5vHjDO-H0UHfS5j9JDgENCGF0sgmYEvvLG_RY5zne-JK1z1FMjMUqtcLwu6GNYedbd2F7rhtW1xdS2W1cqpXsPq565IotCzusr6uvXh5uCR6YEsQ-V7rGDpEDAK_QZeoDY0q4zlrY3w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJKWkBTHYzZUcRrzAuY-ZoqMM",
+         "plus_code" : 
+         {
+            "compound_code" : "3G36+JX Ljubljana, Slovenia",
+            "global_code" : "8FRP3G36+JX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJKWkBTHYzZUcRrzAuY-ZoqMM",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 22
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Slovenska cesta 27, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0511667,
+               "lng" : 14.5026386
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05232007989272,
+                  "lng" : 14.50414772989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04962042010727,
+                  "lng" : 14.50144807010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Svet vmes, arhitekturno projektiranje, d.o.o.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJKSjucWEtZUcRhx1lTtfacnw",
+         "plus_code" : 
+         {
+            "compound_code" : "3G23+F3 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G23+F3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJKSjucWEtZUcRhx1lTtfacnw",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,5 @@
+To compile a dataset:
+
+- run the main.py scripts inside the WikiTravel and GMaps folders--page sources should already be cached so nothing should have to be fetched, but if you need to fetch new pages put your Google Cloud API key into the corresponding field in GMaps/request_agent.py
+- run the jsonmerger.py file in DatasetBuilder. This should generate a dataset called "merged_data_without_photos.json"
+- If you want to include photos, uncomment the corresponding section in jsonmerger.py

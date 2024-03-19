@@ -1,0 +1,1199 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYPZ6ixZv_FzGL5jeLXzexciPnwNrblbHjhLoGfTIegqciAN9EOFisOzB6exxgZFG-aD0ukNQC3i56GJY0LqjPZco5O0GUmK-upYXoizSXwXQqeSy_VOFea_WqMUmuBT5cnIs5mMf4DKMU2UC0Ko-08wfRizaDRZyWBIN3NSmV07lpszNenZ6kmZuzSu_Bcrn-b7YsBtnCnkiuSHu3VqIWQrlL_fS0Qn_Z6etYINvMvLDujRwW1a1WJL58B5hoaN90tpBz0TuAGGfqn9D7IZk7oryRh2YT4Acv_vO9tRb1FQ0-AFots7Dos0rGrol1SRkg-1F5tUWEBcoqTxz_znivxWT5imKTKmQL7LkWB0OqVgZX7CQSGyH4guNkASOkYNFf5bIXdk5IdUkLXnFTplTrLuZw",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10 Columbus Cir, New York, NY 10019, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7685811,
+               "lng" : -73.9831811
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76969737989273,
+                  "lng" : -73.9813781
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.76699772010728,
+                  "lng" : -73.98478649999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Shops at Columbus Circle",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2992,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116406080367088308135\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbRkIJ4hR9A9iOWDntOlSQBSMJtX8l56XsCIsz6Jh50YDZEbJCAFSpajvkZAbemCkTTxkrwBodOB9L54NztfonJeZIm9-P1A8IPzRJVWZ89eg1qE2WjS5sKSc3zd0vOiv7xh_QMQn3iXjPgTQprlF7__tRdfvqcPK7lSwhy9Y7VH0zD",
+               "width" : 4016
+            }
+         ],
+         "place_id" : "ChIJp3PsL_ZYwokRdBcE-3KTjrg",
+         "plus_code" : 
+         {
+            "compound_code" : "Q298+CP New York",
+            "global_code" : "87G8Q298+CP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJp3PsL_ZYwokRdBcE-3KTjrg",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9615
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1557 Broadway, New York, NY 10036, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7591506,
+               "lng" : -73.9853804
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76048032989272,
+                  "lng" : -73.98395847010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75778067010728,
+                  "lng" : -73.98665812989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Grand Slam New York",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1333,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118167159210472688737\"\u003eMarco Togni\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJTvoTQuhvGir9LS0Yra6Aw_5jBFtKabU_6MyuDkI1JaUVBngs21Zs-sXMv0nFx4O0vmfCiz0rsBfHSnL8hF3L4f06LjKkWL9KRP8RRMTePTirC6s0sO5rQPkyxfPHooNQq7dvgCiHHF3JAWoDyR-Qlo4COmXDoIEvDAIAKsz56ZbO",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJpR1ctlVYwokRbXUoLbLNilE",
+         "plus_code" : 
+         {
+            "compound_code" : "Q257+MR New York",
+            "global_code" : "87G8Q257+MR"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJpR1ctlVYwokRbXUoLbLNilE",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 870
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Centre St, New York, NY 10007, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.71341,
+               "lng" : -74.00352079999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.71468627989272,
+                  "lng" : -74.00232632010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71198662010728,
+                  "lng" : -74.00502597989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "CityStore",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110373084297347015310\"\u003ecsddorf\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaFnwRGr49Y7LsXQ8UN3ShXrevbkqLQiHJZSssuaivmBx5QZBJomMUyeQrH6X8d6tB0mW0suZ7f-mF4hb6dgtC-s5Xjly7rlvtbMcEME5SoomCObJlALA5WcF8XJO4x3oxrIZIyrkrJsDUphBTqmlShR6fvhKujgTY4gzlfNMxQ4mQn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJrYaGLSJawokR8SAhVt7wwqE",
+         "plus_code" : 
+         {
+            "compound_code" : "PX7W+9H New York",
+            "global_code" : "87G7PX7W+9H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJrYaGLSJawokR8SAhVt7wwqE",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 61
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "790 7th Ave, New York, NY 10019, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.761985,
+               "lng" : -73.9829247
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76324842989272,
+                  "lng" : -73.98148282010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.76054877010728,
+                  "lng" : -73.98418247989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "I Love NY by Phantom of Broadway",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112083827460901098103\"\u003eJonathan H\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZhnrPPM7i0_EI8Ik8PWTfa8V_gYwU-szV6N670RJY4FaN18epDSDbtGIauSzQUlPzwaCp9cVMieuFSyxP2kLqI17BmX1dXv2W_fHxK5vF4vQvvw6byoTNsCq8x_YGUdcja9LhoJg_EXrQAo0tFnCbZhh31WHSmO3dyfFSjsVNQ_Zbc",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJH1OSgvhYwokRrV3SjiLPSmw",
+         "plus_code" : 
+         {
+            "compound_code" : "Q268+QR New York",
+            "global_code" : "87G8Q268+QR"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJH1OSgvhYwokRrV3SjiLPSmw",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 63
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "The Plaza Hotel, 1 W 58th St, New York, NY 10019, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7642927,
+               "lng" : -73.97472209999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76561262989272,
+                  "lng" : -73.97297212010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.76291297010728,
+                  "lng" : -73.97567177989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Plaza Boutique",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108190339677752396804\"\u003eAlex Hatzenbuhler\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZVYaMGtgB5Z-m0qr3f4oxtbNyVNG65CCuyPS1-RPZyfkVSWKm0AAQaV9TbIA6G67zmGDejxV6mhYiQor8hEoWhUfFVzLJJF0yKkNe7y4kQkVlfl1B8RRWyyoD2i-xQ05b_hRtwiaTI43vGdaKGtyXef6thurJQ6XhML1sOwRggtu9r",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJXeTBhfBYwokRz6A4gM1j3_k",
+         "plus_code" : 
+         {
+            "compound_code" : "Q27G+P4 New York",
+            "global_code" : "87G8Q27G+P4"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJXeTBhfBYwokRz6A4gM1j3_k",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "435 Broadway, New York, NY 10013, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7201718,
+               "lng" : -74.00144259999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72148712989272,
+                  "lng" : -74.00001817010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71878747010727,
+                  "lng" : -74.00271782989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Shops of Soho",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108587144304818963747\"\u003eAdaty Tarfa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbUP20HZLDrLvTSzRuz1QcEwPVG1KoGQYbQIuVI6kdjw8jsX21bdzVXD9Bixaty0dpwJAB7mSsgfo0Gt0WC4blRut73S12oQTLOeJ_X_SyT40ALArF3SoljS1t5kWMof3ZjArjlLoc_1AQzPBFtw6u51r1qDBQiUwl75XDbIZVGmK5B",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJL8Vx2c1ZwokRT-5PhOELyBY",
+         "plus_code" : 
+         {
+            "compound_code" : "PXCX+3C New York",
+            "global_code" : "87G7PXCX+3C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJL8Vx2c1ZwokRT-5PhOELyBY",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "310 Canal St, New York, NY 10013, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7197848,
+               "lng" : -74.00270619999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72115037989273,
+                  "lng" : -74.00133637010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71845072010728,
+                  "lng" : -74.00403602989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "NY Fashion & Gift",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJoVptQ4pZwokRd5o6uxl8kHs",
+         "plus_code" : 
+         {
+            "compound_code" : "PX9W+VV New York",
+            "global_code" : "87G7PX9W+VV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJoVptQ4pZwokRd5o6uxl8kHs",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1628 Broadway, New York, NY 10019, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7612548,
+               "lng" : -73.9839326
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76256687989272,
+                  "lng" : -73.98272812010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75986722010727,
+                  "lng" : -73.98542777989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Ny's Best Gift Shop",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118280064847163920977\"\u003eKlaus Buck\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaIfbBb-C4tQ1C2xNfabe4VJGWUYFGFRdsB8ZvuzjNWgEQvZLH-TrUw7G-IjL31MlwvywekJWn05HMvU4ud5hxXXEjPkFbHOXUSzfjL023OBuUTxCwKMfPKTd_9EuCQVqoPkIbfTwV0Lf6XuhvYusJhy6dDhOS2Pg1p07_LO0hyFcNz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJK-IbF1ZYwokRKFVDRaQD9Bk",
+         "plus_code" : 
+         {
+            "compound_code" : "Q268+GC New York",
+            "global_code" : "87G8Q268+GC"
+         },
+         "rating" : 4,
+         "reference" : "ChIJK-IbF1ZYwokRKFVDRaQD9Bk",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 30
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "20 Hudson Yards, New York, NY 10001, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7533803,
+               "lng" : -74.00106459999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75480357989272,
+                  "lng" : -73.99805199999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75210392010728,
+                  "lng" : -74.00496560000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Hudson Yards",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2764,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113878443118177741309\"\u003eYoYo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZt9vckXBTT1OD-CLws6lEUWBudh8AXb-H-1m3Qd9TgNtrSGjCQH3BQTMZFPL_yP394eY3AwExxot9i_qIlg_VQCWZKvxYc3tDQ4VgQURgML9bsXlmlWS3n5vJpkbCOVySM3Txsr2iK6iSHF39Y45Cli7hC4Mprr8Zb8B6aczLTMQI6",
+               "width" : 3685
+            }
+         ],
+         "place_id" : "ChIJnbJwqbZZwokRfpUxp6ZT7ZA",
+         "plus_code" : 
+         {
+            "compound_code" : "QX3X+9H New York",
+            "global_code" : "87G7QX3X+9H"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJnbJwqbZZwokRfpUxp6ZT7ZA",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11101
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "206 5th Ave, New York, NY 10010, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.74321,
+               "lng" : -73.988793
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.74447592989272,
+                  "lng" : -73.98730552010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.74177627010728,
+                  "lng" : -73.99000517989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Memories of New York",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111008064857942835265\"\u003eMemories of New York\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaaaZZUVAMKVsqXmKi5unQ0_EuR8cRe7_ltJonKDK1wbOmRSuyW1wPj8aX6BOW4M11nIdYuIGq6RF86N0KyopGlJ_1vK1tIQBpS6Liu91wVPAMI4O62LmlkV7tk_fXvrPB7tDCpfch5zehrIgnsxc7c0Z2m8AsmyX0Rb-D_2Zc3hW3j",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJpeIVgqZZwokRid4iTxivVhM",
+         "plus_code" : 
+         {
+            "compound_code" : "P2V6+7F New York",
+            "global_code" : "87G8P2V6+7F"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJpeIVgqZZwokRid4iTxivVhM",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 957
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "216 Canal St, New York, NY 10013, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7171887,
+               "lng" : -73.99927289999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.71855477989272,
+                  "lng" : -73.99795942010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71585512010728,
+                  "lng" : -74.00065907989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Canal Street 276 mini mall",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2297,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115895246066079338904\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY2M-63-e21orWRlL6R7K7lczoF79SEGnywgtf1wgiNRYyd807taAepFajHqHY1wWtOXxmC69CHLKbce69pkDIkmTe1eNkjgYepUVZ5WjvjWV6Gfnt9g-r0uQMK9JeQ4WM9VwSLgm1rUR2w2TI_BfyqMN-Am54YkWDUjuEtX1GjKbkH",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJV554LDBZwokRlrmGHJMBvnw",
+         "plus_code" : 
+         {
+            "compound_code" : "P282+V7 New York",
+            "global_code" : "87G8P282+V7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJV554LDBZwokRlrmGHJMBvnw",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "843 7th Ave, New York, NY 10019, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7636619,
+               "lng" : -73.98117259999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76504362989272,
+                  "lng" : -73.97990042010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.76234397010727,
+                  "lng" : -73.98260007989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "New York Attitude Gift shop",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 541,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102510870569629124246\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfcEp0Y7t_fXzd2ywzBG2Xvk0HY1KMZ_k2_5dOrN7ERaNTcFa4yFfZ5OWYbc41JwAiQnS_mFu5_wlWTBdmDQk0xI4n7JdaSbsr9HFM5q80dvF_t5OnWWHnE-ye64477ki1EfuvM1bhAMdgMOLrVYzXr-ZHGFfL66AKkell6FNhUReE",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJMRHIPvhYwokRULxxU4oAwIU",
+         "plus_code" : 
+         {
+            "compound_code" : "Q279+FG New York",
+            "global_code" : "87G8Q279+FG"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJMRHIPvhYwokRULxxU4oAwIU",
+         "types" : 
+         [
+            "bar",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "315 W 39th St, New York, NY 10018, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7559712,
+               "lng" : -73.99204519999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75721577989273,
+                  "lng" : -73.99077262010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75451612010728,
+                  "lng" : -73.99347227989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Shopping Girlfriend NYC",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJUdrSNb5ZwokRsoOdOHCNBQk",
+         "plus_code" : 
+         {
+            "compound_code" : "Q245+95 New York",
+            "global_code" : "87G8Q245+95"
+         },
+         "rating" : 5,
+         "reference" : "ChIJUdrSNb5ZwokRsoOdOHCNBQk",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "427 7th Ave, New York, NY 10001, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.750451,
+               "lng" : -73.990675
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75185852989272,
+                  "lng" : -73.98946297010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.74915887010728,
+                  "lng" : -73.99216262989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "NYC Gifts",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108252977719746439598\"\u003eMichael Palan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaC9D599NNENivW2FXfGqHd39pqeNvSUw8ZFG1u8ymN57Nsokp4RTlsJeJsXFUmNAeQZkPvC4Ne1vNHdtzyrP_lqVefnDl3_pxIGfc-sZqEODChB3ibNX7y8PxWtIUaoR2im6Fp-_zOtEH75NqPbuAjihQg90YwM4e9H7STFNrjsZWO",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ763FpHVZwokROedU0LEn_FM",
+         "plus_code" : 
+         {
+            "compound_code" : "Q225+5P New York",
+            "global_code" : "87G8Q225+5P"
+         },
+         "rating" : 1.5,
+         "reference" : "ChIJ763FpHVZwokROedU0LEn_FM",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "230 Vesey St, New York, NY 10281, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7127168,
+               "lng" : -74.01528239999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.71704714999998,
+                  "lng" : -74.01280094999998
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.70759135000001,
+                  "lng" : -74.01744794999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Brookfield Place",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103191100516271133677\"\u003eSharlem Rondon\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJas6F1yMeJjdP74yO8hAgI0xVKrMfzZyIMTU2zAb4ftGOxBd_k5TQNpvQhUcUlR3jjFBe6fiKE--uEg-ujP7zfN9eRl4Yea0GZTCl92W-NT02qWZOkN-GKhgP7yXgcSzlRyGpfpK3EZYBR6Vt23eZ_rAV_4djJ0aH5UOfBKXu_YmZrZ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJy8jTDBtawokRB9wNyxemSw8",
+         "plus_code" : 
+         {
+            "compound_code" : "PX7M+3V New York",
+            "global_code" : "87G7PX7M+3V"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJy8jTDBtawokRB9wNyxemSw8",
+         "types" : 
+         [
+            "shopping_mall",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19885
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "334 E 9th St, New York, NY 10003, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7285551,
+               "lng" : -73.98597479999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72994127989272,
+                  "lng" : -73.98459822010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.72724162010727,
+                  "lng" : -73.98729787989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Cloak & Dagger",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109270408457246064329\"\u003eCloak &amp; Dagger\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYYUamu9H46av7AuRho-_xnQx4dODFBHqLypeDEOMoqoi5eHeM7HGHccNyPmRV2aHEHJ20Cv90feHHSe_Jq3kTvMxmGaXVcj6clgxG-jf43t044Iynz6c0fbCG446G80QrcM_B3IarbY5sgBFcoRJjXJIck8IWMtAKP0DKvxxG5w-6F",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJr1CafZ1ZwokRxFceQp7gpOU",
+         "plus_code" : 
+         {
+            "compound_code" : "P2H7+CJ New York",
+            "global_code" : "87G8P2H7+CJ"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJr1CafZ1ZwokRxFceQp7gpOU",
+         "types" : 
+         [
+            "shoe_store",
+            "jewelry_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 44
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "455 Madison Ave, New York, NY 10022, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.75797439999999,
+               "lng" : -73.9748712
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75942567989272,
+                  "lng" : -73.97376587010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75672602010728,
+                  "lng" : -73.97646552989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "New York Palace Gift Shop",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111130580621392938615\"\u003ePhillips Farinde\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYXNuGcCwNYhDds3aSv7WgfXrG5tj9VeAJQJhz--qaVu5vOrnzNpS1GZMmjQnZtsgXPlzWEEKJHRnnNh6WNa0vpnwdNBDSbTlINA3qLezYNofQW8zsz7wl3GEG66kLyAtM9y6CZzSUF348apf8VUdJ93G8TW2GG8IvHAGQPCW0nALNi",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ3zcwbPxYwokRNLrQ9ZEwxMg",
+         "plus_code" : 
+         {
+            "compound_code" : "Q25G+53 New York",
+            "global_code" : "87G8Q25G+53"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ3zcwbPxYwokRNLrQ9ZEwxMg",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "151 W 34th St., New York, NY 10001, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.750831,
+               "lng" : -73.9890961
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75208752989272,
+                  "lng" : -73.98642935000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.74938787010727,
+                  "lng" : -73.99188154999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Macy's",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1944,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106434078339389251825\"\u003eMacy&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZYhOGRUElhkL8NABwfGNzP7ilfD5TTlpJ67ou-qWUtfaE41NkegH6J-pDU-eV9IMjycRIHWQan0uCvLncVXNT7WGXs7WqrjLysZSp4a7jUmbaMganFrOj2Dl_ZQGGo7zuFIzE83AjUpQFUZXfKlvfuBAgfRYzV5hWs1vDIoj6sC7W9",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ3xjWra5ZwokRrwJ0KZ4yKNs",
+         "plus_code" : 
+         {
+            "compound_code" : "Q226+89 New York",
+            "global_code" : "87G8Q226+89"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ3xjWra5ZwokRrwJ0KZ4yKNs",
+         "types" : 
+         [
+            "department_store",
+            "shoe_store",
+            "clothing_store",
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 71907
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "866 2nd Ave 2nd Floor, New York, NY 10017, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.752506,
+               "lng" : -73.969917
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75390732989273,
+                  "lng" : -73.96868852010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75120767010728,
+                  "lng" : -73.97138817989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Diplomatic Duty Free Shops of New York",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3264,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112951117553580124228\"\u003eDiplomatic Duty Free Shops of New York\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa84BHgnxbmteSVOZAVBZ83A4dukJCHhpEUpALw0xAICXVoK9mFesAn1vygwNUBFUO_Joy5dAMHVCH_LMjJC7PQP3IPF7k_fjD6hZIa-QlpupFk-fU9d5ZpKZ74L_-ostWtLokOVcRf5zHrduSrp8WbY_SpqTTlYn7hA0zpaB0s7xPB",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJIfKmQx1ZwokRAiuTngo5f_A",
+         "plus_code" : 
+         {
+            "compound_code" : "Q23J+22 New York",
+            "global_code" : "87G8Q23J+22"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJIfKmQx1ZwokRAiuTngo5f_A",
+         "types" : 
+         [
+            "jewelry_store",
+            "clothing_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 94
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "435 Broadway, New York, NY 10013, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7201718,
+               "lng" : -74.00144259999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72149272989272,
+                  "lng" : -74.00001372010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71879307010728,
+                  "lng" : -74.00271337989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Shops of Soho",
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117605339803216247308\"\u003eKullathep Kumtongkum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb-OVD-WKKhYhnS3AZvCOvQNaIBTKGLZjgKDxm-dBgeT5oLIQFI7uhmTuccou7EvOC7rgFF02eW9GP3FsF0X0702z7s5p8am_Tvr0Fcq6jPVeV2qqB1fR5FSdHjxRNeVNOhg1GiFs_MjN92fy2y3kW-3091UvovvnCSyxShMDRg1wnc",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ5TW5pY9ZwokRkx0pEs-DAuc",
+         "plus_code" : 
+         {
+            "compound_code" : "PXCX+3C New York",
+            "global_code" : "87G7PXCX+3C"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ5TW5pY9ZwokRkx0pEs-DAuc",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 59
+      }
+   ],
+   "status" : "OK"
+}

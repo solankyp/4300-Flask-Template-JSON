@@ -1,0 +1,1252 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZexTQ_-a7sLU4-8C-mp-0YS0T39WG2lO7NMt8CUSHfOm7WREsTiBSEibj38OEj4_V_3UdBaz8FgvRnoKgi4e_egUFsEAMAABIeSTCxjUtzMknT9rOIVC855TKCUA76A9XiXdJqhFQc7blWoBVlwp5yzvUA4y_g936gbCxMe_riUu9LKpECz5497sSAmDtj9zVAgnaR1rKbCi7fWjiKdeXZuUTmqssywPRMNp8QCaRtJVtuYPyb8EM0DGZ2d2I2vsobd2fBLMX9gVura-A8zT-CgMNNniAIB02RF88_sDbdV6y9ZEsaeqrNKwzi2eUvoIr48eXNFwCi9qfx3isrUhqDmJ52sEJy1Xe8K_jyapTs9XH4mbPiDlTuSfZDTTveJ6CBamQNMQ6bqHRLVvUmiL12dg",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "284 Exchange St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.87067520000001,
+               "lng" : -76.9804925
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.87200952989273,
+                  "lng" : -76.97908482010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86930987010729,
+                  "lng" : -76.98178447989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "El Morro Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1908,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101478851606780949491\"\u003eLourdes Arocho\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYkrFny8ahku5fpJKJhCPe3konVr7uj-7WmauJUMuWlzLiCpVbIPi0WZl9mylsjLZ2TAln83WP_7BxcsSmHjamkbKd9SGbFDhFGmIzRhWUKeGwhsQ17e3Mm9P8sl4UGuKhAbGfpriOJz5ihi1dBY6gQVVD56pBQ54VAHXnOLwl9ZDd-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJMb-SKRfF0IkRO1bD6KrJhGM",
+         "plus_code" : 
+         {
+            "compound_code" : "V2C9+7Q Geneva, New York",
+            "global_code" : "87J5V2C9+7Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJMb-SKRfF0IkRO1bD6KrJhGM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 286
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "293 S Main St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.867534,
+               "lng" : -76.9852247
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86886597989273,
+                  "lng" : -76.98396302010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86616632010728,
+                  "lng" : -76.98666267989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Beef & Brew",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114945982406206330972\"\u003ekhaldoun\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYiwxzAV58YwUaGfoB9rJfZvqDjlAAF51XztaRs-ZQ3-06NuTDV1Yapt88zVTMd15_kCS6Cd2eOg6SvT2UItPRQeqsm5ov1JTlaD61OGs8lzjOGLAfUyeIb5cGcqIu0x3iTo2z3-8npBH_9UpTncyBE5R_zkPdtk6Hnem9wgFdEy9j_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJfR8mUBbF0IkRJSbu-_PjCGw",
+         "plus_code" : 
+         {
+            "compound_code" : "V297+2W Geneva, New York",
+            "global_code" : "87J5V297+2W"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJfR8mUBbF0IkRJSbu-_PjCGw",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 897
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4069 W Lake Rd, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8388758,
+               "lng" : -76.97499809999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.84012782989272,
+                  "lng" : -76.97362087010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.83742817010728,
+                  "lng" : -76.97632052989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Edgar’s Restaurant in the Castle",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110089096611449123450\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaL0EADVX-wKn02oIh7VTmT93Vd8fFImPBVAKXJ-2tyhonK_ZH6h48PVEdICyZ2IbEtuEyspXBgKbyrRlMpfOQZZgd0h5xFq2ThMlpJsDAvcfuh7w-x-YXntAqaXY8F_D43gK5SwRdJsdUF8NKPe5HlaXgrq_AuDjcXb33TvnB6p23B",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJGVfl--3E0IkRX4ompBHlECQ",
+         "plus_code" : 
+         {
+            "compound_code" : "R2QG+H3 Geneva, New York",
+            "global_code" : "87J5R2QG+H3"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJGVfl--3E0IkRX4ompBHlECQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 332
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "68 Castle St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8681235,
+               "lng" : -76.98309309999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86943417989273,
+                  "lng" : -76.98174087010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86673452010728,
+                  "lng" : -76.98444052989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Char Burrito Bar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102475488383963208966\"\u003eBates\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbOJHATsfJ5PJ80_XuOLQqYHlnW8sJNerJj1J4CIlHew5ilE_M8VjoVxi_TCeaCkPajV82ZUfdWd9uUatFkX5X63P3ag8cYKFNyoUn4oclyuEJOzkaJ3gTfXhMFhs6eW8rKxbil7WBCT3hp4szLWrQReqXSfyDgC-3yKKp1mvUlUv5J",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-yqYlRbF0IkRW28lbbcmgEg",
+         "plus_code" : 
+         {
+            "compound_code" : "V298+7Q Geneva, New York",
+            "global_code" : "87J5V298+7Q"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJ-yqYlRbF0IkRW28lbbcmgEg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 455
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "156 N Genesee St # A, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8810767,
+               "lng" : -76.9837514
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.88243447989272,
+                  "lng" : -76.98239767010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.87973482010727,
+                  "lng" : -76.98509732989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Deluxe Grill",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115218889827933507799\"\u003eRobert Druker\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbG6CM2py-uCbdsMR5kYysmG0XiQKnLUyEO-3hbafINBIGkZKUR19vOIl63_ZUcAmVYJpf6VpI3ste-mCZmBIk2Itxxr6r2bDqWVWXb-5Xdkxj82G-C4yrtuAHJK3yhfsPzlseMe8EJZEseL8stGfGKBKSPtVYN6LIookNICm6vGRgk",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ_z13A2nF0IkRYfzOBlhwbsI",
+         "plus_code" : 
+         {
+            "compound_code" : "V2J8+CG Geneva, New York",
+            "global_code" : "87J5V2J8+CG"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJ_z13A2nF0IkRYfzOBlhwbsI",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 619
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "93 Seneca St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8665466,
+               "lng" : -76.98433439999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86795692989273,
+                  "lng" : -76.98299942010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86525727010728,
+                  "lng" : -76.98569907989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bella's Sicilian Ristorante",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4330,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113029837139342720134\"\u003eHolly Mosher\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZvnKPfWXlcVpB5d_65gdZ7at_FFjdoZk7btMZeC4vGuDiWGlr0AGdXeq3CmnoeCLf3ER1Ygy7lgC5z2LmtMfqQ9hst0pbWJqT4EDp95Bar1E9a1zAUHEg6vXOP8yOt-CsGSUDhewxw_efZiG8e5LF5c3G-m7ScuodufCFd3ljqzIOC",
+               "width" : 5773
+            }
+         ],
+         "place_id" : "ChIJ1-oPBxfF0IkRqNpKCvBdE9Q",
+         "plus_code" : 
+         {
+            "compound_code" : "V288+J7 Geneva, New York",
+            "global_code" : "87J5V288+J7"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJ1-oPBxfF0IkRqNpKCvBdE9Q",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 571
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "60 Seneca St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8669039,
+               "lng" : -76.9836047
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86821447989271,
+                  "lng" : -76.98216522010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86551482010727,
+                  "lng" : -76.98486487989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Rusty Pig",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1944,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105149442357911701860\"\u003eChris\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZwwze5MnyZQMlmb3DfYPH178pBNcIyC8lvkCcDsT3kUjlkeX3NF4dnwgKA7gTVrZUCi-80nMwoOfxVRfueIzZAI3ZbCPxPxx9736jyWUvdHlIak29XZcq2zPH28mX1en6EuUIjKfgAajeIKPBtz53f_Zw1VG-TDtSj3ODdj1MXc084",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJeUF81vLF0IkR-lt55rmEG9c",
+         "plus_code" : 
+         {
+            "compound_code" : "V288+QH Geneva, New York",
+            "global_code" : "87J5V288+QH"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJeUF81vLF0IkR-lt55rmEG9c",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 738
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "22 Linden St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.867551,
+               "lng" : -76.98353709999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86889662989272,
+                  "lng" : -76.98216712010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86619697010727,
+                  "lng" : -76.98486677989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "F.L.X. Table",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2988,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117974191553716439169\"\u003eJeff Porter\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbuzEQmPsD3aJM97X_wzvgm50yq0xWqIE09iLGwDHKQ1d1a6PO8h-F37xfVZZgtd30hfVT0CQSbybcarVoWfi5WnblzlLwIynXJpDEGQdg0e7tWm-T04n3EX9WkrNreD2Z27O_0QDCsUTv8lENMP-HC6LKiLirP5ydktZibwWDhgPoB",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJW4rY7hbF0IkRoFY6xW1bKMw",
+         "plus_code" : 
+         {
+            "compound_code" : "V298+2H Geneva, New York",
+            "global_code" : "87J5V298+2H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJW4rY7hbF0IkRoFY6xW1bKMw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 280
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "106 Seneca St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8668237,
+               "lng" : -76.9846209
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86813427989271,
+                  "lng" : -76.98326962010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86543462010727,
+                  "lng" : -76.98596927989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Halsey's Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110818869685928397873\"\u003eChris Arndt\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY8QYh_N4q6EWjMT_IE6KJwJfk4WYsCx7AYGzTKLDbnGrbldUGuRYY-x-Yf2ZlJd8KZNn3d0w_lY0P-oB7LOWnyaXFguIr1MjH8YMVZL8GUP5jXOtIdiYHeugF2tmKA0C9V7CMg_RNubYBGHoEqQdtmZMsfC6vYUaCq70Lzkbw2l_nb",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJp4EkqhfF0IkRE03PGIRR60k",
+         "plus_code" : 
+         {
+            "compound_code" : "V288+P4 Geneva, New York",
+            "global_code" : "87J5V288+P4"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJp4EkqhfF0IkRE03PGIRR60k",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 395
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "512 Hamilton St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8570029,
+               "lng" : -77.00707389999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.85812632989272,
+                  "lng" : -77.00569827010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.85542667010728,
+                  "lng" : -77.00839792989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kindred Fare",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 683,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116742517151391767466\"\u003eKindred Fare\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJap8YNXkiWP-5fseQrkc4zOHzV2nYxykBdstWQ5bAx9dHbtwdMA08NDP7__CUC-1c8vAWVxlOniYYaz1TdUwMP2TMNxhdncrU-1iiZ3Eyq80LB98i9vsagQ5JBjUnF3D-IVTz9qLed6sk5Y5Zp1odnnIyYv882k3LZh96yq3RlFYpg4",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJWfRvk9XE0IkRwgoAybxKdo8",
+         "plus_code" : 
+         {
+            "compound_code" : "VX4V+R5 Geneva, New York",
+            "global_code" : "87J4VX4V+R5"
+         },
+         "price_level" : 3,
+         "rating" : 4.7,
+         "reference" : "ChIJWfRvk9XE0IkRwgoAybxKdo8",
+         "types" : 
+         [
+            "bar",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 970
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Franklin St STE #100, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8663218,
+               "lng" : -76.9813046
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86765707989272,
+                  "lng" : -76.97991047010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86495742010728,
+                  "lng" : -76.98261012989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Elephant Geneva",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100215277272230544264\"\u003eHolly Spencer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbpMjZpq4Csz-5P3e7PDmxl_dYPl4wWoeVs0iwC9mTv9tXjftpXJpopYWrhYyP7xx7i_15-LQyr66xY2gAx0jLlti3Yb9WTmo5MbB1BH0g-QVIzJ40VNgA_SkVMbG4kj4QVMZbCsuH2NhZmRTomoWiaZPQCtVNpAyZnMHKt0A6Nx14S",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJe912fy7F0IkROe33qa1Ih_w",
+         "plus_code" : 
+         {
+            "compound_code" : "V289+GF Geneva, New York",
+            "global_code" : "87J5V289+GF"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJe912fy7F0IkROe33qa1Ih_w",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 313
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "405 Exchange St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.86869189999999,
+               "lng" : -76.98090870000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.87006627989273,
+                  "lng" : -76.97963007010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86736662010728,
+                  "lng" : -76.98232972989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ichiro Japanese Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100893852636469860845\"\u003eJoel Bond\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZgBCmHVjETRfn4UflI2zHF60wmavWCi52XHXZk-JF8pYnW6TI6AVxsTYw1ZXcJfVtoii1PEFLHDxpDVJI8clmAMHizB2N3Zg2IHUGqBkgY1RLTwyPiuKrb1bV9hg0CNtDmg5Rncw9FMttqLfvYGNKj3l9KnXsNuxvoUH_Gu9xKK2XU",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJc5XKUBHF0IkRGyapJvKAkI0",
+         "plus_code" : 
+         {
+            "compound_code" : "V299+FM Geneva, New York",
+            "global_code" : "87J5V299+FM"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJc5XKUBHF0IkRGyapJvKAkI0",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 454
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4432 W Lake Rd, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8149288,
+               "lng" : -76.9779156
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.81635797989271,
+                  "lng" : -76.97632867010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.81365832010727,
+                  "lng" : -76.97902832989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ports Cafe",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2988,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111483654165887377084\"\u003eDaniel Pike\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbKm8zitVn-vWisoq-w3Dgn-seBsiQ0e6lwNBzCMGH-eGoUBvbhZg428G0mXJGfua1wT9z8cHKHmXB9Rxlc35ISLSOb9O-w-QL2ssTEklHgqWVVe2C9V8y3Tcq7Kvh0eGCRhPw4hC1McRPlfRiJLnVMjxG_KEWApGVAoLc966liu50B",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJQQTo72LD0IkRu2tbGs0ZvAA",
+         "plus_code" : 
+         {
+            "compound_code" : "R27C+XR Geneva, New York",
+            "global_code" : "87J5R27C+XR"
+         },
+         "price_level" : 3,
+         "rating" : 4.7,
+         "reference" : "ChIJQQTo72LD0IkRu2tbGs0ZvAA",
+         "types" : 
+         [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 979
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "89 Ave. E, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8803482,
+               "lng" : -76.9850921
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.88174817989272,
+                  "lng" : -76.98378297010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.87904852010728,
+                  "lng" : -76.98648262989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Torrey Park Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112769965199185572830\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYmEpQCQpuKh9hFQq6twivp-9wrscmMjGbGiIZrC-97XIQZLjc-x_fixrXsBjdssF-nJJ94w6R2Py1vtrxYKrwa6dxKOaMqMqyBdem3NZI-Yyq7da6xvHPhmqhwf15M-vcU1mcoNQMWJukSywh3NyBnACpLm9kFJw9iaMi64kYDkl3X",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJFaXL3IHF0IkRE_mVKMP9meo",
+         "plus_code" : 
+         {
+            "compound_code" : "V2J7+4X Geneva, New York",
+            "global_code" : "87J5V2J7+4X"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJFaXL3IHF0IkRE_mVKMP9meo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 407
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "41 Lake Front Dr, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8666281,
+               "lng" : -76.9794247
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86798597989272,
+                  "lng" : -76.97836857010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86528632010727,
+                  "lng" : -76.98106822989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "F2T Kitchen",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105521328545378012675\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfQqDi8H3vo9lzxVubIDjRiCi_OuMuvo95qB68e8ZCkrgsapz81BB1VWQhqBaisNtcrO1v1zerJcxJIDNLxAnOnHqmI8x5S1w0e1D75fZWOj1m1xgxsrN4UDQGF3_G9D98kEWWKz1WXnLi8cuZt4k4zHNhiGzPXwkVBAlfqOtiPpPR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJMyQQHRHF0IkRpJaJzu7QGhM",
+         "plus_code" : 
+         {
+            "compound_code" : "V28C+M6 Geneva, New York",
+            "global_code" : "87J5V28C+M6"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJMyQQHRHF0IkRpJaJzu7QGhM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 319
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Railroad Pl, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8715456,
+               "lng" : -76.97921850000002
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.87287612989272,
+                  "lng" : -76.97792572010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.87017647010728,
+                  "lng" : -76.98062537989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cosentino's Ristorante",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112453429132126760395\"\u003eStephen Bagnato\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJag6bCimWclMimgrZ3KHQemtam5lBKL0e4sIB-_RUFBv_DevJzExZUEBa2d9grN3nwapdvKRtdEKRvAZcWTXPOjtWQNXAR-BHbj_sSUJJEPOb6Uzq44X3kwdZBetZZBBrb3jeMmnZyyKTp-iiMJ1zZJUmyNC5s1JzcmumrMy1AOuzjQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJh4aiBRPF0IkRI47QHrecuy8",
+         "plus_code" : 
+         {
+            "compound_code" : "V2CC+J8 Geneva, New York",
+            "global_code" : "87J5V2CC+J8"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJh4aiBRPF0IkRI47QHrecuy8",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 574
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "30 Castle St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8680899,
+               "lng" : -76.982201
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86938572989273,
+                  "lng" : -76.98090217010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86668607010728,
+                  "lng" : -76.98360182989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Anorah Restaurant & Bar",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112267946533334583824\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYZPZryCE2Alnmp774DuWncDmah2omG0EzQqITs9chfuHRCBeQ6D356xeWwW2IwUhR8I5pfdgflgXB5dqZPn3n_Yk-Fc__759-PeMhU4KzBeE6D4RWlCr68d5tUUwAY185vgn0wX3FFnxwI3WU0A0XwYpQhyj7I5dt8oX4hEcin8u17",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJp1H6rATF0IkRBTHHG--r7WQ",
+         "plus_code" : 
+         {
+            "compound_code" : "V299+64 Geneva, New York",
+            "global_code" : "87J5V299+64"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJp1H6rATF0IkRBTHHG--r7WQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 63
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "467 S Exchange St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8676909,
+               "lng" : -76.9813465
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86905957989271,
+                  "lng" : -76.98009512010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86635992010727,
+                  "lng" : -76.98279477989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Water St. Cafe",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100459614570541055044\"\u003eMitchell Rohrbaugh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbmsJQlAEg-YULEYi1ayCJtFk5LL6cQ-KKzh4fsPjW1VmuyFiMy7b6OhZGikzh1TF3gHPQZRBaxgkZoWGwC7n1PBjbfTtbYCoysssZS9hUs-o7fTODv2fVfnNrvTven30boZEnRiYmajEq0uzraD9oNnMxFAfm_G8gvgInMxI6hoeHQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJAScuNRHF0IkR7xpEEndD0_s",
+         "plus_code" : 
+         {
+            "compound_code" : "V299+3F Geneva, New York",
+            "global_code" : "87J5V299+3F"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJAScuNRHF0IkR7xpEEndD0_s",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 756
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "12 Linden St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8677462,
+               "lng" : -76.98353709999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86910172989272,
+                  "lng" : -76.98211872010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86640207010728,
+                  "lng" : -76.98481837989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "The Linden Social Club",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102555453503254611890\"\u003eDesirée Adams\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYlF2ugNqKZ7i-8Tk64CiXccmnYL5boziFWrgD_YRSaU7UbRqa5Rt7OjTmzajylmlZwxB4SOgJXRf7QfrdPV_D_oc7iDGooCzlrLm_gzW1XpAfeSlqsWtHftymJERe3Pcg8ymFce9BLuZyP_V4CDdzQF_7hAEVl5wgULHG0VjdbgEen",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJWZ0d7BbF0IkRM4Przh7FyiY",
+         "plus_code" : 
+         {
+            "compound_code" : "V298+3J Geneva, New York",
+            "global_code" : "87J5V298+3J"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJWZ0d7BbF0IkRM4Przh7FyiY",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 163
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "700 E State St, Geneva, IL 60134, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.8866243,
+               "lng" : -88.29171909999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.88788582989272,
+                  "lng" : -88.29048157010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.88518617010727,
+                  "lng" : -88.29318122989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Riganato",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105235199225971125832\"\u003eSchulenburg Realty, Inc.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYPZMCuNPzW8nD9eYTXAznPS76x03TjrEokcWVS3yFm9wXNieo-QTx70bHHUDP5KPNTjSbwJ_lZcV-iMG0Oh-3XbHfcck-3Va4xKl1oV8V89i1-H-fGAPZEDveoTOt5dNfvOk-z9Reub1Y9DUuinBJAtiD75CzX8Of4VNUcWQ1f-SdB",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9W5z0Az9DogRlxZmg-yE8Lw",
+         "plus_code" : 
+         {
+            "compound_code" : "VPP5+J8 Geneva, Illinois",
+            "global_code" : "86HHVPP5+J8"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ9W5z0Az9DogRlxZmg-yE8Lw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 935
+      }
+   ],
+   "status" : "OK"
+}

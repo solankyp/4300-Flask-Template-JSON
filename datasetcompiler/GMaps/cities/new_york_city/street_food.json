@@ -1,0 +1,1222 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJaEW9r5pa5hdHG9Ex08byQCr5lEUjLGRTjVWYRj6UyKMzzkvoOdbQCDMwdVmM0eFwhTZWt81pKZt1TsYsm95AMNjU-j7pBACgI1gQMJjdpWuJepvQtpIEG8HlfHovGVaK2umsakAGg3JwhMYOq_YGueONrwrqqivmA3_5JxDo66HoxXAqhDyKPzIjvp9UCKD1u2yYpAgwfVdYvToXa4rxOcibQtYZt5FIn80SO4bqDxZgTUyFg6OIrfH3-FhNZbIWAyxa3z-ymBWvfWhnZ2n3o1nZgjFMijKoYaUPvFk8JpFJdBgKmf5UuiGSY84MPx830h6zNxpya9zQ8FMU1g-v9a53hUDko6DiS9Xd8G5cWbxGCyxvrOZOKaKH4pgNMxlrJDM63zpbr2Az1LszJiMgTGxx5ryrnoc-A",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1221 6th Ave, New York, NY 10020, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7594274,
+               "lng" : -73.9822296
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76091362989272,
+                  "lng" : -73.98071042010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75821397010728,
+                  "lng" : -73.98341007989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Bites NYC",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117861666343424615443\"\u003evishwa teja\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJarSGyLtO-CKcoC_qlJeVJbcDB029SlqX82JFxkIYZpowNzZmUWbImQoai0oqMcGv9iKXQhOWYFI34dyiH468NRxXMjbvlXFIDaRJnpMAbzIszpLa86n24cxjQ500smBRG0tVt9ag6QLl3qtT4JY_cb2wvn9jjjIwKgM8vXHhyKh5je",
+               "width" : 3335
+            }
+         ],
+         "place_id" : "ChIJJQAPYXlpwokRgvICh9Dog-o",
+         "plus_code" : 
+         {
+            "compound_code" : "Q259+Q4 New York",
+            "global_code" : "87G8Q259+Q4"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJJQAPYXlpwokRgvICh9Dog-o",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "W39st &, Broadway, New York, NY 10018, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7537749,
+               "lng" : -73.98729430000002
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75509677989272,
+                  "lng" : -73.98596487010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75239712010728,
+                  "lng" : -73.98866452989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Halal Street Food by Kamal",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112210704337349703975\"\u003eMiguel Hurtado\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZX1YcqJ8K3entUVqXl6JSJp8ozNa4m0Hi6apKqBCxE4UwjSi65rIWfNk4MMwnxCv4W686fL65qu3gpVInkXMQ-GgWxc_1MeOxbQQV1aK-lfdmfeugTFOEUcFrZIjblb-UdLuTaTo-Ga_huA1hs_jozEk3GbxIz-ocaxR-6kBq9t5u2",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ-XBhzr9ZwokRWOsOQmjF6sk",
+         "plus_code" : 
+         {
+            "compound_code" : "Q237+G3 New York",
+            "global_code" : "87G8Q237+G3"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ-XBhzr9ZwokRWOsOQmjF6sk",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2239 Broadway, New York, NY 10024, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7845476,
+               "lng" : -73.9798433
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.78587077989273,
+                  "lng" : -73.97843352010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.78317112010728,
+                  "lng" : -73.98113317989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street food vendor",
+         "place_id" : "ChIJwZCWumNZwokRA_PDwYfl0No",
+         "plus_code" : 
+         {
+            "compound_code" : "Q2MC+R3 New York",
+            "global_code" : "87G8Q2MC+R3"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJwZCWumNZwokRA_PDwYfl0No",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "135 W 50th St, New York, NY 10020, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7606943,
+               "lng" : -73.98213369999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76203042989272,
+                  "lng" : -73.98079387010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75933077010727,
+                  "lng" : -73.98349352989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Urban Hawker",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106673860979264701999\"\u003eVishnu Narayanan Suresh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbC_xvgPcHLhfeVYzfqutl58len_KzCneL-12cy0EdMnhB17raeVAeZbkbpuKxC2sBhCBMZXi657y5x7CmFCRNK8yQF4shsxtF4kdiTr9_L6HL_u3ZbgqXdDF_gH8cpUIzJVVjEdm1HPjLgbGtUH5AWMKJyMzDV2x6xf1A1_gjL73nT",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJr1fdzW5ZwokRued6zB68vpk",
+         "plus_code" : 
+         {
+            "compound_code" : "Q269+74 New York",
+            "global_code" : "87G8Q269+74"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJr1fdzW5ZwokRued6zB68vpk",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1092
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "11 W 32nd St, New York, NY 10001, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7476264,
+               "lng" : -73.9863304
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.74893397989273,
+                  "lng" : -73.98501182010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.74623432010728,
+                  "lng" : -73.98771147989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Food Gallery 32",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100380979336958140088\"\u003eMaximilien de BOUARD\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZv3AuP1gBC5RRw9XQknug3eiUKeRR_25IjTDl-NEHrh2M9HhrTO0X1V9KpqjQdIFQOeYSdMa04ZSOSaD0ifg6YXag6T-SB71I_2rRJqla9KILw7EtlbSvDWC-_tvWGOU2y5kKo0Vum8TulBiJS4MTXIfqF_6-f_XhLsLgDEDswgoCS",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJa2YT-ahZwokR-FABvLXcKi0",
+         "plus_code" : 
+         {
+            "compound_code" : "P2X7+3F New York",
+            "global_code" : "87G8P2X7+3F"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJa2YT-ahZwokR-FABvLXcKi0",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2676
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2102 2nd Ave, New York, NY 10029, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7919939,
+               "lng" : -73.94123119999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.79337597989272,
+                  "lng" : -73.93996027010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.79067632010727,
+                  "lng" : -73.94265992989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "K-street food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101124766681174508079\"\u003epaulina Armstrong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaaLMhdmWTXGrds-oeLibNevMhmukpkHFjMcbmjZxpl8_4LvQAcrK_jHHbLwknRgTqQQN_bruMWkqYKXZkKNgacOqUmcMvZJHwD5oQdPsmYaoD2XxB2qYD9DnBt-Jw1Xq-3UuxehApw5v-MUXOiU7IMgDxCweVk7PZpJcgzBcewbfPX",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJV4FxFgD3wokRSf50lKA8Bz8",
+         "plus_code" : 
+         {
+            "compound_code" : "Q3R5+QG New York",
+            "global_code" : "87G8Q3R5+QG"
+         },
+         "price_level" : 1,
+         "rating" : 5,
+         "reference" : "ChIJV4FxFgD3wokRSf50lKA8Bz8",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 44
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "261 Canal St, New York, NY 10013, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7189689,
+               "lng" : -74.0006772
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72021087989272,
+                  "lng" : -73.99948062010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71751122010728,
+                  "lng" : -74.00218027989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Joe's Steam Rice Roll",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105955469998643474151\"\u003eDenisse R\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbszY08LpIWArRoS9mHc3OnDq-WDcMWaGqzd4KItdunG9qyOUN8Jmb6Z4wa0WIlxqmjVHuEv9tuVbyeVjRkbAEH38NEf1rAq9sA_ALJGYKZhhGPyXUM0e4cUbaPMNueNDR5VrPx_oy4dFbuv-GFezPKWBdEV2kIYetH7PmiGjvikOTI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJcUFwSKxZwokRyhec_w1qd44",
+         "plus_code" : 
+         {
+            "compound_code" : "PX9X+HP New York",
+            "global_code" : "87G7PX9X+HP"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJcUFwSKxZwokRyhec_w1qd44",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 500
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "244 Canal St, New York, NY 10013, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7180744,
+               "lng" : -74.00030749999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.71947757989273,
+                  "lng" : -73.99889157010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71677792010728,
+                  "lng" : -74.00159122989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Food Station",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103667721445316328433\"\u003eG N\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJavFhVpa3wA9CKTAHsgjCrHbmYAgSDKwh2uOYG7PHS14tHN7w6PW7dcmOlcyYqwQRnlh2ZY5VnFw8p561wzzvkYh5ksLs6f7BryxGWw4QykO_jlmzv1uoe9Ep7eYc3HaSSiWXadhFK9evEaJXHePewvp4Z2NsOBZRu9hxu5Rv4MhqO_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJBROJVSdawokRpLyB1kZ8sig",
+         "plus_code" : 
+         {
+            "compound_code" : "PX9X+6V New York",
+            "global_code" : "87G7PX9X+6V"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJBROJVSdawokRpLyB1kZ8sig",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 302
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "89 Greenwich St, New York, NY 10006, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7078809,
+               "lng" : -74.013459
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.70922067989272,
+                  "lng" : -74.01208432010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.70652102010728,
+                  "lng" : -74.01478397989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Rector Street Food Enterprises",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103567497479584591417\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ5P_KmPAXcjo0gQ4qkncW2hwXdXCguZXCdXyDzHoYAksFdPcr1BFLgQvEcUeEsjP1-a_9ztT19R8QHgHZfErIAZUL0k74Fs2B4OyW4babgDFtG2kPqXZtw9awH_cxUPJSBDcGfsuDrWBnF9pVF828V92ZAGKRsTVrwJR7TzhGc4kEz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJtVcN3BBawokRySe5I9lfDMg",
+         "plus_code" : 
+         {
+            "compound_code" : "PX5P+4J New York",
+            "global_code" : "87G7PX5P+4J"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJtVcN3BBawokRySe5I9lfDMg",
+         "types" : 
+         [
+            "grocery_or_supermarket",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 22
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "159 E 68th St, New York, NY 10065, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7673883,
+               "lng" : -73.96282149999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76873057989273,
+                  "lng" : -73.96147712010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.76603092010728,
+                  "lng" : -73.96417677989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Terry And Yaki food cart",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107384856838680206288\"\u003e白瀬真希\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaXwcRcf1Iar4_pD1gr2fb66l-jJ_VEMNBOwCV-40r0ErSlhNMpZZx_rqHckZvl6gBavcvzsrl4gVa6V64Z8wTtSz3sE8YIWqPgiuSYwTZAKHU6sKRUX7PGtrU3_Bsv6qRDdwOUkiMzmS-ysCJMQexWfGrcaXL1guH5NXWtANXjtcV-",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJKWIt_dlZwokRKuX-k0ZArxA",
+         "plus_code" : 
+         {
+            "compound_code" : "Q28P+XV New York",
+            "global_code" : "87G8Q28P+XV"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJKWIt_dlZwokRKuX-k0ZArxA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 45
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Front, 44 West 4th Street, New York, NY 10012, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.729161,
+               "lng" : -73.9958529
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.73051082989273,
+                  "lng" : -73.99450307010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.72781117010729,
+                  "lng" : -73.99720272989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Fefo Food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113971004574312393228\"\u003eFefo Food\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJQumwfk4nPIeJbUZId0RZueOEm3NnJjcm-mcPgFNS1q1bSR05S4nKE50CxPBhvk38YzZ3fl5aEy7mJ5Rjy6t94zatuOZDXHAZw6I3CdyfqjmAPxsHizZuQaVl5TRKSmgXxlMuoSqF_be6QCQ_Xqx4BlvMyWghR1Gh_l2UKPeAdthf",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJFTAy2o5ZwokRoJRoBh13y8o",
+         "plus_code" : 
+         {
+            "compound_code" : "P2H3+MM New York",
+            "global_code" : "87G8P2H3+MM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJFTAy2o5ZwokRoJRoBh13y8o",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "887 5th Ave, Brooklyn, NY 11232, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.6514019,
+               "lng" : -74.00358899999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.65278697989272,
+                  "lng" : -74.00229882010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.65008732010727,
+                  "lng" : -74.00499847989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Eat Street NYC",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109797939681957137234\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaYmShErepDA1hlpM-JpmFirGepDceJQGE-MNiSR6fVZxhX4ohr5NvFmUn23a7KOLj2IE1Nimcl0-LauYEZyHO901-fms0UTl6gaEzQ_IS76QqfYsVQpa09QCBgunnjr3G9xdzSiivjvL9nU3MwC3LhB5LYyfrAfU89tBgA4-Y9dZ-0",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJLRvGUKxbwokRlK4-UxSWkQ0",
+         "plus_code" : 
+         {
+            "compound_code" : "MX2W+HH New York",
+            "global_code" : "87G7MX2W+HH"
+         },
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "ChIJLRvGUKxbwokRlK4-UxSWkQ0",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 48
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "501-513 W 45th St, New York, NY 10036, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7617353,
+               "lng" : -73.99423110000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76305322989272,
+                  "lng" : -73.99293002010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.76035357010728,
+                  "lng" : -73.99562967989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Famous Halal Food (Food Truck)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2992,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107032100459755572973\"\u003eBrian Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYrRpzvUymvhIdlnttI3ScWalrfT1wJIwCpl6eL9M7dmosdM2me9nWsiPXBqULZwAqB2He1iNTjmrvV8CIlESANIi_WuHH-LEpkjcJu0ZhbjWSjjMEQwac81mvcgiiK04CauN4wWp5bYcqK2FiZ82thmOL0y25oS6h0kPsPc38UJzZW",
+               "width" : 2992
+            }
+         ],
+         "place_id" : "ChIJL1uh-FFYwokR0gq2qKsqDzc",
+         "plus_code" : 
+         {
+            "compound_code" : "Q264+M8 New York",
+            "global_code" : "87G8Q264+M8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJL1uh-FFYwokR0gq2qKsqDzc",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 172
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "W 45th St, New York, NY 10036, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7563912,
+               "lng" : -73.98156879999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75770232989272,
+                  "lng" : -73.98024542010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75500267010727,
+                  "lng" : -73.98294507989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mr. Khao Man Gai Food Truck",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1920,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115995793058049628093\"\u003eNav K\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaNrdhheyu2QMLfMuFbNK_WBMeg3KQnhxId0IDnWG1e0VorgVpJol0YgSU0PQhGlP1eNwSuZbVtx056lHTPLt-hD63WK5zaXXf5xxsB5UGhcnwTWxGwJ6iTTlQ4ECu-fZTDohYJkZZwxIjD9i7S063Air8tdnhKpOkliGOUR6hVyLDM",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ6bAikTlZwokRb7YkKUqOWNc",
+         "plus_code" : 
+         {
+            "compound_code" : "Q249+H9 New York",
+            "global_code" : "87G8Q249+H9"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ6bAikTlZwokRb7YkKUqOWNc",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 36
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1-17 W Houston St, New York, NY 10012, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7253813,
+               "lng" : -73.9971712
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72678032989273,
+                  "lng" : -73.99578902010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.72408067010728,
+                  "lng" : -73.99848867989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Soho Halal Guy (Food Cart)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbPDOoa2MLVITpvqn2H-RwqZj5Dp71qFxYdPT3VBn4qFt_k12QI6mgRGMwiWOkrYaGWP4CgWs4UxkSilsAWaZSgnRW0h-Ew4OMOr2VQwWx6K7gBzvIfN_GrD1yBkuPsdXo5Qrydc_OmIKTzPZAoy9WrNgyT6zlmOTfCNqAGF5-Mmqoe",
+               "width" : 2437
+            }
+         ],
+         "place_id" : "ChIJmZwdr49ZwokRUfqQaVAf81w",
+         "plus_code" : 
+         {
+            "compound_code" : "P2G3+54 New York",
+            "global_code" : "87G8P2G3+54"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJmZwdr49ZwokRUfqQaVAf81w",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 155
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "98 Mott St, New York, NY 10013, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7171726,
+               "lng" : -73.9972861
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.71853762989272,
+                  "lng" : -73.99605562010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71583797010727,
+                  "lng" : -73.99875527989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mott Street Eatery",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105302279286414661710\"\u003eAntony Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZP57DZ_mQkOd4-mN-HLqzrK1YDo8ZBL_qpaiquLaDgSFMRbAS-M_bOVBEHnT9dTMtRGYcE-w-Wiyj3MncMWWFDBBVR37xlGnyKJ5woVTUyVDZEQKU46RBCchdIGUhwksIfFGHUvRhEVCQOqRSTfwQISVhhjLGGFM8NNH_AYiHZCO-z",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJzXZ-XGpbwokRz2YaBRnvBzU",
+         "plus_code" : 
+         {
+            "compound_code" : "P283+V3 New York",
+            "global_code" : "87G8P283+V3"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJzXZ-XGpbwokRz2YaBRnvBzU",
+         "types" : 
+         [
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 196
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "112-100 W 46th St, 6th Ave, New York, 10036, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.757434,
+               "lng" : -73.98264859999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75882227989272,
+                  "lng" : -73.98124657010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75612262010728,
+                  "lng" : -73.98394622989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Biryani Cart",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102300391406248155387\"\u003eAnkur Agrawal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYFTtUq7tLbJePe0wWhkvjaXuKsYaTwCYnYxhMB4iRId5Qp_s4XYflUUuQtvE8UIHKypLAzt2xSO754bwpm9rg6sq34AscMEkWpjA9bYVq8xip2M1sCxhXxUX93yt5_gq5rT3LKtC75JtMZempVTxj277KEJ-x1i-4JR8Oa0HuPrQjB",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJB_YNY5ZZwokRHcaO7a3LSio",
+         "plus_code" : 
+         {
+            "compound_code" : "Q248+XW New York",
+            "global_code" : "87G8Q248+XW"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJB_YNY5ZZwokRHcaO7a3LSio",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 287
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "112 W 50th St, New York, NY 10020, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7599732,
+               "lng" : -73.98118749999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76150342989273,
+                  "lng" : -73.98000922010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75880377010728,
+                  "lng" : -73.98270887989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Lil Zeus Food Truck",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109366473653177009577\"\u003eMichael Datko\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY9I5f45PU_D4WiypwkRGAdkj5ZGkXH8zGppITHF6_FqoCapR0ZOc_zVMZeVrQfvxbuL08JWyw7VoeKoj6aIqLRj-Fcqx0Z3jy6iH3cAOPTWOvDNLaBdXLlJdFXu1UnRL2t_Kpin_cWYVd6uS1UQ1fB48w_9uyfX8ag-Oge0gTPjTqx",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJkdpvL_9YwokRNuA7CdFgdes",
+         "plus_code" : 
+         {
+            "compound_code" : "Q259+XG New York",
+            "global_code" : "87G8Q259+XG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJkdpvL_9YwokRNuA7CdFgdes",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 67
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "517 W 35th St, New York, NY 10001, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7559723,
+               "lng" : -73.9996008
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75720277989272,
+                  "lng" : -73.99833627010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75450312010728,
+                  "lng" : -74.00103592989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "NYC Halal Food Truck",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110864844654966216011\"\u003eSemih Yaren\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaIwMKi0-CMqT5VXipbyc0vME7Wp5Oh0kPt9lZMLwVY_N2OpvsYmnjVt-_PnJRrrIms_i9ZRntfPvVuAyFpPYLIK4SxFOuLxTNR-n3I7QfpntDXd9CQoRPVOMe7e0txnbTo8D-b6fOynH0YYH8PpPI9KqGCruWUY4HavliEG4iHC5g6",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJzybpPVxYwokRwinZFW8rh00",
+         "plus_code" : 
+         {
+            "compound_code" : "Q242+95 New York",
+            "global_code" : "87G8Q242+95"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJzybpPVxYwokRwinZFW8rh00",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 72
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6th Avenue &, W 53rd St, New York, 10019, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7617724,
+               "lng" : -73.9793516
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76317697989272,
+                  "lng" : -73.97796322010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.76047732010728,
+                  "lng" : -73.98066287989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Halal Guys",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103747552547988447440\"\u003eMing-Shu Ho\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYzh3VkqEsGkOXytBmWRLyF2u4vgj0saDV8_jTjgZJvnnEC0xyAvhS8pm0HKTjQapg0Sy8yGxsCxhN5vVI1ve4UFyQJXNzeyj9gBU3WiYNt-PAf0Wjwf-tm4WL6IzLPPN8AqHRjd2iQ0ROyVjlpVy-q-yLaTmT0nIUPDdnUyhSGldX9",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJz7d4K2VZwokRGOW9yyiNsck",
+         "plus_code" : 
+         {
+            "compound_code" : "Q26C+P7 New York",
+            "global_code" : "87G8Q26C+P7"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJz7d4K2VZwokRGOW9yyiNsck",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12639
+      }
+   ],
+   "status" : "OK"
+}

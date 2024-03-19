@@ -1,0 +1,1200 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZokPgFG_iYv_kvKadBQ8LHa0Ks5Z_H8QfR4vYQIiPe6ePSeA9gDWbQKm2VMJH6T-UMBTL3RkR6BZlVwqLr18SaMouAmSdcCYxM0by3kPFincuu9w8uGcrYKukvo_719-wwzWRw32ALSEzZDEAQNLvOgG2m33jrEs4d0Gp0y_6KrA__XJVF8lqATYyfRhZAYRLeObDdU-etPK2QBTX4RM_0e2wnJG29Q8Y5TJMCIrYJmhMtn3xH93_5Z98Tks91gkBr5YSsJWSGkbfuxKxTzUwocNUWGqUa5ZRqg97yDWuC01eTlVBXQquYkQ_sGDTBctE-LH9q5GOuFF269_dD2GdVd5p3IsVd-5z-1j8-IZdoH-dHRIdQYpd75srLaDJMOlksg6vci053nvHGeA",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "The Mall, 3/44 Smith St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4637008,
+               "lng" : 130.8424975
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46204052010728,
+                  "lng" : 130.8434039798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46474017989272,
+                  "lng" : 130.8407043201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Aussie Shop NT",
+         "photos" : 
+         [
+            {
+               "height" : 2756,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103964219165079092171\"\u003eTracy Ryan Photography\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbDNfg1GtNnBYI46N9uJWwOIfucRf1ktbeZ5NrSEr57DuzfBig3_i32LaGMGd60LACFa4QElnfNWFkVVsk_pNkBY6vp3S4csDS-uOYkqVLN9fU2BS_39Hr3W-hJgXFnfPWBufhWLv9rLQs1os5_OqyqvXRf6zIqb1KSlB73XVkm4NXO",
+               "width" : 4134
+            }
+         ],
+         "place_id" : "ChIJMdxQ6wiRwCwRLr2szDBydZk",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPR+GX Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPR+GX"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJMdxQ6wiRwCwRLr2szDBydZk",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Unit 55/59 Mitchell St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4639301,
+               "lng" : 130.8398113
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46280862010728,
+                  "lng" : 130.8413787798928
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46550827989272,
+                  "lng" : 130.8386791201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Mitchell Centre",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 608,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101493776294182532462\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY_02Hi-oPilZe2Jj7GQocsAv5E2DpUJN224HIwj2KvL1hvLmpN0VtKE1R338TJUg7mrCRkCS-Apulz6IhnEf_98KLHPDvqFsF5yOo05gB2nD2kgdi5tL2vGKFM1TI1i0IG49Oc_X_yH0ZvE1NNE0e3DtZ01Gow4u0Mi-lKyRlTbTs2",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJxZq2jgiRwCwR-WN7Y9FpZHc",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPQ+CW Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPQ+CW"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJxZq2jgiRwCwR-WN7Y9FpZHc",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1064
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3/20 Knuckey St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.462468,
+               "lng" : 130.842496
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46103682010728,
+                  "lng" : 130.8437612798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46373647989272,
+                  "lng" : 130.8410616201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Alfred's",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2496,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112980170775711497859\"\u003eP J D\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJairiJ5EjC2441zWNXWU26ThwMegbdhBolTH1gBngPbdf4pg0-50ry_DRIyOq_JC8oRyelshHrCb5sNJ4Wfe0sD9JF6aOPMJ_EQunDMN__hpSwk3jh8nQqyg4tUjcNIo1AhY3w6lsBkTvET-YIoESIHJvUGajsoUefVFXcYxvnwIuVl",
+               "width" : 2896
+            }
+         ],
+         "place_id" : "ChIJ7ZZILQ-RwCwRlUp5-YJT2sM",
+         "plus_code" : 
+         {
+            "compound_code" : "GRQR+2X Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRQR+2X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7ZZILQ-RwCwRlUp5-YJT2sM",
+         "types" : 
+         [
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 60
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shop 4/33 Cavenagh St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4618428,
+               "lng" : 130.8421041
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46040847010728,
+                  "lng" : 130.8435118298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46310812989272,
+                  "lng" : 130.8408121701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Ginger PINK",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108385373517188027378\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJakpX9uPXWk_THZZ_888Mfsfh13aptCOyRlWh5tu3QqnFkcamjF7Cr8jxAnX4FE02pKX_5yBzhBTSjpPfYZl_R6PUh4EXAFSOC1dcbiylgaxGuAHZQUVZ68-KSh3NJFHXqETiwWpOJQv47MX8S3Iq7LLarht1t6Uofe_8WzPTkVP23U",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJld5rKQmRwCwRi8jPDXQsipI",
+         "plus_code" : 
+         {
+            "compound_code" : "GRQR+7R Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRQR+7R"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJld5rKQmRwCwRi8jPDXQsipI",
+         "types" : 
+         [
+            "clothing_store",
+            "art_gallery",
+            "jewelry_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shop E1A, Building 2, Darwin Waterfront, 19 Kitchener Dr, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4663601,
+               "lng" : 130.8464949
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46503637010728,
+                  "lng" : 130.8478627798928
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46773602989272,
+                  "lng" : 130.8451631201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Shine Gifts & Fashion",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 503,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116098470333799409867\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYTQN2nSHCmxwulJc3_pZxXg_XIUlkmhzmCKEXPuGaG7nkYqIB0oi8v2ua_OkKFJxxbjCZjkv1STWE6LO3NRaTxytS6LgLpSprUWe4zIrd7bHFgxTiRv1KJt8mxCuamxaR6jkXCIfaPbvDr5x53Eylmn8PVwcBGULdD63bMnmMXMygx",
+               "width" : 378
+            }
+         ],
+         "place_id" : "ChIJJwF7oASRwCwRi53L87KikxI",
+         "plus_code" : 
+         {
+            "compound_code" : "GRMW+FH Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRMW+FH"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJJwF7oASRwCwRi53L87KikxI",
+         "types" : 
+         [
+            "clothing_store",
+            "jewelry_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "37 Smith St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4641564,
+               "lng" : 130.841835
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46270537010728,
+                  "lng" : 130.8433168798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46540502989272,
+                  "lng" : 130.8406172201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Darwin Galleria",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107021153749015307801\"\u003eJohn Hubner\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYgDue34rofupkOf9n1JxDPBo3oZ8vRMHjcQ5Tt73YfT2CZy9kbnKc6Mwawx6q220F2G0a2hgeh14BuOqhpyPIKPYVkY5Kx9F-buJPmp8wbLF3dLfSj1ezMQboGGV5bC4bWxDzVqIe_0uXtrpR0OwYkp8WKKLAAQb12H_JAeyizeKwd",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ9dIQyUiRwCwRPcg6GknmwUI",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPR+CR Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPR+CR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ9dIQyUiRwCwRPcg6GknmwUI",
+         "types" : 
+         [
+            "shopping_mall",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 409
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shop 5/20 Knuckey St, Darwin City NT 0801, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4621777,
+               "lng" : 130.8425847
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46079607010728,
+                  "lng" : 130.8439000798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46349572989272,
+                  "lng" : 130.8412004201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Delaneys Country & Western Store",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105495113969737407105\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYMt7Ty9aW7xGn_yDwqFktDrrNMpt-95P1CXLZwcZWqKD2tY8iJGJWH4i5XEuwo0sUhHTqYxduGVqTZNwdwODR4tw5VQ9Zy_qVx8C04I7rCymN-vptmQK7_ZT6T1qBi2VlicVZtl2_lr5UySNGto-2xV9hgCDc3nmwY_bJ0WP_Ne6j6",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ7ZZILQ-RwCwRgob4KXyQWKk",
+         "plus_code" : 
+         {
+            "compound_code" : "GRQV+42 Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRQV+42"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ7ZZILQ-RwCwRgob4KXyQWKk",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 70
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "34 Smith St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4634394,
+               "lng" : 130.8428761
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46215382010728,
+                  "lng" : 130.8442090298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46485347989272,
+                  "lng" : 130.8415093701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Darwin Souvenirs & Gifts",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100436889979760978105\"\u003eDang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJauoOSfyifMisJ-YJT5ccdHNTn_kchDqkPSGww2Ple23UrQ0mzq1JGgRaLPDFO0t9mTooiG_W4umxyo04WwxxOvJRrgXuVdsNC4lN-1ZsUwlHk7rBZlgphNDSjGZWDSV8qeGhscZHc1djuEk8hYTVv-qUJdg1aE69riXBOWqdRBTUbj",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJSV-c-AWRwCwR3avbTZ5P6vI",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPV+H3 Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPV+H3"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJSV-c-AWRwCwR3avbTZ5P6vI",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shop 5 Star Village, 32 Smith St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4641244,
+               "lng" : 130.8430452
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46277457010728,
+                  "lng" : 130.8443950298928
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46547422989272,
+                  "lng" : 130.8416953701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Lulu & Daw",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112570719461807561030\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbrzs0nK9qgLVMNS93rKA3h_xYTXiiWsyHJbKPwOLA_44vqkdhKfYUTLOHrMmxxr-f5z5MVV353NpxJ20OA-9CuT_AMyjv_bMwvkyeUCoQcZgJREGKC4ffqyZnulmY5dd8p6-dZonQnh4lV8y_OROhCGcJlDT_HcbelTfj_m126qHYb",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJw2qP-AWRwCwRFpMFMCT3t1Y",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPV+96 Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPV+96"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJw2qP-AWRwCwRFpMFMCT3t1Y",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "42 Cavenagh St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4613903,
+               "lng" : 130.8421921
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46007247010728,
+                  "lng" : 130.8435061798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46277212989272,
+                  "lng" : 130.8408065201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The NT General Store",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107021153749015307801\"\u003eJohn Hubner\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYac7I7fprf3xkWmJDzzsM1RIy1q-rVFRIrp25ue09ZsA2t2f5OxQd2z622ttu4pEZReNRrPI9p06PDh2c_aeWlRt0zTLjE5shA2vEf9jjO_eK7dHsRBbcWio6Zu6eP_WbsOdK9FQ9suyHl6ygmjQYvqm3iJZKE1Vx2Bz_gQVg4GRnY",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJGckLMgmRwCwRuIj_z_THNV8",
+         "plus_code" : 
+         {
+            "compound_code" : "GRQR+CV Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRQR+CV"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJGckLMgmRwCwRuIj_z_THNV8",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 211
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shop 5 Star Village Arcade, Mall, 32 Smith Street, Darwin City NT 0801, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4634172,
+               "lng" : 130.8431092
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46208242010728,
+                  "lng" : 130.8444435798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46478207989272,
+                  "lng" : 130.8417439201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Vintage Twist",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJveG0-QWRwCwR1JCXTbM4PUM",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPV+J6 Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPV+J6"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJveG0-QWRwCwR1JCXTbM4PUM",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Upstairs, 35 Knuckey St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.462163,
+               "lng" : 130.842177
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46088482010728,
+                  "lng" : 130.8436012798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46358447989272,
+                  "lng" : 130.8409016201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Dress Code Darwin",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 768,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108402006577187485485\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbL13hqA-Sb39yHklPGbj6jsIVgZdJ04oG3GOa0kG2tpvytOXrJMwHXof16eHPZn0SvV_02-jInsEJ4nFKnxFrmxY1lHSuenam8J8QS3YR5bb8n4aJZBgGa_G1VZv-pt9trMQyjQ13Nd-1PJ_oOo8gaU7qkylDCwzbvsaxmnoBqojfV",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJTwTpLA-RwCwRRpw31aDiXV8",
+         "plus_code" : 
+         {
+            "compound_code" : "GRQR+4V Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRQR+4V"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJTwTpLA-RwCwRRpw31aDiXV8",
+         "types" : 
+         [
+            "clothing_store",
+            "shoe_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shop 2/93 Mitchell St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.460674,
+               "lng" : 130.8369921
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.45913302010728,
+                  "lng" : 130.8382830298928
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46183267989272,
+                  "lng" : 130.8355833701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Starwin",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112232387295559222022\"\u003eStarwin Management\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaA-YPX4mOJ3H96B0eTvevC4QZDI81erLQlj6LX7QqXBL_Q-mDeNpJX1tNxb0JdupzGYLLAbet3YhpY01e2txhNW9knTyNXhdkIDb2p4cv1zhaP_OYN3kI9usDsHDKnZTnIgQoGUO2YTZRYQ2_HtZM7pi20tY-xJ2mjhybQOstqLSou",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJr5uHNqeRwCwRMLCWBjmDktw",
+         "plus_code" : 
+         {
+            "compound_code" : "GRQP+PQ Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRQP+PQ"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJr5uHNqeRwCwRMLCWBjmDktw",
+         "types" : 
+         [
+            "art_gallery",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 28
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "32 Smith St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4641052,
+               "lng" : 130.8430221
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46275537010728,
+                  "lng" : 130.8443719298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46545502989272,
+                  "lng" : 130.8416722701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Star Village",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2250,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109216591790602664890\"\u003eNick Butler\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYudjHxyHCka8yPrOmcNRKCJCTEnIepngx8LhBVHTkSWxtmQmWhFUWQLhynVxSK13gj-nOqDtyMGy32ROYx-DhGRAE8TIM_arTEyglOFgEnQDGiR_7TPg_DAtbmmTPDIKYK5dUja7MqsHlaLdoaLi61rBtUHAWOY0y_rW4qOY3OULLa",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJww811p6RwCwRyuJl0PTtEgg",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPV+96 Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPV+96"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJww811p6RwCwRyuJl0PTtEgg",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 52
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "15/35 Cavenagh St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4618284,
+               "lng" : 130.841788
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46033202010728,
+                  "lng" : 130.8432814798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46303167989272,
+                  "lng" : 130.8405818201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "House of Darwin",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102895691236512635518\"\u003eMax buzz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYCtKKHlz3j6NKwz5ZZBzDxLoHtWQvhhdLfAW2FRKR9z5R5ryXtOoasSbfOkHd_nvvL31eXTa01Z54AaNEO3Re378qS78HJJjWaxFl6uvD9gzqSvZzsCEclgJEsUXC8Vp7NHDmC70-4YUNols7ClWfMjo8FDCC9wVHnGR_JOFaFBBhn",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJMRwHoEWRwCwRcxrni99-8rg",
+         "plus_code" : 
+         {
+            "compound_code" : "GRQR+7P Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRQR+7P"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJMRwHoEWRwCwRcxrni99-8rg",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shop 3/4/21 Cavenagh St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4629601,
+               "lng" : 130.8433653
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46158472010728,
+                  "lng" : 130.8447607798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46428437989272,
+                  "lng" : 130.8420611201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Clothing Hub",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2048,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116867334773394044808\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbqxQnUe1KD-QZV7EXFhMlWZvSWSFkVMGKq9C_XzMrSUyGgmKP7fayOpgQFowBTNhODTG3k7hpJsguDtYWYfqPZ4eERvIBv-D8zOBy_XbDkQBsp7DleKjpmZVg9nd-cAnBBzNr137eo3YWBwLA8J3cOb6qtImIY9ChbhvYc9Qm90yMS",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJX6O5QA-RwCwRBsgpftnY27k",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPV+R8 Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPV+R8"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJX6O5QA-RwCwRBsgpftnY27k",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "The Mall, 38, Shop T14/42 Smith St, NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.463803,
+               "lng" : 130.8426913
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46235657010728,
+                  "lng" : 130.8441626798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46505622989272,
+                  "lng" : 130.8414630201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sophies Boutique & Gifts",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 768,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101900531936203895524\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbv6abQnjyuBp3Z8D9Al9WY4J34mfZFQHFQuhJiP7pM66UDX1qIsJya0ziKyBbmu5NI_8zkQnqAA7uIJEHIhNjvumJboalVLy8GBja0lWmbpGPYuEPiQ-VfHzmO1yqCbT0GfSWlecbvGHDXZP2kOqFV4Z5ZZsElU5Kd9fkkbYEHOVOu",
+               "width" : 1100
+            }
+         ],
+         "place_id" : "ChIJBTQMIVm9wCwR27IitLhcqLI",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPV+F3 Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPV+F3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJBTQMIVm9wCwR27IitLhcqLI",
+         "types" : 
+         [
+            "jewelry_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Charles Darwin Centre, Shop 4, Ground Floor/19 The Mall, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4648916,
+               "lng" : 130.8431869
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46356577010728,
+                  "lng" : 130.8445634298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46626542989272,
+                  "lng" : 130.8418637701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Aboriginal Bush Traders",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101751060746350948596\"\u003eJoydip Roy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbJGRrhBhsJDkNRh3tOBd4Sc8aM-PHph54sVNSMQvqMfIU_FoXzUKdCIXyM-RwneQpD7LaqbTp5Y-TXMkUVS7w68Ew1jjJZne_IFcDiydpiHMbVTVd_JAiSnEywYTt0Ff3esqczyTADfy2AFXfLcpsD500d3R3QtFX6jSZybrXsfahF",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVUNN1AeRwCwRbTFu-h87OjI",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPV+27 Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPV+27"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJVUNN1AeRwCwRbTFu-h87OjI",
+         "types" : 
+         [
+            "cafe",
+            "tourist_attraction",
+            "art_gallery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 122
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "29 Cavenagh St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4624618,
+               "lng" : 130.8426574
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46102277010728,
+                  "lng" : 130.8441011798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46372242989272,
+                  "lng" : 130.8414015201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Elevated Boutique",
+         "place_id" : "ChIJq6qaLQ-RwCwRgPX2xnS_X0g",
+         "plus_code" : 
+         {
+            "compound_code" : "GRQV+23 Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRQV+23"
+         },
+         "rating" : 0,
+         "reference" : "ChIJq6qaLQ-RwCwRgPX2xnS_X0g",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Paspalis Centrepoint, Shop M6,7,8,9,10,11,13,14/48-50 Smith St, Darwin City NT 0800, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -12.4635402,
+               "lng" : 130.8423521
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -12.46219037010728,
+                  "lng" : 130.8437019298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -12.46489002989272,
+                  "lng" : 130.8410022701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Cotton On",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102895691236512635518\"\u003eMax buzz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZHmGUU5GHkS0A2bOknkNpn3W0J5xNa11aRTV_7_lINXfWMbjMXeLHYGiLTt7WNDwLugD0CVw0F5YoOPlgiVImcnwm3CLEFclWDETOywC2Rk4OAqTWYDYz_sOkdWXA-GB1lvuvJ_dTguI5kZBos_vzZ7uVrkrJLFaZY-fImudK24SRH",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJHXVMtgiRwCwRWY5SdRzmrMI",
+         "plus_code" : 
+         {
+            "compound_code" : "GRPR+HW Darwin City, Northern Territory, Australia",
+            "global_code" : "5QVGGRPR+HW"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJHXVMtgiRwCwRWY5SdRzmrMI",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 70
+      }
+   ],
+   "status" : "OK"
+}

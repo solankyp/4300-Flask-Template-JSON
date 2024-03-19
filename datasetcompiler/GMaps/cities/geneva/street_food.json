@@ -1,0 +1,565 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "284 Exchange St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.87067520000001,
+               "lng" : -76.9804925
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.87200952989273,
+                  "lng" : -76.97908482010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86930987010729,
+                  "lng" : -76.98178447989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "El Morro Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1440,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114523296596623601769\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZnSWZDiCMA7-nheNlPUuGJLwT_51f-3yaS4r67tvLLReFNZHvKVl6lYM455S2TBgdhoky5Gq1_AO6ZGGDOhBxqXSWPvHDOVcQjE12M-swUcvuWQf5v_LETRH9jdmGsz1G7B9WwiWn2EHbdANN1K9c7f6ZKDNIoT3sFbSC6VsQCYFfT",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJMb-SKRfF0IkRO1bD6KrJhGM",
+         "plus_code" : 
+         {
+            "compound_code" : "V2C9+7Q Geneva, New York",
+            "global_code" : "87J5V2C9+7Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJMb-SKRfF0IkRO1bD6KrJhGM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 286
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "467 S Exchange St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8676909,
+               "lng" : -76.9813465
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86905957989271,
+                  "lng" : -76.98009512010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86635992010727,
+                  "lng" : -76.98279477989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Water St. Cafe",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106737641518854660287\"\u003ePandaRevz Pr\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYhvw5b-yHM8-Wu_b0xTqOL7GSnfRbwSsx-BlDiojgzLfPh1LDnRNHat9j0KPs005Xnd9R7Ot3qkxs53uFHCYEyeRKH7CIJl9mPzd6T0g5sZVRlXNaBpXOIoHY_z1BY4iew0BvHjbDI3dzmiKiNe-ACwRIpWOaPzUgfgt6He3mZbiH0",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJAScuNRHF0IkR7xpEEndD0_s",
+         "plus_code" : 
+         {
+            "compound_code" : "V299+3F Geneva, New York",
+            "global_code" : "87J5V299+3F"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJAScuNRHF0IkR7xpEEndD0_s",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 756
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Franklin St STE #100, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8663218,
+               "lng" : -76.9813046
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86765707989272,
+                  "lng" : -76.97991047010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86495742010728,
+                  "lng" : -76.98261012989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Elephant Geneva",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111779205199113215196\"\u003eKevin Lightfoote\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZdP1x32sbvhlrDfPoiMX2HH_j-Mdmp9K6O1yIjzb9Z2HZQGrUiCUuRvLBJjEEZDykfgrz_m11Q6u3WqBcddRGfTpUd3NKVK7zFVZXekg-Z54xPjl18yVjzOFLahgIO_PpawAqMM-1pDpKaM2N4_dajbUbogPzQpJCjnjUtEAotYtrN",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJe912fy7F0IkROe33qa1Ih_w",
+         "plus_code" : 
+         {
+            "compound_code" : "V289+GF Geneva, New York",
+            "global_code" : "87J5V289+GF"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJe912fy7F0IkROe33qa1Ih_w",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 313
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bd Georges-Favon 32, 1205 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.201673,
+               "lng" : 6.1400384
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20315042989272,
+                  "lng" : 6.141317879892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20045077010728,
+                  "lng" : 6.138618220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Beirut - Geneva Adresse Temporaire",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104996794162800179822\"\u003eLudovic Lacroix\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb8fbnWgfcXRHitKYDMui4BJsl_S3T2VV3ZDd4S5oQ-E8aUdgO6VDOoUkj_a39AyDRD4FU7SfFPvYcPyj30GSWEkpUmxF0ps3okecGx8tOtf8AwLzXiiKR7-Aso2ZWqCywdu5WB7QUZma7k6aOIFRRFNLkFNH4lCXXdR6ENKFMDMApA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ44llg9VkjEcRaMDHv9BPOxM",
+         "plus_code" : 
+         {
+            "compound_code" : "642R+M2 Geneva, Switzerland",
+            "global_code" : "8FR8642R+M2"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ44llg9VkjEcRaMDHv9BPOxM",
+         "types" : 
+         [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1101
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue de Carouge 110BIS, 1205 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.18934549999999,
+               "lng" : 6.1430523
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.19066767989271,
+                  "lng" : 6.144487129892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.18796802010727,
+                  "lng" : 6.141787470107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Acropolis streetfood",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111094267921602974491\"\u003eBibi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZWgfwqygPw9n7h0WCZfcP_uGEVK_LV_p3kItnRavwbBYi8zsesHXI2z2X0KeSkOu3V3GeP1vPpE5jZIaWi_-lAa1vIAvKo3H899TyQuuF1rH5--KCLVNhWvc_wmKh7FOpi7a4MAIPAG9f4NOHW7J-ArPdKAjEL0L1BkH4_TUhCOU0y",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJVXR9qJ17jEcRiPEGVSAB4nA",
+         "plus_code" : 
+         {
+            "compound_code" : "54QV+P6 Geneva, Switzerland",
+            "global_code" : "8FR854QV+P6"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJVXR9qJ17jEcRiPEGVSAB4nA",
+         "types" : 
+         [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 164
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "512 Hamilton St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8570029,
+               "lng" : -77.00707389999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.85812632989272,
+                  "lng" : -77.00569827010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.85542667010728,
+                  "lng" : -77.00839792989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kindred Fare",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2433,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115880751189518910590\"\u003eColin Martin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ4e4vA7b9dBs2LW441V4cmPpPzBHSXrhQUa1LphFIs6xJUuQDHWehahh3vOjaYdani4ALKlBlEpR_fRdTPH7gQjbFeoM4q9P32pF6yJAMAhqdKhqAcr-qL0IhQVsFohJjOAOo4PVfy2oAlp-CvAyfwNcONXpCbXyzkJSy6j_-LeFz4",
+               "width" : 3472
+            }
+         ],
+         "place_id" : "ChIJWfRvk9XE0IkRwgoAybxKdo8",
+         "plus_code" : 
+         {
+            "compound_code" : "VX4V+R5 Geneva, New York",
+            "global_code" : "87J4VX4V+R5"
+         },
+         "price_level" : 3,
+         "rating" : 4.7,
+         "reference" : "ChIJWfRvk9XE0IkRwgoAybxKdo8",
+         "types" : 
+         [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 970
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "Rue Lissignol 9, 1201 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2077632,
+               "lng" : 6.143580699999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20911642989272,
+                  "lng" : 6.144917229892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20641677010728,
+                  "lng" : 6.142217570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Lissignol Street Food",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 1450,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106192584462890511483\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaGar2APt51aumDoKskiodpsOAQ-OcrhWKJHPBQZ7StxQV3LkQGMKsFfdmEQUX0QrQDvrpluBV3TXAXazws9Q4Q8BCYbBLdXUFvKwro4ablH4F99bF_N2BYNjmievoHy1FA4db5UxPCW9kP3JY3SRSxx7SopPTD2nmtE5QuykCtdYH8",
+               "width" : 1060
+            }
+         ],
+         "place_id" : "ChIJh_2DhqBljEcRP1YC8INpNCw",
+         "plus_code" : 
+         {
+            "compound_code" : "645V+3F Geneva, Switzerland",
+            "global_code" : "8FR8645V+3F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJh_2DhqBljEcRP1YC8INpNCw",
+         "types" : 
+         [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "68 Castle St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8681235,
+               "lng" : -76.98309309999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86943417989273,
+                  "lng" : -76.98174087010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86673452010728,
+                  "lng" : -76.98444052989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Char Burrito Bar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1516,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115792577632385207137\"\u003eChar Burrito Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZY65PiqnDq4mjK143NPWqVOfAYNbGkiXK6axhAvl-qXAlRgqOx4yrY9bqkM3mWAbsFci3fA5eUel-hFXieFfI-w5pbJtCrQwyg8beAr7d7AU2k3aElwkmGSZ36yhnnEtWZXK32EwfnazIbm-9LChEeU4wG9jxwNneDihGofrpjVLk",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-yqYlRbF0IkRW28lbbcmgEg",
+         "plus_code" : 
+         {
+            "compound_code" : "V298+7Q Geneva, New York",
+            "global_code" : "87J5V298+7Q"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJ-yqYlRbF0IkRW28lbbcmgEg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 455
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "Rue du Prince 10, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.202663,
+               "lng" : 6.150859
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20399367989273,
+                  "lng" : 6.152258479892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20129402010728,
+                  "lng" : 6.149558820107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Gourmet",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 3840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109919286389006636390\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZTfQjq2A0TJTr5cPvd4zwv3Yr2URxwoDFp5ZHfWN8uTAUaSxl21sJ-vRj_MErHasYGawDuX00K78pJWC-Jn4haX5czqMiFWZQcrpcvdRilmMhATJlQbkZF16VLN_bXmBjPVqzcecNKUYJRxAoDERV3ihXLOerlWpJXJ3p9EipQOXWk",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJd2MPEi5ljEcR7MjziQfjErg",
+         "plus_code" : 
+         {
+            "compound_code" : "6532+38 Geneva, Switzerland",
+            "global_code" : "8FR86532+38"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJd2MPEi5ljEcR7MjziQfjErg",
+         "types" : 
+         [
+            "restaurant",
+            "cafe",
+            "store",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 75
+      }
+   ],
+   "status" : "OK"
+}

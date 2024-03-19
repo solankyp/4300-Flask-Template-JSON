@@ -1,0 +1,1141 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYX6mTfkygDHtvvEv2y5cJFiunHSuL6PM6WE3vaJhZourees95l0OC6SLLnZcTMdvW_xI7H1Co5LTd8XQPHIJQvPutiJpgvynuq0hRsZojNL1ZHUf5aGjRjuk8Nk9Ah4Lq9aJdhVBDOreWFOCemOkHL0nD-m6ADW13xyokGfzm_TzbQAFe-23NwpCb1P2MSIf309brYydfx6gINJsVcp6GA3vt_ZYCJYOjPNRO-JzSbAcYKQYgdHz8QN_ewtvy8uEQ0egdjTFAhy4M-Nou9Kl2SyZtSNppdVfv1xWblkaXD5Wg2Xd-A7i6owXlabfpeLp2GCUpxE20KH33ar5Kk9KBEH1i6KA5pfDu9bS3S0Ch4-s7eSU_-aEXXq2yZY--By0Apu9Z_Yfd-lJs1",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kartavya Path, India Gate, New Delhi, Delhi 110001, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.612912,
+               "lng" : 77.22950969999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.61428347989272,
+                  "lng" : 77.23199840000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.61158382010728,
+                  "lng" : 77.2263076
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+         "name" : "India Gate",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 775,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113194929496270473070\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb2ggODD5wYDheAXWpHAnvTc4635wMCunr8Y2UESqfscsVsQvKXkcsCpjBAl4LucKDZZ0JIuIJ93vWxH4BmUebjOMYx7BRmsnYe9QMRwi9QipP7GCmPE42JpQyZV4GiYBpSlj5LPJTjqTlJopdoSzVnTSfU8oGUJ2qRIMeNUjXzg0YN",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJC03rqdriDDkRXT6SJRGXFwc",
+         "plus_code" : 
+         {
+            "compound_code" : "J67H+5R New Delhi, Delhi, India",
+            "global_code" : "7JWVJ67H+5R"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJC03rqdriDDkRXT6SJRGXFwc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 266381
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5CQ+33M, Anuvrat Marg Opposite Qutub Minar Metro Station, Mehrauli, New Delhi, Delhi 110030, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.5202041,
+               "lng" : 77.187679
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.52151037989272,
+                  "lng" : 77.19031984999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.51881072010727,
+                  "lng" : 77.18677165000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mehrauli Archaeological Park",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 693,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113713500141703229686\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbcwt1A-cdFEehXiYfC5itMt5r8p182G1ETXPFdCXVmFnpyr4zF0fq6Ot_dBVgDWcyF7xPQ9Xrbqtpw_ah9HfaQQSrh0L4EtDaOUos4THFL16tD9Ax-NZsIYWidmvr0OklMcGTdDpl8Xs3aoyV97yX_xzJxZgSXd81CV-yP3RUgawBi",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJI85HXAMeDTkRUnfV6u6dkSw",
+         "rating" : 4.3,
+         "reference" : "ChIJI85HXAMeDTkRUnfV6u6dkSw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2671
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.6561592,
+               "lng" : 77.2410203
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.65954880000001,
+                  "lng" : 77.2423448
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.64776599999999,
+                  "lng" : 77.23704679999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Red Fort",
+         "photos" : 
+         [
+            {
+               "height" : 669,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108906903900741345260\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbypo1cuq2NEOUgOo0k_gpOF7RNLRve6JGHia0jRFp9s2TczlmIcI-Qlo2fgNqvFENF-Ei2N9AEjLrsfTpJbGDfXUvC1CIw7_a-Xa4RlJzp5PPkD-nFkxX5YZBus1B05aqiyP3pdzqDbj2W3vA3yMYHEsfZkUZFDZEK-ETUdu1JYbWc",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ74XAbuL8DDkR-wJQ-vQyHkQ",
+         "plus_code" : 
+         {
+            "compound_code" : "M64R+FC New Delhi, Delhi, India",
+            "global_code" : "7JWVM64R+FC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ74XAbuL8DDkR-wJQ-vQyHkQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 154158
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J65V+RFH, Mathura Rd, Near Delhi Zoo, New Delhi, Delhi 110003, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.6095744,
+               "lng" : 77.24373709999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.61025472989272,
+                  "lng" : 77.24492049999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.60755507010728,
+                  "lng" : 77.2401869
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Purana Quila",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 539,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115236547013410478049\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYwX1vq8P4-55HpWEgkEXeqMuEjSzgaZwaOsmNcugxEkTcqtFroz4u7IdHZAdchEYNCyhup_ttVxkr7SHH7wTmpxLzhfOJTd5A8BbTDuNbwTuquxuQXQAFGYZQF_zB9dMvgK_boLXv7gLlJ-gtGB-yTRCF-uzFPKldS_oXbLYC8aWsW",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJcWc7SyHjDDkRs8yyCmF5khM",
+         "rating" : 4.2,
+         "reference" : "ChIJcWc7SyHjDDkRs8yyCmF5khM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 31039
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110021, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.5895547,
+               "lng" : 77.2105495
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.59069017989273,
+                  "lng" : 77.213717
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.58799052010728,
+                  "lng" : 77.2095186
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+         "name" : "Safdarjung Tomb, Delhi",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3472,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116978362399801831778\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYHXU4cFYrMEwibOEmwvv3Fd9i3kI0wNtnkHhQCZnXU9A1EZzGSRPkm3I3m9BIKEtokqKyxLGx8t4mZCS0WKIL202q_uQSoRATOO1wGSYMXdwoqdil-S9JW7DXhLygGzNwU-_GzkbCHwmMKdjTmxwGF728b_xyz4sRgUkjhMMi4T0u8",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJVcXN6ZHiDDkR7DeT_RtRCc0",
+         "plus_code" : 
+         {
+            "compound_code" : "H6Q6+P6 New Delhi, Delhi, India",
+            "global_code" : "7JWVH6Q6+P6"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJVcXN6ZHiDDkR7DeT_RtRCc0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14172
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5CM+493, Mehrauli Archeological Pk Trl, Mehrauli Village, Mehrauli, New Delhi, Delhi 110016, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.5202724,
+               "lng" : 77.18341359999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.52213967989272,
+                  "lng" : 77.18470077989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.51944002010728,
+                  "lng" : 77.18200112010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rajon Ki Baoli",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109378562707598444505\"\u003eANKIT SAHAY\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaanZTfkxY6O6ZWsWtz8_OymItbFajbHRA-UXMzPnsArEt0NXTrTHiD61XOjFFvQzWR-Ltuy3kuWIEpXzwXYiRNVB6N4XRjXXQR5VNDQ3I-n_rxBZkPKnfe0zJZ0cjA-hG3wJZMhgucMsvNJ9z3ORBjyMmO55V1JZpyjTTxKnVQsL5M",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ764tjwUeDTkRlcdK4epVeLI",
+         "rating" : 4.1,
+         "reference" : "ChIJ764tjwUeDTkRlcdK4epVeLI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 562
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H6WC+GJ7, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.596284,
+               "lng" : 77.221555
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.60004049999999,
+                  "lng" : 77.22328445000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.5870213,
+                  "lng" : 77.21964385
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sikandar Lodi Tomb, Delhi",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 6944,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105118236483354626668\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ7QHfGPhuORl2oWuAml8uVLIklPymgObZQHMX5yVsxDMQ6fKH1fqGuiQwIYxpZc1aqydpuOsjOiONnb55rqQcXzzzbCOoBKiWQT-pHBW0UAgv6Edt1H4jzeQOBIQ9j-3BRSTRmzJOsYr1huPaotUkx9BToCPKwaD90chzvKUuO5DEW",
+               "width" : 9248
+            }
+         ],
+         "place_id" : "ChIJ87XxluviDDkRocdc1MebPIk",
+         "rating" : 4.5,
+         "reference" : "ChIJ87XxluviDDkRocdc1MebPIk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2918
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sulabh Bhawan, RZ-83, Dabri - Palam Rd, Kali Nagar, Mahavir Enclave I, Mahavir Enclave Part 1, Mahavir Enclave, New Delhi, Delhi, 110045, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.5966398,
+               "lng" : 77.0808026
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.59814687989272,
+                  "lng" : 77.08228557989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.59544722010727,
+                  "lng" : 77.07958592010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Sulabh International Museum Of Toilets",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105203700841361744177\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZImD253YI5ez2H7O9iaLoPZcgTQ6-A5TShMGIGulsLzeKFMLk5QGb8ztrGADCevSHdoUz_PiiBSRMoaHU9wUzYwTSi9E_lyl4TPJ0bRvtgqNQ9GmO4J35owE8rY-lSS0z_s4p2NHgOZh1BWDZQ7VoTuEGWaHKMQ9ZQwOotbwcZc9Xs",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJkZedEMjiDDkRVhjwHQrxYxc",
+         "plus_code" : 
+         {
+            "compound_code" : "H3WJ+M8 New Delhi, Delhi, India",
+            "global_code" : "7JWVH3WJ+M8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJkZedEMjiDDkRVhjwHQrxYxc",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8060
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hazrat Nizamuddin Aulia Dargah, Mathura Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.5932848,
+               "lng" : 77.2507492
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.59469137989272,
+                  "lng" : 77.25511889999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.59199172010728,
+                  "lng" : 77.24026810000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Humayun’s Tomb",
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114642479218851748785\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYhVoNJweHRvyIKDkQAxWrIuquTpRPjM3s3gpvAvb-PKlGCYn0pSx1kXCxQEpYSGXBNJT9vdAwhwKpVkNvS5wmNWXCDkG6j6Dud78uOdlXqHePA8fNOrbh5O8RAkZ1KUTYO4pqCueCO-0VFeilvz5UKVpEr7JRDGSghwbQieTGFDwQA",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJpwtG6BzjDDkRDajfOy268bk",
+         "plus_code" : 
+         {
+            "compound_code" : "H7V2+87 New Delhi, Delhi, India",
+            "global_code" : "7JWVH7V2+87"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJpwtG6BzjDDkRDajfOy268bk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 40551
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Red Fort, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.6521025,
+               "lng" : 77.240257
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.65357872989272,
+                  "lng" : 77.24161272989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.65087907010728,
+                  "lng" : 77.23891307010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Delhi Gate",
+         "photos" : 
+         [
+            {
+               "height" : 748,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110215818088900450804\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbjrl6fjojq-vwa_5WFq-fdDyn7UwLeUbeScMHuyN1TEHY0wpvUhE5WZNGXFh9F4cwZBiFhy3eksx01mg3PDrmDzhqZO8c35w5Qk5co2Jst-nYqyjPShS9zc2xwPEqfuSL67qCeJZx7_-0ZGBXJpoCRGh3QGUqNuRGmacJE4eouipjK",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ__0iJh79DDkR4tAcrMFqcWQ",
+         "plus_code" : 
+         {
+            "compound_code" : "M62R+R4 New Delhi, Delhi, India",
+            "global_code" : "7JWVM62R+R4"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ__0iJh79DDkR4tAcrMFqcWQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 300
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Block C, East Kidwai Nagar, Kidwai Nagar, New Delhi, Delhi 110023, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.5722418,
+               "lng" : 77.21669349999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.57380697989272,
+                  "lng" : 77.21782277989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.57110732010727,
+                  "lng" : 77.21512312010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Darya Khan's Tomb",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101389479357690416294\"\u003eKunal Bhalla\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYtr68lTARNIQT-WGfCDHzCwAnzX28Kgj3aKC0ulsifRz1rph24O10W4yL7PKxi_e1CQPDTeX8kZM_e1f-eltjco5mNPlMQYLHkKRvrqYY977nIxTWsSHLtEH0gR-DZHPrB2th31F6wjr92MGB84WS9eHmR4wXD5pxaBJRYVY4g6M3d",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJVzsxsGDiDDkRO7evvxmOi1Q",
+         "plus_code" : 
+         {
+            "compound_code" : "H6C8+VM New Delhi, Delhi, India",
+            "global_code" : "7JWVH6C8+VM"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVzsxsGDiDDkRO7evvxmOi1Q",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 815
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1, Safdarjung Rd, Safdarjung Lane Area, Delhi Gymkhana Club, New Delhi, Delhi 110011, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.5999159,
+               "lng" : 77.20611219999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.60118012989272,
+                  "lng" : 77.20743617989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.59848047010728,
+                  "lng" : 77.20473652010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Indira Gandhi Memorial Museum, Delhi",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113922202751316214752\"\u003eMukund M\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYP5YqeLb-1cZscRfj7JzGg0s-_20A9PSmqaKPK1kSny7AfJ_GvjzGJHIeSWf9wcsesqO07S_sv7smrZ83RatxRHni-DjJ5BnhHRxJHqY-K6-kNm5TzoFHe71XxOcw7lCNoCT8UKiPWVmzwmoSp7Kz6iBCIVZMWxSGqhhOzSYfPzJGG",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJHwdPU73iDDkRJyADQJ4YfH0",
+         "plus_code" : 
+         {
+            "compound_code" : "H6X4+XC New Delhi, Delhi, India",
+            "global_code" : "7JWVH6X4+XC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJHwdPU73iDDkRJyADQJ4YfH0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14402
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J6G8+RMC, Connaught Place, Sansad Marg, New Delhi, Delhi 110001, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.6270547,
+               "lng" : 77.21662669999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.62906632989272,
+                  "lng" : 77.21796427989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.62636667010728,
+                  "lng" : 77.21526462010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jantar Mantar",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2304,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101170702024721005089\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaHjsZ24_UjZNvCE83RfJKdACjOv3Vd30Nw6BMJ-P9BQMQ9Y5xaG1jHc1bRbjq0poI2KjPeTv297fsaotyUjGXmt302CPFd5grM7V_NNuhdsybWXt-6uctNszzXHpu_xVvU7IfEpOXS0K0JeGEWL8oRWuEOJe0KTxVgj85bImfwa0ZP",
+               "width" : 4107
+            }
+         ],
+         "place_id" : "ChIJm8RPaUr9DDkRDBt4YsluSqI",
+         "rating" : 4.2,
+         "reference" : "ChIJm8RPaUr9DDkRDBt4YsluSqI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 31230
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J6GG+C2F, Hailey Road, KG Marg, near Diwanchand Imaging Centre, New Delhi, Delhi 110001, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.626062,
+               "lng" : 77.22503689999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.62739677989272,
+                  "lng" : 77.22632017989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.62469712010728,
+                  "lng" : 77.22362052010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ugrasen ki Baoli",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103039992816856840672\"\u003eakshay reddy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJakMDj_aNe6dVcmVHI2E99MWGLbQ2Euiq9quTRkCTYdFKtTjK8CgQ2eRwn822KQFNK2RJLXC6PM-t9awV_kJsu9ALF3DTsU9aZlztzJt6Qv04q4FHOipesEIc8NHm2SRwtsmnMG5sm58JUai4IskoefdhjS3mku9eu28YplPAj_sOzX",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ2WjYEzP9DDkRG_AKY2WphJA",
+         "rating" : 4.2,
+         "reference" : "ChIJ2WjYEzP9DDkRG_AKY2WphJA",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 42173
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "M63V+R93, Red Fort, Old Delhi, New Delhi, Delhi 110006, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.6545162,
+               "lng" : 77.24343540000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.65686699999999,
+                  "lng" : 77.2467563
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.6537326,
+                  "lng" : 77.23347269999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mumtaz Mahal",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105298506769581864601\"\u003eSayyed Sameer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYtpSQHHHHbTVODaQzxOIjpV2lfz2lP46fpVIDJalTMQ_N5bFgDALwWFvegattaMw-5g3fh1G7b3xwsPxGMvg_z9VfAv2ZyoBd9_eHLsWPvNsCaK2mEcKVCvIQR2SfCNwCG4-AVA-z-mj4F7Mecvw2XG6xHOgOmYPVlyQMMd2oVnEkC",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJAbTif-H8DDkRP-VHj6rYtBQ",
+         "rating" : 4.3,
+         "reference" : "ChIJAbTif-H8DDkRP-VHj6rYtBQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 453
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Indraprastha Park, Ring Rd, Salim Garh Fort, Old Delhi, New Delhi, Delhi 110002, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.6023829,
+               "lng" : 77.2534199
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.60382027989272,
+                  "lng" : 77.25516372989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.60112062010728,
+                  "lng" : 77.25246407010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Shanti Stupa New Delhi",
+         "photos" : 
+         [
+            {
+               "height" : 8160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112091787147770335576\"\u003eAnkur Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa2puHnPQkDHp-Po1mSW8aET-rRIYHAvD0odPXI-3XepSbo4q5NxZJ17GB4X59p8vtBTtsS_PjKb-XlNkeEg4SPOJtq_Q6zg3SakDiuP5mBpLqqKrbNQFTt-lehyfzVO_tXHBIRWulHFr8xdsYE0tQfZpV7aWerqel2AC4y6MmwNV-v",
+               "width" : 6120
+            }
+         ],
+         "place_id" : "ChIJ7xuisjzjDDkRrjZqS-sJKO4",
+         "plus_code" : 
+         {
+            "compound_code" : "J723+X9 New Delhi, Delhi, India",
+            "global_code" : "7JWVJ723+X9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ7xuisjzjDDkRrjZqS-sJKO4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1644
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "M64V+HC3, Lal Qila, Old Delhi, New Delhi, Delhi, 110006, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.6563969,
+               "lng" : 77.24354550000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.65775327989272,
+                  "lng" : 77.24547069999998
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.65505362010727,
+                  "lng" : 77.24275869999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Diwan-i-Khas",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114875168649402595496\"\u003erajesh pendharkar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZT0xxW-BSEwmTBfHHcD3by9my9PL75NooRQJ3hif21hGK7isgukAmFcNj654rplnNiO6vNIKlsEBnriJFoalac7LpCKbAOCMapHcboivwrJi8mjZA5TR6vem5kBIgbXW3hANs04k3M5U4CAyCp0KaiCNtH7z1VE3Z1hfbWUPZFSjoI",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJibu6s-P8DDkRwkoOWHYKJWE",
+         "rating" : 4.5,
+         "reference" : "ChIJibu6s-P8DDkRwkoOWHYKJWE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 428
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "M63P+3HJ, Charti lal Goel Heritage Park, Meena Bazaar, Jama Masjid, Chandni Chowk, New Delhi, Delhi 110006, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.6527002,
+               "lng" : 77.23640589999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.65409577989272,
+                  "lng" : 77.23784352989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.65139612010728,
+                  "lng" : 77.23514387010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Charti Lal Goel Heritage Park",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113873319927093096765\"\u003evishvamohan pandey\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYoVYva0ahHSW655wXyeJSYymgSjnwB0kTjZXGftHlGeh262NxrD781D3I4jiQhtafCxZEqWzsySmYPC1SBEL31YaQJOutIf5WceaB199FegCjnqPlM9K1ZdynCz417xxBH93ONF7YpE6-hw-PtmLyc0QqLYlGYhZfXpKuRGANOvo5p",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJabG6qOX9DDkRrotp0P-a2MY",
+         "rating" : 4,
+         "reference" : "ChIJabG6qOX9DDkRrotp0P-a2MY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 42
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J5VX+2HV, Central Ridge Reserve Forest, New Delhi, Delhi, 110001, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.6426137,
+               "lng" : 77.1989157
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.64462739999999,
+                  "lng" : 77.20009922989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.6416174,
+                  "lng" : 77.19739957010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bhuli Bhatiyari Ka Mahal",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109378562707598444505\"\u003eANKIT SAHAY\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa1RUMI47yLWcuxd2dhXX128PKIn5XHfzwpukwVqsD2Wb7TAfd_4kw09e9CqbWigeJPZUrtRkYYPjaQhTWaI2xZlgFFCVErvkbt9aGgYs3FvpbH83yN6-AY6ihDc2IJjTzSkKkbXqG65JQ0-odXjEjof2XUGuWMBOC0BkchH3CxX4gw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ111GQ179DDkRUjhMp6uaYg0",
+         "rating" : 3.9,
+         "reference" : "ChIJ111GQ179DDkRUjhMp6uaYg0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2109
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "M64V+CCQ, Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 28.6560934,
+               "lng" : 77.2436017
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 28.65741717989271,
+                  "lng" : 77.24545892989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 28.65471752010727,
+                  "lng" : 77.24275927010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Khas Mahal",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2920,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111382746242984820664\"\u003eShivam Kasudhan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZuxemJesmzN8f4oXAgCGNPKBiygbdeDBbyVQKLtpwPbr5PerFd8j_UB8JL33D0q0z7EGdg5YSIy3dbXtD7tmyb-iJbJ6efv7afG5EWGd73Fa68BB-o_JzrcBDtRXo4EdA3wY2zsqPLid5RxqqSrhU0kyGYYQ14UNWs27XJptRqZfsk",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJgeCaSNRwdDkRsb163YNes4E",
+         "rating" : 4.4,
+         "reference" : "ChIJgeCaSNRwdDkRsb163YNes4E",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 238
+      }
+   ],
+   "status" : "OK"
+}

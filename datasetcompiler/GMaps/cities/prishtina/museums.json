@@ -1,0 +1,297 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Hamdi Mramori, Prishtina",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6656225,
+               "lng" : 21.1663884
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.66697837989273,
+                  "lng" : 21.16767322989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.66427872010728,
+                  "lng" : 21.16497357010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Kosovo Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101754838177159662076\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbQ5TsULw3nRUGl0vosIeraj_rPfCY3FDeDc3nbLGj7QMzOX-P9hyy6392jtTb-n0QH01HR5oTkqxG1q2iTt-QJyW6ExCEQfWoRiDJXVZvAx7_pYOegdhNd3NEpL83xqfkbqSQNlVKnbaj8usEMS1ahWz7h4a9C82tqPp2r_8kc-z_G",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJWbLvGSCfVBMRCgDa6ArEPSA",
+         "plus_code" : 
+         {
+            "compound_code" : "M588+7F Pristina",
+            "global_code" : "8GJ3M588+7F"
+         },
+         "rating" : 4,
+         "reference" : "ChIJWbLvGSCfVBMRCgDa6ArEPSA",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 483
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pristina",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6629069,
+               "lng" : 21.1654936
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.66421182989272,
+                  "lng" : 21.16681272989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.66151217010728,
+                  "lng" : 21.16411307010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Ethnographic Museum - Muzeu Etnologjik",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109540763451924038549\"\u003eArbër Mehmeti\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJadNJ6SA_erRudpvogQONWcP4maNXcwnldJep1X-VS5eOVI8i6MjQaPqgqYjNY-QakCaiW2kpMoJpuTzVreEX84ZgVJPWuB5FsD5ymhlWAUfV3oM17UE0WdG85i5WMMmEeqHIRmZDv3akRXOQvYmTBvRHaTXAIVzn-ZoZO7yQy6Kctx",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJPyg0myGfVBMR92GLTu1M4cU",
+         "plus_code" : 
+         {
+            "compound_code" : "M578+56 Pristina",
+            "global_code" : "8GJ3M578+56"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJPyg0myGfVBMR92GLTu1M4cU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 199
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "M547+RHF, Prishtina",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6570673,
+               "lng" : 21.1639107
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.65841712989273,
+                  "lng" : 21.16526052989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.65571747010728,
+                  "lng" : 21.16256087010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The National Gallery of Kosovo",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109114693665482113874\"\u003eZhivko Tachev\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa-i6I18f4MOjq_AYQwglbxouX1yRDiTtvAUd787H_u_h3T49sXxDz1FrdUKQeBtJKT5uTDzWsfTinwaf51H4COyBHCIzyOH0PaKz38hVCCkfSEtc-fvqyotPoKWFfUfryEMOZM1Cv0Zlu3bMWnNGDr-LAzOSJEzlY7QqF14xBhZ79A",
+               "width" : 5328
+            }
+         ],
+         "place_id" : "ChIJ-13cv-eeVBMRTTEVn17TR-c",
+         "rating" : 4.2,
+         "reference" : "ChIJ-13cv-eeVBMRTTEVn17TR-c",
+         "types" : 
+         [
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 73
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6P6V+HG6, Sheshi i Lidhjes, Prizren",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.2114164,
+               "lng" : 20.7437452
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.21274757989272,
+                  "lng" : 20.74515512989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.21004792010728,
+                  "lng" : 20.74245547010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Albanian League of Prizren",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2988,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105139317291254260549\"\u003eClirim Misini\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZSuDqHR9QyAvAn6-4TMRi3XiM9sr0ABJHBqcbme9tiUq6HuX14OUU2x1TKXtoKbobwWKzMlr81gTHapbdOzylbdh1AxvV7Zt36hRR_saIWJfa_p5IIRoSIpEtxvTievsCDJMF-se_e0aUKTw9OA1GU_imZk4D7JfjNuRKlhLV7o6vT",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJl_hn9A6VUxMRfAgO1xMIX1E",
+         "rating" : 4.6,
+         "reference" : "ChIJl_hn9A6VUxMRfAgO1xMIX1E",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 300
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "125 Luan Haradinaj, Prishtina",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6630255,
+               "lng" : 21.1600508
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.66435342989272,
+                  "lng" : 21.16148177989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.66165377010727,
+                  "lng" : 21.15878212010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Political prisoners - Former Detention Center",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100035866195755868410\"\u003esylvain bizeau\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJageEBi72xPZbUYD6bR2ejjlIYM6GJH-IzQG4navUo4VqTusbAXpbm_Lc3tpWDMmmwlwh-gX3528bBBalGcRiaXbgZsU7DOkOTF2rCJUZ9I15ttG6iys02jKpngoNYgiKG9umGON1jGo3v2DgBuw7wFhzu7h3SSyfTOD6_IS850_r9k",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJcQuuWpWfVBMRew-hNcQHiyU",
+         "plus_code" : 
+         {
+            "compound_code" : "M576+62 Pristina",
+            "global_code" : "8GJ3M576+62"
+         },
+         "rating" : 5,
+         "reference" : "ChIJcQuuWpWfVBMRew-hNcQHiyU",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      }
+   ],
+   "status" : "OK"
+}

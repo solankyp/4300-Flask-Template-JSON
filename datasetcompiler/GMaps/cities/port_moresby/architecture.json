@@ -1,0 +1,999 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZmYSk0LJTE8jijqN3Kmmh7YQuw64VJ6z-Rn4EOSmSdJAhLH1GAovbDdUwhuIiu09pHe5F4F0VIL32TwbCH10hC-B8faiRpCpwR735g1Yr48hYXILSIqpVHFsR_E7zRPq6rrsl8j1olvCiI2iGqhIn7T5Zx5GSHd9mjsLaOCODZhQnd12wTF2E_BhHhzseT8LtC9oFVZWsMbhwwwv0tYfaDkZ3e16CJtuvbFbz7SwaFz3mb9lVwmK6vLdLMJg2r6BRtGvNPE9O0LXfmEx6xjynN2DNnF35rbKa-thwIEeSYHw1YJ5e3IJfIZ_iLcFQsrvBF1UEGMnhbkpI_LsnZQpxoQiF_1OmjpM0NuBuB0rA3bvV9Y-FfkT7IoPOn9kF2jvzGdBlpmyHH7BHiFaW8jVttxXaVT8IEKxg",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "L 2 Steamships Plaza Port Moresby National Capital District, 121, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4779673,
+               "lng" : 147.1498938
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.476422670107278,
+                  "lng" : 147.1511715298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.479122329892721,
+                  "lng" : 147.1484718701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Peddle Thorp Architects PNG",
+         "place_id" : "ChIJzXHFgigxAmkRHl8HAX1wWSc",
+         "plus_code" : 
+         {
+            "compound_code" : "G4CX+RX Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G4CX+RX"
+         },
+         "rating" : 0,
+         "reference" : "ChIJzXHFgigxAmkRHl8HAX1wWSc",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Section 34, Lot 13, Lawes Rd, Port Moresby, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.472906199999999,
+               "lng" : 147.1613369
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.471621070107277,
+                  "lng" : 147.1625342298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.474320729892721,
+                  "lng" : 147.1598345701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pacific Architects PNG",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJoRpJ8NQxAmkRGOco8bWR8Ko",
+         "plus_code" : 
+         {
+            "compound_code" : "G5G6+RG Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G5G6+RG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJoRpJ8NQxAmkRGOco8bWR8Ko",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H6M3+2CG, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.417438799999999,
+               "lng" : 147.2035807
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.416058670107276,
+                  "lng" : 147.2049806798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.41875832989272,
+                  "lng" : 147.2022810201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Alexander & Lloyd Architects",
+         "place_id" : "ChIJXzUEMyU3AmkRqz0fam4GdH0",
+         "rating" : 0,
+         "reference" : "ChIJXzUEMyU3AmkRqz0fam4GdH0",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H53Q+73F, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4459198,
+               "lng" : 147.1883044
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.444765570107277,
+                  "lng" : 147.1897308798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.447465229892721,
+                  "lng" : 147.1870312201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Hausman Designs Limited PNG",
+         "place_id" : "ChIJ4QJXh9oxAmkRnPne8lwUGuY",
+         "rating" : 0,
+         "reference" : "ChIJ4QJXh9oxAmkRnPne8lwUGuY",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tomu Pl., Port Moresby 121 National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4623709,
+               "lng" : 147.195503
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.46096932010728,
+                  "lng" : 147.1968045798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.463668979892724,
+                  "lng" : 147.1941049201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "PAWA Architecture PNG",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118104715672984598187\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJan0cBZO37gdHzru1uuynjoFcdZlDlc6swl4v3ApReZ1cEhg3LoLR2GEncBFP2TEUtEXo50JRB2HEBefY0kZsrtCHpWPUKCHkI_ZKpq409liNaqO81Eadb8cL9ZySGxAzJxS5ohEE5YnwTONgGOJ7UYYDp_7jJWJUlp473MHFT9s1Fc",
+               "width" : 1240
+            }
+         ],
+         "place_id" : "ChIJ432CZSc3AmkRMWjesuJ9h6Q",
+         "plus_code" : 
+         {
+            "compound_code" : "G5QW+36 Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G5QW+36"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ432CZSc3AmkRMWjesuJ9h6Q",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Section 32, Lot 10, Saraga Street Six Mile Port Moresby National Capital District PG 121, Saraga St, Port Moresby, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.457571399999999,
+               "lng" : 147.2138947
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.455995270107278,
+                  "lng" : 147.2155423798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.458694929892722,
+                  "lng" : 147.2128427201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Omni Limited",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 453,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107230704125213495158\"\u003eOmni Limited\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb4UTbWxmRmKAxP6u4IvQ-xyuPYO0duhfDVuZN400IjiuVEKD49GXieKg5BZxYaIaO6dW60JU6v9a7yhAAvQdkZ3eLLRECIDsRCyTPxJDvYCJRUoFjHnRiq0oRUMyKshWuzDKMCSRJP-pj-KBYRUR8M0kN-gNUMe6a9zaa1JX-yzcgs",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ-5eC_d82AmkR4szW-lvfddY",
+         "plus_code" : 
+         {
+            "compound_code" : "G6R7+XH Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G6R7+XH"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ-5eC_d82AmkR4szW-lvfddY",
+         "types" : 
+         [
+            "storage",
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H56H+FGM, Wokples Building,, Stratos Ave, Port Moresby, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.438798199999999,
+               "lng" : 147.1787984
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.437439670107278,
+                  "lng" : 147.1801395298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.440139329892721,
+                  "lng" : 147.1774398701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Axis Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJaTBbdcYwAmkRSBebcFp4Sd4",
+         "rating" : 0,
+         "reference" : "ChIJaTBbdcYwAmkRSBebcFp4Sd4",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ensisi valley, Allotment 30 Section 448, Port Moresby 233 Central Province, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.423770599999999,
+               "lng" : 147.1642668
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.422461570107279,
+                  "lng" : 147.1655470798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.425161229892723,
+                  "lng" : 147.1628474201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Optimise Design Works Ltd",
+         "photos" : 
+         [
+            {
+               "height" : 960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106007465387891189230\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYG9u1l_zLIq0pPNbPovJIWcRYzCeAcU0UGva7gUupUBE80Og9X2ayZgsm7uWXBNOyh9oS_JI_Cb4Qbdj8oCsxZXWivApUMoTmg1vljH2MucUR42MPJksdipgXy-T9PF8N1ZW5rzZNs3Q8QL-JUHZMdgpIO0S26hLOEqRsXllqUAx_v",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJQVTYqfcxAmkRLLaMBI_6Ho4",
+         "plus_code" : 
+         {
+            "compound_code" : "H5G7+FP Port Moresby, Papua New Guinea",
+            "global_code" : "6R29H5G7+FP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJQVTYqfcxAmkRLLaMBI_6Ho4",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H52R+7MQ NCD, Ume St, Port Moresby 663 National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4492957,
+               "lng" : 147.1917326
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.447963120107278,
+                  "lng" : 147.1930935798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.450662779892722,
+                  "lng" : 147.1903939201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "one stop design & build",
+         "place_id" : "ChIJi2K2qLY3AmkRaYfXSKZHYJE",
+         "rating" : 0,
+         "reference" : "ChIJi2K2qLY3AmkRaYfXSKZHYJE",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4659871,
+               "lng" : 147.2049372
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.464698520107278,
+                  "lng" : 147.2063267798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.467398179892722,
+                  "lng" : 147.2036271201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tusitala Architects Limited",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103569431911472698992\"\u003eTusitala Architects Limited\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYuCBJjJ_DWfya1OLi78UOVO9jT4OJ2FSjGYNMedsopGAgdZNMi4aaUNfhCJBfUeelL5yrbrwkpKD7xnwenSck3J-GfgQVSLxK4O7hscF7DHip_OK6ZIFoXwR-XtSoliDk4cFjFStEBu3u8KkzeH61CWNJXLVdO7P4vxMEPnWoLm7Ir",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ9cFmMMU2AmkRSLdM0Jxn6dA",
+         "plus_code" : 
+         {
+            "compound_code" : "G6M3+JX Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G6M3+JX"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ9cFmMMU2AmkRSLdM0Jxn6dA",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sec231, Lot16, Iarogaha st, Port Moresby 311 National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4291011,
+               "lng" : 147.1637332
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.427552520107277,
+                  "lng" : 147.1650868298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.430252179892721,
+                  "lng" : 147.1623871701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "VERTEX Design & Consultant",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2099,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113774838359884582231\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb0bYb6jf-O99Ms6QNQgiQFtvQoQjRqDh3SL4Gisj66swvIE8JX7smnZod1qBGwR6ORds6UY1azLxUEs_wyvpcsb6UZSEtXbVaPJ5coVc-wCHh6I4XPxf_ju0jscki_fePsQTDf45vHQGtMaCe5PZC2JtRCMUh8W3vgoTIEmB4J-R1H",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJT_UnCCgxAmkRKBYxscnaZ24",
+         "plus_code" : 
+         {
+            "compound_code" : "H5C7+8G Port Moresby, Papua New Guinea",
+            "global_code" : "6R29H5C7+8G"
+         },
+         "rating" : 0,
+         "reference" : "ChIJT_UnCCgxAmkRKBYxscnaZ24",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pitpit Street Port Moresby Central Province, 675, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4259468,
+               "lng" : 147.1893475
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.424657970107278,
+                  "lng" : 147.1905268298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.427357629892722,
+                  "lng" : 147.1878271701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Infinite Designs",
+         "place_id" : "ChIJI08n8dgxAmkR9F9MjBOINXE",
+         "plus_code" : 
+         {
+            "compound_code" : "H5FQ+JQ Port Moresby, Papua New Guinea",
+            "global_code" : "6R29H5FQ+JQ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJI08n8dgxAmkR9F9MjBOINXE",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5F3+H3G, Pandora Cres, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4760607,
+               "lng" : 147.152703
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.474714870107276,
+                  "lng" : 147.1540211798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.477414529892719,
+                  "lng" : 147.1513215201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ETS ARCHITECTS Office",
+         "place_id" : "ChIJVV9BN3ExAmkRfVDbfHoSMQs",
+         "rating" : 5,
+         "reference" : "ChIJVV9BN3ExAmkRfVDbfHoSMQs",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Poreporena Fwy, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.462662399999999,
+               "lng" : 147.1633387
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.461271570107279,
+                  "lng" : 147.1646378298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.463971229892723,
+                  "lng" : 147.1619381701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Country Architects and Engineers",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 450,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111188092747991393930\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJar9D7-UZpw5Zdy0NDNBSEDBtfGJ7JNdg4uRL1y6c5LZS_RzBQvmDLL-65crbLUMxQ83AL7nx0v-5gHXDOogwCsNBs-NiVcu8BYynjXbz06-VElxhbx8trB7bSrOdoeeedtHs0_oXc2eoN55mGExYq2oA_lYmEM9uIXwgJKu683jOST",
+               "width" : 984
+            }
+         ],
+         "place_id" : "ChIJ32SLLeIxAmkRkEo3grH-4iU",
+         "plus_code" : 
+         {
+            "compound_code" : "G5P7+W8 Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G5P7+W8"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ32SLLeIxAmkRkEo3grH-4iU",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lot 52 Ahuia St, Gordon, Port Moresby, Port Moresby, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.449912599999999,
+               "lng" : 147.1885849
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.448563020107276,
+                  "lng" : 147.1898430298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.45126267989272,
+                  "lng" : 147.1871433701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SOR Architects & Building Construction Services",
+         "place_id" : "ChIJOzpqG2ExAmkR0UocXdHrJ5k",
+         "plus_code" : 
+         {
+            "compound_code" : "H52Q+2C Port Moresby, Papua New Guinea",
+            "global_code" : "6R29H52Q+2C"
+         },
+         "rating" : 0,
+         "reference" : "ChIJOzpqG2ExAmkR0UocXdHrJ5k",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5M3+XVW, Spring Garden Rd, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4647635,
+               "lng" : 147.154568
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.463532220107275,
+                  "lng" : 147.1561098298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.466231879892719,
+                  "lng" : 147.1534101701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ravalian Haus",
+         "photos" : 
+         [
+            {
+               "height" : 1800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111014258328074697352\"\u003eGia Numa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbjFrRmy8oDJEIcytDE4szk0sPPDTrX8GtqUjNzCtA5ksh1HSSqwPtqgQSBSy2DqPaO5_JJq8Hl523CkAUEo-lgnHhZxemGxIXkaR98f31my8KH0q7X_hiqg470JoC4DOx7VLDGKVVQQEGgI-xBdFWEcQetQklEhGgcuDXgIa0HpzDe",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJRZBAYw4xAmkRLpMDc01Fn7Y",
+         "rating" : 4.3,
+         "reference" : "ChIJRZBAYw4xAmkRLpMDc01Fn7Y",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 30
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Portion 448, Six Mile, Tamara Rd, Port Moresby 111 National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4519892,
+               "lng" : 147.2054344
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.450638720107277,
+                  "lng" : 147.2067523298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.45333837989272,
+                  "lng" : 147.2040526701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Montina Ltd",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3648,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110602083087798701169\"\u003eChristina Cragnolini\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbkqIILPEB6vSpQ4u-BiVzGhCE8IXqexA5-T3k1W2MdgWhjhFb7CaNgvWhEsBqddh7dWgWTtCgwW0YoHYl25435upEeIUEChvvuwbKAeX2CIVnF_kIHfDb6g4T2dv0LWUq52Ny6oloLY4N9RynO6obJWwisWS8rRLqVk0Fo8U6i6Ut8",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJW5nAZCY3AmkRqvPQcv-5Qf4",
+         "plus_code" : 
+         {
+            "compound_code" : "G6X4+65 Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G6X4+65"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJW5nAZCY3AmkRqvPQcv-5Qf4",
+         "types" : 
+         [
+            "hardware_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "CENTRAL, SECTION 10 LOT 10 ORORO CRES 5MILE, Port Moresby 121, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4627783,
+               "lng" : 147.2031622
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.461417720107278,
+                  "lng" : 147.2045418798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.464117379892722,
+                  "lng" : 147.2018422201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "CIDS",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJSykykNk3AmkRLATz3sov2To",
+         "plus_code" : 
+         {
+            "compound_code" : "G6P3+V7 Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G6P3+V7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJSykykNk3AmkRLATz3sov2To",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G582+M6X, Paga Ring Road, Port Moresby, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4832623,
+               "lng" : 147.150613
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.481767320107279,
+                  "lng" : 147.1514761798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.484466979892723,
+                  "lng" : 147.1487765201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "APEC Haus",
+         "photos" : 
+         [
+            {
+               "height" : 950,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104066577971946182141\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaerPAubS75cfEGIxgu8NCBXL9FEk7-VFR9S9LxvM1qm7qYCA0Npco9X03xB-IuZlNTA2mer1yMo8ik8JgMbcR3ELx4ooM1rT96RJP9jooJemEFFb_zcLNwT9tpm42Jpom9_JQtfUy1V8nntGg5Ny_OlQRRzB2wr5Pb0U_uaJZnXPh5",
+               "width" : 1424
+            }
+         ],
+         "place_id" : "ChIJtTqGOHkxAmkRTjmjKPOGfUE",
+         "rating" : 4.3,
+         "reference" : "ChIJtTqGOHkxAmkRTjmjKPOGfUE",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 183
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rabia Cres, Port Moresby 121 National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.482411899999999,
+               "lng" : 147.1850224
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.480921320107278,
+                  "lng" : 147.1859836298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.483620979892722,
+                  "lng" : 147.1832839701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Green Print Design & Engineering",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113019527061049800743\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb6GbDb6MtUlxWHoWGhBGoVIMIeS_uflzeAi4mDEtapIFR1dWPoNDoDyu5govWqTurPovScT5DgbqjEzgf83GO9LaBc5BE8BWvezZF2nj6QMG-a20GTuFVspnv5mqEEpi2gMkZJTXvcFXsL9EVCEf0rc6rpym1AB1wmKhAQoQhN8OXZ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJW_ysIH8xAmkRbQq7OGZK_x4",
+         "plus_code" : 
+         {
+            "compound_code" : "G59P+22 Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G59P+22"
+         },
+         "rating" : 0,
+         "reference" : "ChIJW_ysIH8xAmkRbQq7OGZK_x4",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

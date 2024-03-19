@@ -1,0 +1,1155 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYLQrosMn9_8vv8fh1KYKab5dX0ky3dEqMhyiJ4O1zFfiyPrY_llVrrGQkIffMFqeHgO3dhXJ3fO4IL2niMlDdcWaD3X37lWa2UPAjrY54-lffK0XdH5hVBDB34vBOtZl-Nls-cffCDCBbZueJQ-MJlaWpO5x-WPkrDWImbMT6_KEqN_LrhrttqJtoHH6qM4D6lD2VBuubj_zsQ2nG5DpVajAxzKF_s41FVvUXpByBETPXiniagBCtycKP-rC602FxQY6j0wsFkmzsUdrBIuv06sShlzhv8pcM14BvVBDlKIH7NRNjFdTSoX7IJVoAVm3KZ6tn9U3NRVj3KwIAxkWP93PtxgeoHD1_bLbUQcT7J32qGJ1s0rpnnzNBPTBpLNMlNcDeX6Juqph5zDItfaqQZY4pwMno3",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Námestie slobody 2911/19, 812 45 Staré Mesto, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1511653,
+               "lng" : 17.1107581
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.15247032989273,
+                  "lng" : 17.11206357989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14977067010728,
+                  "lng" : 17.10936392010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Faculty of Architecture and Design STU",
+         "photos" : 
+         [
+            {
+               "height" : 3648,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108925617843169465291\"\u003eAntonije Levičanin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa1deETeVllUauh3XvqPhNqS9_1v_zfHPMmeEiEVZwfPePUUPhWbONWjnV_xy3XyBphpe9j9-N-Lr0_6uFmzPoxETj6rSAdXmgBisNzBHU85VbwRBkoz9MB7gvDx0QG4P_eBRPv9Y_g0RwxGCsR0mSSftcD2HTcgcBmi8AVBYqGmaSy",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJkycMCVCJbEcRNH4WkYjPTJ0",
+         "plus_code" : 
+         {
+            "compound_code" : "5426+F8 Bratislava, Slovakia",
+            "global_code" : "8FWV5426+F8"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJkycMCVCJbEcRNH4WkYjPTJ0",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 40
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gogoľova 18, 851 01 Petržalka, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1223371,
+               "lng" : 17.0922652
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.12365942989272,
+                  "lng" : 17.09374017989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.12095977010728,
+                  "lng" : 17.09104052010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "DJS Architecture s.r.o.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2304,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116888480868066661611\"\u003eVlado Beňo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaKDtWQC0dohNW6XqzZ9zWuLDg7txgOwmX0sWebyw9WezScWh_kvXN7Sfs6KsUKgUPjHDO0Z7_lylTnObSR2DBwXWd3XPxCh6--KkbdbIeNoP4sGMraMJZOXz8fAojsusHBUjnDIaAG2CRPCnp3QG3tqBQ4TaecAsYm3aEh09F4Tlzm",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJTe2xl4KJbEcRi0kmi2FAGVw",
+         "plus_code" : 
+         {
+            "compound_code" : "43CR+WW Bratislava, Slovakia",
+            "global_code" : "8FWV43CR+WW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJTe2xl4KJbEcRi0kmi2FAGVw",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 81
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Galandova 3, 811 06 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.14884010000001,
+               "lng" : 17.0996135
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.15021607989272,
+                  "lng" : 17.10096657989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14751642010728,
+                  "lng" : 17.09826692010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sadovsky & Architects",
+         "place_id" : "ChIJHzIZD0GJbEcRVhE82qD_odE",
+         "plus_code" : 
+         {
+            "compound_code" : "43XX+FQ Bratislava, Slovakia",
+            "global_code" : "8FWV43XX+FQ"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJHzIZD0GJbEcRVhE82qD_odE",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Smetanova 1414/13, 811 03 Bratislava - Staré Mesto-Staré Mesto, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1433312,
+               "lng" : 17.0968121
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14465102989272,
+                  "lng" : 17.09806247989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14195137010727,
+                  "lng" : 17.09536282010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "RB Architects",
+         "photos" : 
+         [
+            {
+               "height" : 5504,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111001498315695573100\"\u003eja ty\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZUZwHoStOXnWPqIhaVYq-b2ZFoClesutAGvdhcKgFAqdaLBSfw81lfOhYOKdXa4n2Fj05tcj2SmzWuXrBaqQkvyP5HPo8Wfyb6IAqbn0AWujlx5PyTBG94qvLg7SpZKD_fFiOvi0KkIBKYJfA9YMu_VT2Y5BAPtJz3By-Em7BDZSIF",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJxy82LF6JbEcRzFpPtedIDH8",
+         "plus_code" : 
+         {
+            "compound_code" : "43VW+8P Old Town, Slovakia",
+            "global_code" : "8FWV43VW+8P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJxy82LF6JbEcRzFpPtedIDH8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hviezdoslavovo námestie 176/20, 811 02 Staré Mesto, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1419282,
+               "lng" : 17.1079729
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14298317989272,
+                  "lng" : 17.10894627989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14028352010727,
+                  "lng" : 17.10624662010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kivvi architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 668,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100142603990381237378\"\u003eKivvi architects\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa6ywFT-ReeT6thECgZzBl9auLiK1yp2fb-PJBSoVob5gcd93Wb-fumju-EiJ-b9QKUL5NESoo-TBMJx2Dx7EEPpYafEtlL5aMGw863bi5UsH8WCQyfY78rMgaGoSz75taKqSBJw9keqJzljsijM1xjVvYU8EFTgby39JR86kYzoko-",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJc6DhvEKJbEcRf1fuzKkYfow",
+         "plus_code" : 
+         {
+            "compound_code" : "44R5+Q5 Bratislava, Slovakia",
+            "global_code" : "8FWV44R5+Q5"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJc6DhvEKJbEcRf1fuzKkYfow",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hattalova 12/A, 831 03 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1759718,
+               "lng" : 17.1353643
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.17721132989273,
+                  "lng" : 17.13661662989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.17451167010728,
+                  "lng" : 17.13391697010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "DEVLEV Architekti",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117128764781495546140\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZQkckaEpnI5Ir6-p34eOUIAkDV9bgvxXyFLWCAIjp1pPCIJFm6LtwE6-CQsOV24YNkpBclVJ39jctrucd6H_HvzwOz5KR6lTjebAdkceovf1iP-miQP_D8ryBrnflKqoWtPkNxAGp9zXTPdzJOUor0Y7Q6PkgwxcTzCodygqemWSHk",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJgx-gcL6ObEcRifVD8JEIaz8",
+         "plus_code" : 
+         {
+            "compound_code" : "54GP+94 Bratislava, Slovakia",
+            "global_code" : "8FWV54GP+94"
+         },
+         "rating" : 5,
+         "reference" : "ChIJgx-gcL6ObEcRifVD8JEIaz8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 33
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Odborárske námestie 1, 811 07 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1516715,
+               "lng" : 17.1192774
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.15296882989272,
+                  "lng" : 17.12069947989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.15026917010727,
+                  "lng" : 17.11799982010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "NOIZ architekti",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1125,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103132383801032622088\"\u003eNOIZ SK architekti\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaUp69r9ZQ_KVQCa8KjI-Yp5QYD3poLN7kLekofuZceTNJUbtaZBeZxXdv-MA2yIqKizcgP3S1awj_UMc71OOfTGiqtUTE7Gkn4OvaMXhN302gY-uKtFIWDJk_H398qU5wb-PZ8IT6n38JnFXJXrT_wJcajL0qIlItE-_qIy7CSge84",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJe8T-rjCJbEcRG7MKq2VwDGM",
+         "plus_code" : 
+         {
+            "compound_code" : "5429+MP Bratislava, Slovakia",
+            "global_code" : "8FWV5429+MP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJe8T-rjCJbEcRG7MKq2VwDGM",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Černyševského 3427/26, 851 01 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1302676,
+               "lng" : 17.1140726
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13153167989272,
+                  "lng" : 17.11541492989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.12883202010728,
+                  "lng" : 17.11271527010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ARCHSTYL",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117275244898121601882\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaTitGpx6FbI8-QQ_QXiMJ4lWZ3bFL4tKdaDxacujFYIax96D6jf16xu5JlNMR_85sT_A7p7UL5hH3IM5uTgwU_4Ic1hVzBrbuECrevij_pO_qky8WyeAqhiodQu48qSL2UH7MpwF7g13QTgFuHAbl7U3VE5FVmQFw2dstKRM7qaD4e",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJVe6TqxKJbEcRo1IlEpfPvXc",
+         "plus_code" : 
+         {
+            "compound_code" : "44J7+4J Bratislava, Slovakia",
+            "global_code" : "8FWV44J7+4J"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVe6TqxKJbEcRo1IlEpfPvXc",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bottova 2622, 811 09 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1438298,
+               "lng" : 17.1273415
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14510267989272,
+                  "lng" : 17.12874777989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14240302010727,
+                  "lng" : 17.12604812010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ADOM. M STUDIO",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 606,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116404911608281377589\"\u003eAdom M Studio\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb0mG7Hbuik8_RE5asgUdivieLL2DWPNXMyX8ORf9bHIhl2mIeoDN4mVaJYIx7UOdGZz9Egxj-O0kfyoy-mB05uUOg967UcpOuK7trQhUrZdBYbvzJcAwSPMFVPh3NiupYe0BlSsOGst4El7uI6XWIlkFtrpNnw2vcO8g8UBg6HSERR",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJt5BkNzmJbEcR-LWqoXDIluI",
+         "plus_code" : 
+         {
+            "compound_code" : "44VG+GW Bratislava, Slovakia",
+            "global_code" : "8FWV44VG+GW"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJt5BkNzmJbEcR-LWqoXDIluI",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Brnianska 3728/49, 811 04 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1654154,
+               "lng" : 17.0816263
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.16683222989271,
+                  "lng" : 17.08303707989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.16413257010727,
+                  "lng" : 17.08033742010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "GFI, a.s.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110783585415235492321\"\u003eGFI, a.s.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbeCWaLE2_NZ-cBTdKvE3Ts-ZoiiARhQ09nUUwFybpbOx4Nyb9mJ3KY3Ve2tfhyWm5kJ-rHFMdqkTwOE82hCPKY8T-lo3LybHM7v3V0NT9ulbKOkhFubFu8-zBZDRY86iM81qH1j4mCRVQMfiVyolmlIg03zRiiAZncgobi9jYLtyRI",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJHY-jiPWLbEcRgBD51i4Rn3M",
+         "plus_code" : 
+         {
+            "compound_code" : "538J+5M Bratislava, Slovakia",
+            "global_code" : "8FWV538J+5M"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJHY-jiPWLbEcRgBD51i4Rn3M",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Robotnícka 3116/10, 831 03 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1617842,
+               "lng" : 17.1290318
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.16310957989272,
+                  "lng" : 17.13036472989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.16040992010728,
+                  "lng" : 17.12766507010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Performa Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117559555141334558047\"\u003ePerforma Architects\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJan5oUdgwXiPte9JX36AS7XepMES9ZjWc5slrSK4YhVppm9RWwpnvum8xK3UbVQekRRr67dwfFPu7DUWEXUQeQJ4YFvM86e8cwR9hyEDqXLNg2UTdzJ6UKm57Gpo7yQfxPwWAX8bDJPQ2r3UmH93SJdc95C000a3wAMdqm5ynBwWkzH",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJ3dPxTrSObEcR0AgmUg-yhu0",
+         "plus_code" : 
+         {
+            "compound_code" : "546H+PJ Bratislava, Slovakia",
+            "global_code" : "8FWV546H+PJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ3dPxTrSObEcR0AgmUg-yhu0",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ovsištské námestie 1, 851 04 Petržalka, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1206211,
+               "lng" : 17.1318739
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.12188897989272,
+                  "lng" : 17.13315407989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.11918932010728,
+                  "lng" : 17.13045442010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Archilab architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115195997781643836231\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYaQ8-_AnE5yeyruqUpzPDqBWwaf8hgHHSza3omqYUKpvE3ivBEggiMlFcqnPdc4FhumietPT2LLQ8JiT-xPfxhntspbbdNkfyfySeT999ZBukY6xcvvZFc_1hoieCZlrTsNdsYBB7nvV_R3CezoikBTWjuA9nCX2sS1G8lpZwnCAk",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJl9Ju-NOObEcR7wNr2eOSsko",
+         "plus_code" : 
+         {
+            "compound_code" : "44CJ+6P Bratislava, Slovakia",
+            "global_code" : "8FWV44CJ+6P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJl9Ju-NOObEcR7wNr2eOSsko",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prievozská 4/A, 821 09 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1463472,
+               "lng" : 17.1388957
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14778902989272,
+                  "lng" : 17.14019302989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14508937010728,
+                  "lng" : 17.13749337010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "PLAAN ARCHITEKTI",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112798326599364107767\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ1fh2UNMjwimaEl0Wi_--D10yEbBB_RTXLrVfGFS9MRSUiF7dsbQPSUNZTnJU1ySJxCwLbHKOOvA4LGs42zTyZq2VlGDLVYY6vuATQMpe3A3vMS0pU1kybwLzs6oGZNKnJfwG7DOeg5kpj051trCb7SszAh0_7Anh_WiPZicshflUM",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJoSxCv3SJbEcROE2LArWTWDM",
+         "plus_code" : 
+         {
+            "compound_code" : "44WQ+GH Bratislava, Slovakia",
+            "global_code" : "8FWV44WQ+GH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJoSxCv3SJbEcROE2LArWTWDM",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Záhradnícka 27/11, 811 07 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.153333,
+               "lng" : 17.1240087
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.15464882989272,
+                  "lng" : 17.12538987989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.15194917010728,
+                  "lng" : 17.12269022010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Archideal | interiérový dizajn",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1284,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100672778528127548615\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZqcq4h0CGXlLcRQX6yi2CurXW2qOg34o_a6DLH3aUkzxnf9QV3MeaIwzitHTgFrwDqEco_-MzUMOZrwhowhnSN6mq3svAYY-oKUqFmrDvSmmX7F2q2eTP_JsvLy5Oo2YG_tqffyaKZ-iXyuEmDR_qx_oN3f9kWNEJtIYI7iwFF7LDC",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJE5qhAFmJbEcR0Quj35HplPo",
+         "plus_code" : 
+         {
+            "compound_code" : "543F+8J Bratislava, Slovakia",
+            "global_code" : "8FWV543F+8J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJE5qhAFmJbEcR0Quj35HplPo",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Staré Grunty 324B, 841 04 Karlova Ves, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1518361,
+               "lng" : 17.0654215
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.15321117989272,
+                  "lng" : 17.06696952989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.15051152010728,
+                  "lng" : 17.06426987010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "A.M. Architects Ltd.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJpdM57ZSLbEcR1aA3zDs4--I",
+         "plus_code" : 
+         {
+            "compound_code" : "5328+Q6 Bratislava, Slovakia",
+            "global_code" : "8FWV5328+Q6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJpdM57ZSLbEcR1aA3zDs4--I",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Radlinského 27, 811 07 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1523063,
+               "lng" : 17.1175381
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.15363862989272,
+                  "lng" : 17.11891627989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.15093897010728,
+                  "lng" : 17.11621662010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "FullHouse Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 540,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101662396478165235254\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZMeRwk6RilXVB-SfeUUOR1_HrORSYhViUa6Aa-cXLi5YTktlSLXnAbeX-9QwlpLhjPRlvXln5n9Nh76xgotjs4GtGbcZzyzRsYkAPBlM5nkKd3q6hjNejnGjKKtg4oirbwRnbuJ4IdEbJ-2KL_ygQ6G4JicsnBcUB34th9SYY1Sj5f",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJMzojVE6JbEcRjCX6S9ZUaBA",
+         "plus_code" : 
+         {
+            "compound_code" : "5429+W2 Bratislava, Slovakia",
+            "global_code" : "8FWV5429+W2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJMzojVE6JbEcRjCX6S9ZUaBA",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Michalská 5, 811 01 Staré Mesto, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1445327,
+               "lng" : 17.1064843
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14651707989272,
+                  "lng" : 17.10833217989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14381742010728,
+                  "lng" : 17.10563252010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "A1 Respect, s.r.o.",
+         "photos" : 
+         [
+            {
+               "height" : 4624,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106945165946847028861\"\u003eJayme Costa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb1QZtVW8_ZMnr1EYU0hnaiqo5iYKSmwcOQC0h6lbiENHlv2tHCEVxLjfeH2DZpVi7Q-ZUt6A1N9chl-h36jd9F80TfSJKd2PB7VTujCqKsv1qQqio4yWRtghs71XbX1k9kIFsoHPNNlPC5lJCj9s26EwKHC-TQGybtyX_KfIy6ytNS",
+               "width" : 3468
+            }
+         ],
+         "place_id" : "ChIJJ6x921yJbEcROtP1KYYfOXE",
+         "plus_code" : 
+         {
+            "compound_code" : "44V4+RH Bratislava, Slovakia",
+            "global_code" : "8FWV44V4+RH"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJJ6x921yJbEcROtP1KYYfOXE",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pajštúnska 3, 851 02 Petržalka, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1111376,
+               "lng" : 17.1031755
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.11240252989272,
+                  "lng" : 17.10452057989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.10970287010728,
+                  "lng" : 17.10182092010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "CreativeArch | interierový dizajn | interiérové štúdio",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110360697833732944139\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ_EuMjVJaGjJNupmjo__at-qG_mfl2OX9tHrA_HQx9BDrlCMzlSBI4TOwAoSo1L1gtXBumEPbcNQJvfkDQ5Q18tl7421P55pT-MA5rdwcUvfn79H6160XRNcNuDhvPn3MAGR5jvBUc_NyeUlavAwvfmD8sY8-m5K-4mZuq3PjqFQ7j",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJP8obB0iJbEcR5L6mXqMpw-8",
+         "plus_code" : 
+         {
+            "compound_code" : "4463+F7 Bratislava, Slovakia",
+            "global_code" : "8FWV4463+F7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJP8obB0iJbEcR5L6mXqMpw-8",
+         "types" : 
+         [
+            "general_contractor",
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Vajnorská 24, 831 03 Bratislava, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1609855,
+               "lng" : 17.1311587
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.16237727989272,
+                  "lng" : 17.13241552989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.15967762010727,
+                  "lng" : 17.12971587010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Architektual",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3847,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104225970589917355970\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb6EptjOAuxgpg9WOJHSeSp8F63zyeID7oHbvznc3Jpua6vH1kOvsHjrtwCL8xY0jNU31hpzfaG-hOR5MrdW7uz8KRfJtV3aqEGwrBOEo-iYGmIeWQ2BtwfmnZl-0TGMoIXB93EyYgCcgNybCaV_NcH7_SAZAnTJpjPm3e0cq5h7WMm",
+               "width" : 5000
+            }
+         ],
+         "place_id" : "ChIJIWmfePuPbEcRjIRQcVrVd3c",
+         "plus_code" : 
+         {
+            "compound_code" : "546J+9F Bratislava, Slovakia",
+            "global_code" : "8FWV546J+9F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJIWmfePuPbEcRjIRQcVrVd3c",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Zámocká 36, 811 01 Bratislava-Hrad, Slovakia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1445857,
+               "lng" : 17.10213
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14597487989273,
+                  "lng" : 17.10348922989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14327522010728,
+                  "lng" : 17.10078957010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "VAVRICA ARCHITEKTI, s.r.o.",
+         "photos" : 
+         [
+            {
+               "height" : 2336,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116888480868066661611\"\u003eVlado Beňo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYgjJlS3xEnXnH4Cf-0BYF-dMIldLoNBAwjpq-FDsCPuAFFnHrCF9MuA9uvPfDCqNuTXigsu7t35nF-bmmNOOSloM9Ec4AQm7ZDgc_HSwy_GqTIWSuOsioCs0z8uMd7alvZubzZ_GUdwnsmfYeGCbV19LsjbbTP0o-Dr5yBv5AMxPeu",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJP6UtzV2JbEcRidJSstceJPI",
+         "plus_code" : 
+         {
+            "compound_code" : "44V2+RV Bratislava, Slovakia",
+            "global_code" : "8FWV44V2+RV"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJP6UtzV2JbEcRidJSstceJPI",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      }
+   ],
+   "status" : "OK"
+}

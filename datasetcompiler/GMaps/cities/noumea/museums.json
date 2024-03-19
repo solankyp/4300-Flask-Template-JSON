@@ -1,0 +1,534 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "PFVJ+GQC, Max Frouin, Nouméa 98800, New Caledonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.2561987,
+               "lng" : 166.4818811
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.25497647010728,
+                  "lng" : 166.4834264298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.25767612989272,
+                  "lng" : 166.4807267701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tjibaou Cultural Centre",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 768,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110484202953723845539\"\u003eDavid Stanley\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYP397gwBYj9_51MAM28SucvysNnKSUoohvevHkbQ9YLoYd5oilcS26HqCuiPSgSC6NBPNer9trSsq26pLCD7SCQiv58xJL4yU3y7qxChdFJTEmIdlcuG-NfxjYCwn7y_mLvAUshrOaJSAYWkdUEcm_xT3oTE5TYpPVPsHPYuml004d",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJG0pm7mwIKGwRf0S3V4_dPWE",
+         "rating" : 4.4,
+         "reference" : "ChIJG0pm7mwIKGwRf0S3V4_dPWE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 678
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "39 Rue Jean Jaures, Nouméa 98800, New Caledonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.2704177,
+               "lng" : 166.442295
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.26915712010728,
+                  "lng" : 166.4436460798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.27185677989272,
+                  "lng" : 166.4409464201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée de la Ville de Nouméa",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2760,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113109890289783300244\"\u003eHue Mohamed\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZWZno4uxigG-a4PQqxykJI75wk02SelWS0DUm1HlFLMDvo9CBhTB7aRTA3nZXSU27t98R6OWyBfI6ml1mmYh0m7W07NIiDa5oJzYMTtoEyIjskU5H_iR26VGcZhiI1ZdOkFLKFAvf7T18L3dG6IakgYopzYz3l1tn03vb5vts6Vls5",
+               "width" : 3678
+            }
+         ],
+         "place_id" : "ChIJVbc7sJHiJ2wRDDCKhM6keAk",
+         "plus_code" : 
+         {
+            "compound_code" : "PCHR+RW Nouméa, New Caledonia",
+            "global_code" : "5V98PCHR+RW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVbc7sJHiJ2wRDDCKhM6keAk",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 89
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Avenue James Cook Nouméa, 98800, New Caledonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.2679628,
+               "lng" : 166.4339159
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.26656142010727,
+                  "lng" : 166.4352656798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.26926107989272,
+                  "lng" : 166.4325660201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Maritime Museum of New Caledonia",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104032443273475131331\"\u003eSandy Woodhouse\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaYfLiDfSwYZYwWHRIhp3J_NksYDIuvW8867sWiLk8MrNYg_PIhaUE8x1zDoRPbvqaS8D-p_Kys7QMV7z5vCqHEupvYn8KL9uRll2QWsGTCQeOFB_H5dL43QbYPG-aNvD-BijN-fLQ-oZT24zHDX-GnvLgzRRH4et5SG3X-i35JgB2N",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJH-T2MJPiJ2wRDUVjIZ9i3ZI",
+         "plus_code" : 
+         {
+            "compound_code" : "PCJM+QH Nouméa, New Caledonia",
+            "global_code" : "5V98PCJM+QH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJH-T2MJPiJ2wRDUVjIZ9i3ZI",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 121
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Rue Kataoui, Nouméa 98800, New Caledonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.2620673,
+               "lng" : 166.4034345
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.26070462010728,
+                  "lng" : 166.4048058298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.26340427989272,
+                  "lng" : 166.4021061701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Site historique de l'Ile Nou",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116832925424149125372\"\u003e荡云海\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZX2or4sI4O7GrD_tlDxPWYhgGi6NgzMtmwcsVo6RQJe9WMw-PqHaClEOcG-k-NtRgmVvm0tNYuMAc8bfkztG_jM2lxbuHV8wW1lKisZazbRReUtAj68gdST9KNFD8j4jbxWJAh_mlUD7plMlt7OL45Th6rfvT1diDAXgNDyQDaef8-",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJQZ4-A7LjJ2wReWFRsJ0QpmM",
+         "plus_code" : 
+         {
+            "compound_code" : "PCQ3+59 Nouméa, New Caledonia",
+            "global_code" : "5V98PCQ3+59"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJQZ4-A7LjJ2wReWFRsJ0QpmM",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mouidou, New Caledonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -21.7286868,
+               "lng" : 165.7157967
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -21.7253604,
+                  "lng" : 165.7166599298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -21.7297956,
+                  "lng" : 165.7139602701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fort Teremba",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115429362324166385979\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYrPwBKF_tBWNcpSTBcPO4vqZyRIacCblQn-eA7m-qdzezO3KtPElDqaCItGhXajoicrVIbFSKDM3L3DOldTR0ur7GO-T5UHlkFD_PaUpqSlPyipkJTRgAk1IX9bfd3XJD52Tm-65T8IqJbjQfZee4ic6HpHPKZy_lfC4Xhj1YtvVhF",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJQYFaSx52nW4RbUdZN8G9RuA",
+         "plus_code" : 
+         {
+            "compound_code" : "7PC8+G8 Mouidou, New Caledonia",
+            "global_code" : "5VC77PC8+G8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJQYFaSx52nW4RbUdZN8G9RuA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 113
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "BP 1469, RT1, Bourail 98870, New Caledonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -21.5715984,
+               "lng" : 165.4991236
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -21.57024417010728,
+                  "lng" : 165.5003605298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -21.57294382989272,
+                  "lng" : 165.4976608701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musee De Bourail",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2976,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114978913997790687079\"\u003eChoi Anna\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZwbrnPF9dXC2v3KGF5wzFLhGlzLZj03gQ-vauNae91DYrQPVw2uel5trj0YDy0Fe5KuHFmok64_053VvsxdV-FI-_DPnBZdyW1SgIzlq_MUAG1g0qRe-DuQu5iK1pClo7aGYggFCU3kHkzzPZe56csMMWzl_1YK0FSOHVekFmTuDBy",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJjWbXoxS9nW4RadtUJK-IYNY",
+         "plus_code" : 
+         {
+            "compound_code" : "CFHX+9J Bourail, New Caledonia",
+            "global_code" : "5VC7CFHX+9J"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJjWbXoxS9nW4RadtUJK-IYNY",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 32
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "96P7+RWC, Thio, New Caledonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -21.6129854,
+               "lng" : 166.2147474
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -21.61167627010728,
+                  "lng" : 166.2160853798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -21.61437592989272,
+                  "lng" : 166.2133857201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Mine Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109325156899935195530\"\u003e澁谷和俊\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaSoVn7j5Um6hh8NvmDKCGbtCeVEXlaiqFR-4HeIvmR51dWD82yUFowDmSe5lscgBz6YHmjamj-k3y8uY2y8sziCD5fiGeI4ORW-oAyJl4OQg5l9Yul-94-VdcUB5PplAQEMr1LpOtZ3Os0UAI9_X0uOJTrJZ0aswDmei_wDjYuVIYA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJkQ23Ff04nW4RapZG_5uIblU",
+         "rating" : 4.8,
+         "reference" : "ChIJkQ23Ff04nW4RapZG_5uIblU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "V95H+M76, Paita, New Caledonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.1408233,
+               "lng" : 166.3781521
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.13921622010728,
+                  "lng" : 166.3792316298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.14191587989272,
+                  "lng" : 166.3765319701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée Rural de Païta (ancienne Villa Musée)",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1728,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100430736417989812614\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYFM9XdjDA00xunpnnsSvIM-6jUrbYwuNBbgaxu9A46wl0f3ycUFL73P_0Bnl9nVjrhpqd5_zgH0lFdHhdDXNJbKwaa3UmbuI60xIb3PajgX_YHbyawqfq4ZSwu7wjduTT-Ct41sOXeraPIBsLN5g849RcYeVYbF1SuJxukK9BTSzCR",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJJeY9CB38J2wRR-FXGpfNC4A",
+         "rating" : 4.5,
+         "reference" : "ChIJJeY9CB38J2wRR-FXGpfNC4A",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "43 Av. du Maréchal Foch, Nouméa 98800, New Caledonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.2758994,
+               "lng" : 166.4431497
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.27455602010728,
+                  "lng" : 166.4444230798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.27725567989272,
+                  "lng" : 166.4417234201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée de Nouvelle Calédonie",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 296,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100013008217814096949\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbnnHaq5TZkRbmrxkfaSZMuEZ0oa9z900d47n0MaVE1CiYy1RllJcK9eNE648StVQQCj9289ZFM0sIeYkdujgtRoaKd2286VapE9KFbEYO5IWda4S45MKKzoQYLYw9bhfctWsB6_FgeRKoo9p8TdGJKDySpnUxE6kUgEFNf4ngJXj4I",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJo8FjDI_iJ2wRlTp4MGDkQxk",
+         "plus_code" : 
+         {
+            "compound_code" : "PCFV+J7 Nouméa, New Caledonia",
+            "global_code" : "5V98PCFV+J7"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJo8FjDI_iJ2wRlTp4MGDkQxk",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 70
+      }
+   ],
+   "status" : "OK"
+}

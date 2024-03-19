@@ -1,0 +1,587 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "F4M9+P4M, Ash Shati Al Gharbi, Dammam 32412, Saudi Arabia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.4843462,
+               "lng" : 50.1178124
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.48562577989273,
+                  "lng" : 50.11926987989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.48292612010728,
+                  "lng" : 50.11657022010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Dammam Regional Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104413576193683141624\"\u003eStealthDuvet\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbGBL5u5iUZm-Oqc6Z-7Dk8rCP_3GOPazvq48wy0mHYxBuSIV1-zAXqhk7ZGwAyeoNRR-B6XNbIJaSCQkJ8eO_cm_ClkpTF8STdLP6SiNZ7pzdN73xOogly0YVJIwLyUgtXX0mhjVu7xfXJtivm8cyytGJQujEWT5xGuKF3vYqtuiN5",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJOze84un5ST4RwkcynWoLvIs",
+         "rating" : 4,
+         "reference" : "ChIJOze84un5ST4RwkcynWoLvIs",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8386 Ring Rd, Gharb Al Dhahran, Dhahran 34461, Saudi Arabia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.3354262,
+               "lng" : 50.1209593
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.33677602989272,
+                  "lng" : 50.12230912989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.33407637010728,
+                  "lng" : 50.11960947010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "King Abdulaziz Center for World Culture - Ithra",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101073779305836104100\"\u003eنسرين المصري\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbzH3jHPxJnKMbsH8Q6Mz83-xtoECDVt3HdgBaC_nvKHUNg_YMvgUjCcITn1D2jDJV0X7EK07TWPBWZJwNeUrLirdR3nV2HMp2XRy-tevFEmT-o6_9gbKnu4w_d3WQJIt_G21plNo5AUgA6qiyCGtoMdPBHcAdjJd3pPylC4v-laPV_",
+               "width" : 899
+            }
+         ],
+         "place_id" : "ChIJW_eTFRbkST4RftSJXB76nhw",
+         "plus_code" : 
+         {
+            "compound_code" : "84PC+59 Dhahran Saudi Arabia",
+            "global_code" : "7HRG84PC+59"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJW_eTFRbkST4RftSJXB76nhw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "movie_theater",
+            "museum",
+            "library",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5886
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Corniche Walk Way, Ash Shati Al Gharbi, Dammam 32411, Saudi Arabia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.4919855,
+               "lng" : 50.1205839
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.49351752989272,
+                  "lng" : 50.12182462989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.49081787010727,
+                  "lng" : 50.11912497010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Heritage Village",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114693227470930694580\"\u003eweAam sinjab\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZZYTZ4RO12XAWUNbg-KSreh7Geb_TRmtT6nRpDOWsIDGo3uEH35MK7guu7J42_1UeatGlXnM0XDM7ShAFnYu_6WyeVxmW_Hm-6cB6reVLNY9SmL1Z32Yd3VlD9BZ5gwQF1oAwaAIDr2f5K8pf7896Ov2d_mN-XrboBZIeuIAUh5ViR",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ5XedP5X7ST4Ruh7LAYx2BSw",
+         "plus_code" : 
+         {
+            "compound_code" : "F4RC+Q6 Dammam Saudi Arabia",
+            "global_code" : "7HRGF4RC+Q6"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ5XedP5X7ST4Ruh7LAYx2BSw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9779
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "84MF+Q2G, Saudi Aramco, Dhahran 34461, Saudi Arabia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.3344383,
+               "lng" : 50.1225929
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.33585532989272,
+                  "lng" : 50.12411367989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.33315567010727,
+                  "lng" : 50.12141402010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Energy Exhibit",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103222226809061299722\"\u003eAhmed Shuaib\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZmd-Ef062jAWAMva3LWDTEQkhzkE-TVH9TRvB-ouXifXV44hlQUfsrciBSbAm5IYmu8NupeWft8b3Ve3cnWvd13Ds7R0dMAKHASAmQW-OSjU2I5m2Zat423jwSPrXeVSLczhpJmcbJ4Ri5F9smbydymQjXavYk5jULdDuWsSrQ1rMz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJN65pcT3kST4RMqg8grnXjIU",
+         "rating" : 4.6,
+         "reference" : "ChIJN65pcT3kST4RMqg8grnXjIU",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2479
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "F4M4+H94, Al-Hamra'a, Dammam 32421, Saudi Arabia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.4838856,
+               "lng" : 50.1059547
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.48554397989272,
+                  "lng" : 50.10732037989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.48284432010728,
+                  "lng" : 50.10462072010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Marjan island",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116623937464341199697\"\u003eMazher Shaikh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaTICxPiDqeQqx4VA8Csm6mAZVEyV6uYOO1_0_zbaA4D4JdXVdhh0TLSEp-Y2ZulE4F12d7Cl1j8i-5uSslfBAQVzmeifWEDiGqGAnP1HrhihxkAkqpLX9NenGKou1at6tuUtosQOfnjlDsTZYl_yO8-hkv030ZIN7Y-OlSK_XkrTaG",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJhWRpHaL5ST4Ri640CsQXL3Y",
+         "rating" : 4.1,
+         "reference" : "ChIJhWRpHaL5ST4Ri640CsQXL3Y",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 75
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "البراد بن مالك, Al Sheraa, Al Khobar 34742, Saudi Arabia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.1670314,
+               "lng" : 50.1453238
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.16837502989272,
+                  "lng" : 50.14671772989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.16567537010728,
+                  "lng" : 50.14401807010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Taybeen Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107669893070186835544\"\u003eeyhab elteany\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa53p50VR2N_UsAE0MApVfpZTXX9IYFrHxrAD2k-cJy4MLfK_uPoOzuB4dpcS68xWz-FT--0VmbIR_pWrJdMFYLsdzQerg8PpcnvWc0y3WNAywyncZKO76s6ex2KppunOe7Ks1OUL-4koOD_zfITLaHYhPHKsBZ4eDmecXaReuq7uT_",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJZ0cxJXnbST4ROpLc5jyIw4c",
+         "plus_code" : 
+         {
+            "compound_code" : "548W+R4 Al Khobar Saudi Arabia",
+            "global_code" : "7HRG548W+R4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZ0cxJXnbST4ROpLc5jyIw4c",
+         "types" : 
+         [
+            "museum",
+            "zoo",
+            "cafe",
+            "park",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1757
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "869H+M5V, Alkurnaish, Al Khobar 31952, Saudi Arabia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.319249,
+               "lng" : 50.2279355
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.32090875,
+                  "lng" : 50.229491
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.31802054999999,
+                  "lng" : 50.22667819999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Scitech(prince sultan Science and Technology Center)",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117006787478107605052\"\u003eبو بدر\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZtHf6wZjHnxIU36lnbEueV07kKFrQYsv6IC6oYqN9MUEIWGykTkFK2e_P4AL_MEt1lLCn9d7_MvttRhYMWkj7cstY1FF5Wl0f10C38iuGnElB40LZ93T76LC5jVWBOYljDVti4WFuMqD8D8OlbsTycRi21Cg1H2e9Y8A735BsK80tt",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJd5IflADpST4R8tpY13wjOFQ",
+         "rating" : 4.3,
+         "reference" : "ChIJd5IflADpST4R8tpY13wjOFQ",
+         "types" : 
+         [
+            "movie_theater",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6709
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "C4P3+HPQ, Al Adamah, Dammam 32242, Saudi Arabia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.4364612,
+               "lng" : 50.1043453
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.43788577989272,
+                  "lng" : 50.10571662989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.43518612010728,
+                  "lng" : 50.10301697010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Regional Museum Office",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101944320961649900053\"\u003eFaisal Alghazi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbDWg0zRk7t37PWUyyKvOpHsL8k4bbQyJ5F43avNNCmqRn2UxiDp59Y0eSE-bU_os1393aI_5-s1ZJyJZrVsUi7pC_brOF1FsacH6VnrTrwaRfdZAleAbDcZXq_j3yLIX7XcfKRyBcI7M5EiqIc-PJILXsS4gmtMTpgHdpmXRva4dk",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJLaF-uYH7ST4RwZhMJ-xqA7c",
+         "rating" : 3.2,
+         "reference" : "ChIJLaF-uYH7ST4RwZhMJ-xqA7c",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "8061 8 الدمام _ حي النزهة 55 الشارع التاسع 32252, Saudi Arabia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.3997988,
+               "lng" : 50.1108712
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.40114737989272,
+                  "lng" : 50.11222352989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.39844772010728,
+                  "lng" : 50.10952387010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Alfelwah and Aljowharah Museum",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105265193880563096495\"\u003eMohammed AlShowaier\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZlNiAakH-1dtW_8UNKQDbqAOwB4LQ11TXGbd6VSCGVxiU6q3NAQblaQvyWKXGZOZExAr7wWkFzKFug9Y4oKnpIefpD5ZhQfjKEJXLTjneEd1J2YgaEEWJQHOWnZRNPYHGZ5WGR0pXEA0hsaqb6aoUZ_Fg13YlreywFN-nys8lYkPBy",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJI1YwfU37ST4R1XtdJ6TUO20",
+         "plus_code" : 
+         {
+            "compound_code" : "94X6+W8 Dammam Saudi Arabia",
+            "global_code" : "7HRG94X6+W8"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJI1YwfU37ST4R1XtdJ6TUO20",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 299
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "3335 King Faisal Ibn Abd Al Aziz, Al Khalidiyyah Al Janubiyyah, 8918, Dammam 32221, Saudi Arabia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.4173615,
+               "lng" : 50.1664913
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.41880922989272,
+                  "lng" : 50.16788427989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.41610957010728,
+                  "lng" : 50.16518462010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Boradha Trading Est.",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106060866525970211973\"\u003eرحال الخبر- وائل الدغفق\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYTM9PvgmYUocb48693BCl_JXOeU7hSCFu3tYjWwZDYBCjoZoYhbRN9vAk28DFv5HUV1fWuLwJUadkkpivnxPSfz9B_XiYgoX8qLh9g5U1E1GwSX2sqiRYqWfVdm4mrRpP1bKxHeHio5dfyMIA15TKVCg4rpyz49h6SiVNxnXA4CPDV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZfdvwLT6ST4R0n90s17R8MY",
+         "plus_code" : 
+         {
+            "compound_code" : "C588+WH Dammam Saudi Arabia",
+            "global_code" : "7HRGC588+WH"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJZfdvwLT6ST4R0n90s17R8MY",
+         "types" : 
+         [
+            "home_goods_store",
+            "museum",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 56
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,519 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3656309,
+               "lng" : 173.1207438
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.366882829892722,
+                  "lng" : 173.1221403798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.364183170107278,
+                  "lng" : 173.1194407201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Te Umanibong",
+         "place_id" : "ChIJOVqXWs1vZGURBtMEKB1kPHE",
+         "plus_code" : 
+         {
+            "compound_code" : "948C+77 Buota, Kiribati",
+            "global_code" : "6VHM948C+77"
+         },
+         "rating" : 4,
+         "reference" : "ChIJOVqXWs1vZGURBtMEKB1kPHE",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Buota, Tarawa, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3732383,
+               "lng" : 173.1514991
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.374588129892722,
+                  "lng" : 173.1528489298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.371888470107278,
+                  "lng" : 173.1501492701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Te Nii wanikai",
+         "place_id" : "ChIJu5d0B1VvZGURqWT1UUBkLv4",
+         "plus_code" : 
+         {
+            "compound_code" : "95F2+7H Temwaiku, Kiribati",
+            "global_code" : "6VHM95F2+7H"
+         },
+         "rating" : 5,
+         "reference" : "ChIJu5d0B1VvZGURqWT1UUBkLv4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kiribati Institute of Technology, Betio, Tarawa, 00197, Kiribati, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.356225,
+               "lng" : 172.9277139
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.357559379892722,
+                  "lng" : 172.9288254298928
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.354859720107278,
+                  "lng" : 172.9261257701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Battle of Tarawa Memorial",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2912,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101360065318660589345\"\u003eBrian Griffin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbtSwZ2v6w6c-CEVwRGEOOKCuv2YzKTAKkccZlvsLnXsz9m6yhdfm2zaKmqSs3AfSmj3mRx3MYivFsWjXLbv2PNynhYL2FZWj90P8XIkwyBwHCNHg51AxZINOZSLeVVodICT20L7l7vVA50aQEFqQvKAyLMlSIMW_3BF_FsRmR1oj4g",
+               "width" : 4368
+            }
+         ],
+         "place_id" : "ChIJJWbCTrViZGURQZ8Smntdidk",
+         "plus_code" : 
+         {
+            "compound_code" : "9W4H+F3 Betio, Kiribati",
+            "global_code" : "6VHJ9W4H+F3"
+         },
+         "rating" : 0,
+         "reference" : "ChIJJWbCTrViZGURQZ8Smntdidk",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "948W+J8J, Unnamed Road, Temwaiku, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3665981,
+               "lng" : 173.14575
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.367947629892722,
+                  "lng" : 173.1471383798928
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.365247970107278,
+                  "lng" : 173.1444387201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Tobwaan te Tongo Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2240,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104698788147936790180\"\u003eTebwebwe Tionatan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ-jgFVRbRxRJEsF8i7Bt1cd-lakXf5gmav8HpYbpAC58dj44PR-MDwHMWku_WS0_nX6sStNclcFSQmvaWByy2bDXFCfztn1UBKK7dUDoYpF5D-yi7Jwy8UeGbghPRaayVrbMrF03j6ThziVOdm50mieXfH54l-xm7tcUsTSXcoQTEU",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ3-gm0Z9vZGURvr7TIPHlWEA",
+         "rating" : 4.4,
+         "reference" : "ChIJ3-gm0Z9vZGURvr7TIPHlWEA",
+         "types" : 
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "82J3+WH, Nanikai, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.332331,
+               "lng" : 173.003921
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.333589929892722,
+                  "lng" : 173.0052932798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.330890270107278,
+                  "lng" : 173.0025936201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Amusement Park",
+         "place_id" : "ChIJ0fYhXYV7ZGURDdFtU4eUM8M",
+         "rating" : 0,
+         "reference" : "ChIJ0fYhXYV7ZGURDdFtU4eUM8M",
+         "types" : 
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Betio Island, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3498473,
+               "lng" : 172.9463063
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.351119629892722,
+                  "lng" : 172.9476170298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.348419970107278,
+                  "lng" : 172.9449173701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kiribati National Tourism Office",
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106223544053398054709\"\u003eBudi Amir\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaxKlstGxop5K4kUm3_Hz3Yydi9O-2RpInBUPBSs7iFHEvDDlKshrQn9QbLkLQbW3i4D6rLxCZkw-yoChxNqV4Zk5G2eBCxAOsGWz2CCMiOEVbfYfbo0PQX3bGPM3dJVq2mn45cfv3xVvudo0MF-6umHqXYShDj3yjyvQLuTb4rErvW",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJcxcl9MpiZGURCnp5rmFkVXY",
+         "plus_code" : 
+         {
+            "compound_code" : "8WXW+WG Betio, Kiribati",
+            "global_code" : "6VHJ8WXW+WG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJcxcl9MpiZGURCnp5rmFkVXY",
+         "types" : 
+         [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 23
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "9W3F+H36, Betio, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3539201,
+               "lng" : 172.9226254
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.355366679892722,
+                  "lng" : 172.9239544798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.352667020107278,
+                  "lng" : 172.9212548201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Betio Memorial, Tarawa",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112516121310700942159\"\u003eGreg Meyer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZzUdmAv0GHwAYZhTjpl_WXZpUi0HWZxJlnRism70pxaWEN6Yh28SSkh3M4Nv15Y3DCvyCyCCQOHnO2bw6UeJX2ZiSiLY540Ib6YIHHgGOj2Zp27RxyFgPcsynwQkRscpR_RxwxtxPJZ6e0R-ILm63hVGWYj08MiyjEGsmIy4s8Vud4",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpVhw6qt9ZGUR8nFSy0JcRj0",
+         "rating" : 4.5,
+         "reference" : "ChIJpVhw6qt9ZGUR8nFSy0JcRj0",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "9W5H+CC9, Betio Island, Betio, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3585269,
+               "lng" : 172.9286208
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.359821729892722,
+                  "lng" : 172.9299484798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.357122070107278,
+                  "lng" : 172.9272488201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Public Park",
+         "photos" : 
+         [
+            {
+               "height" : 1239,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112516121310700942159\"\u003eGreg Meyer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYiDBKEvG-0O5nYIscuR7ZgQ1b2l_vuw2vIDbJ4_9SthCAZ6VlTdqZJc4LBGbBfatznBo_fkPcmHPUgtTBZE_ncvmIOdl_ooiihs_qLSXxO1AE0jwUV5BopXi0iVa9NnkcPeXoTPZGdlCXVMh4fT0vwakJk2WTeJ4f5-6REAPPn9Tes",
+               "width" : 1889
+            }
+         ],
+         "place_id" : "ChIJ2bAOvOdjZGURFr2OpB5vcO4",
+         "rating" : 2.6,
+         "reference" : "ChIJ2bAOvOdjZGURFr2OpB5vcO4",
+         "types" : 
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Takoronga Tarawa, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3566345,
+               "lng" : 172.9299068
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.357981929892722,
+                  "lng" : 172.9312365798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.355282270107278,
+                  "lng" : 172.9285369201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tourism Authority of Kiribati",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112276430695411590899\"\u003eDeepak Goel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaEgSpScbUY40CmqlRaZhpbYtqZvJBOgs-mbOhlgvtT-uU744dPHDSL68DugcrwILgTu0sIZIGrCScE2KSoE6Gh0HGEo39tYaOpkbxTfCNVsaHKQv4dDWZph_Zf1KZ_XMopevcTzS2ntSljaFAwZAvjphwx8l4VvglgoINOstP4hjCa",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ2xOSkrFjZGURGm2n12lloLI",
+         "plus_code" : 
+         {
+            "compound_code" : "9W4H+MX Betio, Kiribati",
+            "global_code" : "6VHJ9W4H+MX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ2xOSkrFjZGURGm2n12lloLI",
+         "types" : 
+         [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8XHG+JM5, Bairiki, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3290022,
+               "lng" : 172.9767376
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.330057829892722,
+                  "lng" : 172.9781421798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.327358170107278,
+                  "lng" : 172.9754425201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tarawa",
+         "photos" : 
+         [
+            {
+               "height" : 1728,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116312173802476145202\"\u003eSanjay G\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaZrkuH7X4Pp6dXpCSAOSPCNpY8flQLOdFIZCrbWugkhcHx3jjxj6IA7u-OtyK__w2HG6XreeaOMly--PIOyAgw9H9qo0umQ_yfSyJyU-T1O_5jPsF3A-Jf-rYn1wlyWQHGm6vj1f8y6c7eatq-IDMW6Ya4LQoMkmQrOw43vuD0pvc",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ-epi9r19ZGURBNIKFmMF5dA",
+         "rating" : 5,
+         "reference" : "ChIJ-epi9r19ZGURBNIKFmMF5dA",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      }
+   ],
+   "status" : "OK"
+}

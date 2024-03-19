@@ -1,0 +1,1097 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYFXUIaohbZGefCF1bET54yJvJOW_xhcGrvmO2TSwSuaq4eOUICWqsSVsqsVmAMoBt7XAWKO1G6r78zR9Cl7MhPgesy14r7OJm0tI7-Z3lBeadDbxQLhQ3I9OZYnAznGjXNtEPTGqEFViTih4UlJOW9bfe54UdMu6_zOYQoe_bQ3D3UGiyS53MKJNB2G-_VZAI9U22yGMJF4462MnFyIZjf4mKLx2Z-_W2FozzAiA9T3eCMM2y6doU-7Sm4p-YR2ubIrfO7dTOYOR9wiWm0EN91erZ5hIXrQlfQz1rc-oaCWzds-L1DBl97F1HtAZSfPYrVJTeL9EokCtIkxCbcnj03GaW0b6o5rIjN0_pBDBR6sEW8Hr8TScUfGOJHebz6uQEMGhzZK2kjRlZ9Gknd7n4btTtz",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Veskiposti 2-1, 10138 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.418708,
+               "lng" : 24.7563822
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.42011702989272,
+                  "lng" : 24.75789167989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.41741737010728,
+                  "lng" : 24.75519202010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Esplan OÜ",
+         "photos" : 
+         [
+            {
+               "height" : 1024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104359992736617380387\"\u003eEsplan OÜ\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJalcCMigZ4lKysExP7uq9UbG3qC3K3BLq_8KHkrkDDSGyddv3Ak34gAFLQkt8hKs7cfEUzn4jSue-vDYsHm2dipzY2G9yzP45D46_QDcgigqz7daIuyDutbh9PxLlNu79vJRt5bA3-77zGfZ_Ugjm0cyiG1tSEsm3adCF0R0gdTCxtd",
+               "width" : 819
+            }
+         ],
+         "place_id" : "ChIJ9f-HmVCTkkYR175zmuL6UMQ",
+         "plus_code" : 
+         {
+            "compound_code" : "CQ94+FH Tallinn, Estonia",
+            "global_code" : "9GF6CQ94+FH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ9f-HmVCTkkYR175zmuL6UMQ",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ahtri 2, 10151 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.44029519999999,
+               "lng" : 24.7559044
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.44163307989272,
+                  "lng" : 24.75720452989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.43893342010728,
+                  "lng" : 24.75450487010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Estonian Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 849,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106458941233190995709\"\u003eEesti Arhitektuurimuuseum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJav73rE8PNyZV1rdO2Hy5hLvQ8WyWQXNOXGy3UxIXrJsGB3lnvBHHncMA3J3mtsde1DdiniemVd-z5zZZOIWN04ZDsPbSRnaQDDFTsaa_QZ2lVuk0Mxc08bhGJ3blLsjm0kIzQnoZCv45pKsi9YFiL7mZSsBCpf-hEului74_IzZAND",
+               "width" : 1310
+            }
+         ],
+         "place_id" : "ChIJ89il1maTkkYRaoGk1ASR4r4",
+         "plus_code" : 
+         {
+            "compound_code" : "CQR4+59 Tallinn, Estonia",
+            "global_code" : "9GF6CQR4+59"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ89il1maTkkYRaoGk1ASR4r4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 704
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pärnu mnt. 6, 10148 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.4354892,
+               "lng" : 24.7488181
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.43677482989273,
+                  "lng" : 24.75024802989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.43407517010728,
+                  "lng" : 24.74754837010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Design and Architecture Gallery",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 683,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102650739078425993374\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZxjHneAl2gi3fvTQuTXimeeNyCFcDzLdkRC3A_lyYqRyioQcTQyTSjDwNcnspKkcTlQ3yRWIlgL_GHorKSQtSQ2DVlq58SgjLrNZNIppTYpijwF152tszE3AL2o_BwLufO4f9pWCiXETs92utpbdMl2R4sKfEscBiRFH7dCiSFCqCA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJO2Vw3mGTkkYR-xf_hTRkPkk",
+         "plus_code" : 
+         {
+            "compound_code" : "CPPX+5G Tallinn, Estonia",
+            "global_code" : "9GF6CPPX+5G"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJO2Vw3mGTkkYR-xf_hTRkPkk",
+         "types" : 
+         [
+            "art_gallery",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 104
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kursi 3, 10415 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.4442219,
+               "lng" : 24.7513551
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.44558157989272,
+                  "lng" : 24.75290992989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.44288192010728,
+                  "lng" : 24.75021027010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Eesti Arhitektuurikeskus",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1707,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102096212345148886430\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbEFQsuaMLz8aekHnVqj11qgSOAu1godQAGkzrZ4eXzBg5lG7-YhfpmD_TG1rXVzoNvMaUbWwQdrT56jH5PbIriXpRcxiqSZkYIUzheiu48XE36h1f_Z2Uq6ddvFgPiQiSDdIy3mLdnYJNLOY5yzh1ttNSDeK_Y86rofjLv7plSjNmd",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJh7iFtGWTkkYRNQNYqHr6uxU",
+         "plus_code" : 
+         {
+            "compound_code" : "CQV2+MG Tallinn, Estonia",
+            "global_code" : "9GF6CQV2+MG"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJh7iFtGWTkkYRNQNYqHr6uxU",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 28
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Peetri 11, 10415 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.4515498,
+               "lng" : 24.7288116
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.45285842989272,
+                  "lng" : 24.73026427989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.45015877010728,
+                  "lng" : 24.72756462010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "studio ARGUS",
+         "place_id" : "ChIJZ1DscceUkkYRkmrcfM1xXLE",
+         "plus_code" : 
+         {
+            "compound_code" : "FP2H+JG Tallinn, Estonia",
+            "global_code" : "9GF6FP2H+JG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZ1DscceUkkYRkmrcfM1xXLE",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Vabriku 6, 10411 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.4424783,
+               "lng" : 24.7331797
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.44379532989272,
+                  "lng" : 24.73448822989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.44109567010727,
+                  "lng" : 24.73178857010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "TEMPT architects",
+         "place_id" : "ChIJPbUX_l-TkkYRibxRN4W_Kfk",
+         "plus_code" : 
+         {
+            "compound_code" : "CPRM+X7 Tallinn, Estonia",
+            "global_code" : "9GF6CPRM+X7"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJPbUX_l-TkkYRibxRN4W_Kfk",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Laki 30, 12915 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.41152630000001,
+               "lng" : 24.6749678
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.41296572989272,
+                  "lng" : 24.67653932989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.41026607010728,
+                  "lng" : 24.67383967010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "VNDL I Arhitektuuribüroo",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1053,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112924273654924129330\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJagZw74alenEXavHElik_7_7vh5Esm0EwAY1R21Aq3QDsjNQGtxJ8JKOvTMIWAC3caZaQWywkq5pz3O_azIwm_7_9oVBczNITit-pVLEVBwMKojscE4mr5bPTP8lVLXbvgeTsd6az_6HMMuVomZVVFvpz2BObi_Tho2z7PhFgi3s1Tl",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJN8e92DSVkkYRaLUuVkUAQ9U",
+         "plus_code" : 
+         {
+            "compound_code" : "CM6F+JX Tallinn, Estonia",
+            "global_code" : "9GF6CM6F+JX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJN8e92DSVkkYRaLUuVkUAQ9U",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tartu mnt 84a, 10112 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.42510589999999,
+               "lng" : 24.7812868
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.42645377989273,
+                  "lng" : 24.78264167989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.42375412010729,
+                  "lng" : 24.77994202010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "KOKO architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 480,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103310520470074133347\"\u003eAndrus Kõresaar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbGwrirSny6v4voJJ7fj16mYsaFU3I4JiQyWxIl0CKFVAwSlQjeg6WW9YEmtsX0wWzBS3fDkGmoibcOR47WWMz0GlcI5976nM4TmSNzSYlO8vwmXPBCMft8xySggk_4GEWk-BEEaOoC1bVz_S7K_peIVaNvDY_l-rxxlZtYyaVlFmQ1",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJL_t_fqmUkkYRjqwA4iFPVJw",
+         "plus_code" : 
+         {
+            "compound_code" : "CQGJ+2G Tallinn, Estonia",
+            "global_code" : "9GF6CQGJ+2G"
+         },
+         "rating" : 5,
+         "reference" : "ChIJL_t_fqmUkkYRjqwA4iFPVJw",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pikk 47, 10133 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.43992600000001,
+               "lng" : 24.7469243
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.44160162989272,
+                  "lng" : 24.74873137989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.43890197010728,
+                  "lng" : 24.74603172010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Vaikla Disain OÜ",
+         "place_id" : "ChIJe-KNvmOTkkYRboAIWU0YJuc",
+         "plus_code" : 
+         {
+            "compound_code" : "CPQW+XQ Tallinn, Estonia",
+            "global_code" : "9GF6CPQW+XQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJe-KNvmOTkkYRboAIWU0YJuc",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Toompuiestee 30, 10149 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.4369764,
+               "lng" : 24.7335932
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.43834947989271,
+                  "lng" : 24.73482777989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.43564982010727,
+                  "lng" : 24.73212812010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Arhitektuuribüroo IDEA Arhitektid🏆",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 799,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102445632964935926940\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJakHkSJBMyaUjRr3bHLyPJR7I7pink3RXSUQ6pUdAILznfzQZ3eqib08vylQK5d4Fk69GcbZ5uj5EnENT34BvJeTbhNyFtWZ18Dslt2Qu4Uk8w6l9SAzda_ibxf_sSd_MPLSgTcpxmUPLwasUErDpwt9E_kuou7hI6sHh99XqjKyupc",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJd98VOdCVkkYRE53i65gyohs",
+         "plus_code" : 
+         {
+            "compound_code" : "CPPM+QC Tallinn, Estonia",
+            "global_code" : "9GF6CPPM+QC"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJd98VOdCVkkYRE53i65gyohs",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Madara 25, 10612 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.4317852,
+               "lng" : 24.7214219
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.43308007989272,
+                  "lng" : 24.72249037989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.43038042010728,
+                  "lng" : 24.71979072010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "AVADA GROUP HALJASTUS",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 810,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117650179889667302270\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbc5X19OVFM-cljgq6w1PHojHqBmzhTn7elt6S3AQWrCTLBmTeSGEMu2t7Jytl41cqvlYCGgCsaGHekULRRQQg1aRzYXH_ncNp-r3tnOoPI4RVDpW7QrAMRrhHlagOF8JBKQ60tdkMYlybYagW00LEJrdA7vPItRAfrqMfyM3Wk2V9O",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJBV_3tPCVkkYRmn5pCH8LRhw",
+         "plus_code" : 
+         {
+            "compound_code" : "CPJC+PH Tallinn, Estonia",
+            "global_code" : "9GF6CPJC+PH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJBV_3tPCVkkYRmn5pCH8LRhw",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 36
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Madara 31-31, 10613 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.4298344,
+               "lng" : 24.7224868
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.43116587989272,
+                  "lng" : 24.72374747989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.42846622010728,
+                  "lng" : 24.72104782010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "OÜ BALTIC JOB SERVICE",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104153933015433608248\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJahhLi25YOUzq_aihoZhUm_LCzsF3OoJG3VxnBmmec-HAkVC2bX2TekAbVQmsv2Nu5Nzwb85v-uSUItHJ33uJS6qLx_69xa3hF6EGpKRFTuSwMfrsQYjwaHSgqK2atdovxy-lJWphWdeWtqSI_KspDV2nxmboTy7zNxxOMZjLwELfRo",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJWwwmM72VkkYRvDiWBXVbYCM",
+         "plus_code" : 
+         {
+            "compound_code" : "CPHC+WX Tallinn, Estonia",
+            "global_code" : "9GF6CPHC+WX"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJWwwmM72VkkYRvDiWBXVbYCM",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Telliskivi 60, 10412 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.44018449999999,
+               "lng" : 24.7305141
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.44153432989272,
+                  "lng" : 24.73186392989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.43883467010728,
+                  "lng" : 24.72916427010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kadarik Tüür Arhitektid",
+         "place_id" : "ChIJsVaRIJ6UkkYR3VNrzQF0kSk",
+         "plus_code" : 
+         {
+            "compound_code" : "CPRJ+36 Tallinn, Estonia",
+            "global_code" : "9GF6CPRJ+36"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJsVaRIJ6UkkYR3VNrzQF0kSk",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Paevälja pst 5, 13619 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.4458135,
+               "lng" : 24.8276185
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.44714637989272,
+                  "lng" : 24.82898797989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.44444672010727,
+                  "lng" : 24.82628832010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ConArte OÜ",
+         "place_id" : "ChIJMThjeqmUkkYRyJ6LVNCQwJs",
+         "plus_code" : 
+         {
+            "compound_code" : "CRWH+82 Tallinn, Estonia",
+            "global_code" : "9GF6CRWH+82"
+         },
+         "rating" : 5,
+         "reference" : "ChIJMThjeqmUkkYRyJ6LVNCQwJs",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P. Süda 5, 10118 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.429441,
+               "lng" : 24.746173
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.43074722989272,
+                  "lng" : 24.74744552989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.42804757010728,
+                  "lng" : 24.74474587010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Stuudio Tallinn OÜ",
+         "place_id" : "ChIJBZrg0piUkkYR0qZMZYLDuiQ",
+         "plus_code" : 
+         {
+            "compound_code" : "CPHW+QF Tallinn, Estonia",
+            "global_code" : "9GF6CPHW+QF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJBZrg0piUkkYR0qZMZYLDuiQ",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tatari 64, 10128 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.425381,
+               "lng" : 24.7451925
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.42661192989272,
+                  "lng" : 24.74654532989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.42391227010727,
+                  "lng" : 24.74384567010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "KAMP Arhitektid OÜ",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 375,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116304230284348555079\"\u003eKAMP Arhitektid OÜ\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbqjx6seUaRHmKMbk5gXtSueVU63KlHZdsnmTF1pHFqQ0PI6BgXygPhIinNQa6neX-pMsMcE21ULYWi4Qtq9VIQE-mnPXIZ2QPhgWE6Vu2--l5bbrRmcKQUVCtrNbJJyPiFaKrw6XVpGrCAMkwZwC_p5jJIG3dJTIwwieOyae1vSgbU",
+               "width" : 592
+            }
+         ],
+         "place_id" : "ChIJ20Lq_FiTkkYROEPikroWpVM",
+         "plus_code" : 
+         {
+            "compound_code" : "CPGW+53 Tallinn, Estonia",
+            "global_code" : "9GF6CPGW+53"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ20Lq_FiTkkYROEPikroWpVM",
+         "types" : 
+         [
+            "general_contractor",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Öpiku maja, Valukoja 8, 11415 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.4202768,
+               "lng" : 24.8053169
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.42163362989272,
+                  "lng" : 24.80666612989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.41893397010728,
+                  "lng" : 24.80396647010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SWECO Projekt AS",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3264,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114803615237101097440\"\u003ePaulus\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbuU620TnCmkz0ztkeMmWewNMy3ptlG_RuGkvNm5jy8XuqhbcY2wpx_rSNFMq88f-Qgux-pEBvLEQUlbMu6fmv0qQX_uQ_leV7-FjDPwX99EmjwDhHNYodSJ3s0um98LQ44Wyg09ppDgw4NnlAI-_geIe--kwKYbZqxOGE-YJOzmHMZ",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJiVG3nry67EMRpMqf5LgaHoY",
+         "plus_code" : 
+         {
+            "compound_code" : "CRC4+34 Tallinn, Estonia",
+            "global_code" : "9GF6CRC4+34"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJiVG3nry67EMRpMqf5LgaHoY",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 20
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tetris Büroohoone, Mustamäe tee 46, 10621 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.41623569999999,
+               "lng" : 24.6920216
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.41755057989273,
+                  "lng" : 24.69350382989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.41485092010728,
+                  "lng" : 24.69080417010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Novarc Group AS",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114022886565204521925\"\u003eKrista Roolaid\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ8mcgpUAuDJKhEdZv9tTv33aaojPIz5GT-4TjTskDsn1Szmal_MTWwHPnHvwUzBA-B_ERR5Fo1aJgTTPVaHG9riwCLSjIeuU_PevjdBPFQ6X-C8Kc4o4RrpKD7IkSQUYTn6xiMHKZEAU4QZeaON7Gk7y1Y8Dzu3N-cjywgTDNziv1B",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJcwl7_PWUkkYRozB_eQskgIw",
+         "plus_code" : 
+         {
+            "compound_code" : "CM8R+FR Tallinn, Estonia",
+            "global_code" : "9GF6CM8R+FR"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJcwl7_PWUkkYRozB_eQskgIw",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tatari 64, 10134 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.42535770000001,
+               "lng" : 24.7452674
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.42660052989272,
+                  "lng" : 24.74661987989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.42390087010727,
+                  "lng" : 24.74392022010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "PIN Architects Ltd.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1153,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101123126668367031078\"\u003ePIN Arhitektid OÜ\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaeu979n6ptmKpphpm15cwKlpqkNk3aejHyGgoJROAHzxMHHy5HXVI4REHr47fFO23ccmu2Sd5z8zIXn2ogSSxjrPvPZpbreJPEfSmazCuNnYpczUe2TN0fpwz9Y4WvKZXl_UJB0yBhQR3ofuYUlessySeXCLNpf9BoT5_F3qEkEdaX",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJT21dcpiUkkYR7MbPR0ci3yU",
+         "plus_code" : 
+         {
+            "compound_code" : "CPGW+44 Tallinn, Estonia",
+            "global_code" : "9GF6CPGW+44"
+         },
+         "rating" : 3,
+         "reference" : "ChIJT21dcpiUkkYR7MbPR0ci3yU",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rotermanni 14, 10111 Tallinn, Estonia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.4390009,
+               "lng" : 24.757516
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.44035072989272,
+                  "lng" : 24.75886582989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.43765107010728,
+                  "lng" : 24.75616617010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Tallinn Design House",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110269257764673823225\"\u003eHaiko Steitzer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaDxBiheqo0nhQZFd3-9RGpmvihSN_48InC77Bnx_F4HuMKzUztoDPjleFu7yk_P3mMx55MCxP9Mbld07Bi4xncCLBbDWPzURBqr5vx8IZ6FSMtoLXzKHa0OnbB_vZ6NrIHlupAZwvD5fnjcciG9FSXxWJjRCNnkoS_YvdzQbWPDPOJ",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJgSccyWCTkkYRvluwVd-sh9Q",
+         "plus_code" : 
+         {
+            "compound_code" : "CQQ5+J2 Tallinn, Estonia",
+            "global_code" : "9GF6CQQ5+J2"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJgSccyWCTkkYRvluwVd-sh9Q",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 68
+      }
+   ],
+   "status" : "OK"
+}

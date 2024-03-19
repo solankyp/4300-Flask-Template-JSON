@@ -1,0 +1,368 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lækjargata 8, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14636609999999,
+               "lng" : -21.9378766
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14771827989271,
+                  "lng" : -21.93653507010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14501862010728,
+                  "lng" : -21.93923472989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Icelandic Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3492,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101079517851633282039\"\u003eVítek Čermák\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJby6R3j9zvGBjLTvOZt-SaW22nG5SV-p6dp94tISZ69zjjHia28d4JY69oy72lT2W9lHbo1Izx0dWaXQWi8E3kcoLAGJZ7o3mpR3Swn3wdC6rRocqEuT7037Bfzn0khyMAwny7PUAJ2K7gz7dXepqlfeSstqvhCHt-IukQDgyY5a0VX",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJVxyfYC0L1kgRT5xxsk6z3kg",
+         "plus_code" : 
+         {
+            "compound_code" : "43W6+GR Reykjavík, Iceland",
+            "global_code" : "99PW43W6+GR"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJVxyfYC0L1kgRT5xxsk6z3kg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4250
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Skólavörðustígur 8, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1458748,
+               "lng" : -21.9326169
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14713377989273,
+                  "lng" : -21.93097452010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14443412010728,
+                  "lng" : -21.93367417989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "101 Reykjavik Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103810415743954163367\"\u003eManny Arce\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaLbcj04YG68UzSlqWxKOWfFyYwAlOlYGpQZLzxdJmnMMhSO_piqYrx3bEYS0xRa5brlASP71aIZDCsstCKLwf6cmucd_SdmkQ7pRPTau69KH33urrQXH-JqX2U2uFHa9UdoG6FIkzutDC3OAsFRtgu26vj1fHRy3MJysiBRytzO2hn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0wZIeVF11kgRgoGq79olLW4",
+         "plus_code" : 
+         {
+            "compound_code" : "43W8+8X Reykjavík, Iceland",
+            "global_code" : "99PW43W8+8X"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJ0wZIeVF11kgRgoGq79olLW4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2701
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grandagarður 7, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.15329489999999,
+               "lng" : -21.9502981
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.15450797989271,
+                  "lng" : -21.94910357010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.15180832010728,
+                  "lng" : -21.95180322989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Lamb street food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 933,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107873250405011964866\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY9J7Kqyu7hPB8vSVvfPuIZMHMRwDYqL3c2i5Ob24RZUiRcE7hWJQ2A7IiU12V_KrYNO2OxW-DGzGb6w9ndPoGVRh8t1kyltr_jGnKzAxZ0xYFboLAbCSl8oHGcowKjYxP0vZ3DyBvMBknnZVQqFKfAsjKkoHVgJLCAAK2Z0lgoa5Y",
+               "width" : 933
+            }
+         ],
+         "place_id" : "ChIJrzEFBEsL1kgRIQ5BkVVwjgA",
+         "plus_code" : 
+         {
+            "compound_code" : "523X+8V Reykjavík, Iceland",
+            "global_code" : "99PW523X+8V"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJrzEFBEsL1kgRIQ5BkVVwjgA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 769
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Borgartún 29, 105 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14622419999999,
+               "lng" : -21.8992989
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14750077989271,
+                  "lng" : -21.89792472010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14480112010727,
+                  "lng" : -21.90062437989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Lamb Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3647,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117554408141720028024\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ0C_PegHrHb13uNep1T6yI5b2gvQ_9vaXjIQ2Cz6W2NpWShhVzbSqJ5PLaN5W2wGvjeq_PlMf8jFORY3oR6iuTZRfcTD6EOEDeT2BvCODTLSj353h9NeosPwdqGBPi61AsjaiCNalsXaLAJMO6VnZFLZbvfAnVw-A7kGrzC4HPf2zi",
+               "width" : 5471
+            }
+         ],
+         "place_id" : "ChIJn1whfkh11kgRsGJA7q-enxk",
+         "plus_code" : 
+         {
+            "compound_code" : "44W2+F7 Reykjavík, Iceland",
+            "global_code" : "99PW44W2+F7"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJn1whfkh11kgRsGJA7q-enxk",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Laugavegur 95-99, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1433376,
+               "lng" : -21.9168199
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14465467989274,
+                  "lng" : -21.91550407010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14195502010729,
+                  "lng" : -21.91820372989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street food station",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116971983281906351146\"\u003eИрина Бычкова\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYYVw1UaplCCokT5RHBbN_UlCH-b9OpiPs551KpfQsBxZi1a1YtMm2uN-oEDeFHa8FNoSFnpCDACDFvar6L_hQ0tfqu_LlyCHzPFmVsW-uyJwZ4c7XGeeX9br9VgZelBtfzup-KG2np_U7cQaroj6V2GU1Yj9tm3LqW6AELAWNTXjU6",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJHYbRU2l11kgRXTfKIFxbpAY",
+         "plus_code" : 
+         {
+            "compound_code" : "43VM+87 Reykjavík, Iceland",
+            "global_code" : "99PW43VM+87"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJHYbRU2l11kgRXTfKIFxbpAY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 66
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "44JJ+546, 108 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1304133,
+               "lng" : -21.8697282
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.13176312989273,
+                  "lng" : -21.86837837010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.12906347010728,
+                  "lng" : -21.87107802989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bökubílinn street food",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 2453,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118122138598170440141\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJawBb4LYW1BFEYlYlXey8_grnpFqr_5KXAOW8jRNZ7qiIH-p4eQIf4fQkpeMov_enTVYp7aiH2yx7iJc_l7_Sr8AlNqPv4pyBl6J1z0GsGQw-5OVcaw4iDa7vYCQDwVeNEptBr-LTWY3lUADUbVPRksl1LpcOcRacEJlRexkVsKsobR",
+               "width" : 3999
+            }
+         ],
+         "place_id" : "ChIJr3WZcip11kgRhp_7-wcM9F4",
+         "rating" : 5,
+         "reference" : "ChIJr3WZcip11kgRhp_7-wcM9F4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1203 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJadTAPQqwDbPYLv6x0kPvaYu-lhqQqNo5wKH2T_XbmZKQj-r_Og4ueYpVj5E9sHflFg21qoh8HsltTzlNW9Jvm7lw3cHwVTH28kDT34JfGkwLTPlGLakz3Xj6H2FZ1IGdN2HpjkiLXYF62eAJXjTMpYKv0EyBWrNmBc_-wLi3dPM8uOztmrGWz6MUBcS6woVLyynLbTkmClh6Xyh9o3HSqAU84AiWXXlNtUivAmWQ8UHM4ObN7o2CAAB1_Kb6jWtMI9ROEoZMolO2NNAlsyyKanRzcUt-Yu301Ugn6dgqwFnaX__XzUNipuOs935lndX7YjStuST5P-z4Dooz40c0DF7yyvAasOOHIYzlwRlv-JmQDyFlDxtkUX3QlaFS5ABfNJ5QpicA2QyK5z",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1-5 Myeong-dong, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5641885,
+               "lng" : 126.986118
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56553832989272,
+                  "lng" : 126.9874678298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56283867010728,
+                  "lng" : 126.9847681701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Start of Myeondong Shopping Street",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4624,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106076129315925540735\"\u003e도환 김\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYzAVXVyN9WtRsfbSRRK4iXMIOjZ68pZLZgXukGNJtXV_wwtPSLd3IAjRSY_z3y_rD0whaLkIFeLRBbtz33J3DNQk4FDrzWATrUsOB5GZdXe1ROENdrslKzbOAB3-ktXhs4xTefTziJY1BlcGP3XVnyJ-VAMzHsmjUIfrpq9GegojDq",
+               "width" : 3468
+            }
+         ],
+         "place_id" : "ChIJJXcc9--ifDURb8zmFI_J64s",
+         "plus_code" : 
+         {
+            "compound_code" : "HX7P+MC Seoul, South Korea",
+            "global_code" : "8Q98HX7P+MC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJJXcc9--ifDURb8zmFI_J64s",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 916
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "33-30 Hoehyeon-dong, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5596244,
+               "lng" : 126.9773197
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56097422989272,
+                  "lng" : 126.9786695298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.55827457010727,
+                  "lng" : 126.9759698701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Seoul shop",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117608297397532046990\"\u003eMerel Kortenhoff\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZfBoAf9JV12hatJdlT43HNbA66943a-2ki9i4ZZ2MqYDUgd_srEPqbGnOioP_tXRJRcB7UTRj6Y3BpzZFm662lnFuR3uCXPEQcr5uzXqHdUOlubeX022goFZfpXYLGBYIo-PII0_rkds9YraYCrpyT2qL9mYmdnxIqtXoAUFylJpRz",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJdXtcg8OjfDURnEiX_sl9Qfw",
+         "plus_code" : 
+         {
+            "compound_code" : "HX5G+RW Seoul, South Korea",
+            "global_code" : "8Q98HX5G+RW"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJdXtcg8OjfDURnEiX_sl9Qfw",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "365-8 서교동 Mapo-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5531707,
+               "lng" : 126.9218942
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.55452052989271,
+                  "lng" : 126.9232440298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.55182087010727,
+                  "lng" : 126.9205443701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Hongdae Shopping Street",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117580051178483179069\"\u003eEthan Tram\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYNxM72qkc_7uwvhuGsQj_E6Q1CM1NtzDNGHDyxYwufkQS9UPPG7a8TOS_z703QKCUkd5ERkbbKl4uXjHTsrScqnUItzZV7SLNcBL-NoqnXBTXbOjPYlFlHtrhglDynUZb-SmO0p6WmuemuZSKRvSzh1GY7xsTrUDUuPikfO0bNWzvC",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJY1TpNNuYfDUR2uoHfH8zI8c",
+         "plus_code" : 
+         {
+            "compound_code" : "HW3C+7Q Seoul, South Korea",
+            "global_code" : "8Q98HW3C+7Q"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJY1TpNNuYfDUR2uoHfH8zI8c",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8476
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "513 Yeongdong-daero, Gangnam-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5113686,
+               "lng" : 127.0595931
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.51271842989272,
+                  "lng" : 127.0609429298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.51001877010727,
+                  "lng" : 127.0582432701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Starfield Coex Mall",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 6000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116532401562537709698\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZodmQ5ykQ5Hx0BY-wqHZTVtfgptRVTIA6jfEp2MMKpVc5OaGKGUwJ_bjQ4423jNBtWhr1isVnhOkcQwpHia4KIHlk8wI9ahBKoQxiInW6PXt0FMvB3UT7hFudkSSTp5nmkvmE_51TOzs8GwkY1qyXKRpHrnmFZ1cpVRuv-Xga176yM",
+               "width" : 8000
+            }
+         ],
+         "place_id" : "ChIJIRVdC6pFezUR02aa2I7i57A",
+         "plus_code" : 
+         {
+            "compound_code" : "G365+GR Seoul, South Korea",
+            "global_code" : "8Q99G365+GR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJIRVdC6pFezUR02aa2I7i57A",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 22547
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Jongno-gu, Jongno 6(yuk)-ga, Jong-ro, 266, Dongdaemun Market, C동27호",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5705249,
+               "lng" : 127.0081515
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.57187472989272,
+                  "lng" : 127.0095013298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56917507010727,
+                  "lng" : 127.0068016701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Dongdaemun Shopping Complex, Seoul",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103342491492116094019\"\u003eSeung Eun Choi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZNH7Gg54fhVqDP4vQA_Yq7lnnLDJTWDNVgrYULWMmo1qbC3luu-9EF1fA2cJ9AAI6zIBscKr1y7-ZV40AUWbCqbjFLeIgLqi-nsv_YP0a8Xtyr6wozBX5NvYgqq9TYQS_m-JSKqMzTlMgMofDAjIJ-cUkrDlUWnXfEpczhLlYRiD2k",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ32coazujfDURbmUDsfWn4Eg",
+         "plus_code" : 
+         {
+            "compound_code" : "H2C5+67 Seoul, South Korea",
+            "global_code" : "8Q99H2C5+67"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ32coazujfDURbmUDsfWn4Eg",
+         "types" : 
+         [
+            "shopping_mall",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 712
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "11 Jae-dong, Jongno-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5793944,
+               "lng" : 126.9846224
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.58074422989272,
+                  "lng" : 126.9859722298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.57804457010727,
+                  "lng" : 126.9832725701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Object",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104395563302743450180\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaMY-2tTdPx_uIXhwiLIz0qKZ3c5k7BV-gz1orF_OtnKFVJ7D2pT0bbsqPuA_WxeFX9WOzKDXi81iTnrJiYxv0TYL5zHlxFUL0JaLTpep2ZyAEuQZ3pH4-6oEMLlh8ZprR746m-W6oBO-doUsz08x7EqTnGjOgqCGTQxLmgGEitJ12t",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJz3DQ7sSifDURyYZa5LXo-J0",
+         "plus_code" : 
+         {
+            "compound_code" : "HXHM+QR Seoul, South Korea",
+            "global_code" : "8Q98HXHM+QR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJz3DQ7sSifDURyYZa5LXo-J0",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 57
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "21 Namdaemunsijang 4-gil, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5591786,
+               "lng" : 126.9776692
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56052842989272,
+                  "lng" : 126.9790190298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.55782877010728,
+                  "lng" : 126.9763193701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Namdaemun Market",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110989460247157387283\"\u003e佐々木和義\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbdedNQLO9RRWDQeQZ6iILXmrHqQvcFV2c3w-3VBKcoxPyklbkGBVrAzlKfUHS2B5bg8kwIG225jv0Tx7r-sQLosVLNHgrYoSim5AztfSR5Oyc870WTx_4t01tP2385z30Ao2aOAy4DzayZbzRSaW4y27mzjv7jwJdaFTpos3iRkBdn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJfYjlFvWifDURYSDsoxYbN80",
+         "plus_code" : 
+         {
+            "compound_code" : "HX5H+M3 Seoul, South Korea",
+            "global_code" : "8Q98HX5H+M3"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJfYjlFvWifDURYSDsoxYbN80",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 26364
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "405 Hangang-daero, Yongsan-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5523947,
+               "lng" : 126.9710685
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.55374452989273,
+                  "lng" : 126.9724183298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.55104487010728,
+                  "lng" : 126.9697186701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "LOTTE OUTLETS Seoul Station",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107341034003249622582\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYkHCWz1vdcErKFgm7Cn1JKCKv04WERgBpsX4F1X9elSE9FF96_OD6T_Yrl176fDHOUuGL0xEzhg0VWcxXsZt95DiXdhBa9uK5eRGQETydiO8TAQMreDFAHW_APHOjcfIs9v0iS7PzNqO8O2RMAFgPQlhDpnrcG-pTFQuUjDbWG_eW8",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJXdp4Zd-IbzURHOcLVTAczg4",
+         "plus_code" : 
+         {
+            "compound_code" : "HX2C+XC Seoul, South Korea",
+            "global_code" : "8Q98HX2C+XC"
+         },
+         "rating" : 4,
+         "reference" : "ChIJXdp4Zd-IbzURHOcLVTAczg4",
+         "types" : 
+         [
+            "department_store",
+            "shopping_mall",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3339
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Chungmuro 1(il)-ga, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5611241,
+               "lng" : 126.9817396
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56247392989273,
+                  "lng" : 126.9830894298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.55977427010728,
+                  "lng" : 126.9803897701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Hoehyeon Underground Shopping Center",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106336714325465561636\"\u003eAatu Dorochenko\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZNHGYIckhVAt7ABRe2iKIgojZm24zWvEUcDlVpdi7IZexJnElOO7mVaONlnF5WoYw350xNOzmrEezOmqm50JbQ5uXMCjEYBn09nBe_AwK_w7cVWJbIRC_QGippp9yrnrg_v9c3OUMkLWwUM9F44er2fc08Ho-Yz3JzVB2iRS4jUdaU",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJuxdg9gGjfDURv18s_Rn65fc",
+         "plus_code" : 
+         {
+            "compound_code" : "HX6J+CM Seoul, South Korea",
+            "global_code" : "8Q98HX6J+CM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJuxdg9gGjfDURv18s_Rn65fc",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jongno 6(yuk)-ga, Jongno-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5707932,
+               "lng" : 127.0092025
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.57214302989272,
+                  "lng" : 127.0105523298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56944337010728,
+                  "lng" : 127.0078526701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Dongdaemun Underground Shopping Center",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112737054083410282376\"\u003eingui Kang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbHCMgww3lZ_Tmtd-sjGI5dorJr4oM608Vrm7tO8UpPRs-bAxNNb9MJnZi0G3raQE0pJwlb4DySlF4qQJPF27iJc9ehRreocgcqT5WODuRtZK3OtbUwrMtDnU4R6gY0X6pclzxsGLp5w7a510gXxZUphdZpadefk7Gs2DYgWjSht61r",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjahyayujfDURPwBXh3G7qjI",
+         "plus_code" : 
+         {
+            "compound_code" : "H2C5+8M Seoul, South Korea",
+            "global_code" : "8Q99H2C5+8M"
+         },
+         "rating" : 4,
+         "reference" : "ChIJjahyayujfDURPwBXh3G7qjI",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 253
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Jung-gu, Myeong-dong 2(i)-ga, 33-4 -ga,",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5632768,
+               "lng" : 126.9853378
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56462662989272,
+                  "lng" : 126.9866876298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56192697010728,
+                  "lng" : 126.9839879701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Brand Market clothing shop",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115854893912463217238\"\u003e阿銘\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaaNrJeq4URDfxwBElyrhcZm9avLV37TlfJBFZm7CwupWgpgSxN0A-bnF4SkhlkAcKU8D4gJedQlRg3GntV6T-Y5H65R_6jj474YtmcYeLEEfzhT8-mITsFfIJ2ANL-3xOvV4wJmCUQFLhl9WcKT8ALGfl3ees18Ln_vztB89kLjeBB",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJXwemGfCifDURtra6avdDaLk",
+         "plus_code" : 
+         {
+            "compound_code" : "HX7P+84 Seoul, South Korea",
+            "global_code" : "8Q98HX7P+84"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJXwemGfCifDURtra6avdDaLk",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "37-1 Myeongdong 8na-gil, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5611297,
+               "lng" : 126.9828737
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56247952989271,
+                  "lng" : 126.9842235298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.55977987010726,
+                  "lng" : 126.9815238701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Buruttrak",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115731544546212339967\"\u003eChun Sung Yi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa88vQbEpoUxfI6eG0ZVR18r_OrxEFVqgBi5Ms7BZaAG3LVmaIz7CMuKiJQD_mHUTqTio7gCFxG8He4l96ql_obMwuOWqpbZde3uDuap8pYxO0n_sQZq1BO7KPoWAV80GpKwyjYG4P71o7HrR-owHdjugqU0KAfGpozC49cpVBmUaZM",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7Y8MJWKjfDURkdcoGL4zxhA",
+         "plus_code" : 
+         {
+            "compound_code" : "HX6M+F4 Seoul, South Korea",
+            "global_code" : "8Q98HX6M+F4"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ7Y8MJWKjfDURkdcoGL4zxhA",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 105
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Jongno-gu, Jahamun-ro 12-gil, 30 1F - B1",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5806828,
+               "lng" : 126.9722561
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.58203262989272,
+                  "lng" : 126.9736059298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.57933297010727,
+                  "lng" : 126.9709062701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "MSK SHOP / Cafe Coin (Manado disk Shop)",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1502,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107490502347818452685\"\u003emsk shop (므스크 샵)\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbHMLk9tfaxGA9hXgOa7Ir-vgAt7eISf5uI6Og_jY_j6qF513jnYHIb4q4benDP7GfdlFHvh12n9BiQa7dQNHv9bJwCSSLutNOo7458E0a4K75f-5wO2O3pRhOiMw90eUmJ8xXsJpa5fbJgIOZemI5VVquMkC0bDN2sCwc7ktpOyN7-",
+               "width" : 2253
+            }
+         ],
+         "place_id" : "ChIJf5DfWpKjfDURjrBe7Uzc0uU",
+         "plus_code" : 
+         {
+            "compound_code" : "HXJC+7W Seoul, South Korea",
+            "global_code" : "8Q98HXJC+7W"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJf5DfWpKjfDURjrBe7Uzc0uU",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "17 Myeongdong 8ga-gil, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5618556,
+               "lng" : 126.985953
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56320542989272,
+                  "lng" : 126.9873028298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56050577010728,
+                  "lng" : 126.9846031701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "All That K",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103887809852127095785\"\u003eWan Noir Hana Mior Sana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ1Krn8Qb49fCezdffGM9jDGiL585SNm2ALW8EIF8VAVMtKs7x45GGcMCaYKRN1FYbxrvzy-H3zopPyyz6zGFne33_i8Vy_jM3BySuLQxS53LnEkeIuHw2-yLrxaIWIRKjzxIuvpEwIrDolS5zRt4by9XLfDzjo48jeb2Znh6qzRN2f",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJJwrN2pmjfDUR8kKiaIJrNqQ",
+         "plus_code" : 
+         {
+            "compound_code" : "HX6P+P9 Seoul, South Korea",
+            "global_code" : "8Q98HX6P+P9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJJwrN2pmjfDUR8kKiaIJrNqQ",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "44 Insadong-gil, Jongno-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5743024,
+               "lng" : 126.9849036
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.57565222989273,
+                  "lng" : 126.9862534298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.57295257010728,
+                  "lng" : 126.9835537701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Ssamzigil",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3432,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118001640355900390318\"\u003e矢吹将仁\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZCzaQJQ797piNgga80owSCQ-cuuJPI1G7uWU-X6CpQwUpZV_PaMff71BV7SqgjB74WGWVFdlfXqKOR4XyqAA3X2N-MtWsJGnekpyPPLYcuMxHkDMJDWJJUiUMqXQMjzs8G4o440nJYKOt6ldVifXiEgEM0KkiJrQ42ognXj8eq9twj",
+               "width" : 4576
+            }
+         ],
+         "place_id" : "ChIJQRutlcKifDURiMoaUPYmWX4",
+         "plus_code" : 
+         {
+            "compound_code" : "HXFM+PX Seoul, South Korea",
+            "global_code" : "8Q98HXFM+PX"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJQRutlcKifDURiMoaUPYmWX4",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1172
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "27 Myeongdong 8-gil, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5625375,
+               "lng" : 126.9851719
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56388732989272,
+                  "lng" : 126.9865217298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56118767010728,
+                  "lng" : 126.9838220701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "M PLAZA",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104817757700128580626\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb1YWCVpEwy1cEIasbGDXP6PnyQkHOkJBWgH8M0X3HlUgZXJHjqxzrbv6zlVs3njubfioj5j4CMCgIVANaTpOmTQYRPfZyuLspkNGM6BZIRxHXr-vUIGXJp_G91GEuXrpAR9zTpI8fQrCUVLMLvEaLkY3JdO5edU14R7s3CuYFQOgub",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ5881avCifDUR_U8ckgXkOjc",
+         "plus_code" : 
+         {
+            "compound_code" : "HX7P+23 Seoul, South Korea",
+            "global_code" : "8Q98HX7P+23"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ5881avCifDUR_U8ckgXkOjc",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 358
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "14 Myeong-dong, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.563692,
+               "lng" : 126.9822107
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56504182989272,
+                  "lng" : 126.9835605298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56234217010728,
+                  "lng" : 126.9808608701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Myeong-dong Underground Shopping Center",
+         "photos" : 
+         [
+            {
+               "height" : 3457,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100623775938682729071\"\u003e丁凱婷\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYby8MWWDNb3Q-4tjRyDz83DuMOF2-2orN3RHyXtJfAXsapiFvToH_-8t-n_Whp-eKPQxfCSMz6SKSCS1IKCqHCaSNwldON0OSrcRJGJBLJEBOX9ka-u_AroB-m0HmBvWL70oPnikwpLEuPhlVkG6qVHumjsJbhlxvulWgRcB88Hxrz",
+               "width" : 2593
+            }
+         ],
+         "place_id" : "ChIJ5UHHM2qjfDURDDhBM0qXP9w",
+         "plus_code" : 
+         {
+            "compound_code" : "HX7J+FV Seoul, South Korea",
+            "global_code" : "8Q98HX7J+FV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ5UHHM2qjfDURDDhBM0qXP9w",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 44
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Yongsan-gu, 683 61 1층",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5357206,
+               "lng" : 127.0002515
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.53707042989272,
+                  "lng" : 127.0016013298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.53437077010727,
+                  "lng" : 126.9989016701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "UNICO",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1334,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103568547319976749997\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYe41xbi4PfA7kyn1Ee1YcaK23IIqWKTQE2D8H3qodxC4J2Qe5BIlELsJuQBtsvkeY-kjyrcaf7KJll4pcHd1NXqqEgRMwfRSuRhXG2fmJB24a3pF6dT6cHR7cYPDc-_JMWCU82JzXt6Oj3FBkFcP4dpDDKgemzQHU01866R3eS-F2W",
+               "width" : 1334
+            }
+         ],
+         "place_id" : "ChIJg0FHcDWifDUR_WZUhGGXv2w",
+         "plus_code" : 
+         {
+            "compound_code" : "G2P2+74 Seoul, South Korea",
+            "global_code" : "8Q99G2P2+74"
+         },
+         "rating" : 5,
+         "reference" : "ChIJg0FHcDWifDUR_WZUhGGXv2w",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1F, Main Branch of LOTTE Department Store, 30 Eulji-ro, Sogong-dong, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5649903,
+               "lng" : 126.981369
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56634012989272,
+                  "lng" : 126.9827188298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56364047010728,
+                  "lng" : 126.9800191701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Lotte Star Avenue",
+         "photos" : 
+         [
+            {
+               "height" : 1960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101911477444028865089\"\u003eSzu-Khiam Ooi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJahXDPgBWUoSUttF3h8UcHS9I8i1UsiNajzHyPC7Xjq3w9PSlOAkmLAZzw3Ar7XPsAoWH8mpVcqQkf9GnXXAvKFINFZgerwxDpHO_54KqZ4o4QSdkWA9viiNlFU15dZv1MLnEuN0BxK0LQYWpPz7mkrqISVaptODiiKqeBdD7aQ9r5B",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoeBOUIOjfDURSk6MyvtZngU",
+         "plus_code" : 
+         {
+            "compound_code" : "HX7J+XG Seoul, South Korea",
+            "global_code" : "8Q98HX7J+XG"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJoeBOUIOjfDURSk6MyvtZngU",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 30
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Gangnam-gu, Seolleung-ro 157-gil, 20-4",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.526396,
+               "lng" : 127.038483
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.52774582989272,
+                  "lng" : 127.0398328298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.52504617010727,
+                  "lng" : 127.0371331701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "WORKSOUT APGUJEONG",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 640,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108598178629057172061\"\u003e웍스아웃 압구정점\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZvyGjfLzWfUiyys262wGSrwwkbGQW6GMQuRshJRFF5ax-Pu1cEQlDmWXNK2EQwAflbmg7o8zoyIkEWr5_ml8PSu8eQRzrFcSCZuu7sTp7dSzxMspfHiQsOVdDkkv2NqD4XD4UE6qEhzOro8tszlwQHaYiDF1TUUZGzU8_TJaHUqWKc",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJHd_53IejfDURSrLbv9imJ0w",
+         "plus_code" : 
+         {
+            "compound_code" : "G2GQ+H9 Seoul, South Korea",
+            "global_code" : "8Q99G2GQ+H9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJHd_53IejfDURSrLbv9imJ0w",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 82
+      }
+   ],
+   "status" : "OK"
+}

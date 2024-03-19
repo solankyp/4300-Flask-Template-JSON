@@ -1,0 +1,433 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "82RF+4VG, Unnamed Road,, Banraeaba, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3403075,
+               "lng" : 173.0247164
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.341614579892722,
+                  "lng" : 173.0260979298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.338914920107278,
+                  "lng" : 173.0233982701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Koakoa's Corner",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115539135517232222115\"\u003eMark Fairmaid\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY5hWeGJng6wysdBuPlQgBhOmYwyEfiY999lTBovSRkLV5cqNzMNaYy1MunOlN8ue80dsS1nP0NXfHBoJHvwz8APL_jYgyv7Sk6eZT91Lnql9YEpCbUf1fRUFx9WNVcv9O3M0ueWYr3kYBFa0vAvNp1lJUMkCm_K1z_yfjwoSCABgPQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJX1aDtTx7ZGURCB8f4xgjSMQ",
+         "rating" : 4.6,
+         "reference" : "ChIJX1aDtTx7ZGURCB8f4xgjSMQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "947R+742, Temwaiku, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3631397,
+               "lng" : 173.1402612
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.364421379892722,
+                  "lng" : 173.1415848298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.361721720107278,
+                  "lng" : 173.1388851701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kiribati Local Produce Market",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJC3TQsg1vZGURFC3mnOct1Yc",
+         "rating" : 5,
+         "reference" : "ChIJC3TQsg1vZGURFC3mnOct1Yc",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Takoronga, Betio Betio, Tarawa, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3570366,
+               "lng" : 172.932677
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.358665879892722,
+                  "lng" : 172.9341148798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.355966220107278,
+                  "lng" : 172.9314152201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Local Food",
+         "place_id" : "ChIJvy1i97JjZGURPA_0sgvnRws",
+         "plus_code" : 
+         {
+            "compound_code" : "9W4M+R3 Betio, Kiribati",
+            "global_code" : "6VHJ9W4M+R3"
+         },
+         "rating" : 0,
+         "reference" : "ChIJvy1i97JjZGURPA_0sgvnRws",
+         "types" : 
+         [
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8XHH+Q9Q, Bairiki, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3294571,
+               "lng" : 172.9784757
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.330911529892722,
+                  "lng" : 172.9799056298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.328211870107278,
+                  "lng" : 172.9772059701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Capital Snack Bar",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106850515929118367986\"\u003eChristian Kunst\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaZYQhK-bEk7fQjm_uDKNG-bP2Y_hdRhwXSIWMM6HpZ9fvMDTfUkMVeg-jE4TI1i4Cmvy3NBr05g3sRhhO6kZV_xG--jF-hmbw8fWVNun3GcSAVGPSPT1TZpzGVim6AHYaK0enaLcN8ZxO0G_AGTgbL2Xzp49-w-R5maUGOi8i8LcOM",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFbW5oZF8ZGURRgCC5aBqWfs",
+         "rating" : 4.8,
+         "reference" : "ChIJFbW5oZF8ZGURRgCC5aBqWfs",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8XJF+7QM, Bairiki, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3307119,
+               "lng" : 172.974468
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.332046179892722,
+                  "lng" : 172.9758815298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.329346520107278,
+                  "lng" : 172.9731818701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Marys Motel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106850515929118367986\"\u003eChristian Kunst\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ2bfwnaTHYds8a1v8cVKYkAvHcC5xDHigYQ8162vG8wVlDQFEqZeByX6UGjZhR1MqJ3H2qrrsAeWUZHFH09SGkMFHR92GVYhnrNAPvPXC5vwPLcH1PKKyva4dVlq7Q5K3X1uddr5zdZ8ve5n5yJbW5UUW3VnuYqEd2DCJs8I7seprc",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJC_ppoJN8ZGURMYfh20MQnCY",
+         "rating" : 4.2,
+         "reference" : "ChIJC_ppoJN8ZGURMYfh20MQnCY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 45
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "94X9+G82, Tabon Te Keekee Tarawa, Abatao, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3987547,
+               "lng" : 173.1182534
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.400213729892722,
+                  "lng" : 173.1198700298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.397514070107278,
+                  "lng" : 173.1171703701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+         "name" : "Tabon Te Keekee Eco Lodge",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116313833310385916829\"\u003emonikawrzosek\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb3aYuNUGzUMB_dc9qcbSmIJoOZ0yCNszKJq6WmTkAZV5-RZ4HwuMlT0w03NQ7r3aqud2-FzG_g7IpXnyg5oCwDOHBRqW5m2tMyUGXEzf0KXmb6vVHEP-24n02vcI7rDYD-LMCRzDKACUXrBjIi9sFNeHwZz3LcndHc_ZenRQzuQ0fH",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJ0-Q9awFvZGUREl65Yi1igh4",
+         "rating" : 4.7,
+         "reference" : "ChIJ0-Q9awFvZGUREl65Yi1igh4",
+         "types" : 
+         [
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 23
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Takoronga, near St John primary school to tabon te kaoti, te riki, Betio, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3557044,
+               "lng" : 172.918707
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.356779629892722,
+                  "lng" : 172.9204029798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.354079970107278,
+                  "lng" : 172.9177033201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Reena favorite doughnut",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJrZQnbWl9ZGURS3VRn0RZV2c",
+         "plus_code" : 
+         {
+            "compound_code" : "9W49+7F Betio, Kiribati",
+            "global_code" : "6VHJ9W49+7F"
+         },
+         "rating" : 4,
+         "reference" : "ChIJrZQnbWl9ZGURS3VRn0RZV2c",
+         "types" : 
+         [
+            "bakery",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tobaraoi Building, Lagoon Drive Bikenibeu Tarawa, Kiribati",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3648266,
+               "lng" : 173.1128818
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.366122079892722,
+                  "lng" : 173.1142084298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.363422420107278,
+                  "lng" : 173.1115087701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tobaraoi",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112276430695411590899\"\u003eDeepak Goel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYGZVXPq2ENSWe6lnxITqqN9JSt_J2tip90UeMFzvwonQFMTxXxKX_ingPtUiIIdRWG3Gl-M4MHk6uDWxFB7tKCjkFyIypC9GlxPeaEn5nSCHVrEKWJM7IxxX--ITfGKXtRT3vDdVddP87QGSWruDBBY48LpsOC7gpWM6fVfj32YoqI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJEw5DP9BvZGURFAPGgD3aU5Q",
+         "plus_code" : 
+         {
+            "compound_code" : "9477+W5 Eita, Kiribati",
+            "global_code" : "6VHM9477+W5"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJEw5DP9BvZGURFAPGgD3aU5Q",
+         "types" : 
+         [
+            "travel_agency",
+            "cafe",
+            "lodging",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      }
+   ],
+   "status" : "OK"
+}

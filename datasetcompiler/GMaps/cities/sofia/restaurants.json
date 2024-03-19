@@ -1,0 +1,1249 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbSC9-zRiCtErkmoKdPbYqDhkX9P-jk_HEwQNiKznDZmthSB8VNAUQ5YBB5L66-XqpDk5cNJHs4l98sPkdBA33VrQO8uKy1Bwf9ppV87V0rjtI3fB-1uFTxRImwErjQH65vXyCnWRvF3a1dqtmK5Kdxkqg9C3yqzS8XnENVFgfKo-u3Sp1lUc_eLdCh3bLgi5hx-K9DyNAMJahBWeodJwlhqWbsEnLLEK1EfaddQ6wCMNkOvWRowXakqCEqq_rsnQS2xkNJdbk9OLXOB1WuOCeRVwfD82OgxdCl1clrq_ynFcnL30kKy3JYcia7LSUOhHYXg8IquI32qdrrjZPyEmCYFmnoRvAlIFT8wsCzmsiBS9kSmujc4KgTXL14Cx0rgpSpcB2I0o9mrOgurQcM0PDL",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, Vitosha Blvd 27, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6932613,
+               "lng" : 23.3204935
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69462697989272,
+                  "lng" : 23.32172052989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69192732010728,
+                  "lng" : 23.31902087010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Shtastlivetsa restaurant Vitoshka",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108297953189330587122\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaRAOnzHTRCOQ3jy4znqwouzyJDhldBwCoggJId9o4N8623_O6BTAKwGMF21nROBh2tiIFgcZ3WxPjlwcgEjFtkn9qIGic-Ndk5DuA4xcSnIyWgnrwA8jkLZD11R9lTnRcDF_y293IUOCmmMa_-0rnX3fMFqfhlLKbnAr-g3VB5D8iR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJc8B84myFqkARKWX9Zm9MWzc",
+         "plus_code" : 
+         {
+            "compound_code" : "M8VC+85 Sofia, Bulgaria",
+            "global_code" : "8GJ5M8VC+85"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJc8B84myFqkARKWX9Zm9MWzc",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8967
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, ul. \"Han Asparuh\" 67, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.68931449999999,
+               "lng" : 23.3245805
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69061397989272,
+                  "lng" : 23.32592182989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.68791432010728,
+                  "lng" : 23.32322217010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Manastirska Magernitsa Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105546714310484637066\"\u003eРесторант Манастирска Магерница\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZvLZvw27MNMvtIz_m6IMnPSCOsRg9uLb4dwsZMB7nIsqHZ4PbAG0Qcv2DCoVH2LXFKlkxq9BRXtbs-TY6Tjh0_QNDe6CuzNQ7o5fdhVOQDoMbKwBZ8me8hOwz7lxtptvhTw9YypwRgnxMhJuakROt5NOWyvT3qYq5PruhneFJIoLNf",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJzXtU4QyFqkARFoQ60233NF0",
+         "plus_code" : 
+         {
+            "compound_code" : "M8QF+PR Sofia, Bulgaria",
+            "global_code" : "8GJ5M8QF+PR"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJzXtU4QyFqkARFoQ60233NF0",
+         "types" : 
+         [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2902
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, Solunska Street 28, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6930229,
+               "lng" : 23.3188265
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69431447989272,
+                  "lng" : 23.32015477989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69161482010728,
+                  "lng" : 23.31745512010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Moma Bulgarian Food and Wine",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104682477886433470230\"\u003eHristo Petkov\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaox_AawO4Wd5_Nb14KmRBeOU406rrxUUKFzSK3SxZohAD1qz38EiB1G_5DEw0ipcfIuJ2mlhYka4gJawfaTlXrUXzkneA20O5lV_2kmBOt0psqbiHShH_O2gpUZ4RGr0N8li6GbvqlDBvzJ_iAtQ47Ui7YwJrq9V_w-O-6MXFRbta6",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJg93owGyFqkAR8IeFKTbS87Y",
+         "plus_code" : 
+         {
+            "compound_code" : "M8V9+6G Sofia, Bulgaria",
+            "global_code" : "8GJ5M8V9+6G"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJg93owGyFqkAR8IeFKTbS87Y",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3951
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, \"Kozloduy\" St 75, 1202 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.7065566,
+               "lng" : 23.3226135
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.70795422989271,
+                  "lng" : 23.32394857989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.70525457010727,
+                  "lng" : 23.32124892010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Hadjidraganov's Houses Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112443484397336983993\"\u003eNikolay B\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZgP3iWvZCnwsYpwen-J5Z9zYwJg9XUwzPy3qSnerYSnztLTIqkwsqHL64jvT9MWNGC9btKCUxuXIla-ki3xtWa6TnvGjqYUFeJhVX9xmzqU2aj9pSAU8Wk4-3o_l8d38zhOuEHK3bWSmMPGORyCijW4f8KeYzg0njc1SyjGN8V04uq",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJQzk3l2CFqkARVI2bPNheyXk",
+         "plus_code" : 
+         {
+            "compound_code" : "P84F+J2 Sofia, Bulgaria",
+            "global_code" : "8GJ5P84F+J2"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJQzk3l2CFqkARVI2bPNheyXk",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5605
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, Oborishte St 9Б, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6958109,
+               "lng" : 23.3369999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69691117989273,
+                  "lng" : 23.33829617989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69421152010729,
+                  "lng" : 23.33559652010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mediterraneo Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1848,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108928406666702252462\"\u003eStoyan Stoychev\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJalS7fsoUV7W_ndrwdfgRvd0rOLstEdHB4LKCNKfp-2qZ5nEtrBP4BPMY5FsWI6HsVyYjdZTXWbqRJIYVNtpW8ANr0kEx41a_EGV1hUt0PLjSrMPhEQpw6VjV-o6z8I_oJx7WZkSJ4nyP2F8it6hS1DO5QqQUEvneuLKgtAoEAbbGyE",
+               "width" : 2954
+            }
+         ],
+         "place_id" : "ChIJDf6IqneFqkARZSSfBwUidxw",
+         "plus_code" : 
+         {
+            "compound_code" : "M8WP+8Q Sofia, Bulgaria",
+            "global_code" : "8GJ5M8WP+8Q"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJDf6IqneFqkARZSSfBwUidxw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1689
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, ul. \"Saborna\" 14, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.69655460000001,
+               "lng" : 23.322677
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69787162989272,
+                  "lng" : 23.32408542989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69517197010728,
+                  "lng" : 23.32138577010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Capo Mediterranean Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2848,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103348957790947823988\"\u003eGeorge Atanasov\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY4Zdgt4AYALNByTYZ0MAqLpIptbQie2pIUspEVOV_NmTobp7Ku3MH5O7MZbUFSle39oVZnFJr96LU1m020By2zqSNwnaRh-In5HeL6uYEdmUBHqUp8MzkLAfazjV_Tp5OIndH3lY9qxzZn9vEHGUoPYjIIYUfdIYxOViKdVN_mIa0",
+               "width" : 4272
+            }
+         ],
+         "place_id" : "ChIJw00hj26FqkARYmihxbw6gpA",
+         "plus_code" : 
+         {
+            "compound_code" : "M8WF+J3 Sofia, Bulgaria",
+            "global_code" : "8GJ5M8WF+J3"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJw00hj26FqkARYmihxbw6gpA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 649
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, ul. \"Tsar Asen\" 16, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6932941,
+               "lng" : 23.3190347
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69463547989272,
+                  "lng" : 23.32041852989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69193582010728,
+                  "lng" : 23.31771887010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pastorant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100681194725780493557\"\u003edimodi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJayfQfSYO55d-hdmvkLQIouIIUpiXlk-2q-RUUyI5v41WyaRgelwKIefMR3VAybUSad89WSXxhYdwiheM2Q9xy0FjCBDSZMNVwY3DqRSElINyt1SIslEixtyheoVYac_rHLvkNMV9pGlj-s76_KmSQ7Duat6OhX5RhsNf4Z1_UKq_uX",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlct86myFqkARrh8E9rt-GXA",
+         "plus_code" : 
+         {
+            "compound_code" : "M8V9+8J Sofia, Bulgaria",
+            "global_code" : "8GJ5M8V9+8J"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJlct86myFqkARrh8E9rt-GXA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 894
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hladilnika, bul. \"Nikola Y. Vaptsarov\" 25A, 1407 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6642574,
+               "lng" : 23.315876
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.66570052989272,
+                  "lng" : 23.31719142989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.66300087010728,
+                  "lng" : 23.31449177010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ahora by Sevda Dimitrova",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 640,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115163975867178183290\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGg6x-MTlqVtFRDLCGOst3n5YL3sOB9H8mPX36esdRL2avTwaw637y8DDZxVReKuMYFix5Pp7PksiATmY9wF4_7eFM7lcY8M7HG_d6zK1aSkeYwNH7PchoRHFBTKMQipncWydwy5Nz8g-RYEamx6_Fa97W4q1gW35HVSRWC377j6XN",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJDeeIJViEqkAR7Fbi0mbfDYg",
+         "plus_code" : 
+         {
+            "compound_code" : "M878+P9 Sofia, Bulgaria",
+            "global_code" : "8GJ5M878+P9"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJDeeIJViEqkAR7Fbi0mbfDYg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1480
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, Knyaz Alexander Dondukov Blvd 71, 1527 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6991023,
+               "lng" : 23.3366434
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.70035107989272,
+                  "lng" : 23.33800602989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69765142010728,
+                  "lng" : 23.33530637010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant \"Staria Chinar\"",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106809090694587604680\"\u003eЖивка Йорданова\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb4Z6zEjEHJKRUGrrI13uaeoejIXsvAU3ZM6fhREkO_H1X7os7shBdzyEw7ohm3larEsZvbp6h3fviiie_q4GaiDuCWF7A9C4bxXUfgmW0PQ_mkdSPfdZwKlRpLi4K5lHwV1EzgXV6otPYtcq7vSb8Crhe2nL1RHHLt7mN71uFTV1u1",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJVZpGF3CFqkAR2UCh0kf7vYY",
+         "plus_code" : 
+         {
+            "compound_code" : "M8XP+JM Sofia, Bulgaria",
+            "global_code" : "8GJ5M8XP+JM"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJVZpGF3CFqkAR2UCh0kf7vYY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4039
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, ul. \"Tsar Shishman\" 37, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6896271,
+               "lng" : 23.3279968
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69102597989272,
+                  "lng" : 23.32926042989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.68832632010728,
+                  "lng" : 23.32656077010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Little Things",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2359,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110582232270049485804\"\u003eDemetra Stormborn\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJatHmuK3qqvoG-1nc5r5WAqkmRUxScSBsbmXgd9gsVg21IKKaTLv-cfkfXJuz9qZnK5_WZsSs474RdIk9KWh4qv6alJyNxfJn2fRJ3D8BaPthtDM8S3g7_s9hP_-aXn8tVBLt8mm3pz5AkJU3LlxWAZMmSBfF_OQ7MTfTJlGPtvhrh9",
+               "width" : 4192
+            }
+         ],
+         "place_id" : "ChIJncACqQyFqkARnDh2tS7BRGU",
+         "plus_code" : 
+         {
+            "compound_code" : "M8QH+V5 Sofia, Bulgaria",
+            "global_code" : "8GJ5M8QH+V5"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJncACqQyFqkARnDh2tS7BRGU",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2822
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "g.k. Lozenets, ul. \"Lyubata\", 1407 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6702862,
+               "lng" : 23.3178793
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.67162852989271,
+                  "lng" : 23.31922552989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.66892887010727,
+                  "lng" : 23.31652587010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Chef's Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113176146029524317631\"\u003eЯвор Сарафов\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbCuLgGbsbRlULQBa_rcTqz1QSJJ1EghkLSqL7L89qnlsWA_XN-Lk46S1jgD8z6KzzjtcVGDc4__URpQoceNvCTXWIC6_qrq6Og4kttzbNFqIGfz3c_554jIT-ndy75vOQZGroquxchWWEs7zV3CjUaVjRIdX9C8JAI--W0qkq9jJFc",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJC-s2YP-EqkARXZ-UrIZy9lY",
+         "plus_code" : 
+         {
+            "compound_code" : "M8C9+45 Sofia, Bulgaria",
+            "global_code" : "8GJ5M8C9+45"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJC-s2YP-EqkARXZ-UrIZy9lY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1882
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pette Kyosheta, blvd. \"Makedonia\" 12, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6943339,
+               "lng" : 23.3138829
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69564202989272,
+                  "lng" : 23.31527252989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69294237010727,
+                  "lng" : 23.31257287010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Secret by Chef Petrov",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103017687539615794141\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZQ4y0ekkcyVkC1IFfvc9_0L0kNntMQrZ1DVsoreFVOjZ8NsrQpWoHePAGSeCbvCl5rU9ywzMvjJhL38noWNhsNFniu-JmxxW2SgnEVHzZcUIj8C9fsDwX4JmGSTCI1Uh3_rMU1iA19_Va3iYol4Rwjr8NXv_xVfDoIrI5a8Wi8wADR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ885YXHGFqkARBNqsv65RPaw",
+         "plus_code" : 
+         {
+            "compound_code" : "M8V7+PH Sofia, Bulgaria",
+            "global_code" : "8GJ5M8V7+PH"
+         },
+         "price_level" : 4,
+         "rating" : 4,
+         "reference" : "ChIJ885YXHGFqkARBNqsv65RPaw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 410
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "София Г.С, ulitsa „Georgi S. Rakovski“ 92, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6962375,
+               "lng" : 23.3295552
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69750827989272,
+                  "lng" : 23.33112247989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69480862010727,
+                  "lng" : 23.32842282010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Egur Egur - Armenian Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 807,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114659840064832827385\"\u003eEgur Egur - Armenian restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYoPsgaziUKPhMlUupgKNXwDDDKk6c02mW9IjSP8_fxYJAZYu2KouRHrnn87QiXtDnDRLeLW0MFqLXelmUi-S8cSNPDFygF4MoQ6aEIx9beS49pnsVF9J6yxxxrm3CbNQNExZeIAmFUM0DqND6Zx9oJwe-GmNaMx4YnlecdvSL8kr7o",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJyWT5tmuFqkARZkayNoZEleM",
+         "plus_code" : 
+         {
+            "compound_code" : "M8WH+FR Sofia, Bulgaria",
+            "global_code" : "8GJ5M8WH+FR"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJyWT5tmuFqkARZkayNoZEleM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1710
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hipodruma, \"Tsar Boris III\" Blvd 59, 1612 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6812963,
+               "lng" : 23.2901697
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.68270702989273,
+                  "lng" : 23.29145982989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.68000737010728,
+                  "lng" : 23.28876017010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant Talents Sofia",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102760453377386741616\"\u003eJoana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZWDYLOpNhdClT_Pnme2OAQV_FBwbeCeGP3L6ljSsOzbWw1E2YnT3WCMKUZBlU8ntzk4fMkf9PZ2aGrae6_ZadMmKANF0hOZPPEIY-RPfY7I5dFh_HYN08YJiPH7VDGnKS_vN362bZZC1P1SV4rgF_Y4kjOWe9VnlHyuvdztq_Eer7a",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJKUMh8g6FqkARPmx2th89wmU",
+         "plus_code" : 
+         {
+            "compound_code" : "M7JR+G3 Sofia, Bulgaria",
+            "global_code" : "8GJ5M7JR+G3"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJKUMh8g6FqkARPmx2th89wmU",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 635
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, ul. \"Ivan Vazov\" 12, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6929491,
+               "lng" : 23.3276781
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69433247989273,
+                  "lng" : 23.32906512989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69163282010729,
+                  "lng" : 23.32636547010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Checkpoint Charly",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100411891279369863472\"\u003eJeffrey Klassen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaew53NkUBJGSGSctCgamKkHtio6WescZ84LM_x9CTVRmfQEjsdZP-Ie_vd0KHVkBPdXq51V237CVXdRMF6uDk4W4pgXPwRpcDzz8MqMRDcGv452Si_BLyM5S4tHyLBd_KF6Yw4IEW6LORbqdT9jquRJQ0M-1e_PAZC_hT_R-J9Lur-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9Z1Vr3OFqkARkrqAOi1Vy6I",
+         "plus_code" : 
+         {
+            "compound_code" : "M8VH+53 Sofia, Bulgaria",
+            "global_code" : "8GJ5M8VH+53"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ9Z1Vr3OFqkARkrqAOi1Vy6I",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 951
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, pl. \"Sveti Aleksandar Nevski\" 1А, 1504 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6955068,
+               "lng" : 23.3338473
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69685662989271,
+                  "lng" : 23.33519712989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69415697010727,
+                  "lng" : 23.33249747010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "La Cattedrale",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107554588228001505425\"\u003eLa Cattedrale\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZFt8k0olw7MDTV9oEpCpjS3xeuTDAZEa2AbUh7fBv1pOSXD5OHb_2IcXT-bZjsQUVMqzMyIPgxlwSEprVVXb2UTubWYdEFAv0ACnxW0A8ctU-nBdB083jG66UNDFUIlOqw4jHLq82j00om8y04bA5zgiAT0sXHg1-SChd7IKP9WqFY",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJT6pbHneFqkARGt7lk448N8E",
+         "plus_code" : 
+         {
+            "compound_code" : "M8WM+6G Sofia, Bulgaria",
+            "global_code" : "8GJ5M8WM+6G"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJT6pbHneFqkARGt7lk448N8E",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2872
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, Lavele St 19, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6947414,
+               "lng" : 23.319002
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69604127989272,
+                  "lng" : 23.32028622989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69334162010728,
+                  "lng" : 23.31758657010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cosmos Restaurant / Космос",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3648,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104376303515579420333\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYsoUTlvYrSBWdufzfSLiOWdXrTnsngo3B_HkAW1g9HSg4GpQEYcilaaDLN9D51kqX3AwjRiNtvKZfXvsf8nWisDh_Ixuu401fKl07VB2MVk7vrSKjR5HyEfZXdFCfAOdBAOsLAj_P0JQUhtr8y_ct0oisxBUzbIQ6AgQEp5TdcNfcK",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJ_cRwe2yFqkARyMEmfC8GTwY",
+         "plus_code" : 
+         {
+            "compound_code" : "M8V9+VJ Sofia, Bulgaria",
+            "global_code" : "8GJ5M8V9+VJ"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJ_cRwe2yFqkARyMEmfC8GTwY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3026
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "улица „Христо Белчев“ 20, Solunska Street 14, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6927157,
+               "lng" : 23.3211189
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69401697989272,
+                  "lng" : 23.32246527989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69131732010727,
+                  "lng" : 23.31976562010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cactus",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111158051736801998098\"\u003eIrena Novakova\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaLNpv2Y7Adybj1a5lnsqz8KML3wXYottwk4Bycvy2UtFBwSwfYvKX80F9KhufiFATj87Qh6WGYIR1cDR9LOGvRaYonFiJVfFFD_WTNXOJbxVqF-s8b7T7rdAJnwme0O3tgDtxMu5W1Mdj6seZCtJVtvLJeDG4L2WNa2UFxmDko4A-H",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJXce1bnGFqkARkathCFQgdE0",
+         "plus_code" : 
+         {
+            "compound_code" : "M8VC+3C Sofia, Bulgaria",
+            "global_code" : "8GJ5M8VC+3C"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJXce1bnGFqkARkathCFQgdE0",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2473
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, San Stefano St 22, 1504 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6917384,
+               "lng" : 23.3378677
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69306312989272,
+                  "lng" : 23.33934537989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.69036347010727,
+                  "lng" : 23.33664572010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Shtastlivetsa - San Stefano Plaza",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4480,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104227193869090262387\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZrgepkt3Qc7I1pG78WDPqknQ6Iw0v1Xn45GpKqLJ0-g0N8CKp_z51zAXR6rWkAfInbVtlyNUvwR3iWWMYl6d1DyRhB27Mg-5Bh1OqAM983VhWeosfTqyZHlc5sT_-6jXs9tFZP7Ok9LEKw007CANuLPqvh-EqAKGQlw7Y_4DXbI2qi",
+               "width" : 6720
+            }
+         ],
+         "place_id" : "ChIJSVnOEJ6FqkAR62YrYeAC2qA",
+         "plus_code" : 
+         {
+            "compound_code" : "M8RQ+M4 Sofia, Bulgaria",
+            "global_code" : "8GJ5M8RQ+M4"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJSVnOEJ6FqkAR62YrYeAC2qA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3521
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sofia Center, ul. \"Yuri Venelin\" 6, 1000 Sofia, Bulgaria",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.6900789,
+               "lng" : 23.3292508
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.69146457989273,
+                  "lng" : 23.33065902989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.68876492010728,
+                  "lng" : 23.32795937010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Made in Blue",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112263298947561108884\"\u003eVioleta Stoyanova\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYCqrpB0qChRD9uP9RAndlObLUfvpSEwPuKmPYABcRYJP7Xmkke1pE90QyXyn3z3w94PCsnZH3mp_1KAnOXG59go-1R6LNeWxJAxcuZWsHgNofFPVelSxrLM3PHbLcasZBJzeyYYusqietl6hveaXt3KwN6wBgUpv4JibIfYeqU9yfi",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ56TBaaqFqkARD2Bs21k5sNg",
+         "plus_code" : 
+         {
+            "compound_code" : "M8RH+2M Sofia, Bulgaria",
+            "global_code" : "8GJ5M8RH+2M"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJ56TBaaqFqkARD2Bs21k5sNg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1748
+      }
+   ],
+   "status" : "OK"
+}

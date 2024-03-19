@@ -1,0 +1,1221 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJb4yzPzq2GrwvQgyKBfishs_tRWlmot77ZzQgOga0kmneooUbZY4O0FKPrygq4ETnntjJHS3cSPB5O4-5eAPpSKqrXZ_T8hP5LLh2mJ5zvn6q2QSi2pO7FXg63RZq9cDPg1Pv9DRo72UeLBs5eknYBSLMQ6bxVGVrPLeyez-5GJn4vjzasOboLvCcZP7sz1kZBnX0CTg4ERVzNEMq4dnWZjv-Es0zMaZbnENP3J8GKWFVX3_9orUKRGi0YfQxBlTGEcszA5LXM_BHp2wekcCMlC3q1A1moLIdJRQA45mDifnjW6ClcVNbiAZSF5QLUuZZgcEAsYZnmtgZZZndWbt5ShT1Y3_T11Op1U3456oKne_qSR0h2b86vfcDocDdA4_GxaK9cuesKFOPO9_gdv",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Museumsinsel 1, 80538 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1298707,
+               "lng" : 11.5834522
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.1329787,
+                  "lng" : 11.5875438
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.1282303,
+                  "lng" : 11.581631
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Deutsches Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110202598362493939704\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb16Hltmznq5epl9AixBlIJxIeLn2aT53LrCWCP8KW1UT0hI-TmuLzGn-VSGNvg9G4v_JcJ9_w9mjmf8ozvicvJ1zyVTUjER9Yor7jmb22KAMk_l018E39U3ZsBrqNFd0Bj4VLQFiGD-MdDBkCvKSJDhhe4S7Nb02rUb7o898uxGNVp",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ01CaE2PfnUcRUpb8Ylg-UXo",
+         "plus_code" : 
+         {
+            "compound_code" : "4HHM+W9 Munich, Germany",
+            "global_code" : "8FWH4HHM+W9"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ01CaE2PfnUcRUpb8Ylg-UXo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 33976
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Barer Str. 40, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1468688,
+               "lng" : 11.5721205
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14828742989273,
+                  "lng" : 11.57357262989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14558777010728,
+                  "lng" : 11.57087297010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Pinakothek der Moderne",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 513,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107247192010596649690\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa7UmCBTgwYrAUnZE5EZ-ko3M09pdR8Vfda0HYkjR4-9XjP5xpW_FRF6lC8E3GDWEodK0JQghfXmJsE3w2Tqvs9c0az0QqTlLso_y9bi_cJ5ukEqrF5dCcUAQGj4vNUW8vdkHt0UrOwDEzRpgVd_8VKj1ONbxG1_iEdFBLdNJTxwC2w",
+               "width" : 830
+            }
+         ],
+         "place_id" : "ChIJW8LuYO51nkcRZqoW2f9yn8c",
+         "plus_code" : 
+         {
+            "compound_code" : "4HWC+VW Munich, Germany",
+            "global_code" : "8FWH4HWC+VW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJW8LuYO51nkcRZqoW2f9yn8c",
+         "types" : 
+         [
+            "art_gallery",
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7712
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Luisenstraße 33, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1466825,
+               "lng" : 11.5639972
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14787872989272,
+                  "lng" : 11.56494937989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14517907010728,
+                  "lng" : 11.56224972010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Lenbachhaus",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 692,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107302418553432888653\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaH9d8JDIwuA7fk9UV-fSU1yG-FVXTJYxKV7RsLD3z_sX7_5YNyC-E5HkGtwR-JocaIomYK--1AhACYNQEDVlkGD5hdK5bN0dGPIEFn6VU2Ab3QbtZNAgYh1lvb3bFhMKFOEiwZ76b-kaEmNhufyDxJLwFlhjzsi4A16-ibl807n4XY",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJD2wwR-V1nkcRCKM7kD249X8",
+         "plus_code" : 
+         {
+            "compound_code" : "4HW7+MH Munich, Germany",
+            "global_code" : "8FWH4HW7+MH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJD2wwR-V1nkcRCKM7kD249X8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3126
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Barer Str. 27, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1483311,
+               "lng" : 11.5699755
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14961427989272,
+                  "lng" : 11.57244175
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14691462010727,
+                  "lng" : 11.56746875
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Alte Pinakothek",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117664665804717655255\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY3lWXuky61ncDCph-e3SmgkJzYiB1Sr4-foancZx4B9hLHHQtCE33NLE9MaYxSCp0ka_wexHMT3WMZTrvSPbj_ClI1bWhn78KBDKQzBcRD3D_nC_lbPiLraDP9nyD5QnXEN9bZC0fmcIQSfpgkfGjy2FP0PEVW0fn20k7UpuZNQljM",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJ12nAjO51nkcRt8DRlE8kWIE",
+         "plus_code" : 
+         {
+            "compound_code" : "4HX9+8X Munich, Germany",
+            "global_code" : "8FWH4HX9+8X"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ12nAjO51nkcRt8DRlE8kWIE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9578
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Theresienstraße 35a, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1481788,
+               "lng" : 11.5742159
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14957567989272,
+                  "lng" : 11.57555682989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14687602010728,
+                  "lng" : 11.57285717010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum Brandhorst",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101290026018995901563\"\u003eStefan Gehring\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaXT-MsR1bURnxwGQQQM-FlM3GcAstWZnxucab2TAwWZIaJHbyk6_FasTz1THqkMVhMaBpYhEIRH3SwogEu589wSHVeCsULoggiuPlUv8FRVpC7mm6qFZl4QZy4YFjcg70WYlZDKLKDu0YCntjkKg9Knya-MHPQlfSh_lUHg8f3jW3U",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFe57Oex1nkcRIEXF5DVBDA0",
+         "plus_code" : 
+         {
+            "compound_code" : "4HXF+7M Munich, Germany",
+            "global_code" : "8FWH4HXF+7M"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJFe57Oex1nkcRIEXF5DVBDA0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1988
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Max-Mannheimer-Platz 1, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1453025,
+               "lng" : 11.5675405
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14663782989272,
+                  "lng" : 11.56889347989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14393817010728,
+                  "lng" : 11.56619382010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "NS-Dokumentationszentrum München",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 719,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117364155013652454366\"\u003eMichael Graber\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ_X96hgcNW20zMEGkUq67KQbuNATZ8Xm2he4DDs_jgOXOGspED9FBQ6d5NF0OxsVVSBx-w1Hgxn19m_cohkmrgvP-fSO0vFwNMTe8wRdII7RZGUo66QQ-U_DvBpik8FF2RYoLwOqO1MSjiLH5Ww3l0ThFZRtV5GoKBfvnOcFQ-ZJti",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJO9I5KfB1nkcR8m9Fi7cOqLI",
+         "plus_code" : 
+         {
+            "compound_code" : "4HW9+43 Munich, Germany",
+            "global_code" : "8FWH4HW9+43"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJO9I5KfB1nkcR8m9Fi7cOqLI",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2887
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Residenzstraße 1, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1417978,
+               "lng" : 11.579486
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14341900000001,
+                  "lng" : 11.58064765
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13809659999999,
+                  "lng" : 11.57640585
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Munich Residenz",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 12000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111761251195072551285\"\u003eJesus Ascencio\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbd9dNfsDrNjm3tHLOx6vrthbOj04criF8oHeMMe9uxPr3WP0ZfIhMhLfFQMTTHfo0f2MnshDSPRYjNbWeZfSnGG0g1hQduIDCLUL6_e2dZbyZqZpaljiQGhpFWytrBKTS8Q-82LmyCRLqwW9Ry30AfWcBLH4qjWfy7f7LBJbR9grIN",
+               "width" : 9000
+            }
+         ],
+         "place_id" : "ChIJrWV_DYx1nkcRD_tKgCHVad4",
+         "plus_code" : 
+         {
+            "compound_code" : "4HRH+PQ Munich, Germany",
+            "global_code" : "8FWH4HRH+PQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJrWV_DYx1nkcRD_tKgCHVad4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16162
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prinzregentenstraße 3, 80538 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1430658,
+               "lng" : 11.5910024
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14431507989273,
+                  "lng" : 11.59246365
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14161542010728,
+                  "lng" : 11.58779305
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Bavarian National Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 12000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100470419221406202775\"\u003eRandy Zimmerman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZYRgoT_Rjf1IfAd-s51RW0kafJyZUXve89pSmvOeNm_COgZPN9Vgwq9jvpNjn4Gv959QiLKlUybEF8cJCddFDRJ68bgmStyBW9qvPSCywLUEIo2Jf0HNMH1yu5vwOm7L7UBAY6JA7Zw0E99gXvMLp1f46z4hAVG4LGK7RJMjPRlMgd",
+               "width" : 9000
+            }
+         ],
+         "place_id" : "ChIJq2Z34I91nkcRToQR6g4GUqw",
+         "plus_code" : 
+         {
+            "compound_code" : "4HVR+6C Munich, Germany",
+            "global_code" : "8FWH4HVR+6C"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJq2Z34I91nkcRToQR6g4GUqw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2069
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gabelsbergerstraße 35, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1470084,
+               "lng" : 11.568286
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14840207989271,
+                  "lng" : 11.5717833
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14570242010727,
+                  "lng" : 11.5661629
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Munich Museum of Egyptian Art",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107579853750693302746\"\u003e107579853750693302746\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJakdSgtWOz1aQVVq1QYgMAYHZ2Olk28fbmNLPavxY6HdU-GpTIrzHStJ3g33-7UNgi5zCVhwaXCFMMYBaA2zxhCTJZaB_Zegf9WtOQt4AVeaoshL2d_LJiyFyEm-Gw39idX1i1UGUm4RWrlcZzfcDNHSFicrjyhJ6wX1nLU0Vns03YH",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJNWpBsO91nkcRCApfQrx4DG8",
+         "plus_code" : 
+         {
+            "compound_code" : "4HW9+R8 Munich, Germany",
+            "global_code" : "8FWH4HW9+R8"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJNWpBsO91nkcRCApfQrx4DG8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3534
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sterneckerstraße 2, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1352911,
+               "lng" : 11.5802132
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13649422989273,
+                  "lng" : 11.58162567989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13379457010728,
+                  "lng" : 11.57892602010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Beer and Oktoberfest Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106156494355594871699\"\u003eHannes Henn\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZIQ5fb5kMR1mAYaGLEXlKTQ42gBJpNrGW-TFl7sHOJdMyUNK9p8_8kjzuvHGnLrS7dohsn64S1Y4Ct4zkXVs8xOJ_tnIdFmSBLiE8HgNpd-NsTtlobnOfAUtul52lXEXWxintzmbtDgCciHoB_DJSWhconYo-1I94j_rHUTNT6T5kq",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJ-88eGYp1nkcRpm2C9-efi7g",
+         "plus_code" : 
+         {
+            "compound_code" : "4HPJ+43 Munich, Germany",
+            "global_code" : "8FWH4HPJ+43"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ-88eGYp1nkcRpm2C9-efi7g",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1091
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Am Olympiapark 2, 80809 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1768304,
+               "lng" : 11.5590966
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.17787867989273,
+                  "lng" : 11.56349725
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.17517902010729,
+                  "lng" : 11.55723185
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "BMW Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109749448729855949205\"\u003eTehzib Saikia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbWpf4m9SD4BqmJwuYyikt_SqtqiiPewW7JT94icE8Ap1KL0nWF_JWe1mJ8ArQa6LiI9Vka7ZXFHld4UK2UYHH1EyqkkvXXmoO6QdM9JqsX_hYnXTInTuDaBw7k55wZcPcfLGbwuDBPSBxMrg-wa5VC8Z2G_VByC6dNFOQ-39Em1lGe",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJa0ubVnx2nkcRiGkSeL3MxpU",
+         "plus_code" : 
+         {
+            "compound_code" : "5HG5+PJ Munich, Germany",
+            "global_code" : "8FWH5HG5+PJ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJa0ubVnx2nkcRiGkSeL3MxpU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 34539
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prinzregentenstraße 1, 80538 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1440002,
+               "lng" : 11.5858826
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14523062989272,
+                  "lng" : 11.58885395
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14253097010727,
+                  "lng" : 11.58333655
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Haus der Kunst",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101290026018995901563\"\u003eStefan Gehring\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaWEmE1dJSkY0spJgNuPhvZ06x8mpijIAajmU0V75OUpqrdOiwY3EMETM0Sbqux_XV_0SYUab9u6x0YSXyQTVaCa8sTr56XnBsI6OScOMlUlFAvy8mDstc-Et8y_4VMaMmdrVeq_oSLoe_Gcm-7zxQ-iatYJznKwvaMQSuTfO-xdrx_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6S4O1pF1nkcRq1FqjecOHZU",
+         "plus_code" : 
+         {
+            "compound_code" : "4HVP+J9 Munich, Germany",
+            "global_code" : "8FWH4HVP+J9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ6S4O1pF1nkcRq1FqjecOHZU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3396
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Theatinerstraße 8, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.139972,
+               "lng" : 11.575858
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14099467989272,
+                  "lng" : 11.57719692989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13829502010728,
+                  "lng" : 11.57449727010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Kunsthalle der Hypo-Kulturstiftung",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3645,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101970804782139587429\"\u003eKunsthalle der Hypo-Kulturstiftung\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbJO1Ex-p8KMjdouSbeXAl4JVP-90IfiDUI0-8EN5Bzjl_gMXyHDgx53TThK3CvVpOG04oY0TqXe7BKjMLJ-HrKE0ozWywtbaqzO18b6Dq3r9bnWFbbuSXAjkdDlNl8Si8OHucf1UOSSbWJwN2MjqpnV4nnUcqjih-Go8gc7wymJ1G2",
+               "width" : 6480
+            }
+         ],
+         "place_id" : "ChIJnU447V_fnUcR1fT9iNbHYxI",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQG+X8 Munich, Germany",
+            "global_code" : "8FWH4HQG+X8"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJnU447V_fnUcR1fT9iNbHYxI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2652
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Königsplatz 3, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1463019,
+               "lng" : 11.5656464
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14739132989272,
+                  "lng" : 11.56683532989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14469167010728,
+                  "lng" : 11.56413567010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Glyptothek",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103353698213992510503\"\u003eSakis Karagiannis\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa9ThsM4T8bLTLvysczRGDOrXVBxJ-LwbEA0lOyFhWe-JFgHd9NCHHV0yVqCCvb5bAo9Wa-RE_1uG9ZMf1-HQJA8jnDLtEDVPlCNRqOIlnnjCOqs3Xn2uIwwU7KvfL_J1Re6bDBmQQdqbGbptucO6lj8wekvPx_Gb0aZod--VSGmylK",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJEYxtM2FynkcRWOGFnTNyiNQ",
+         "plus_code" : 
+         {
+            "compound_code" : "4HW8+G7 Munich, Germany",
+            "global_code" : "8FWH4HW8+G7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJEYxtM2FynkcRWOGFnTNyiNQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1297
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prinzregentenstraße 60, 81675 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1406044,
+               "lng" : 11.5996987
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14203082989272,
+                  "lng" : 11.60110537989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13933117010728,
+                  "lng" : 11.59840572010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum Villa Stuck",
+         "photos" : 
+         [
+            {
+               "height" : 2160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102371300389501923161\"\u003eAntunes\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbqlphd4YX_TZ-NAKMVT5do2qYhOa9sqCtEsI2zz90kTYkpTMEoLWhK7cqx5oBg6uwh_v9hmgIoQR_X0MWsvUSl52W5M_WznQgCRFCgQKahztYeaeCsv2NCYuf5ZFvPzKNVJQSX3jdaSFflsF6fG8Yy3LxDPFLE7NeVxN3_VgOo5OPh",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJT4_G44J1nkcR8KLC6o1Xfdk",
+         "plus_code" : 
+         {
+            "compound_code" : "4HRX+6V Munich, Germany",
+            "global_code" : "8FWH4HRX+6V"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJT4_G44J1nkcR8KLC6o1Xfdk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 909
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Maximilianstraße 42, 80538 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1376993,
+               "lng" : 11.5856352
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13901707989272,
+                  "lng" : 11.58700172989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13631742010728,
+                  "lng" : 11.58430207010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum Five Continents",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113464207120006817018\"\u003eAlexander Simonov\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYgw4W6ODs5IlzOcSMDJxMmccaPzs3pwlUhZhppDHxJ2i0S95saTRRMnGbDRqVoPi8H6DCjwn5ulWmFA22e-BdFQc5jZmBJYEfeiGASlGV0sR7LRqqG6W7aQg_jxj9I9k3aKpCnQovZ-3uD2hwRKmaDAloOYFtR9Lo-cgRLJ2OupNOI",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJibrq3Ih1nkcR_eAu8n9LhV0",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQP+37 Munich, Germany",
+            "global_code" : "8FWH4HQP+37"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJibrq3Ih1nkcR_eAu8n9LhV0",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1806
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Schloß Nymphenburg 208, 80638 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1566917,
+               "lng" : 11.5048111
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.15804152989271,
+                  "lng" : 11.50616092989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.15534187010727,
+                  "lng" : 11.50346127010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Schloss Nymphenburg Marstallmuseum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3468,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103585551608080345441\"\u003eDavid Jurovich\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZx6JIkdI1pk9HO10gRQ_aIFoAqsUXQ7QPfqoRFyzamey4qeXZNaK0p4evv-V8RP6MBywkLTp1xX7PCZhFcfW74um54dcg_cZA_o6q_lR0MaS1FQ4XCupHm9YJcvVu1ZUEx1gI-bY1QVbIHL4qNqgBLw93hhFNMdWa5VFMzKrKIoCbI",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJF1Rr1sp3nkcROPhmeetA96c",
+         "plus_code" : 
+         {
+            "compound_code" : "5G43+MW Munich, Germany",
+            "global_code" : "8FWH5G43+MW"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJF1Rr1sp3nkcROPhmeetA96c",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 223
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Am Olympiapark 1, 80809 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1771981,
+               "lng" : 11.5562963
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.17909675000003,
+                  "lng" : 11.55791562989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.17613574999999,
+                  "lng" : 11.55521597010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "BMW Welt",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102401210672860291264\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJam9YowRuWorsU70fPZA6MKz3E4LIxn6adtoA4knW4tt8w9HLgslFZ-UZPvVk-nY0bsLEC937SG2UPSp_HP_vwl2wKYShxFt87YAN_Fg7j9gE8pXGjJHgLyGGbSMtiNbz-0pxnZ2c3VXNjCUMZFFyw1W0e0ouOAcKMZmsKS5FACCdaz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0VcAin12nkcReOfzPsk8NaU",
+         "plus_code" : 
+         {
+            "compound_code" : "5HG4+VG Munich, Germany",
+            "global_code" : "8FWH5HG4+VG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ0VcAin12nkcReOfzPsk8NaU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 31253
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Barer Str. 40, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1476802,
+               "lng" : 11.5715441
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14908017989272,
+                  "lng" : 11.57272282989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.14638052010728,
+                  "lng" : 11.57002317010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Die Neue Sammlung",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3265,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104805372911199819074\"\u003eJoonho Yoon\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZVly_IyPPR7kLPahkd69ncffgiwAbFkkZmZWnLkpa546AW4eqtthv4-HJ82Ry-2pKjchFzK3AtTScl_CglsiwLBD0X30MWzZ7MkBFk2sJRoyUlFosr0YqM0PL7stwgnDY2NO_tGUivpY4dfvgJWQPDGS-fRRrK4iWbnSMSb2wXwbUd",
+               "width" : 4898
+            }
+         ],
+         "place_id" : "ChIJB38B0O11nkcRdUJKAvuAYO4",
+         "plus_code" : 
+         {
+            "compound_code" : "4HXC+3J Munich, Germany",
+            "global_code" : "8FWH4HXC+3J"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJB38B0O11nkcRdUJKAvuAYO4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 120
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tal 50, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1350918,
+               "lng" : 11.5818415
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13638907989272,
+                  "lng" : 11.58303247989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13368942010727,
+                  "lng" : 11.58033282010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Valentin-Karlstadt-Musäum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2848,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103969357352480871206\"\u003eWalter Claude\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa89p0uFv4Vij4fezAB2Ve34DyPvbbLtP-UUlu3ecodjhwLk4rsCwVrnS1y29EKagmLUT6tm6787pE8CmrCvIsA7g27hzqk0AgiQnonG-4UhP_JxwXLXkPR6L-apCd823edeZZ_SxJWLxdG91W-bGFpA02aYrB__lJhFjCQj_Jw4cHM",
+               "width" : 4272
+            }
+         ],
+         "place_id" : "ChIJhyum8ol1nkcR05_UwSmUZ2o",
+         "plus_code" : 
+         {
+            "compound_code" : "4HPJ+2P Munich, Germany",
+            "global_code" : "8FWH4HPJ+2P"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJhyum8ol1nkcR05_UwSmUZ2o",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 759
+      }
+   ],
+   "status" : "OK"
+}

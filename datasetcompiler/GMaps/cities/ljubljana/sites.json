@@ -1,0 +1,1218 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJaCwsE27BUWxqCsEJMGc5-Bl_P4xK6pofI30JPQgAZByDDrVJIpTMf1fB5FRWsqOZjCG6PgFyXRT1OegpbQNr7w-Kjb_Eg4JWUrind-Yyvpb0AdYTjrJdzbqF4d7gV-pUtfyGE3J3i8SCHOkwzg0oVGgEJdtuj-mcD25xDodX22x9mLZS0b16ikS_IanUu_16w_Z7hfGEpk5l4I8rtuQ4KGB8oUtb2guIKr3UAlyuHp8jxpG1ftpG_L4v0Ndrbdn7SzrdOIjmPqKFh3A3p5LIpAgwzRWBKccEcKHJdMz-gq0ndJIRgkLFQqoPUez6tNB8BPZpfAJ6WfmuVRT0qc3dSRScNzNJfBUmB7hk1jkJGxQJTCeOOBioWAjg6JRqXmI5FwCHK94NK6jN6OKqhEmA",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tivoli, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0538984,
+               "lng" : 14.4949126
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.06231294999999,
+                  "lng" : 14.49936385000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05109355000001,
+                  "lng" : 14.49342885
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Tivoli Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3472,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115783891135119965768\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZmgIB8TuELPvCYvRtKaGnU0OK5mO6vg7eQ_TmALKxUNji-DfJHplAPtYyJeUiJzMq6ZUPf4km7VmVb4Gjo10pCNfq_5711JOOyswJVRI4Kv2UEHgKxDt3nNysfxh0rdjGFgpdbIw0ZPpyB9a0L3zEZutXI9674wGecl96KCPsi5TvB",
+               "width" : 3472
+            }
+         ],
+         "place_id" : "ChIJXcLGkaAyZUcRcHEyUR34AA8",
+         "plus_code" : 
+         {
+            "compound_code" : "3F3V+HX Ljubljana, Slovenia",
+            "global_code" : "8FRP3F3V+HX"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJXcLGkaAyZUcRcHEyUR34AA8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13975
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Resljeva c. 2, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0520086,
+               "lng" : 14.5103099
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05335447989273,
+                  "lng" : 14.51163867989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05065482010728,
+                  "lng" : 14.50893902010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dragon Bridge",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116200523444618383546\"\u003eAndrei Banciu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY_leuXt9LSxjcYNW7y8k5UOwWRh6gE61AdFo5KVvi9JWjylkRfR2aFO-Sb6NQgkeHfArrP3Dme67Q-rw_yZ9tP8B6WnJeJ7Wg-Ff29IAxujkX017N9eC6xSw8Zrp930Sm0f-5DJFQ5VHf9tKZ6xaBxdhu3HA8FOPH6xMMXJE92QX7p",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ49F7S2ItZUcRSrMN8zPITvE",
+         "plus_code" : 
+         {
+            "compound_code" : "3G26+R4 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G26+R4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ49F7S2ItZUcRSrMN8zPITvE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16439
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grajska planota 1, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0488852,
+               "lng" : 14.5083738
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05003432989272,
+                  "lng" : 14.51028942989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04733467010728,
+                  "lng" : 14.50758977010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ljubljana Castle",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 976,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100269062442923898976\"\u003eMichel Bekker\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbFtVKDmtHupJNhrg-vu0gkkDsNj5zvrI2UyQ0DSR9mVAogAHMEhi9UzDGyqKXti3hbZdty_VqWCdywCYlvtfOY8twONrSL8QdI3I9xpPxe92l1c_KI7BanpcrT2FsIs1ktIV7167STQuNUeAuGvDFGnYTKKww-0ZricDAb-MAGzeT8",
+               "width" : 970
+            }
+         ],
+         "place_id" : "ChIJfyAFWmMtZUcReLLmzQrTZ-Y",
+         "plus_code" : 
+         {
+            "compound_code" : "2GX5+H8 Ljubljana, Slovenia",
+            "global_code" : "8FRP2GX5+H8"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJfyAFWmMtZUcReLLmzQrTZ-Y",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 35106
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prešernov trg 1, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.051476,
+               "lng" : 14.5060365
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05321467989273,
+                  "lng" : 14.50746607989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05051502010728,
+                  "lng" : 14.50476642010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Prešernov trg",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3856,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111150863052625058838\"\u003eAsatrU.dark\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYBiQOncaRtpiBfb9b6Jh_VXxiCXPBtU-9z2-CQjKfY_3lXcD6_xDXrSnoSkes8u6PylEjkVRS-C5-ilGcNxkWHpncJ9DdEx8meoPTd3l05SAydw0YDBU28jfY60qSenvQ5wuggKinbpbLu79HbTqlVk5ovmiCum_awQ9geNWVRL6i3",
+               "width" : 6880
+            }
+         ],
+         "place_id" : "ChIJo4WJTGItZUcReN-HhOSwHds",
+         "plus_code" : 
+         {
+            "compound_code" : "3G24+HC Ljubljana, Slovenia",
+            "global_code" : "8FRP3G24+HC"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJo4WJTGItZUcReN-HhOSwHds",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10353
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prešernov trg, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0513837,
+               "lng" : 14.5063132
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05315662989273,
+                  "lng" : 14.50770622989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05045697010728,
+                  "lng" : 14.50500657010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Spomenik Prešernu",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4608,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104959660584688474586\"\u003eobla\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbAla8VRDlS_0KM1N6UlxQw8j-1SFtlANoSjfWUrMilIcYYe5YvRpzgscoAMzy0qkgl1EaspEoqDOJm31On8LWXeb1JWdfMtlOv7U4fzeD-EbuSt9bJSoBneGzsio7EWYm7FRoBtb11RscW1uhDaw4ZoUx7sXX5UDt3cElpBImy0IxS",
+               "width" : 2128
+            }
+         ],
+         "place_id" : "ChIJFUvgH0MtZUcRpZPKuLWpIsI",
+         "plus_code" : 
+         {
+            "compound_code" : "3G24+HG Ljubljana, Slovenia",
+            "global_code" : "8FRP3G24+HG"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJFUvgH0MtZUcRpZPKuLWpIsI",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 34
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Adamič-Lundrovo nabrežje 6, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0513742,
+               "lng" : 14.5102391
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05285822989273,
+                  "lng" : 14.51154442989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05015857010729,
+                  "lng" : 14.50884477010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Central Market",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2496,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103761430548808730126\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbTbx3vlLZEP7oEjzFrdzavc-xJWgpV96ofuCM7oWhdsm7uHaFtYv-LsF_Mm0UdKcE0ulF7irsBQ3Zp-kn-wEvfpcQ_6DIO6D8W0CJXk28ZasjAjPnwYeUWpjP3yNiZl-1SdPCi35ATyCUQLTW_nPzZOVLSDRxiDKGZmCy5-cOO3uAh",
+               "width" : 3328
+            }
+         ],
+         "place_id" : "ChIJgW8c0GItZUcRgRec0xgpaHA",
+         "plus_code" : 
+         {
+            "compound_code" : "3G26+H3 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G26+H3"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJgW8c0GItZUcRgRec0xgpaHA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3104
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kongresni trg, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0497997,
+               "lng" : 14.5036339
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05115312989272,
+                  "lng" : 14.50546442989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04845347010728,
+                  "lng" : 14.50276477010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kongresni Trg",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1152,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102482749653490097228\"\u003eJarek K\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJabZcVm8f6rV6JyRAIcNdN6xiABg_SsOItJ_p1jn3vIPMeEpbgNQk6i3Z6wLw2omzGkCh9Y2bTgZMQoyfh0IPh4FtozBE54siHqaDb3RGXo49XjMM1jT-Z1ZFdXYGLqUqpsUGSW2UzuCxuRFp_kQ7ESdmpXYHWZNG9O0-FhFU_j4T9p",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJX_40wGMtZUcRztZjXCCqxz8",
+         "plus_code" : 
+         {
+            "compound_code" : "2GX3+WF Ljubljana, Slovenia",
+            "global_code" : "8FRP2GX3+WF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJX_40wGMtZUcRztZjXCCqxz8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8597
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Metelkova ulica 10, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0572838,
+               "lng" : 14.5166037
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05864292989272,
+                  "lng" : 14.51789357989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05594327010728,
+                  "lng" : 14.51519392010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Metelkova Art Centre",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111372809454874157225\"\u003eJose Baldo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbgmBNzkp_rAwiFlyK3ZezvSJkZGkWu18IAP3xe5D20OV3jTJyls95MwB2Pk2PlHIRKbIQIXlUT9_b7BrrxmB1fjvzfRdzqvTY-L-qHiuzqxr-CkF_uUg_PHHQ4fXCVSH4Oyx-pnStkFAR-N1dE1NT4Xqa7kCpH8SD3CHQI15xWoSgB",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0XIzgoQyZUcRBY95zASRuG4",
+         "plus_code" : 
+         {
+            "compound_code" : "3G48+WJ Ljubljana, Slovenia",
+            "global_code" : "8FRP3G48+WJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ0XIzgoQyZUcRBY95zASRuG4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6244
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0508788,
+               "lng" : 14.5009992
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05222862989272,
+                  "lng" : 14.50234902989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04952897010727,
+                  "lng" : 14.49964937010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Trg republike",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106458648551670914898\"\u003eAndreas Rapp\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbeGyijuwbLBImUGiCNgU9SImit6EDNOH3NlyKJmxeh2s9Dwnl0aEjh4feBfnI7R9ngZ3-Ml1A8MJMPXUQU_ckCpr7ZJRSqqQm-eAHRm_mhWttRJwRkWfjf5RjYJLEBumEV8vtA30HFNzBPxXab5xIJucjzyB-7UxvicBFKOSfq-nyd",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ0-No4GAtZUcRfAFp7am3na4",
+         "plus_code" : 
+         {
+            "compound_code" : "3G22+99 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G22+99"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ0-No4GAtZUcRfAFp7am3na4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 977
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jakopičevo sprehajališče, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0540199,
+               "lng" : 14.4959651
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05534932989273,
+                  "lng" : 14.49730457989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05264967010729,
+                  "lng" : 14.49460492010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Jakopič Promenade",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4344,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103269801036154882977\"\u003eKamil Detyna\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZwI_JhsxUVDnCyiN1SBXQxuXuDAEpA-H0SxuSj6KNdSjWrF-c2W2nDxgjUxuOsnSQeK-sznDNP_tJBIKTCf4QBo8GdWYI7iji7WO-l7B6n8l4GwKJQVSp3Rfi4VHmUJD0Atm6-tplPWVeGyEjWfjwyGzAVHxHzco_Th3HyepAKsr8H",
+               "width" : 5792
+            }
+         ],
+         "place_id" : "ChIJ5yY-mV8tZUcRQ3S1BfrQmUs",
+         "plus_code" : 
+         {
+            "compound_code" : "3F3W+J9 Ljubljana, Slovenia",
+            "global_code" : "8FRP3F3W+J9"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ5yY-mV8tZUcRQ3S1BfrQmUs",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 177
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Center District, 1000, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0520431,
+               "lng" : 14.4944751
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05339292989272,
+                  "lng" : 14.49582492989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05069327010728,
+                  "lng" : 14.49312527010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Monument Ribe - The Fish",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118288964745365990010\"\u003ePisák Tamás\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZDcDb-mdyB6fdX_Hp0XLd4j5x1uXWrSqKWa332RxmOOAExaqESzsv2V6HdbPaTlyjaDxOcbNiIvDg-gmpGzLC2lQtkJJhcn9zWh2Df2PIqhREKiX-kPw9wInkWcvJgWWuWBONe7zCP-M0kgVCYgLZ3FoS0pt6nItA11K0Uew6H10ue",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJT7q5oOYtZUcRQcMCWqTjLNQ",
+         "plus_code" : 
+         {
+            "compound_code" : "3F2V+RQ Ljubljana, Slovenia",
+            "global_code" : "8FRP3F2V+RQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJT7q5oOYtZUcRQcMCWqTjLNQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 68
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mestni trg, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.050107,
+               "lng" : 14.5070082
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05165947989273,
+                  "lng" : 14.50821032989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04895982010729,
+                  "lng" : 14.50551067010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Robbov vodnjak",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1551,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110312706345551412565\"\u003eMuhammed Muadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGq_QTov3qKy-ihCCa6d3MQW2s07IdRH2jVJrq-_37DPzs8vHeAlfG3fb7gbIptyoIXhoerKMHa4oMnTkhyy3vQZ0NfIav3LwAGJBdnUsCi2mCT9HWRaiEgbcUKefE-6fMuCvdFIEkTT29HBSf0pV_mBOcauHgnYPY02NMJh1JBJQf",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJp6ZiDGMtZUcRLcu8FuNxV9Y",
+         "plus_code" : 
+         {
+            "compound_code" : "3G24+2R Ljubljana, Slovenia",
+            "global_code" : "8FRP3G24+2R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJp6ZiDGMtZUcRLcu8FuNxV9Y",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 565
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Štefanova ulica 1, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0532605,
+               "lng" : 14.5036479
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05464572989272,
+                  "lng" : 14.50501722989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05194607010728,
+                  "lng" : 14.50231757010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Nebotičnik - Skyscraper",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107615507194614690918\"\u003eNebotičnik\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGHvDVqQ9bDJHAJC0XEZT58SkwXJ1R0DFp_UoZ-7k1XT3K5A-EPLhgSKI1H05b5OEfwGwGu035lmzII7v8Xzm97eO7EM4Pubq86HSx71K7DEjit9BP6xBRM_8xOERhZ6LupeU-sXT0xZ9W4ORwkUf_fEtYCHqaYIXYqOb3f1MkmqQH",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJswa97mEtZUcRBBUkMJsZSrE",
+         "plus_code" : 
+         {
+            "compound_code" : "3G33+8F Ljubljana, Slovenia",
+            "global_code" : "8FRP3G33+8F"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJswa97mEtZUcRBBUkMJsZSrE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3464
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mirje, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0457026,
+               "lng" : 14.4985457
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.04698817989272,
+                  "lng" : 14.49986377989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04428852010728,
+                  "lng" : 14.49716412010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Roman Wall",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112269191883226594702\"\u003eرستم پهلوان\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbsHEwOCDZihPsxJrXMysxUYnqOsUvLXLdm6NQFBnrdGdnJt7n39h4newmfUWD5eUCfA3kn6X2-FjZ_Z2nknoDsiwftedV18Piku8l5un1CnV5MkjihoRZ7YWK1yuuOhMAARyV0rBaCJhvZshiiOPuVnpyY9MCmf4ycXxFPXsriZ7tT",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJiSTazWctZUcRdvYLGgVSmOA",
+         "plus_code" : 
+         {
+            "compound_code" : "2FWX+7C Ljubljana, Slovenia",
+            "global_code" : "8FRP2FWX+7C"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJiSTazWctZUcRdvYLGgVSmOA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 283
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mestni trg 10, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0499833,
+               "lng" : 14.5067677
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05159892989272,
+                  "lng" : 14.50808087989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04889927010727,
+                  "lng" : 14.50538122010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mestni trg",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104994316962091336654\"\u003eRenee Matarelli\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ3VC_wTpPLg72Y82EmqsDE56qAwL9DmM8V5smrfpCk9dSB6Kp6QUVdnFlc8RE6ZVHXR8qJBuvG22jmWwN-ASPH6Mm5FR2owaIz8DTaUoNcBLE2pzCgFLJDTMRuoXQ_BNbNKg76GS3MxuVagwzkv0nq0hy95GJuyFJeMo2a3kGYthj_",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJJShrC2MtZUcR5FP2ILJ4MQk",
+         "plus_code" : 
+         {
+            "compound_code" : "2GX4+XP Ljubljana, Slovenia",
+            "global_code" : "8FRP2GX4+XP"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJJShrC2MtZUcR5FP2ILJ4MQk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 658
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kongresni trg 13, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.049634,
+               "lng" : 14.5034015
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05106607989272,
+                  "lng" : 14.50430367989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04836642010728,
+                  "lng" : 14.50160402010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "House of illusions",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112326755717203968593\"\u003eJeanette Robberts\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYuE8-ZapH-DXEinuql_zUlIKhyh1RTqrdZtXY6pNyzFpnEyOAZnHPCPHajMLvCa-A1zrqGcZNHLb9ZD3FA_8wJiza3ZTodDYYp04vorhTfdEYw_V3WNWeHtprv2T42miTPNIjnuj20ZqgnI5IHD__lj-Hybew4wlhtbSJGYehsIewg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJWXx5_GMtZUcR1hhCSH8wpTE",
+         "plus_code" : 
+         {
+            "compound_code" : "2GX3+V9 Ljubljana, Slovenia",
+            "global_code" : "8FRP2GX3+V9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJWXx5_GMtZUcR1hhCSH8wpTE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5398
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6, Karunova ulica 4, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0424506,
+               "lng" : 14.5022701
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.04380622989272,
+                  "lng" : 14.50374952989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04110657010727,
+                  "lng" : 14.50104987010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Plečnik House",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 6936,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118062469452492314022\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZvIpQqU6JRiPLMsG5lqjH_7wIR70NWNPMcRDZLQLr9IJDDbAWXx7LxKd6bDqjT5lPa21_rNiRXW_FQX7dy-1KTK5wPxC-qGL17Gd_hMU5KCqikHB_bEAyfeaxYqE0_YS0CrogxLHyKjdrUIQfUAZC-03_96Zyq0QPpIurM9bvIfL_T",
+               "width" : 9248
+            }
+         ],
+         "place_id" : "ChIJmzEeB28tZUcRNW7NSciZPVw",
+         "plus_code" : 
+         {
+            "compound_code" : "2GR2+XW Ljubljana, Slovenia",
+            "global_code" : "8FRP2GR2+XW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJmzEeB28tZUcRNW7NSciZPVw",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 509
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prešernov trg 1, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0515163,
+               "lng" : 14.5056764
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05322412989273,
+                  "lng" : 14.50737117989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05052447010728,
+                  "lng" : 14.50467152010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The City Model of Ljubljana",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106542449766384553249\"\u003edawid mokrzycki\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbLVZSccls0sQjwuCD-FgXN7s8feWB2ifOYB86Af_REyh-tV9Yii4KjVjT1sdAzbS-ZQ6CIBppiEiVxq62FqDKg4-GPdgSFt7I8IDocZAwIvZq2rYeE7FN7a1_VJSdz1xbwksKdglPqBNkKKJgU_Q3DmxZ1u52YnUk0GXtXevn1pU3o",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJx_nCb28tZUcRVWTFZv29zUU",
+         "plus_code" : 
+         {
+            "compound_code" : "3G24+J7 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G24+J7"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJx_nCb28tZUcRVWTFZv29zUU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 27
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Vodnikov trg 10, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.05088689999999,
+               "lng" : 14.5104608
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05218202989272,
+                  "lng" : 14.51181142989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.04948237010727,
+                  "lng" : 14.50911177010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ljubljana WOW",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114769839245542360184\"\u003ePhoebe\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbjyCDizyuHLbmM0gXWeASer6VKD0E0XHBzR25kzp5FF813t5dj07_wIXvVC6JNVOsCnhpiXFJISNJ2SmqAsOAU6gXB96GkcmTXNWoGXTnkkkfKbDOmx1SjKPhRpWUT163iOggCl3H45SRfeYFMN8nHGF6OTuqHChMBBhvYvnZSEdw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOU9__sotZUcRTYhZHK81mes",
+         "plus_code" : 
+         {
+            "compound_code" : "3G26+95 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G26+95"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJOU9__sotZUcRTYhZHK81mes",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prešernova cesta 24, 1000 Ljubljana, Slovenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.0540816,
+               "lng" : 14.5002973
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.05562792989272,
+                  "lng" : 14.50150437989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.05292827010727,
+                  "lng" : 14.49880472010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Gallery",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1204,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113665631642604324489\"\u003eNarodna galerija\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZRsWYphBNjn5A_pYa4KXn72pevO8AeEEhHZZYD4e-rAvcTUMuvfzAPhDqKPI02MhWDlUgVjfA1oWl8GhlNNKHJkjVyXyREodbesOwKCBydfXY_4s5-6kUUaCLi7S1q8lKux3kdGBVruw5STXjLUc_CSSOga3ILol429wnzg56q7y8P",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJnQ8_FmAtZUcRSVXHUQLSiGY",
+         "plus_code" : 
+         {
+            "compound_code" : "3G32+J4 Ljubljana, Slovenia",
+            "global_code" : "8FRP3G32+J4"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJnQ8_FmAtZUcRSVXHUQLSiGY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1713
+      }
+   ],
+   "status" : "OK"
+}

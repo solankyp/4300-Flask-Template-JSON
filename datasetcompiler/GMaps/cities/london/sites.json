@@ -1,0 +1,1194 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbvuRE55lqMu2MsYQZEfemfcJOSjcpk2tNJOVytgTD9wRFCGz1mxmaVKhxhoyJ7D5DuGx4HJ_5XfYMYqZo7N4KDfk2G9TSDbFh2Y78x2-sq4e1yb1L2h23ss_BTADI_gW-JQuf6Jk4cxiSx3euM48ZTeIOaTseCnXIypuv5fYLNv8jMZHO_E8eUoUOVYD-2M9jXjHF-PyoV9vCTiIPgMC_DrbBdq0Bn68hjPcLBQkZ7SXNUtQ34tzuweI0Ke_YxxbG9j5-gUDEGqIaa3-ZV3rJD4rxD9TPucQv0gRiB7Rbg0xjKGrEPsbKOjHoI9M9N50Lb3PkG65iC3mcl_5Ypei2AHGPR0WQUb3DTUj_rt9UidwVBAj617FoVjjtfVWAp9Q-mi6h_f4wi0yTtHA",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Riverside Building, County Hall, Westminster Bridge Rd, London SE1 7PB, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.50251189999999,
+               "lng" : -0.1187628
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50404607989272,
+                  "lng" : -0.1165640499999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50134642010728,
+                  "lng" : -0.12065505
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The London Dungeon",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115378404233429380083\"\u003eMassimiliano Mochi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYLdPXrVbP4KTMSPSBXN9N4gagGz11RRiARjbPE7AV58U7Nof6_tAZYMn_v2vsaRT30w3OZ_nbtEU45S0ICtMw179LUCoOX9344TO1kLYJHcDlKd25u0hJWDNLL9pzNVcbD6_GgHZAEYjItqeaxgGmOkJza9bzpvNSF0yJOA9dNm4MX",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJk9LIC8cEdkgR2TkO-raMEDk",
+         "plus_code" : 
+         {
+            "compound_code" : "GV3J+2F London, United Kingdom",
+            "global_code" : "9C3XGV3J+2F"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJk9LIC8cEdkgR2TkO-raMEDk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17616
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "London EC3N 4AB, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.50811239999999,
+               "lng" : -0.0759493
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.51026564999999,
+                  "lng" : -0.07485549999999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50699264999999,
+                  "lng" : -0.0792307
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tower of London",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112587853864749573130\"\u003eMaureen Petropoulos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbrZV-sgK5pCcqeWOofCSI5xI0T-p5E2gg9rM7_uDUfxM-cYbFaMO66bxHaw7Gf-sI1c7m_n217cyFi2iSqtuNfoK4vaGNRZrevI5QxWWpVEBg1OIXdvqM-DZtXcfLY2w0N8ARbQMs5_tyRTogjFS2MneLspLybDHXi3Au9ONBPtnKu",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ3TgfM0kDdkgRZ2TV4d1Jv6g",
+         "plus_code" : 
+         {
+            "compound_code" : "GW5F+6J London, United Kingdom",
+            "global_code" : "9C3XGW5F+6J"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ3TgfM0kDdkgRZ2TV4d1Jv6g",
+         "types" : 
+         [
+            "landmark",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 101011
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tower Hill, London EC3N 4DJ, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.5098895,
+               "lng" : -0.0760332
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.51121527989272,
+                  "lng" : -0.07384760000000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50851562010727,
+                  "lng" : -0.07785519999999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "London Wall",
+         "photos" : 
+         [
+            {
+               "height" : 2256,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101221850710495005387\"\u003eIzem Ifer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbYZ9nkpAwNeYhfWZQjC9NvH2L6plrWTCK4OnkWMwrrchD-ff92vhdzf4j_Vcn-nSSfuZaWwFeZO8SHD5v1ky-eKEkTzf4mlOI3A0PGzyoMLhZSjDJBxtOaQrdq6Dzd5MuwEBRPBThg58aUmH9gsmIJ_olC52eYZUUiDyPWnYtrsr3R",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJiztkrE4DdkgRp4kYU3gUOnM",
+         "plus_code" : 
+         {
+            "compound_code" : "GW5F+XH London, United Kingdom",
+            "global_code" : "9C3XGW5F+XH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJiztkrE4DdkgRp4kYU3gUOnM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 624
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "London SW1A 0AA, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.50072919999999,
+               "lng" : -0.1246254
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50211262989271,
+                  "lng" : -0.12381395
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.49941297010727,
+                  "lng" : -0.1269553499999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Big Ben",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 3910,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108563206122115577170\"\u003eMiguel Ángel Romacho Contreras\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb90vGjf-YBqd8BXpMq9CCGgOBhmATZuru5gkFMFDtx2W4bRLX4mYQ636ccnY9dUbDF5_qYl2-ff9v_p9a9-XoWmkRv2N-AmdygRTY_BW5HH1BijgS-jikx5XQ5-x5u11dHmgFo53dayqq3CMEBK9s3SgsTLEDua7NFuZbnwVPD0Prm",
+               "width" : 5865
+            }
+         ],
+         "place_id" : "ChIJ2dGMjMMEdkgRqVqkuXQkj7c",
+         "plus_code" : 
+         {
+            "compound_code" : "GV2G+74 London, United Kingdom",
+            "global_code" : "9C3XGV2G+74"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ2dGMjMMEdkgRqVqkuXQkj7c",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 60423
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "London SW1A 1AA, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.501364,
+               "lng" : -0.14189
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50302137989272,
+                  "lng" : -0.13910645
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50032172010728,
+                  "lng" : -0.14281785
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Buckingham Palace",
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108745414015849634730\"\u003ealexius Ajini\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZRJ9iCX2mRFBYldWNBcP7mZSJcJjB7Uqe1x9y1QU_R4L37X8k6tv8FrSxeNosNhfzXGL3-N99F82UbSHMyKeG_3qkwl-DbA0cnMqGOQzGbDanW2xijmKsVyJVModCi71lEdJXEmaXmjgrEvEmQOJZOf2pAFUHvtD-FEAlL_ZjIFZ9k",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJtV5bzSAFdkgRpwLZFPWrJgo",
+         "plus_code" : 
+         {
+            "compound_code" : "GV25+G6 London, United Kingdom",
+            "global_code" : "9C3XGV25+G6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJtV5bzSAFdkgRpwLZFPWrJgo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 163955
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Riverside Building, County Hall, London SE1 7PB, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.5031864,
+               "lng" : -0.1195192
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50464877989272,
+                  "lng" : -0.11646085
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50194912010727,
+                  "lng" : -0.12053865
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "lastminute.com London Eye",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 641,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110099847500352077405\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYtyt6wSYCrEMmJtufBasSSb8cO_6fFnhz0Nivv4SrzrzpJLa2EMZ07ueiH_tbF7SSwnbKv8RlWWrs8a2Clh4v6ew3zPHMT2QcFAcMqTsTDIDx6fh45VcMGU_pg934c8Yxfi3Ul0IpuoF4_fNoRoPIay2Ev5BahmW6IFCjPT4-8Ez3P",
+               "width" : 599
+            }
+         ],
+         "place_id" : "ChIJc2nSALkEdkgRkuoJJBfzkUI",
+         "plus_code" : 
+         {
+            "compound_code" : "GV3J+75 London, United Kingdom",
+            "global_code" : "9C3XGV3J+75"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJc2nSALkEdkgRkuoJJBfzkUI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 170563
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "London EC4R 9HA, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.5078788,
+               "lng" : -0.08773209999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.5101189,
+                  "lng" : -0.0863856701072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.5056865,
+                  "lng" : -0.08908532989272223
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "London Bridge",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113808646082424622450\"\u003eAndy Hemingway\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZOTRZcL64jXGiMACPEgbwxrYMkYx_Tg4j3JfggEOtgtBmO9xqCYwztqZZGvV0ZJvo5CvaGJ8DTXsrzX7N7VdHKJpzDIaziBcDnXslT5-BuQ2LsB0XUUeoPqxrvEHzQn10OuNm2ko6GcY-nUqIKJZd2zxmtIUOduOjE4GZEhBxrZBTv",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJxRO7WVEDdkgRrGM1fCYoHqY",
+         "plus_code" : 
+         {
+            "compound_code" : "GW56+5W London, United Kingdom",
+            "global_code" : "9C3XGW56+5W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJxRO7WVEDdkgRrGM1fCYoHqY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 49362
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tower Bridge Rd, London SE1 2UP, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.5054564,
+               "lng" : -0.07535649999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50794755,
+                  "lng" : -0.0736087
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50302735000001,
+                  "lng" : -0.07711670000000002
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tower Bridge",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3773,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109346631436446665428\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYhMmnziE9kUkXsbrdvnaF5hoOSowT3W42M_izDhfpZAExXHEdaahhH1s5cUL8lqyGtRhIWNcVMYA3Sx1_xrMaDe2DVe8PljqrhgLrxWEKSo5xO_0ox2ZCg-vUsiyuo96h3ZdO3wenH3Tssg18FtZIDkZplzI2OU_ZPFNuwYqmY6kKd",
+               "width" : 5529
+            }
+         ],
+         "place_id" : "ChIJSdtli0MDdkgRLW9aCBpCeJ4",
+         "plus_code" : 
+         {
+            "compound_code" : "GW4F+5V London, United Kingdom",
+            "global_code" : "9C3XGW4F+5V"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJSdtli0MDdkgRLW9aCBpCeJ4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 151056
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "London, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.5073638,
+               "lng" : -0.1641135
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.51820779999999,
+                  "lng" : -0.1411738
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.49695380000001,
+                  "lng" : -0.1852502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Hyde Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1296,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112016615487175169406\"\u003eFlavio Bruno\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJau--57NFbavIs0TaKpY5H5v66thCo-jL5G4gmfwghZBPbP6EhPOdfb4ceMEscNQDyJk6oYZcCxEY0XCYcA64ytfFrifgqxTY35hOwzBTdlSecHMP32lFRp_5u1fdCpySaaCeHcPVI7HExZo-4tsD7nrHNigY5uhn8vwZTyRjhblYSy",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJhRoYKUkFdkgRDL20SU9sr9E",
+         "plus_code" : 
+         {
+            "compound_code" : "GR4P+W9 London, United Kingdom",
+            "global_code" : "9C3XGR4P+W9"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJhRoYKUkFdkgRDL20SU9sr9E",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 126553
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Great Russell St, London WC1B 3DG, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.5194133,
+               "lng" : -0.1269566
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.52145429999999,
+                  "lng" : -0.12477735
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.51732029999999,
+                  "lng" : -0.12914235
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The British Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100875867559858145999\"\u003eKoon Sen Lo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZJminjldgz_yXxX-0G6JPBiVN4uygcds6M_OhwmSvwut6hTgquCDSdFU04YjlD9RV_-MXDLokf3Zx-Hr5fl71y8b_5Etgickk_YKpKCjZ16x_7XP5nx-Hatm3b1cgX0_Egn0l7Ua06c97q7DCxLdi7hDkyVnKl5YsPr8Fb_7SRGf2L",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJB9OTMDIbdkgRp0JWbQGZsS8",
+         "plus_code" : 
+         {
+            "compound_code" : "GV9F+Q6 London, United Kingdom",
+            "global_code" : "9C3XGV9F+Q6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJB9OTMDIbdkgRp0JWbQGZsS8",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 147848
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "32 London Bridge St, London SE1 9SG, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.5044028,
+               "lng" : -0.0865331
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50578832989272,
+                  "lng" : -0.08548532010727776
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50308867010728,
+                  "lng" : -0.0881849798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The View from The Shard",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108158157890072646764\"\u003esavinda\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbDR7vsg4NsxNuKNyo4VllAweWWLfYFlw8dWYwwcuvmhHJcsb0EEDQigupmXdZ0kpKs84VYbp0UGuiX8vhsmOKp4UPZW8jEsFucxvHhrnsN1k03Vjrnj-JVtonIcLVGR_4et7cxVQt3hcpzEqP9UrTcSYhYiiRQcqJDkG0hvQPWafQ1",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJDbhTs1ADdkgR-2MjTkoJXXg",
+         "plus_code" : 
+         {
+            "compound_code" : "GW37+Q9 London, United Kingdom",
+            "global_code" : "9C3XGW37+Q9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJDbhTs1ADdkgR-2MjTkoJXXg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6023
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Queen Elizabeth Walk, London SW13 9WT, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.476141,
+               "lng" : -0.234665
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.47749477989272,
+                  "lng" : -0.2333149201072777
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.47479512010728,
+                  "lng" : -0.2360145798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "WWT London Wetland Centre",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109503450483594641848\"\u003eAlicia Peak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbanWFZ1KbRyBW8p0NBTYaOGFj-TSs0JNPgAwb000jBFU8RVyPAtomHKrixFYDchMRopwT4MvN8ni2pIyWT1Ajq-A6WtLns6dcPoTxfhnyyKq__VW9-5OfRHGNMrjJCV58QeAx_JB_Ir_ry2vvzo7FaZUR8TXcqiBA9ywYR4L8lZ9vL",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJnfoSY6wPdkgR69kRGIFCCUU",
+         "plus_code" : 
+         {
+            "compound_code" : "FQG8+F4 London, United Kingdom",
+            "global_code" : "9C3XFQG8+F4"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJnfoSY6wPdkgR69kRGIFCCUU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3101
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8-11 Crescent, London EC3N 2LY, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.51064239999999,
+               "lng" : -0.07618849999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.51201707989271,
+                  "lng" : -0.07453597010727778
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50931742010727,
+                  "lng" : -0.07723562989272222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Roman Wall",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117372132860367809720\"\u003eoasischuan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJauvbTYMYH8WEXFylAzF3XevjKpn84h6rNFTwr3ZV9dVcZLwnM_VJLZF26SrRnrlBF99qWVvS-grwC03Qw_JE8SZVZz8_4V5BDQ5ASRrCi0OI26N4_7ZqlN6hHPDS9I_EhbvDDVuvrmpe4Mo39ZHrvY-D-9ph1z8PN4jDndbr5JdhhV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJAa9r9ksDdkgRDEW2hkhEvXk",
+         "plus_code" : 
+         {
+            "compound_code" : "GW6F+7G London, United Kingdom",
+            "global_code" : "9C3XGW6F+7G"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJAa9r9ksDdkgRDEW2hkhEvXk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 50
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Apsley Way, London W1J 7JZ, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.5025925,
+               "lng" : -0.1508545
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50388247989272,
+                  "lng" : -0.1490948701072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50118282010728,
+                  "lng" : -0.1517945298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wellington Arch",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112516224965316292709\"\u003eGábor Havasi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZRI7dprGdLLME7kqlBHCPZv84o26ftmBPoZ5KwMKnGk2TyyRIdpjetLJ_1R8SeWJvCwdZuL-uL3IN0w7bOvwumhFvwoBV5BLjZrMlS9ijve9kbKa2G-s3ur6UJ5A74BX-Wg2rE5EHZhV3lv7SAKg8u8H7gd_25q-ndqEjUz2ieL7EN",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJrZIzFyUFdkgRQlxXXtD9UF4",
+         "plus_code" : 
+         {
+            "compound_code" : "GR3X+2M London, United Kingdom",
+            "global_code" : "9C3XGR3X+2M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJrZIzFyUFdkgRQlxXXtD9UF4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4144
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Fish St Hill, London EC3R 8AH, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.510143,
+               "lng" : -0.08594199999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.51144937989272,
+                  "lng" : -0.08442332010727777
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50874972010728,
+                  "lng" : -0.0871229798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Monument to the Great Fire of London",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113014832685025918170\"\u003eMuhammad Umair\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYRMiR-lBIv93em0_aEpimFEAKptJahihLWd2xXKU9dOyUZk-bqfcj6C0z8PqS8CcuAilDOly2XBQ1zTHffJSZK6TMMAstOL53FUB1Q_4rfJ7cnyoxvPNl2nrzrPTK4TiyhISvJ_dlz76P2tU_0Qc4lodFWP6LOQq_vsXocHLUBUUpF",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJDz0Q3FMDdkgRw0x0c68WGtk",
+         "plus_code" : 
+         {
+            "compound_code" : "GW67+3J London, United Kingdom",
+            "global_code" : "9C3XGW67+3J"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJDz0Q3FMDdkgRw0x0c68WGtk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11670
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Trafalgar Sq, London WC2N 5DS, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.508039,
+               "lng" : -0.128069
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50949427989272,
+                  "lng" : -0.1262565
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50679462010728,
+                  "lng" : -0.1302581
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Trafalgar Square",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 6936,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104672013315922819550\"\u003eGiovanni Sogos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbF2-KqLNz6QlEUJeodTr6pz9JPXEK82X8afDFBkaA_msvQgUSYf-ai4-_dnNd8VN1QajX90SwV1dI705MFbbsZGK-d0xmUvyexdAItdzYMpHGosOo-WgsLGx1R1SwEUn5qYpU9CMAMilKpS9Y7sKNsnH97Tt6zsWNGzHtz_WDOKPaX",
+               "width" : 9248
+            }
+         ],
+         "place_id" : "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+         "plus_code" : 
+         {
+            "compound_code" : "GV5C+6Q London, United Kingdom",
+            "global_code" : "9C3XGV5C+6Q"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJH-tBOc4EdkgRJ8aJ8P1CUxo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 121370
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Abingdon St, London SW1P 3JY, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.49845759999999,
+               "lng" : -0.1264205
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.49994052989272,
+                  "lng" : -0.1247881201072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.49724087010728,
+                  "lng" : -0.1274877798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Jewel Tower",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109994327067772327989\"\u003edave pelton\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJadw_8EdHsuQgiJhnFY04PfWfu9Pvu3FB48s8K6cipWQVfmTFvRJv1SuFk2KpprSlxFRTzSKqvk9UDzyBZmf48ab91RG58Foff3ynZIg4yyBs_JSHNeE1EjCmzg-rVq3XCvVn2-1tcLk3UxZwP4UZK6ilq4hiBCxV0qY8VaGUdxogEK",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJF5YlesMEdkgRT4fo3zv-vBo",
+         "plus_code" : 
+         {
+            "compound_code" : "FVXF+9C London, United Kingdom",
+            "global_code" : "9C3XFVXF+9C"
+         },
+         "rating" : 4,
+         "reference" : "ChIJF5YlesMEdkgRT4fo3zv-vBo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 528
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Thames Embankment, London EC4V 3QH, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.50952909999999,
+               "lng" : -0.09854250000000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.51431395000002,
+                  "lng" : -0.09675397010727778
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50474654999999,
+                  "lng" : -0.09945362989272222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Millennium Bridge",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115032040420206886247\"\u003eОльга Ляховненко\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfHOSpTifWHlSqO_Z5CKwQSy1yRNukXCHueZxb1tPA52Q83pCqNy9lu8pWgO3Y88vH2Lo6gHyZbWnyQYiy6SjAcwjUzBm4kHVFoKJyU1KzCYkhH9hsZiIoRuW-BYsAM2ydABJiHFC7cnxidbvqGKmHiacZddHGnGRWhtbe2LpXHOP8",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJkYISzKsEdkgRHE5RL_zqXL0",
+         "plus_code" : 
+         {
+            "compound_code" : "GW52+RH London, United Kingdom",
+            "global_code" : "9C3XGW52+RH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJkYISzKsEdkgRHE5RL_zqXL0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14781
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Winchester Palace, Pickfords Wharf, London SE1 9DN, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.506878,
+               "lng" : -0.09094919999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50826912989272,
+                  "lng" : -0.08964197010727779
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50556947010728,
+                  "lng" : -0.09234162989272222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Winchester Palace",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3880,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107570756097590154872\"\u003ePetar Dimitrov\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbpsPYTVOlA8GqRaQlFf6r0RQLz4TsFWWYkB6yZ2VTaOtk4y3GQRKLUkSK68igHDT_VIr8GiICQ-lCoGYaSIIJoo9p-7cJi_4hMftyEFQZ9eDmTKFox_lQTs1B0vR3tPCg9gyM1LGE3MV_WQhFamRSiDQyXM3PzcLW-UPIwCAomCDql",
+               "width" : 3880
+            }
+         ],
+         "place_id" : "ChIJO2Z5qlcDdkgRcj_TBi0OfSQ",
+         "plus_code" : 
+         {
+            "compound_code" : "GW45+QJ London, United Kingdom",
+            "global_code" : "9C3XGW45+QJ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJO2Z5qlcDdkgRcj_TBi0OfSQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 203
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "32 London Bridge St, London SE1 9SG, United Kingdom",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.5045,
+               "lng" : -0.08649999999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.50568757989273,
+                  "lng" : -0.08527067010727779
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.50298792010728,
+                  "lng" : -0.08797032989272223
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Shard",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 1312,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111638986064123349434\"\u003eNoble Sebastian\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY9ZiCrwX3Iwok3wT-qk1iK4H_1czF5RrmnJBMvWJHv_NV4EDFB6xLXti-Dx1gBEc8EwuRMrE6gbojSarU9T4pAj_muoZvDNR46ELsg0sQQWZsjFquajADkgaq5IgnOD1SJgTEfL33NIpBJfRAgYG38GqfeDTCqDF3bGPRcbe0_fMAr",
+               "width" : 1170
+            }
+         ],
+         "place_id" : "ChIJ03GSCloDdkgRe_s-p2vyvQA",
+         "plus_code" : 
+         {
+            "compound_code" : "GW37+R9 London, United Kingdom",
+            "global_code" : "9C3XGW37+R9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ03GSCloDdkgRe_s-p2vyvQA",
+         "types" : 
+         [
+            "landmark",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 37828
+      }
+   ],
+   "status" : "OK"
+}

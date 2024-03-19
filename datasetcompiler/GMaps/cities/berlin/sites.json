@@ -1,0 +1,1213 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbqPgopU3FdYwU8NUg3H4lB7TE2h_xGvrc69QcHiQSt-bg_4JoCzthSdo1suk0bRD6iFlPyKGYaOXkykmgnhViVLSvRFNXu_RtIL9jenkS4wJbom50VSBilzS3XV29VEVVguh7LbrfwCPnIoEt_Ic0ZJobdgoHG5TYNrnnrj_JkjxWnNf1CR7wKqBAamK6E3PHgBq9cryuSBAQqpuw3qr2Rhuaa30VUGrPUqktdKZvFdM_ZpABqW1Oh2e__sG_Y_PFxn5CcBfe30QEZAguzVX_fFx7_HcHV9IfBPBXaOXkaLLksya-VNmj7vPdWplMhh0pk93TyR6l9Mxfi-TSgcpUR3b2pyUbAs6qOJES_LAHcLkGiJAY2c3HgaIudRTvpEQlDWKnL_L5mjJrfqQ",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bernauer Str. 111, 13355 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.53505209999999,
+               "lng" : 13.3901898
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.54079969999999,
+                  "lng" : 13.4004726
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.53013729999999,
+                  "lng" : 13.3826962
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Berlin Wall Memorial",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2248,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116075259897684199218\"\u003eOlga Kovalyova\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZAjWSF7aEzuIuLZLtmy9-2lZJ4V89jFCGQD9CHHbb3xDKxRNGHmnSwNgB5IOxk_tV0mRvqV89LQ6AFvIWvn047PxPCL4wfkr1ow2CBYVLJAZWhfXo64vsOAT6Nl-dV2EqrdAARkm6r4rjITHhL7kv2Kk3UVOP_XlPmcxTJu5tW5R2c",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJZ0KxF_JRqEcRrLHB-4r-U-o",
+         "plus_code" : 
+         {
+            "compound_code" : "G9PR+23 Berlin, Germany",
+            "global_code" : "9F4MG9PR+23"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJZ0KxF_JRqEcRrLHB-4r-U-o",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 40526
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mühlenstraße, 10243 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.50502239999999,
+               "lng" : 13.4396952
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.51116835,
+                  "lng" : 13.4521608
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.50000815000001,
+                  "lng" : 13.4286852
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "East Side Gallery",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115868508094291081714\"\u003edonna giaquinto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJNqSraOviRoZPZY4s_pVRpvQTmU1WZxYqAfXm9P4s55vUaL17tEwCc_U9QvJYVWgDd6-OAts_2C24WhyASUXcRbE2_rKDGmVebFyFtp7bTorQ7ZGEHdM34xrfgtjDxjnW1d9eHCW6Hpu9katZwaIj5EpWbZdwILahmvs54zBI_TL0",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJS6_t9aZHqEcRGCiRSnvpm94",
+         "plus_code" : 
+         {
+            "compound_code" : "GC4Q+2V Berlin, Germany",
+            "global_code" : "9F4MGC4Q+2V"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJS6_t9aZHqEcRGCiRSnvpm94",
+         "types" : 
+         [
+            "landmark",
+            "tourist_attraction",
+            "art_gallery",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 52835
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Großer Stern 1, 10557 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5145229,
+               "lng" : 13.3501085
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.51590327989273,
+                  "lng" : 13.35193162989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51320362010728,
+                  "lng" : 13.34923197010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+         "name" : "Victory Column",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 16320,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111580892569764736540\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbRYtntckRYdnvOY8EIds3dIhb4yZzUsSdedeSx-tCNVgBuqrSSk8TrQ5VpuEUyh2Drx7OTwu3qNMHqgGeZYbrDXPrYDdSEfPIklYFsgEN1xKC0j4wFkkGLdr3xqljj9t_vXN18Kil3iEmSOjF2xfoCZ_0kPvkOVMNDDZXQ0BPuE0X2",
+               "width" : 12240
+            }
+         ],
+         "place_id" : "ChIJw_HTKK9RqEcRyeWAo9t_YlU",
+         "plus_code" : 
+         {
+            "compound_code" : "G972+R2 Berlin, Germany",
+            "global_code" : "9F4MG972+R2"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJw_HTKK9RqEcRyeWAo9t_YlU",
+         "types" : 
+         [
+            "landmark",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25828
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pariser Platz, 10117 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5162746,
+               "lng" : 13.3777041
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.51778567989271,
+                  "lng" : 13.3819998
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51508602010727,
+                  "lng" : 13.3762722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Brandenburg Gate",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 720,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108385835503998084941\"\u003enoalcalciomoderno\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbv1vJyk0Na-1Xd8kxmiP27XLPu1Elq9a0M6ZPivOamlWjUcKz8GN0xUsySRHRk51blTPWcwloZtLvsbuQ7FQkFz3ZZBeio39l0IrmV5zH_MvaPGqUNEn8dmZY1qlaowJkXFx8qDFqf88pUNLYwve3q2PykZPXQAeme7vyh6_gdZMT2",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJiQnyVcZRqEcRY0xnhE77uyY",
+         "plus_code" : 
+         {
+            "compound_code" : "G98H+G3 Berlin, Germany",
+            "global_code" : "9F4MG98H+G3"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJiQnyVcZRqEcRY0xnhE77uyY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 159843
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10178 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.52198139999999,
+               "lng" : 13.413306
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.52493524999999,
+                  "lng" : 13.4170765
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51956265,
+                  "lng" : 13.4090541
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Alexanderplatz",
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113652037709400836495\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbK2ojyem8JMO7Wcsd4uYtQx5D5WB8TYV_WFibwfi1PrZqoOzFb9inolz9aR2XwpAY-P29dEj1DPEALEaUroh3RvRx9Nofhc6I41gZjg_FHmST1QQFJ9qTTYv9HJXLgArC5ZCcJTeBBPS982VhtzQn7bRgJRXW7mM5dkCXXHWW_crGg",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJbygR2x5OqEcRbhbkZsMB_DA",
+         "plus_code" : 
+         {
+            "compound_code" : "GCC7+Q8 Berlin, Germany",
+            "global_code" : "9F4MGCC7+Q8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJbygR2x5OqEcRbhbkZsMB_DA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 210002
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cora-Berliner-Straße 1, 10117 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5139474,
+               "lng" : 13.3787127
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.51546462989272,
+                  "lng" : 13.38063197989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51276497010727,
+                  "lng" : 13.37793232010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Memorial to the Murdered Jews of Europe",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110673970038234868097\"\u003eKatrin Sauer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZUEBwLUIvrSiq-UWPzqpGJ-kVe1-VwvQunVuhvnZ8Sad6wVrWs9KFlbds4YYVk4Lwn1SW4Oj659Ejh2SgL3-BX6f7kpDSxgRKqcOYXTRV8wgmHFBiQ2yPwfdKN3Js9Kc1eHMZA5j9E6H0l5R40_dyrfPEw5Zi606QelYm_LuN0dueg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJW2oZB8ZRqEcRyFvuEpCnNBQ",
+         "plus_code" : 
+         {
+            "compound_code" : "G97H+HF Berlin, Germany",
+            "global_code" : "9F4MG97H+HF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJW2oZB8ZRqEcRyFvuEpCnNBQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 44903
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Am Lustgarten, 10178 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5190608,
+               "lng" : 13.401078
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.52029602989272,
+                  "lng" : 13.40212402989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51759637010728,
+                  "lng" : 13.39942437010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Berlin Cathedral",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112035115785871045229\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbka51GII3nRSkMH-YzmNokfbo02FHjqDA7J0xZg53hd1ld5q2iSDWjDVTROWzMl6ii57AIOoV_3dBah5dLfAB_QUYgBpQTXdxgQuGQSVrj9PJSYlFtG7QWGuQ7JfyjoXMlkVs5FtDHY6hfJelF5BcDUIJdIsW_sZ_NzDew0QHMikuo",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJS9HC895RqEcR_IovsNVoDng",
+         "plus_code" : 
+         {
+            "compound_code" : "GC92+JC Berlin, Germany",
+            "global_code" : "9F4MGC92+JC"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJS9HC895RqEcR_IovsNVoDng",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 35547
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Friedrichstraße 43-45, 10117 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5074434,
+               "lng" : 13.3903913
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.50886992989272,
+                  "lng" : 13.39170982989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.50617027010728,
+                  "lng" : 13.38901017010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Checkpoint Charlie",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106716017943933774173\"\u003eaoistv\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbjel2aMf889IZc__Om9Ql1BGmEvIepZM99LGsfszQ64RaFiP7N9BTg4UBqQA3JnglspjO-n46VF949DnTCUmFWXLsyxD8INoOIco0IU8AmtODkps4wgraXlkZYjqYISrPPcj0_cl51Vnl8wTV1RIjU8b_oSDIzIE3pzVjJAip_taKc",
+               "width" : 2336
+            }
+         ],
+         "place_id" : "ChIJzdgmXNFRqEcRyIl9R0IApSM",
+         "plus_code" : 
+         {
+            "compound_code" : "G94R+X5 Berlin, Germany",
+            "global_code" : "9F4MG94R+X5"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJzdgmXNFRqEcRyIl9R0IApSM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 81633
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Panoramastraße 1A, 10178 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.520815,
+               "lng" : 13.4094191
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.52248962989271,
+                  "lng" : 13.41109562989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51978997010727,
+                  "lng" : 13.40839597010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Berliner Fernsehturm",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 768,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112895004797918685720\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZdvNwZXZR0Tbo704ic13MuuH5HmRWfvhdKUUKBsqFqkyIgbVrKzbEB6l8VzlouNP0-ULig-UGnBSCF3tfX4ggAtlzqFoI_38IeaZrx_lHNS403WcQeeySm7VlQf9yyHGvKwP7nMfb22t7aM0_1jKPdEUnjTPLRjFQrjTuP3dsgdqZt",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ6_8UkB9OqEcRoeRJQ0j8-sg",
+         "plus_code" : 
+         {
+            "compound_code" : "GCC5+8Q Berlin, Germany",
+            "global_code" : "9F4MGCC5+8Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ6_8UkB9OqEcRoeRJQ0j8-sg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 42711
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Potsdamer Platz, 10785 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5092312,
+               "lng" : 13.3761053
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.5108989,
+                  "lng" : 13.37765497989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.5075237,
+                  "lng" : 13.37495532010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Potsdamer Platz",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111602105861327787006\"\u003eJan Möller\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa6mAA0udjCHJBpN3GQ-oDB2NRfHukWe5pNaqVCZNJJKIJSo6svMx3oxAfmlFL9EXDqkq8MoSAm-D3LZliZYYXJ2At3hBa5XQB6JFh8Rt3PELZ1q51HqCss1QsYooR0SwFc519KP8CQ0VIb_6EKRW6h6tV2TLetvwExvsN6pb_MtNbh",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJIeqReMlRqEcRquFNJTyYoUw",
+         "plus_code" : 
+         {
+            "compound_code" : "G95G+V9 Berlin, Germany",
+            "global_code" : "9F4MG95G+V9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJIeqReMlRqEcRquFNJTyYoUw",
+         "types" : 
+         [
+            "landmark",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 59187
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Platz der Republik 1, 11011 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5186202,
+               "lng" : 13.3761872
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.52034472989271,
+                  "lng" : 13.37704795
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51764507010727,
+                  "lng" : 13.37360495
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Reichstag Building",
+         "photos" : 
+         [
+            {
+               "height" : 800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102849634804561226473\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZQz775l2R-F7CgNBCKNzohOWHI943ZJgEfqYoqVtRPADCfKxoMx9sJ8hwI4-RLOjVu6HwFQv_6WZhPTtIcpz78qYjNj9ifGwEl8seJ6gWlrVTzcwIsmBWznQC2_sOYiveInM8ZBKmR90VRDDxpmFPUhCGlSOXtCM8qnKudOGcfuSyu",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJbVDuQcdRqEcR5X3xq9NSG2Q",
+         "plus_code" : 
+         {
+            "compound_code" : "G99G+CF Berlin, Germany",
+            "global_code" : "9F4MG99G+CF"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJbVDuQcdRqEcR5X3xq9NSG2Q",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8478
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Schloßpl. 1, 10178 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.517277,
+               "lng" : 13.4016359
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.51822222989273,
+                  "lng" : 13.40343307989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51552257010728,
+                  "lng" : 13.40073342010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Humboldt Forum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2026,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109216861115091226363\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ5Cac53zWLpv4HMWh9caSGsrKbM4AHrQiKKHV0rmuMVlYpa27q5i21hHgQgTW8PdOXHhFjaiaM9dgWd-fW6lEdRSGL1gKeQSOb7INi1Xu_p3GXNVSf8ZqNMf46lho5yB6aNRSaxDhHP1bU5HuSr3Ay1PhPF73rUj7SgwvzwxIHsrni",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ61P_Gt9RqEcR0Zp4VZCfHHw",
+         "plus_code" : 
+         {
+            "compound_code" : "GC82+WM Berlin, Germany",
+            "global_code" : "9F4MGC82+WM"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ61P_Gt9RqEcR0Zp4VZCfHHw",
+         "types" : 
+         [
+            "atm",
+            "tourist_attraction",
+            "museum",
+            "cafe",
+            "finance",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 7606
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gendarmenmarkt 7, 10117 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.51439329999999,
+               "lng" : 13.3924143
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.51598032989272,
+                  "lng" : 13.3941073
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51328067010728,
+                  "lng" : 13.3902037
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Französischer Dom",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 694,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116330085130890014641\"\u003eFranzösischer Dom\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbi6wpTY-vSoLJ894gbcZ8Us1Nj8tCCOpVW6R92tXqnTPGAKDEHJaC7lDaFbe8w-Wt3K3Fl4Elm2cYtfymroGMK8poAWFJ16UzzglRKO7zu3ObuXpiW8KaWmrmJyAg6HyOeadsDsFm2OuXirImbBccvWgPzO1HkSS9yJ1y5lUtvT7H3",
+               "width" : 1240
+            }
+         ],
+         "place_id" : "ChIJ4ZsybtpRqEcR6CrYP51_Fi0",
+         "plus_code" : 
+         {
+            "compound_code" : "G97R+QX Berlin, Germany",
+            "global_code" : "9F4MG97R+QX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ4ZsybtpRqEcR6CrYP51_Fi0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1428
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Friedrichstraße 43-45, 10969 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5073923,
+               "lng" : 13.3906261
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.50845417989272,
+                  "lng" : 13.39190582989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.50575452010728,
+                  "lng" : 13.38920617010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Wall Museum - Checkpoint Charlie",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107904041720244869379\"\u003eEric Cotte\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbT8WSPPbCfgo4XGVSDZRgrwSuSCcrxfwK7NyQUhlUbbNaiax6uv0gLP5dSPrajw4sjp750eSfZpgHVT_DepjLX3a6Vd3RJoWHtYUiNh5UO9JMcmwKLiSGXuWOLKwzXqSfjjPCBqbTsx2BYtQZ5g5J7AICwTY26sfZb0LWa9Ur5w5E",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJzdgmXNFRqEcRJjZReHg98L4",
+         "plus_code" : 
+         {
+            "compound_code" : "G94R+X7 Berlin, Germany",
+            "global_code" : "9F4MG94R+X7"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJzdgmXNFRqEcRJjZReHg98L4",
+         "types" : 
+         [
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3559
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Schiffbauerdamm, 10117 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5212373,
+               "lng" : 13.3773319
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.52271112989271,
+                  "lng" : 13.37844892989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.52001147010727,
+                  "lng" : 13.37574927010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Parlament der Bäume",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113019946066729358520\"\u003eAnja Titte\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaQDgR_2Px0lG0OmLe3EZp9AQYp8zJJGbBeMHMy3C76iTT7g43hBFnXL4uw9dcBqFgnd7X_mpi6rR3ZjA5zyxPqrDc5-pLWm1wVNXZYjEdDemc5YN23ANvAHeS18RJYEdyxYg6p8y6zOrCKlfGE_I5Gqp9xcO4cc3PhwfymXkJr7cuV",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJfXDmk8BRqEcRcM5ZJOI-k4g",
+         "plus_code" : 
+         {
+            "compound_code" : "G9CG+FW Berlin, Germany",
+            "global_code" : "9F4MG9CG+FW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJfXDmk8BRqEcRcM5ZJOI-k4g",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 381
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bornholmer Str. 61, 10439 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5547443,
+               "lng" : 13.400547
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.55607527989271,
+                  "lng" : 13.40189372989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.55337562010727,
+                  "lng" : 13.39919407010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Place of 9 November 1989",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114049543828949233618\"\u003eOlga Sysoeva\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbcyHPAhPa7z-ydjfppS7H93oVDDWKhAbLB06QY-t0inwkdt0e0CoYrxXOVKQuGF9cFnbIVp8TpeXqqVJz_aSngxvSygRJy4kFmATL0YJb800wQj5xdY0yapk60OuM2ZzMxq3gk8z_a4EfuAP5eyoLePDuDPC3n14vt1fRPyBn3spi8",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ8aFCVxdSqEcR7WakPaXklbg",
+         "plus_code" : 
+         {
+            "compound_code" : "HC32+V6 Berlin, Germany",
+            "global_code" : "9F4MHC32+V6"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ8aFCVxdSqEcR7WakPaXklbg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 150
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Spandauer Damm 10-22, 14059 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5209319,
+               "lng" : 13.2956165
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.52167415,
+                  "lng" : 13.29682302989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51870515,
+                  "lng" : 13.29412337010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Charlottenburg Palace",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116096687288418266948\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbQEYRKiwDWKCZCjJh7lD--_NCQVn8b36RlDGdo9NHt1c_LWOk9ZOYoKDqfyHWA-Lg0YbKCIBOpX0rcYPYfXoeEVew39ZMGsn5euIIse6ZUySno9OlaDYDfeOvVFY9JtnZWYA2Wotptx288cW5Gs-LhTnXBvns-4avokpBiQHnLqnqD",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJ85FCdSVRqEcRGv55KkmuuIs",
+         "plus_code" : 
+         {
+            "compound_code" : "G7CW+96 Berlin, Germany",
+            "global_code" : "9F4MG7CW+96"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ85FCdSVRqEcRGv55KkmuuIs",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25316
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Str. des 17. Juni, 10785 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.5141516,
+               "lng" : 13.3591634
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.51594247989272,
+                  "lng" : 13.36043717989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51324282010727,
+                  "lng" : 13.35773752010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Tiergarten",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2304,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101609191205599056718\"\u003eBenny M.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZKueZ7CYKiNvrqjWsEdxFYpBtxnfldKp3bQl1zSjcbaHcFFVL5EYHpp7V3la_QD9hgEf4R6Mrk6PeuDRZUJzT61W8v1ES_3k71K7FogvmvIa3eUoS9DRfQwCfdqs87qnG2vn_7pAQIFu02fJOcMSuhBW414HUto3UlQp1WS_AUJsU8",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ4dHdSq5RqEcReqvQ3PGSw4M",
+         "plus_code" : 
+         {
+            "compound_code" : "G975+MM Berlin, Germany",
+            "global_code" : "9F4MG975+MM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ4dHdSq5RqEcReqvQ3PGSw4M",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 23214
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bebelpl. 1, 10117 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.51650679999999,
+               "lng" : 13.3939286
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.51757997989272,
+                  "lng" : 13.39551037989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51488032010727,
+                  "lng" : 13.39281072010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Memorial to May 10, 1933 Nazi Book Burning",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107496312888029580645\"\u003eJoanna Skomiał-Mańk\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJalkW02ToI9Qozl66R42fzuRXclxcH1X7kKBpJgIR7Ctv0nCeQg4kya9c6lEkNk6fwHuXcayI7_vqEiNSbdE0ebtCDpNQWVVkIU6SVEtpMYOmZuq8i3NGOV9kiVhO37lsGfrFw_j-Pr1Cd-moZ-OUzNtYkN-2MthlAUqwuHfZKCChPv",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJt75WhdtRqEcR4-LBA5Bdg_s",
+         "plus_code" : 
+         {
+            "compound_code" : "G98V+JH Berlin, Germany",
+            "global_code" : "9F4MG98V+JH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJt75WhdtRqEcR4-LBA5Bdg_s",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3338
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Reichstagufer 17, 10117 Berlin, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.520771,
+               "lng" : 13.3869829
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.52214547989272,
+                  "lng" : 13.38822757989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.51944582010727,
+                  "lng" : 13.38552792010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Tränenpalast",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103019190429892544315\"\u003eJurgen van Sommeren\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY-oCxik4xWSuQn8ufWtjmLIuHNvbm6glxoMQxy09mryqvD4N0skhiHur8eXWu0s_yv1ZMhe1oGW3iLxEE8Fjozexki9UGfSqRQyGcc4lbbmPgDbdAtV2_oTdkTTFuTj7eYPJqtIl46k2Qr4XjHgqzLgc-XXlbqPOMIB6Rn8xCPGNJc",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJyS1mU8JRqEcRulOPzPV2oSI",
+         "plus_code" : 
+         {
+            "compound_code" : "G9CP+8Q Berlin, Germany",
+            "global_code" : "9F4MG9CP+8Q"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJyS1mU8JRqEcRulOPzPV2oSI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5553
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,487 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazzetta del Titano, 1, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9359729,
+               "lng" : 12.4465745
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93735692989272,
+                  "lng" : 12.44799667989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93465727010728,
+                  "lng" : 12.44529702010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "State Museum of San Marino",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 673,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110632073881035595213\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJapDQGcoev8yneEkopQznPFTyoqvSkT17vAu3eOVQKfKWKnpBVe67NxDf80agXPswx0tNQIyw4YO3W8iiPwdC8MwlSW9zH7RqCIB2TDg6tr1fZP0f2CfUsOslcBktHm5hpDOD-Ura5ji7dI897XtDFYx3btyxJXu7V8cefj8IAYUx2V",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ6TXp2K_sLBMRU2CtPPh5YsI",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPW+9J San Marino",
+            "global_code" : "8FMJWCPW+9J"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ6TXp2K_sLBMRU2CtPPh5YsI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 387
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazzale Domus Plebis, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.93711039999999,
+               "lng" : 12.4467902
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93846447989272,
+                  "lng" : 12.44816052989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93576482010727,
+                  "lng" : 12.44546087010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Basilica of Saint Marinus",
+         "photos" : 
+         [
+            {
+               "height" : 3472,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100955034418058552357\"\u003eGiuseppe Crotta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZJK70KS6T8yG5XlJclvSmykZUqNbmVhmYaDeVMvRJCB4KbQTxYu9ByM9l_k9banWgijIqx0m5sdvq7gnEu3UAjLcY5BEPurN0E6sjoyryiROzxFHnZOopm8z-vIFRkwIZMJhw0LAYq4E2jxq0gRL5Ay6xzeU-KUASCm8cHg1vxDQ54",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJl33kra_sLBMRuFgBqBv4S_E",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPW+VQ San Marino",
+            "global_code" : "8FMJWCPW+VQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJl33kra_sLBMRuFgBqBv4S_E",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2006
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Salita Alla Rocca, 61, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9354585,
+               "lng" : 12.449276
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93644672989272,
+                  "lng" : 12.45053707989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93374707010727,
+                  "lng" : 12.44783742010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Guaita Tower",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117385106057601285499\"\u003eSerg Zhukovets\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY1ctPwsVyc02zKnOFeCXOxbvIAcbeezcBJEuwGaG5hIR9B8HAIJUpz0uyq9BKFhCS7aXTpb08r0sR6qxcAakGBN91eyl2H14z_VMQXgYgdmiyzY1dw2MHOZAbhHbh3SiMfwrWhJ3bJkuB3xihQFBsID4fZKFjrVq-HglLFgOJdfC4q",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJPb2M8a_sLBMRj7WrYaFmb2s",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPX+5P San Marino",
+            "global_code" : "8FMJWCPX+5P"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJPb2M8a_sLBMRj7WrYaFmb2s",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13444
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Salita Alla Rocca, 26, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.93509539999999,
+               "lng" : 12.448607
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93626552989272,
+                  "lng" : 12.45006652989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93356587010728,
+                  "lng" : 12.44736687010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Curiosities",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 432,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118226990332437595565\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaZLbBpDm9KTzkC-qUj3vhAnzGra-Od0h5f7sQYYu3DSo7ySlksDKCLPw355FK-Juqyrnm1ZqZsydaQwd-F6kNDGtaY08IsOYiRv0qy_mES9ZyE1hjKHdbhiMbUwm2hFC-yAoPEKzEFahGHtfZHwepXPIGU2PuhPpxAMAQUTSUpw0FS",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJ-8Nd5K_sLBMRXmSla6IDgCo",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPX+2C San Marino",
+            "global_code" : "8FMJWCPX+2C"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ-8Nd5K_sLBMRXmSla6IDgCo",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 643
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Contrada del Pianello, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9367392,
+               "lng" : 12.4465198
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93808927989273,
+                  "lng" : 12.44787002989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93538962010728,
+                  "lng" : 12.44517037010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Public Palace of the Republic of San Marino",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117065057606588593994\"\u003eAdam Larsson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbugmfbcsa8jYCVWqdjrW5n2faAgZz-n6Sd8bfKTMm3-A96hkNLbUtXOzBAlo9-okzpWQ4mENOf3iXVTRvD9JKg9YbznDxceiQ5jwnNP2f_DFkthnRqNBt3G0vgz1j7uNSOFol5ceAd6Gy4IY8hnnSempiDxhDiCNXWkyL26b1yxVHQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJYZShs6_sLBMRNy4Eh_bFLdA",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPW+MJ San Marino",
+            "global_code" : "8FMJWCPW+MJ"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJYZShs6_sLBMRNy4Eh_bFLdA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 590
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Eugippo, 26, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.937846,
+               "lng" : 12.4457124
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93921782989272,
+                  "lng" : 12.44706632989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93651817010728,
+                  "lng" : 12.44436667010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Monumento a Bartolomeo Borghesi",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113326723683132601773\"\u003eMichael Seifried\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbUEgEBgaX4GIMU-J-VkwUfREWvCK4jkVKkaY3KziGq7stS0I57WMCmqloFIPihNWqtDXG-oW-pmC9dx7bXCde7WkjeqIdLPO5Gc-acDeyXvRk_wcvdBMca3inLsFJ49Ea849YHQvuM0UJChSFd43vC0sYvFsq1rTC1adskDJTntaxC",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJqWg28K7sLBMRQPXS_PHSjto",
+         "plus_code" : 
+         {
+            "compound_code" : "WCQW+47 San Marino",
+            "global_code" : "8FMJWCQW+47"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJqWg28K7sLBMRQPXS_PHSjto",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 156
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza della Libertà, 10, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9365022,
+               "lng" : 12.4467058
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93786532989272,
+                  "lng" : 12.44808167989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93516567010728,
+                  "lng" : 12.44538202010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Liberty Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114167470877522833828\"\u003eWim Halverhout\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYitV9Wv80D62LZiLENe301M_jSlgDdaaRhIqTZI7bDkPtW6TnfrCNDHly3_UlA48xo7pldhWc8ZhmU2V3KZUy0w4RdgT5MJFSOeAi6ZeibcTvdmslpVhmK_C-3vW3TqSgudrTtYndMg6PyyYXMmkkG5PIy96ioXDVs-8_31W6JABXC",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJQ4wvTa7sLBMREptI_ErJzlw",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPW+JM San Marino",
+            "global_code" : "8FMJWCPW+JM"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJQ4wvTa7sLBMREptI_ErJzlw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1306
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Eugippo, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.93754819999999,
+               "lng" : 12.4457523
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93887122989272,
+                  "lng" : 12.44702682989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93617157010727,
+                  "lng" : 12.44432717010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Cava dei Balestrieri",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113375304246931697715\"\u003eRoberto Nepori\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYovYv5aqDBu140sLnnNlWrRn3ToIGSHoyM0mLHBQdgGDXlUiB0b4dKzoaNhlPd6ctqbuP5HDsbU2QIdhdh7dW6pd6iC9d2yFeHDKnsJ7IGkL0AiWD-rsfKpNSmuZixrdi88MZ1BgqXWhFaXrp3BR3ivBuNnc7GkSZnXyiKdnjxfWwg",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJOf8ZWK7sLBMRgseiGJAYxCU",
+         "plus_code" : 
+         {
+            "compound_code" : "WCQW+28 San Marino",
+            "global_code" : "8FMJWCQW+28"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJOf8ZWK7sLBMRgseiGJAYxCU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 532
+      }
+   ],
+   "status" : "OK"
+}

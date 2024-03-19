@@ -1,0 +1,1198 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbbm-djKKTFDLTItjGaZPYZYdIDk1E34u90q8QE-pQMNdoj1lsZxXGIZ02QNiehF6ZeJtrLw29zrPHELtZXl7DepjB9ZFn5lg3mY4SyNsPKdf2Z6i_P5bynRv38LzklSLci_ozMLb-Djb2ci7YkUt-EbuJnJYYmsLDLkbeUdsPB7jZNS8tRIEB3gPXZ6k_sBbL8DzQlq3uQJ41Qg8rQN6XqWYDWBtl1O3vjUgone0gtRRVTzQ2eLqTTpLebudNGMnn-MQx7lnhJTDyrtUujysmYwe12JRpEISSrPn_JttzKukjaRDTqVgqmtmd3M5RGSrIOKPgEt9wmJx7dlcMKgkwlEKq-K_Zs4OD6VdJOA5-8JpEIEO0mBIo6uyC6D1WMuyOnH7-CNCXdDmZxIJjMnA",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Moll d'Espanya, 5, Ciutat Vella, 08039 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3746496,
+               "lng" : 2.1823721
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.37597207989273,
+                  "lng" : 2.183698379892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.37327242010728,
+                  "lng" : 2.180998720107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Maremagnum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111548749086988177009\"\u003eFausto Nadal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZrH45dTXSXCvha6fZ37d1qzKyZ_tosiEfhTbmfVfD1R8H97K7AYtmVw5EOJA1OCYiIugFipnPCMnVLA0KXp9yqmVdVP1TE2BZ0hpQuFBiafdIk0_dg1FVt_gm9DbL6tDSRjxlkc3HKOmY24ZeyjhU3QQgcwbBIupcz34UoOfPZR2q9",
+               "width" : 5120
+            }
+         ],
+         "place_id" : "ChIJ5xgjZFOipBIRtEL-QfKu3tU",
+         "plus_code" : 
+         {
+            "compound_code" : "95FJ+VW Barcelona, Spain",
+            "global_code" : "8FH495FJ+VW"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ5xgjZFOipBIRtEL-QfKu3tU",
+         "types" : 
+         [
+            "shopping_mall",
+            "clothing_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 36260
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer del Pi, 11, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3835904,
+               "lng" : 2.1739268
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38494082989273,
+                  "lng" : 2.175282429892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38224117010728,
+                  "lng" : 2.172582770107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "La Nostra Ciutat",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113011871263383995400\"\u003eAnastasia Parygina\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYqHXDhY3_Rm4Z99DCP1eUI8duMo2iQY1icW0ZEjR64OkLxhGt9v8r2i5dBm6UApb5Tz1WBkoTf-A30FtaFKVDBjf2vp2CtcEZ3SJUuqT-iUkwMgCmuUx-Lto-U8lOY0wajzHjHwQbAvBYWwqKjJVfuvW2xwrpDmonrWZva2sGH596a",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJnQkQeveipBIR6DEjS5vKwvs",
+         "plus_code" : 
+         {
+            "compound_code" : "95MF+CH Barcelona, Spain",
+            "global_code" : "8FH495MF+CH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJnQkQeveipBIR6DEjS5vKwvs",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 372
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Laietana, Ciutat Vella, 08003 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3828022,
+               "lng" : 2.1800557
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38419647989272,
+                  "lng" : 2.181464729892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38149682010728,
+                  "lng" : 2.178765070107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Shopping Barcelona",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102258128445152740943\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbULxaM4t4077evfVC6UUlnE1F39k9_WySELQALA6ma18zcaNPmLXJRdKmjukW_W_H_3cKGQOX8Cudla9FlGKzQfy0LCJG68xdWz9E0aL5B3PpMEhfJr1tj5WpvDg5I3j-mHHWiL1YZC9Nw_mIGi4xVxOA87g9Pd5QUBLtOaN0NfSW-",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJU6f9Jf-ipBIRjiMO3AcLVo8",
+         "plus_code" : 
+         {
+            "compound_code" : "95MJ+42 Barcelona, Spain",
+            "global_code" : "8FH495MJ+42"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJU6f9Jf-ipBIRjiMO3AcLVo8",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer del Cardenal Casañas, 19, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3821727,
+               "lng" : 2.1735379
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38352062989272,
+                  "lng" : 2.174898379892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38082097010728,
+                  "lng" : 2.172198720107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "DesignPlace",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116631649135910728886\"\u003eCéline Tomczyk\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYoMl2nOStissP4b5CnzGwYtBe3vqr9Pxq82ocEjIOI-viLfQGn68Fq14VQgZmQk1WhcYw5oI_mUYvE9IAqJjVlY26OnJvAsDW3zPVvL1wAfgE247NdxYBZ3-Cmh-quEJMSU-bI4NPffxXf5QlmNFP8Svp3hZBDygHXdJ5d_NaxYsBd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZe8ipiOjpBIRbIIFiWa_o7Q",
+         "plus_code" : 
+         {
+            "compound_code" : "95JF+VC Barcelona, Spain",
+            "global_code" : "8FH495JF+VC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZe8ipiOjpBIRbIIFiWa_o7Q",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "La Rambla, 129, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3850269,
+               "lng" : 2.1700436
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38642632989272,
+                  "lng" : 2.171426429892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38372667010728,
+                  "lng" : 2.168726770107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "I love Barcelona 129",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100513255723453582409\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYkhjTMDsa_33HjwNNcOUA1EhCRTgI10n3ee-9SocxO02xtEMmRSrxHBlrWfOrbw0kKP5GSJgVDDF3bF7VRA5SuriOFWrgxJ0xui27NumzygIYuG2Tc33h3AKDsOO0YcIj--4_dizXDyAOzqSxyE2YvO7AIwf09bMXVdEDtVS0YsR1g",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJA_4JYHWjpBIRjwq1f-Wi3wQ",
+         "plus_code" : 
+         {
+            "compound_code" : "95PC+22 Barcelona, Spain",
+            "global_code" : "8FH495PC+22"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJA_4JYHWjpBIRjwq1f-Wi3wQ",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ del Rec, 52, Ciutat Vella, 08003 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3844747,
+               "lng" : 2.1836108
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38576612989272,
+                  "lng" : 2.184947029892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38306647010728,
+                  "lng" : 2.182247370107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "La Comercial",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2832,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102494591608704518277\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa2uBlN31s67wqNaxDejEqdqBrDIIMShkYAZX4j05Et-WUgqA55-HroEcgadGHqeraPBjE9-hx8F1GzgQ4qs9hm4GRmtGdgUDpv0y8dupZ_3x6HPTnG0ylEMYdUyP2DB5t8Qso4D14vgerqz6OybPnJFY-X_jeT7xAtJl9PBbXoheUJ",
+               "width" : 4256
+            }
+         ],
+         "place_id" : "ChIJZ3qzGf6ipBIRwdwqB7xIikQ",
+         "plus_code" : 
+         {
+            "compound_code" : "95MM+QF Barcelona, Spain",
+            "global_code" : "8FH495MM+QF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJZ3qzGf6ipBIRwdwqB7xIikQ",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 55
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer de la Palla, 3, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3828542,
+               "lng" : 2.1741857
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38427447989272,
+                  "lng" : 2.175468929892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38157482010728,
+                  "lng" : 2.172769270107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Barcelona Today The Gift Shop",
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102471950899520695138\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY9Tjfn3MzN5ROr86zzbIbQG2qopt83qUPYFmG7EA7btMgIvzexucn34R6FMLm0uFLGCrNmv1ziaLK6IP0rKs8hn6oVLDwDQMoMm3MzdZ6vVDYCQuRAD9ePo0v1VDnlhqznK-ARxvjoPEOHEEtSFr_z4ZgirfY9G5l_-CNwzKdEC4VZ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJF7h_bDyjpBIRHwbH9N1H7tQ",
+         "plus_code" : 
+         {
+            "compound_code" : "95MF+5M Barcelona, Spain",
+            "global_code" : "8FH495MF+5M"
+         },
+         "rating" : 0,
+         "reference" : "ChIJF7h_bDyjpBIRHwbH9N1H7tQ",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de la Portaferrissa, 19, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3836549,
+               "lng" : 2.1731633
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38501897989272,
+                  "lng" : 2.174510579892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38231932010727,
+                  "lng" : 2.171810920107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "BLOCK SHOP Duc",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106373694441940780754\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY8x3d5jpcPANisdkAU-pm_yLWLsg-QRiZzTujy12TDzLXXLyMj8muljEEP7ua46EYVK8SybAPex1IwOr3Fmsrz9Fi8YtEA2cd5i2RLnSlXKMUwvK6HmQgKEqWyJxJxifNtXo0vG4XOwPlyOQCJ1i2rF0SdCbGTDi-lWsbQmUDk-XxZ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ90s-a_eipBIRkHkjuYQad_Q",
+         "plus_code" : 
+         {
+            "compound_code" : "95MF+F7 Barcelona, Spain",
+            "global_code" : "8FH495MF+F7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ90s-a_eipBIRkHkjuYQad_Q",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 264
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Girona, 38, L'Eixample, 08010 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3928227,
+               "lng" : 2.1740412
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.39412647989272,
+                  "lng" : 2.175328679892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.39142682010728,
+                  "lng" : 2.172629020107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Nice Things Outlet Barcelona",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102309288197877446624\"\u003eDanae Rah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYZ4XYKWghdJ6zbj_BrgUkzxe1zwa31u95C9eEqdZAG-jy8H9T2-5lfhe4cJ5g7T9sQ56TU_4UXQSVqXvr9KmcbTmUCfiG0EfBOtIfFrF9A20UyrctUAC5bnnKTShIEkfd8AiWMcYtbz4o_JXCMMXHL73or-_AEq72Jzz-Z1SIIyAXz",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ4VkThO-ipBIRygbKknA8oBA",
+         "plus_code" : 
+         {
+            "compound_code" : "95VF+4J Barcelona, Spain",
+            "global_code" : "8FH495VF+4J"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ4VkThO-ipBIRygbKknA8oBA",
+         "types" : 
+         [
+            "jewelry_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 169
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Diagonal, 3, Sant Martí, 08019 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.4098468,
+               "lng" : 2.2165097
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.41292799999999,
+                  "lng" : 2.22122575
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.40670840000001,
+                  "lng" : 2.211939549999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Diagonal Mar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102696515526507373261\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb6TRCxkX7gCBWEpJPEhITJfhw9XhSquYDBXhAwkbD2ywH-qc8b4H8kUuCT3P-XJc_7bGeuzLZJ3cc8R9tsSinEEXyZNfH0Pj5JkK6tGWdcTjY-P6UKlIUBp1aMnIf-MbXcNeAZN-wX21hrVk08UxRUOGBE5Fj-YM9GpB1MEg_Esglg",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJmxv3gVCjpBIRsTVh3oG1i88",
+         "plus_code" : 
+         {
+            "compound_code" : "C658+WJ Barcelona, Spain",
+            "global_code" : "8FH4C658+WJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJmxv3gVCjpBIRsTVh3oG1i88",
+         "types" : 
+         [
+            "shopping_mall",
+            "movie_theater",
+            "supermarket",
+            "grocery_or_supermarket",
+            "cafe",
+            "clothing_store",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 60459
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de la Portaferrissa, 22, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.383011,
+               "lng" : 2.1735011
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38464732989272,
+                  "lng" : 2.174628929892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38194767010728,
+                  "lng" : 2.171929270107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Les Galeries Maldà",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105740155899326638286\"\u003eRobert Lleó\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJao56bqjQtczEd7GPsB5EH6ArkvfAODtIiClPxgRisSddJQxyaX5d2OISOrmJcFX4V7uc0d2nQ79-gX2YtfNnzw8Ujd0pFKN79iKuOP9PT4LdhnUYickg9LdfAEiAi7ICszrv8LDhJZg7BpOWSXjUDzT-thQZbyywF0dQTQonr4JJn_",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJx1xAnPeipBIRRay0jcrNo9A",
+         "plus_code" : 
+         {
+            "compound_code" : "95MF+6C Barcelona, Spain",
+            "global_code" : "8FH495MF+6C"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJx1xAnPeipBIRRay0jcrNo9A",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10094
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. de Catalunya, 1, 4, Eixample, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3858752,
+               "lng" : 2.1691163
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38744042989271,
+                  "lng" : 2.17061415
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38474077010727,
+                  "lng" : 2.16619155
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Centre Comercial El Triangle",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 480,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101334628086317032043\"\u003eMoises Lopez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYEu6_JfO6CCENr-Lt5EJ9RFEsMQSetDNMtveQmGhWicU61KI8SSbbxPBIoi7PV4pqksKA504D6JY2dhsJzW5ITGux3VUx3aI6hfO8csJrTJS33hnLazD7creBnNZaEvbWUj7sWeouZokt1Og464Qtoqp6fXR_Cg3g_LASBeqqeeIGV",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJTUZZB_SipBIRr4A7LZHd6LE",
+         "plus_code" : 
+         {
+            "compound_code" : "95P9+9J Barcelona, Spain",
+            "global_code" : "8FH495P9+9J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJTUZZB_SipBIRr4A7LZHd6LE",
+         "types" : 
+         [
+            "shopping_mall",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9153
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plaça de Sant Just, 2, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3829813,
+               "lng" : 2.1782681
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38433642989272,
+                  "lng" : 2.179614279892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38163677010728,
+                  "lng" : 2.176914620107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Barcelona Goes Latin Pop-Up Store",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101550951628736917016\"\u003ejoey.desena\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYNq1R4n_RGAZGmhyZ2QiEHof-Aiwuwfpql8KVfa20Rqk_7lvYwbnb9bvAPkKtHoQZeasZrEAlk2sX4MCPJOr7MuJPwZj7vOUGgzwDPZDks2-Qw_OmOELZb0FwydiLygoAOSEnZjP1G-jpvP6hZEJpYuNR1OMvJ3mMQX3VSlYIYDqaq",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJ4fGa86qjpBIRV2oXryeMLvk",
+         "plus_code" : 
+         {
+            "compound_code" : "95MH+58 Barcelona, Spain",
+            "global_code" : "8FH495MH+58"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ4fGa86qjpBIRV2oXryeMLvk",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ronda de la Univ., 4, L'Eixample, 08007 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3862139,
+               "lng" : 2.1658839
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38761707989271,
+                  "lng" : 2.167232579892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38491742010727,
+                  "lng" : 2.164532920107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Little Barcelona Souvenirs (The Gift Shop)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112043673541481851884\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJ5Ce9YUVSNbbk06S8TQAdJTUbzUgWQmx9gsSLjfHt7ah3e5X36yKMQfI-lpnTlOkoCMgCYATZUc_rkG771GtkEL0Pv3nHztJ2-lW_NSqA8gmkSTOBrHNU4c_tC54tVAfLO_PLzouBzupqoapHsvMkx93FGqneRu6BgaIYY9EVFiET",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJDTOKwO6jpBIR3Brjg6iSoGA",
+         "plus_code" : 
+         {
+            "compound_code" : "95P8+F9 Barcelona, Spain",
+            "global_code" : "8FH495P8+F9"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJDTOKwO6jpBIR3Brjg6iSoGA",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 44
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Santa Anna, 23, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3854444,
+               "lng" : 2.1716094
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38680042989272,
+                  "lng" : 2.172936679892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38410077010728,
+                  "lng" : 2.170237020107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Leuke winkel",
+         "place_id" : "ChIJw-PtLxWjpBIRHD6WpIa_V1o",
+         "plus_code" : 
+         {
+            "compound_code" : "95PC+5J Barcelona, Spain",
+            "global_code" : "8FH495PC+5J"
+         },
+         "rating" : 0,
+         "reference" : "ChIJw-PtLxWjpBIRHD6WpIa_V1o",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ dels Tallers, 27, Ciutat Vella, 08001 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3847675,
+               "lng" : 2.1688119
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38612962989272,
+                  "lng" : 2.170150779892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38342997010728,
+                  "lng" : 2.167451120107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "VS Vintage Store",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2016,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108602002417173501814\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbNyV3fVUBew05WAJPwIQKpmoXYMsgmcrUjh8_mQzT7HyT6-3zDarq985UCJ6r7qJeu_q7ZCevHBLD2yHLAGhJFFmisQ8hIBTpppCGWSAHwgfOJW4QbEN7sj_XrohhJb4_zuP0W_mul3rgT4-vFY7rJ1NZoHI84V17tHRjhZYe-29Xq",
+               "width" : 1512
+            }
+         ],
+         "place_id" : "ChIJFS_cwbujpBIRz-0uovAZrzk",
+         "plus_code" : 
+         {
+            "compound_code" : "95M9+WG Barcelona, Spain",
+            "global_code" : "8FH495M9+WG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJFS_cwbujpBIRz-0uovAZrzk",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer de la Freneria, 2, 4, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3836245,
+               "lng" : 2.177649
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38485587989272,
+                  "lng" : 2.179184379892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38215622010728,
+                  "lng" : 2.176484720107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Tienda Souvenirs",
+         "place_id" : "ChIJv9EvG_mipBIRAt899OzVpJg",
+         "plus_code" : 
+         {
+            "compound_code" : "95MH+C3 Barcelona, Spain",
+            "global_code" : "8FH495MH+C3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJv9EvG_mipBIRAt899OzVpJg",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Valldonzella, 2, Ciutat Vella, 08001 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3845924,
+               "lng" : 2.1661654
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38592372989272,
+                  "lng" : 2.167570129892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38322407010727,
+                  "lng" : 2.164870470107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Holala! Plaza",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4608,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111242735890023835669\"\u003eWilliam Fahy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZf3Sm5MZoRr9yaCIx0OC1_nt_u6yyr3EkFN01Pc8Xhh-MUaLw6eIWJPG5lRKNqfGocpP294mlqopKu7h59Ej5ZutC90Kb5QraKWvqW_oFWnpIMlJBvxeaiMW6jPg5nxjgJB6iFxAi0ZW3jAMNZp5VUHyc8iDlonVz8gkWA_ajzRi8Z",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ1c4llPSipBIR_-p2iNTQjmA",
+         "plus_code" : 
+         {
+            "compound_code" : "95M8+RF Barcelona, Spain",
+            "global_code" : "8FH495M8+RF"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ1c4llPSipBIR_-p2iNTQjmA",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 228
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. de Catalunya, L'Eixample, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3861595,
+               "lng" : 2.1689942
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38772452989272,
+                  "lng" : 2.170553429892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38502487010728,
+                  "lng" : 2.167853770107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Urban Outfitters",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108972381707422300268\"\u003eSagi Benbasat\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZwrtAyVAIXM9VEXpb4J18SYQlEXB6UlO6gaA8VDbWuAF2ES5iukCYih0CGh6U1oK_t5Z6e_LNsFMjibnepTbVBjLR4vPQSYGVlnxVU7fargxgVSSnU2rN3EKSxsUbiCF0-zffS0LxhRPzZ1e9FOYv78HSa3FGwuk-XS1LBzzLt9s8-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJswGN0_2ipBIRHoill-vUcFk",
+         "plus_code" : 
+         {
+            "compound_code" : "95P9+FH Barcelona, Spain",
+            "global_code" : "8FH495P9+FH"
+         },
+         "price_level" : 3,
+         "rating" : 3.7,
+         "reference" : "ChIJswGN0_2ipBIRHoill-vUcFk",
+         "types" : 
+         [
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1552
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calle Comtal, Avda. del Portal de l'Àngel, nº 22, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3864921,
+               "lng" : 2.1731306
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38784192989272,
+                  "lng" : 2.174480429892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38514227010727,
+                  "lng" : 2.171780770107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "D-Vine | Tienda de ropa masculina en Barcelona",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4640,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106622928521134964069\"\u003eShamso Yusuf\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYKgKrSKbHx0TcrIHg6MXDvZXOrcShh9rjnFkB6N810zuzY3tNARHiweZxWXKbXzJSFVyCPYIbVKuy3DTRocVSpSbr8OejgnyFoW8-4mvMtxtPvVA1Bga2XxEmdfu3xGu5n2VFBE-kf-BBEcOIspz-zg1JKNyBOItu4_00GYIB10fgD",
+               "width" : 3472
+            }
+         ],
+         "place_id" : "ChIJe_szcxejpBIR6utbh9BJpI4",
+         "plus_code" : 
+         {
+            "compound_code" : "95PF+H7 Barcelona, Spain",
+            "global_code" : "8FH495PF+H7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJe_szcxejpBIR6utbh9BJpI4",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      }
+   ],
+   "status" : "OK"
+}

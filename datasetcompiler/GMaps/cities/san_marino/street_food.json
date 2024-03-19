@@ -1,0 +1,918 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Consiglio dei Sessanta, 150, 47891 Dogana di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9815776,
+               "lng" : 12.4939155
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.98294537989271,
+                  "lng" : 12.49531467989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.98024572010727,
+                  "lng" : 12.49261502010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Il Matterello",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113219778437459317853\"\u003earjana xhelo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJajGESWSO8QZjmMAyhBHaq5xhQoyVTk2NjIuSFrJK8CbsyfrNCTfHNZ7RUfgNmP0yhtHahAyYiZjQTqMvmq1JmOwBe9aGIQx2lw-mN4scqsrUtXJDGmt_THnwCyJlKuV45Eva9qtcCNRagIgvMHuGeg_Yv-cNNoT3F61b-bZ7Isf1G5",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJH1oijFHqLBMRWkWiZJrRG3A",
+         "plus_code" : 
+         {
+            "compound_code" : "XFJV+JH Dogana, San Marino",
+            "global_code" : "8FMJXFJV+JH"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJH1oijFHqLBMRWkWiZJrRG3A",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 891
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Federico D'urbino, 38, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.93203159999999,
+               "lng" : 12.4484745
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93338837989273,
+                  "lng" : 12.44990802989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93068872010728,
+                  "lng" : 12.44720837010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Food Express",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110556084389675846986\"\u003eBenedetto De Lucia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYjts9jaUqkNyNfkV1Gpl_BTlFU5sB_1AZ1NssTkBP2iy3TZAOTeS9fPc4Q69e7HQ0dL5E4IOdhvb8oCNHeRV4_lNNiGgnhSqVokrgMeS_10TI7ZqKfjFCHpKtRDRFnu_b0i6q1l-eHu1IaozrsJdbKutdGr64hoe--X6-PCdsmODE2",
+               "width" : 1458
+            }
+         ],
+         "place_id" : "ChIJBZDi8VztLBMRDFsv5hy3Azs",
+         "plus_code" : 
+         {
+            "compound_code" : "WCJX+R9 San Marino",
+            "global_code" : "8FMJWCJX+R9"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJBZDi8VztLBMRDFsv5hy3Azs",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 34
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Salita Alla Rocca, 20, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9350556,
+               "lng" : 12.4486204
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93624752989272,
+                  "lng" : 12.45007807989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93354787010727,
+                  "lng" : 12.44737842010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Strapizzati",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104435792922593848458\"\u003eVilliam Briccolani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZMXtLHQ9SE-RkkDu9ia4ylHlWAXiOwF7T0NjLa4jlnj_p1Sfi-k_PwmG0KCjAUjDnHnGnElg2dj0iJDbfiLwwznthaQv0Uc9sr92VbH6NLoBho73-mRwWC0aZSeY5iUgt7hwInmAPYgtHbf5ZvKeXRmEWDrCzkmLC565WU2xSKFJrz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJzeB55K_sLBMRHqKEVT0zexM",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPX+2C San Marino",
+            "global_code" : "8FMJWCPX+2C"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJzeB55K_sLBMRHqKEVT0zexM",
+         "types" : 
+         [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 178
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazzale Lo Stradone, 3, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9350006,
+               "lng" : 12.4470825
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93633252989272,
+                  "lng" : 12.44839632989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93363287010727,
+                  "lng" : 12.44569667010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Giulietti Km0",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2752,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101208923983358949238\"\u003eDavide Gobbi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJavV4ksOi7MxHGVye4NqINZ528PM0j40KJPfrzHR33fTzuwSq8xsz9UbzFX2qrPGITJyc8DbrUcQ0P8BkAnXuLV9uaVQk6smP9s1XM2X2tUkDLN8zKRrK2OaNaAIXexxj3wB2a5705--05Jf_hGvg2LekkZyhUfoXanbvOCsGdac_AH",
+               "width" : 5664
+            }
+         ],
+         "place_id" : "ChIJYZ-A1q_sLBMRTYfp528KL04",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPW+2R San Marino",
+            "global_code" : "8FMJWCPW+2R"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJYZ-A1q_sLBMRTYfp528KL04",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1023
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2461 Mission St UNIT B, San Marino, CA 91108, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.116479,
+               "lng" : -118.1398428
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.11776937989272,
+                  "lng" : -118.1384761701072
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.11506972010728,
+                  "lng" : -118.1411758298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cielo San Marino",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 540,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111202496207760575338\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaEbQSBTwX3Tyt3ah79UeEQnhRh51T0kWhGUA10JyKVH7aSNRBzH-t74ReD58p3CacWrn-wxeTlgHVwekKrpwasllZ5B92tqUfQ2EsqnnDXMJ7A6pAY8zOg8sENaH-DJcOxXseLbzO8fiFrbT4SrKny-C4ri4J2ngWQ0b9XYtIPG4o9",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJHyReipbFwoARiufnGAMnLUU",
+         "plus_code" : 
+         {
+            "compound_code" : "4V86+H3 San Marino, California",
+            "global_code" : "85634V86+H3"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJHyReipbFwoARiufnGAMnLUU",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2507 Mission St, San Marino, CA 91108, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.1164839,
+               "lng" : -118.1392092
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.11780207989273,
+                  "lng" : -118.1379547701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.11510242010728,
+                  "lng" : -118.1406544298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "San Marino Cafe & Marketplace",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106657355814383178983\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa3y6qXSrE0_JucJittaHmVWp-rVwSNeNbEWYeuuD-o943l-lxyhoyReL2cfzsi5t5JSvRMwh2O8wYwawLo4dPqruh1C18BVxIDJsRpYilpbuBbWti-xpkbr4_ZC17P8eQrplfDVy99nRESUv9aGRbBjii3no6YO_p_PlsLXo28Hm1O",
+               "width" : 3425
+            }
+         ],
+         "place_id" : "ChIJL6bx-pTEwoARs5Dmkdxzld4",
+         "plus_code" : 
+         {
+            "compound_code" : "4V86+H8 San Marino, California",
+            "global_code" : "85634V86+H8"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJL6bx-pTEwoARs5Dmkdxzld4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 170
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Antonio Onofri, 3, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9341367,
+               "lng" : 12.4487107
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93547007989272,
+                  "lng" : 12.45002837989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93277042010727,
+                  "lng" : 12.44732872010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "GUAITA food, drink & fun",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102387018365005275403\"\u003eAriel Tusa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb9fP5KycpPPxqPZ1WkGGLSHHO_kme1yb98R-DiLSjTuhvs1pPJMughzcWXHJDV7wXEmEdkAx6KKtWmLKiHlBHdwNJEte7QbZyLKa4pt3Ka5d8-hpq7DzdtG4INdWVEcfjd-9Bsy8-eS-WXi10R9Oh-YsX7JhqbaCMyzYVe3lv0UCaW",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJk5AEELDsLBMR9PQWWV2vqdo",
+         "plus_code" : 
+         {
+            "compound_code" : "WCMX+MF San Marino",
+            "global_code" : "8FMJWCMX+MF"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJk5AEELDsLBMR9PQWWV2vqdo",
+         "types" : 
+         [
+            "restaurant",
+            "meal_delivery",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1136
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Paolo III, 7, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9339971,
+               "lng" : 12.4482144
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93534327989272,
+                  "lng" : 12.44955312989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93264362010728,
+                  "lng" : 12.44685347010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ristorante Pizzeria Smaller",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1733,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107509969455586129938\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbVypyO9BZN0zV57SNLNxGktiDMu0_yy-zZ3r1mPzuc5spqjpuQiE5cC3wSk8n2s7Ok-aUi-nPy5QsExD3yi5AY0_PTPTCTQiyiGk00OFkpIHnMfEze4W_6EOwJGLl53Vofss6Y99HfQ09pYzJNfRpwQOnFwjPTT2FdNyeQQ_RT0bsU",
+               "width" : 2600
+            }
+         ],
+         "place_id" : "ChIJSYYVFrDsLBMRvJwcsoRkVNs",
+         "plus_code" : 
+         {
+            "compound_code" : "WCMX+H7 San Marino",
+            "global_code" : "8FMJWCMX+H7"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJSYYVFrDsLBMRvJwcsoRkVNs",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 405
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza della Libertà, 7, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9366616,
+               "lng" : 12.4467225
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93800242989273,
+                  "lng" : 12.44805452989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93530277010728,
+                  "lng" : 12.44535487010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "IN or OUT Food & Bar - Pizzeria - Piadineria - Hamburgeria - Ristorante",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103849710770563743001\"\u003eLuca Martino\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYZidO4qTv0orMstKNHkDdqLrMFMiJlvD1ExzHMWHEMjAkKbUFeXZxvroaSalyuH07sPxq8MtaMpYP31Uk7ZJ51S8bb5Ff-v3-y0xLczsQMvig3vyty_fEPG5TlrHT9xn9pSp4mDhN-zTG_JLWWKWt2Vawn6d1JCCye3R0v4nn78dhW",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJM8epU67sLBMR0pdrxpMfuSo",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPW+MM San Marino",
+            "global_code" : "8FMJWCPW+MM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJM8epU67sLBMR0pdrxpMfuSo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 404
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Ventotto Luglio, 79, 47893 Valdragone, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.943161,
+               "lng" : 12.4448597
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.94446142989272,
+                  "lng" : 12.44627897989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.94176177010727,
+                  "lng" : 12.44357932010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "L'Angela Veste Piada",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110529687770009572186\"\u003eRoberto Montanari\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZCMd-odTtPaYrTifOJMYtj-IjyGrU0ZQv7LjdTQKpPoZN67TUAdddNz9FpROTrJ36PRl5QrybQ0ofuErznyi8oZChxWUk0gJCz0yEJrDhXU53SrqZoLN54wj3kwq3pcTPGlnS1IVEpx3LexXLRr9EtEWmXMqVFOypANl8jtkMKf4fj",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJqwWDSFjrLBMRxz0O4uwC5tg",
+         "plus_code" : 
+         {
+            "compound_code" : "WCVV+7W Valdragone, San Marino",
+            "global_code" : "8FMJWCVV+7W"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJqwWDSFjrLBMRxz0O4uwC5tg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 491
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Basilicius, 28, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9353926,
+               "lng" : 12.4468539
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93670072989273,
+                  "lng" : 12.44826957989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93400107010729,
+                  "lng" : 12.44556992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ristorante Bolognese",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105603026612583752346\"\u003eBeatriz García Martín\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZlcsKdEu1EyzgHnoae43azQFKCKYUqZRImuH8xlTn_-uHFbUTG6YypCfhQvLg764azbpRihrWlcmcpIeavspazgtC9Wz65UfhuDHFGILeyk2knSn21jF9lz8PSjzkU7VZz1u2vN4aS8vc_01Pe8XgOHtTPDVO0kVcq477POy1m-P2h",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJuzpa1zjtLBMRbzAVnWFrPos",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPW+5P San Marino",
+            "global_code" : "8FMJWCPW+5P"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJuzpa1zjtLBMRbzAVnWFrPos",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1874
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "111-23 Thomaston Ave, Waterbury, CT 06702, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.5596859,
+               "lng" : -73.05390609999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.56099142989272,
+                  "lng" : -73.05258767010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.55829177010728,
+                  "lng" : -73.05528732989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "San Marino Ristorante Italiano",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100341048627597807967\"\u003eBrian Vibert\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZMqXbcqTrqasV-6_00qj7Uj_oSBmfVIQT19Eeo6z5C-jFquUaE0bDyV7DhfeDjlfYwTPZjX4aF9Pb0A0C9BYPs6yb7y-OmlSbzbEd5uTE_M_8W1e1jAJRGVCWjfzuaV4L_Blc0PsE_McfFJg0UH7PoS2sGELwNF2qRn_g3f94yCds",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-ZpxqbLB54kR5fSfFLIYeFE",
+         "plus_code" : 
+         {
+            "compound_code" : "HW5W+VC Waterbury, Connecticut",
+            "global_code" : "87H8HW5W+VC"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ-ZpxqbLB54kR5fSfFLIYeFE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 803
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Str. del Marano, 8, 47896, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9234685,
+               "lng" : 12.5013351
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.92486577989272,
+                  "lng" : 12.50267087989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.92216612010727,
+                  "lng" : 12.49997122010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Street Bar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111690146659249047432\"\u003eCARINA SELLBERG\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaPJKSgU8LEI5iTZjBUV7JpDl3kP5EEqbx_G6kX7wc_GW7b8RD7zFNtLMFMDcLcOtG_elVUqiamCt4M7jdS6LR7-yb9woCTelvPQEOFu8RCVor2NxQzPGBBg35Lr19s38YZtFIJ0QaNbeywdp8hmI3B2ENKo6denikzBYg2MTwcXRZf",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJRRxPWGnsLBMR5MwcAjiKw2Y",
+         "plus_code" : 
+         {
+            "compound_code" : "WGF2+9G Faetano, San Marino",
+            "global_code" : "8FMJWGF2+9G"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJRRxPWGnsLBMR5MwcAjiKw2Y",
+         "types" : 
+         [
+            "bar",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 173
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "Via Basilicius, 47890 Città di San Marino, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9356666,
+               "lng" : 12.4468218
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.93718327989272,
+                  "lng" : 12.44809497989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.93448362010727,
+                  "lng" : 12.44539532010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pigalle Street Food",
+         "permanently_closed" : true,
+         "place_id" : "ChIJVfnEM67sLBMRIawCPaD00TQ",
+         "plus_code" : 
+         {
+            "compound_code" : "WCPW+7P San Marino",
+            "global_code" : "8FMJWCPW+7P"
+         },
+         "rating" : 3,
+         "reference" : "ChIJVfnEM67sLBMRIawCPaD00TQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "Str. del Bargello, 5, 47891 Falciano, San Marino",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.9805627,
+               "lng" : 12.5012914
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.98196662989272,
+                  "lng" : 12.50270657989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.97926697010728,
+                  "lng" : 12.50000692010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Triò Urban Street Food",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 2048,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104419356014137551897\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZx3eSn8cIB2F6MQNYJleqjMRxDSzBZqVaBsD1-j4hWbj5HYZzg4K8Ej5bRy0Fh5RpkmlbHYRBWhJQXVmHcbAMmOn2LFug-fboXbEbvqHf8I-Q0qKDpnZUzk1ATenE8DDBcuI8jwDHuTQHcwS3f3mtX-RLAV5dB6nzfxwbeSD580KM",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ2f0CxUjqLBMRiKUk-OmPyTQ",
+         "plus_code" : 
+         {
+            "compound_code" : "XGJ2+6G Falciano, San Marino",
+            "global_code" : "8FMJXGJ2+6G"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ2f0CxUjqLBMRiKUk-OmPyTQ",
+         "types" : 
+         [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      }
+   ],
+   "status" : "OK"
+}

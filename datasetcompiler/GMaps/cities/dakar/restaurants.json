@@ -1,0 +1,1239 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJa0Irdf4dpOyLXdbhwYtiPPoR0gudMDJXNx_RQlDIlWq-DyesfUh-hArtUcA8kf5a3vVWzRyIHCPKUKNFEG7UPNJaOPBQtH-EOMC8P6hXcjomxUuWZtF5_EvsxlA-56pQonc6-2AzkiTgbcoLHs4oBzlG8bcdBmMFCc3LbZM0VWFheMfrCkOwTkWVhSiPPmj2NZb7b1itAsHeGpvRocLYmKVKTqxRGXslnnBo67fKpJS7J_ivr6zUvrbSn-bePyK6DGjD-IF-a0LE_aMndXaSbskBeOd824b7ydYbgEnGX1vAg9eJ1fFgmSpkbByfxMKW2fEOP-wPnl1rx1JbFh4sVqz0c7vWqSbqIlozCxTC-EqxuTUT5vuq26pxfzQUYR0RNVBcdb-oKMO3Mee19LtvEQ",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "MH9C+3H9, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.6676792,
+               "lng" : -17.4285185
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.66910522989272,
+                  "lng" : -17.42721407010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.66640557010728,
+                  "lng" : -17.42991372989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant Le Lagon 1",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112222491124495881764\"\u003eOsama Alsulami\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYeOGW_xcnV2d47gVGT1SoSDC0H-x3LGY1cQw5xGzPZYuHK8YtstNEBrmTHDjrka7W8C7I4oEwD48i_eqh78ptaHI4nIOLfgMP5cmgGsK6cHSg4RiGUAHl5B6beIZYLmU5oUzXaimrArCFStaYrv1CTSjrs1cPPAPW7T7nhrp5CeAx-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJg7q5QrRzwQ4R6knglsiPfDI",
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJg7q5QrRzwQ4R6knglsiPfDI",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1922
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Phare Pointe des Almadies, Dakar 32339, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.745463,
+               "lng" : -17.52805
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.74685167989272,
+                  "lng" : -17.52673312010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.74415202010728,
+                  "lng" : -17.52943277989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant La Pointe des Almadies",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1152,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107725688230972346694\"\u003eFrank Pámar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaF-Dg9WWMra9GOa0KyEsn7sczBCqNbKrG2orXab-wNzuRAy71SSKiKScria3tal860CjrArYFgWaaCBcYoNf2nrU_Ut_lheCjZcKxoBwGJ57HHTNvMxk0fAHGArQnzSzklcYi_qoqnkf7GxHvEA61NaC2PPrOlvFr-RTPgqhZKqnpj",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgyA2FyATwQ4R9DYwOwooDjE",
+         "plus_code" : 
+         {
+            "compound_code" : "PFWC+5Q Dakar, Senegal",
+            "global_code" : "7C64PFWC+5Q"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJgyA2FyATwQ4R9DYwOwooDjE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1736
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue Mousse Diop, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.6635195,
+               "lng" : -17.4348439
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.66486962989272,
+                  "lng" : -17.43349072010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.66216997010728,
+                  "lng" : -17.43619037989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Beluga restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112776884627668057249\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZxjszcVbYf-destQQjRQ69U45sSNdonW5am44urim5hwGPtwKfH7wxySHerSSRMxjqHzWPHlmubgCKAC0wyR4s0vZU9-6WIGmj6BssDinX2Kmv12yoGv3SMvbc5dztXO9CrXwZxVNp849tfL6fEuV9f6oHERZABXGOLyBjpZ40l-iV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJxbCHhkpywQ4RL_3PCfeGIXY",
+         "plus_code" : 
+         {
+            "compound_code" : "MH78+C3 Dakar, Senegal",
+            "global_code" : "7C64MH78+C3"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJxbCHhkpywQ4RL_3PCfeGIXY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 500
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue Place 18, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.6639462,
+               "lng" : -17.4344913
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.66527162989272,
+                  "lng" : -17.43313882010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.66257197010728,
+                  "lng" : -17.43583847989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "La Parrilla",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113052870615237403942\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZBByXMo3sSyRMv-cnbUVAc2KQoRN_AT9aDjtRh919CTBssJqWIQQ2O3WqzB0XPqvy5zapPh5_AIG-nll-q2eZXVbFdraTTkINrS5p9mm_wzYlYyf-LV9egRn0qFQbYQNFkCSrJUfHKKK5DWWcxG2MiI5wxcfhkgv6LOEX4GUytu2Wr",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJgw85jkpywQ4R44Ua8ItxzDE",
+         "plus_code" : 
+         {
+            "compound_code" : "MH78+H6 Dakar, Senegal",
+            "global_code" : "7C64MH78+H6"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJgw85jkpywQ4R44Ua8ItxzDE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 700
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "101 Rue Mousse Diop, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.668672,
+               "lng" : -17.435084
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.67001947989272,
+                  "lng" : -17.43375437010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.66731982010728,
+                  "lng" : -17.43645402989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant Chez Loutcha",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104513457109882579662\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaYA52iZVhPhmwVotAjvPXvTlXKfm67jICf2_pAdygM0vYVhMUFDHvtTlqAX7JldqA3UxtrCrAAEfBZx0C4a57ix5nrf_1PLCAbEBOBKcFEipkhcwoYsaj9w4cHzlpx4AmCtjgnutNa9f14QsVmMqI62BKISxSL9cMSR-IpQvP-bUd7",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJZUqjoktywQ4RJqmy9phVVPk",
+         "plus_code" : 
+         {
+            "compound_code" : "MH97+FX Dakar, Senegal",
+            "global_code" : "7C64MH97+FX"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJZUqjoktywQ4RJqmy9phVVPk",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 755
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cor des Almadies, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.7409888,
+               "lng" : -17.5225159
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.74267892989272,
+                  "lng" : -17.52117397010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.73997927010728,
+                  "lng" : -17.52387362989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant Le Carré Dakar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2048,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104310847781192975349\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYI4VFsVJre6GMfJ1-6oopMcYHYmLxSttpyEaCw0aP3q1V9jV6nr9R2CYaxydiIJcZL9l7NjXb0RupcqrFYNdnTNdvTNQ-H75_xRwb00A0HvTlHqF3Cj08Lzjwpicov4YXx3ROEGe8_0sGMHk5d347E-nbg2faQExSv8inemarXp8VJ",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJWwOoznUTwQ4RzkSAx91nnhc",
+         "plus_code" : 
+         {
+            "compound_code" : "PFRG+9X Dakar, Senegal",
+            "global_code" : "7C64PFRG+9X"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJWwOoznUTwQ4RzkSAx91nnhc",
+         "types" : 
+         [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 505
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cor des Almadies, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.739076,
+               "lng" : -17.51698
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.74057802989272,
+                  "lng" : -17.51554522010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.73787837010728,
+                  "lng" : -17.51824487989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Le Cabanon Dakar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 426,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107531593922047177279\"\u003eMady Dabo Danfakha\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYSM-Glh6mDDiJG-8DRrJGj_Ik6RUbE-Nie93Fbd6NyolghpK5KGEHdcmL2rupqT91I-SQuyqS5mbsZad0zcABeoYnUJrjv5KGNuVv-S6Z7V1U5ZdZXa2dljYSdVcI3yxbeBPq16prsmPCO9UPYEUBzVllEhJ8kvLtsXc6jTRT8pqcO",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJLZY2dI0TwQ4RI6AmHg2cg-I",
+         "plus_code" : 
+         {
+            "compound_code" : "PFQM+J6 Dakar, Senegal",
+            "global_code" : "7C64PFQM+J6"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJLZY2dI0TwQ4RI6AmHg2cg-I",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 927
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ndeureuhnou, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.7497588,
+               "lng" : -17.5112275
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.75106642989272,
+                  "lng" : -17.50986567010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.74836677010728,
+                  "lng" : -17.51256532989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "La Cabane du Pêcheur",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113689225240852879359\"\u003ePartha Mazumder\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZmw3EtdRWqUuf66v_lbDaCIBNf5ObBIZ4slHfLYoknyG1Mlvqovx8QdVmQFUzHQ3uNhKEwU7wmjaKL3nRcq6AeJWd5S7mPDmg69QKprFX18zO0F6K5J2bD1rUF4Q-ZIclJEltt_ElAlvdaOdljZp50NyF2pi2WxyxQckBi-oORDwMB",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ8zNcCOkSwQ4RNSdx0fDXdq8",
+         "plus_code" : 
+         {
+            "compound_code" : "PFXQ+WG Dakar, Senegal",
+            "global_code" : "7C64PFXQ+WG"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ8zNcCOkSwQ4RNSdx0fDXdq8",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 612
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "28 Ave Albert Sarraut, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.6697668,
+               "lng" : -17.4303003
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.67104002989272,
+                  "lng" : -17.42894602010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.66834037010728,
+                  "lng" : -17.43164567989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "La pampa",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105803359052894268563\"\u003eSofiane Touré\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaKck7V70a6jL5SExh6WdyouRJDRXwYl2slSMj9BYKVdFWgSL-PdQzKbIsX_dN-wWk6tEF8m9V7vLU9sELK7PbK9aMdDOIueFyv88QtRhQ2ZKZl0SZvVoVBVXPyGv4Fc8UWTqvcup4eRBJT6PKNuZVI-7_NNsTibnOnlhBYv4kebm19",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJH03NgrNzwQ4RyAXUH93_XFk",
+         "plus_code" : 
+         {
+            "compound_code" : "MH99+VV Dakar, Senegal",
+            "global_code" : "7C64MH99+VV"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJH03NgrNzwQ4RyAXUH93_XFk",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1170
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "SN, Dakar 00000, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.7184323,
+               "lng" : -17.4673501
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.71980797989273,
+                  "lng" : -17.46597722010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.71710832010728,
+                  "lng" : -17.46867687989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant New Africa",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 6936,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108133764279349501982\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY5F5Sshx07RQ9M1yyuAEZ64zEor__iqUUTSs0SFRaOsYLXQayHO1xWoilxJpY8Z_DsZQbkoJQczrTXNd4bRRtF9XJHXF2e1u_V0JzGjN6QqBerJSJlUG8iv99qi2wWP6JfMcmF2vi6AYgHLSCGsE3QzE4bDFNiKN1fHwb5rCdxMEr7",
+               "width" : 9248
+            }
+         ],
+         "place_id" : "ChIJHYHP07FywQ4Rlp-lZgrYpOs",
+         "plus_code" : 
+         {
+            "compound_code" : "PG9M+93 Dakar, Senegal",
+            "global_code" : "7C64PG9M+93"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJHYHP07FywQ4Rlp-lZgrYpOs",
+         "types" : 
+         [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 374
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue13, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.7007628,
+               "lng" : -17.4470222
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.70211407989272,
+                  "lng" : -17.44569412010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.69941442010728,
+                  "lng" : -17.44839377989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Le 7/5 restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108467716953378541678\"\u003eOumar Thioye\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYVlbnIw_OiNMmf8jBvTTrcB2HUZKx82ebbuoSGz6WkebbgMXUjrh64RtdokJ2a13LB6IGVQHaIAt6hrcoEZeD7KuSkp6wr_0tk_HJnfOGVIXbMkzzmI7pEJx9N4pZ2Y1XVrTMz5O2acYQcnA4ia_1e6BxcHcLYauzgMohs2XvBmes",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ4z3zuCBzwQ4RB3MNVLwcikM",
+         "plus_code" : 
+         {
+            "compound_code" : "PH23+85 Dakar, Senegal",
+            "global_code" : "7C64PH23+85"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ4z3zuCBzwQ4RB3MNVLwcikM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 53
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grand Dakar, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.7060111,
+               "lng" : -17.460128
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.70737112989272,
+                  "lng" : -17.45879697010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.70467147010728,
+                  "lng" : -17.46149662989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Restaurant le BAZOFF",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112080093220304933509\"\u003edousarr\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZARwHjh67NAarQjvsSsh6vwlVVXOEljhZ4lJkiE-5D0JPGJUBQWaD9sqeTdO8ptYLHq3FDRNl9DQy9J4mir_YUUU4ao15bVVzUMeLqV0pEg8Rdd-_HXOZ7Xw_sZX2TCmzVxZMt_zrE162qw1SdRV9zcF6Q8dawKsc0bG_5GReAtkwu",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8Wp3IL5ywQ4RGE3ZL40s7JU",
+         "plus_code" : 
+         {
+            "compound_code" : "PG4Q+CX Dakar, Senegal",
+            "global_code" : "7C64PG4Q+CX"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ8Wp3IL5ywQ4RGE3ZL40s7JU",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2150
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Boulevard Martin Luther King, Rte de la Corniche O, Dakar 91179, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.6763739,
+               "lng" : -17.4662105
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.67791952989272,
+                  "lng" : -17.46504147010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.67521987010728,
+                  "lng" : -17.46774112989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant La Terrasse",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108330628674351519760\"\u003ePhilippe Garoux\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbFsejkmKT7Bw_lKwAKA-A7rfcjjql1ezJtzvy7KDU7rTCKXHWHr22NHCXtYyVcDxsu9IROkbgSAO5iFELvsqRIbrylFe6lsP0l0DI_-mW77AlvHyGfFT7KM94rPZW9cB7ogDckWvYjOeXScscxpBgFTgOf2HMZosuOEi2JXWBpXHsc",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJm8wNlmRywQ4RTuA0Kt77XNA",
+         "plus_code" : 
+         {
+            "compound_code" : "MGGM+GG Dakar, Senegal",
+            "global_code" : "7C64MGGM+GG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJm8wNlmRywQ4RTuA0Kt77XNA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 447
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "MH97+7MP, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.6682059,
+               "lng" : -17.4358035
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.66955227989272,
+                  "lng" : -17.43448657010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.66685262010728,
+                  "lng" : -17.43718622989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bidew",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1440,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104608000612438223563\"\u003eGeoffroy Cavelier\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfNvmPcOFxZrTKCpk1NcEuUrh4PVKSTDXi4x4NScfaK7bqmOJu85paUWPc6N_4Ky2K3msWAxgr-PlYvwHxUvmjTE53GCV2hyugWDospduSVdbFFpYHSHQmjB0RdQFGec4hOp7HBSTrOHRzSj7YjIXa6JMQP_dBUY0UAyqmikRT9OPI",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJhweJg0tywQ4R0ITp59NpI9M",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJhweJg0tywQ4R0ITp59NpI9M",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 285
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cor des Almadies, Dakar 12000, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.7411346,
+               "lng" : -17.5247931
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.74250902989272,
+                  "lng" : -17.52353712010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.73980937010728,
+                  "lng" : -17.52623677989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant Le N'Gor Pieds dans l'Eau",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101449810490004566808\"\u003eHans Hess\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZbgTtDE7MPLepVgCSGpBADpOJF8gC3ZhUP_gANGFARilGRPWVePULOQORsnkCkzrM4QPUbTQanFAlJPAKuFSkWu_-4Nw2Qtfiw7gW6qBavgyWsg2lnv5VR5-kdrk3cSwu73JQrg2czI-gHu-2SHNp1WczJEljUUC3cb6FcD_m7iV8e",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_e42O98SwQ4RjuOoxfIjV6k",
+         "plus_code" : 
+         {
+            "compound_code" : "PFRG+F3 Dakar, Senegal",
+            "global_code" : "7C64PFRG+F3"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ_e42O98SwQ4RjuOoxfIjV6k",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1152
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Allées Seydou Nourou TALL Amitié 2 à coté du Auchan, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.7033102,
+               "lng" : -17.4618969
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.70460877989272,
+                  "lng" : -17.46060732010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.70190912010728,
+                  "lng" : -17.46330697989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant gastronomique YUMA",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109844225897420629834\"\u003edjitri2000\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYvPIWh0nTC-5RQyQddghBR-sHCCu9uz7NRDpndDXsuKytoucNZHaLGA8qb7L4A11CHD_oKUDBO73dgMZZ9TAY7ldXAslpTpfd8_FZ36YyeJfLVFhxB2Wl7G74XZDl92ZdoWsEhz63MN2UXKtBnjnkgiyx2XMOzaaL-9h7UT3n9e3XX",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJXVW9KpRywQ4RTNi4tPz7uCU",
+         "plus_code" : 
+         {
+            "compound_code" : "PG3Q+86 Dakar, Senegal",
+            "global_code" : "7C64PG3Q+86"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJXVW9KpRywQ4RTNi4tPz7uCU",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 499
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mermoz Sacre-coeur Dakar, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.7026919,
+               "lng" : -17.4723329
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.70408292989272,
+                  "lng" : -17.47103452010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.70138327010728,
+                  "lng" : -17.47373417989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Le Mermoz",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109954983372484346621\"\u003eddrecords Senegal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZHQLdFz1W40FgwIjt1fJFaGecm2Gkb919G2_32xIRplmYzWFZcNU66AXO2sMB3EY7GTUE2kSrpM54aHQKgV1hz1d71VnCPlF5MaSBaUXf1btQ_6MsGbIonm5cCv4bWDavann9u7jCbzpjilEGR4Z_lFoHYUffgwSguHxHTM3FaXEWz",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ7_mw3phywQ4RPIXTCCv6vOo",
+         "plus_code" : 
+         {
+            "compound_code" : "PG3H+33 Dakar, Senegal",
+            "global_code" : "7C64PG3H+33"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ7_mw3phywQ4RPIXTCCv6vOo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 376
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "7 Rue PE 43, Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.6933191,
+               "lng" : -17.4577618
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.69472337989272,
+                  "lng" : -17.45642152010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.69202372010728,
+                  "lng" : -17.45912117989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant BUUMY Dakar point E",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 720,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107032215842138774887\"\u003eNDIAYE Yaye DIOGOP\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbmBiXLbo0MNkjqWYiXX1NXsoojYY-SavFLWpslgp2HLc_4lrb7ApNsI7A3x7I6LBcc49Uo8Cps5ZgSQ1kvf5oDzyYDaXI5DY-48aBIvfpekoMCUBcOmSVdlSt1Hw2VtVhZ86SYgiIgu8uBjAr0Rf4A96Bk0sdt1rvSfV0xIS4yTK6c",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ8UjUcgJzwQ4R2cKNRCgQClo",
+         "plus_code" : 
+         {
+            "compound_code" : "MGVR+8V Dakar, Senegal",
+            "global_code" : "7C64MGVR+8V"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ8UjUcgJzwQ4R2cKNRCgQClo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 59
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rte des Almadies, Dakar 12000, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.7409698,
+               "lng" : -17.521831
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.74245777989272,
+                  "lng" : -17.52061017010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.73975812010728,
+                  "lng" : -17.52330982989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Noflaye Beach",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106338849498883018648\"\u003eNicolle Vorster\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaZ2wZCBb_yEO8vncqK17lo2_3hMkiIDHKZGPhzYuH3WXZz1V2XZkaGL_z4gBSFFxgxI99zJTVJxaULN9vVDov-GYzeC3P6IAKy9l-m5LI4x3hg6JCvxybuF7LQIyxtzX6HADVok0pMyBTlHyN-uKEGSh-tNuEx-719jFREdPOJljcV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJh3cOsd4SwQ4RvHDQlnRIJ7w",
+         "plus_code" : 
+         {
+            "compound_code" : "PFRH+97 Dakar, Senegal",
+            "global_code" : "7C64PFRH+97"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJh3cOsd4SwQ4RvHDQlnRIJ7w",
+         "types" : 
+         [
+            "restaurant",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1089
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dakar, Senegal",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 14.7409751,
+               "lng" : -17.5219692
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 14.74246522989272,
+                  "lng" : -17.52067802010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 14.73976557010728,
+                  "lng" : -17.52337767989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurant Le Cocotier",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110649296687129568001\"\u003eNomad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYiLFttOVmjeZb4Fyf_ehiGx6IO0odjF-CgRxaPTwmhyzc6QJVhEghILGaiRczEg3FK1hnrLIFolzf8_6AP3XbK1dbWOTjONpmdyVpB7MA5M23Q8ajgnxBcYuD_FgS4I07lU0e4Eu3Dv1Hb00tkdfiVSb3g7LvPTqM2zKakKVMT0A64",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJKxCztt4SwQ4RZf5p7rZBinU",
+         "plus_code" : 
+         {
+            "compound_code" : "PFRH+95 Dakar, Senegal",
+            "global_code" : "7C64PFRH+95"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJKxCztt4SwQ4RZf5p7rZBinU",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 265
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,995 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "86 Castle St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8681124,
+               "lng" : -76.9833946
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86939262989272,
+                  "lng" : -76.98204512010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86669297010728,
+                  "lng" : -76.98474477989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sky High Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100893790596158154955\"\u003eSky High Architecture\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYEdNX3fRDHVwQv8JmH_qGx9qhQZIcT-EPHVv9iEOb1zlXwPgtXzdOkTOuT0A7fnXvZPtppQ1h70BCUs1zrJhPtxb3yoMGmC4WhpHKkMKgVC5MgHs5mJgemvM8gdQWEx6MmMj8SGEDvOxgzC1msU1NdSKqnzllV8wvgsuitjKwQn6cS",
+               "width" : 3888
+            }
+         ],
+         "place_id" : "ChIJwTdgQj3F0IkRIlHZUjwo9Ls",
+         "plus_code" : 
+         {
+            "compound_code" : "V298+6J Geneva, New York",
+            "global_code" : "87J5V298+6J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJwTdgQj3F0IkRIlHZUjwo9Ls",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "114 Seneca St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8668223,
+               "lng" : -76.9847802
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86813957989272,
+                  "lng" : -76.98342947010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86543992010727,
+                  "lng" : -76.98612912989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Art of Architecture",
+         "place_id" : "ChIJrWNvqxfF0IkROrgF6ZbdNug",
+         "plus_code" : 
+         {
+            "compound_code" : "V288+Q3 Geneva, New York",
+            "global_code" : "87J5V288+Q3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJrWNvqxfF0IkROrgF6ZbdNug",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "103 Seneca St, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8665415,
+               "lng" : -76.9846058
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86796097989273,
+                  "lng" : -76.98326982010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86526132010728,
+                  "lng" : -76.98596947989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "In. Site: Architecture",
+         "place_id" : "ChIJVSECqhfF0IkRRwH22es37to",
+         "plus_code" : 
+         {
+            "compound_code" : "V288+J5 Geneva, New York",
+            "global_code" : "87J5V288+J5"
+         },
+         "rating" : 0,
+         "reference" : "ChIJVSECqhfF0IkRRwH22es37to",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "24 Park Pl, Geneva, NY 14456, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8649783,
+               "lng" : -76.9853913
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.86630157989272,
+                  "lng" : -76.98395797010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.86360192010728,
+                  "lng" : -76.98665762989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ontario Arc",
+         "place_id" : "ChIJbdDkixfF0IkRAvcZB4Xmkts",
+         "plus_code" : 
+         {
+            "compound_code" : "V277+XQ Geneva, New York",
+            "global_code" : "87J5V277+XQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJbdDkixfF0IkRAvcZB4Xmkts",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "327 S Geneva St, Ithaca, NY 14850, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.4357212,
+               "lng" : -76.5003566
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.43706947989272,
+                  "lng" : -76.49904947010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.43436982010728,
+                  "lng" : -76.50174912989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Flat Field Designs",
+         "place_id" : "ChIJW_tSWZ6B0IkRoHvKMmOGhXg",
+         "plus_code" : 
+         {
+            "compound_code" : "CFPX+7W Ithaca, New York",
+            "global_code" : "87J5CFPX+7W"
+         },
+         "rating" : 0,
+         "reference" : "ChIJW_tSWZ6B0IkRoHvKMmOGhXg",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue Du-Roveray 16, 1207 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.205067,
+               "lng" : 6.159113
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20643892989272,
+                  "lng" : 6.160506929892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20373927010727,
+                  "lng" : 6.157807270107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "KELLER ARCHITECTS",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109127496118389834262\"\u003eKELLER ARCHITECTES\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZUGcijiKn5ZfaJN7uLUqAx-xxiksOGvbKthgMr04smz6S_-2jk1UB0cCnYFaaZBiyCC4mHvJqX7GyM4KrzmladW-daAHG87uPB0uGGO9pafHfQvmcI9V5AsMbYRIScMl2g2yL6y_UDnnsy4_6T3c7uiRT0qUc30tm_tRCZYjL5Ykkb",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ1zfTODdljEcRMoR0FyqTsu0",
+         "plus_code" : 
+         {
+            "compound_code" : "6545+2J Geneva, Switzerland",
+            "global_code" : "8FR86545+2J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ1zfTODdljEcRMoR0FyqTsu0",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 28
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "La Voie-Creuse 14, 1202 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.21914599999999,
+               "lng" : 6.143263
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.22037507989273,
+                  "lng" : 6.144602479892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.21767542010728,
+                  "lng" : 6.141902820107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "CORPUS Architecture Urbanisme",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 614,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105875444813141297654\"\u003eMvt Architectes Sa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaU4SCRa4a2ixI8sbFWlmbK12x9cehAO7cnKeOonMa9EX6kZHChFkt_1UO9w1i1GgTXXDByCIQlBFvuxO9Bv3upXn4xzXpUDgqJNbigrroAH_TLnsXpRYFEJ6_sxwUU5s8cV41eq5Mv0ORP2xyWE5qjiA1KOBGTizc_E-POn3N7Vmdj",
+               "width" : 1122
+            }
+         ],
+         "place_id" : "ChIJn17soFtmjEcRYlHCm9EWXMQ",
+         "plus_code" : 
+         {
+            "compound_code" : "649V+M8 Geneva, Switzerland",
+            "global_code" : "8FR8649V+M8"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJn17soFtmjEcRYlHCm9EWXMQ",
+         "types" : 
+         [
+            "real_estate_agency",
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "215 Fulton St, Geneva, IL 60134, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.8839646,
+               "lng" : -88.3079896
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.88526387989273,
+                  "lng" : -88.30652497010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.88256422010728,
+                  "lng" : -88.30922462989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Allen + Pepa Architects",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117393299120083790633\"\u003eDavid Lewis\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbOVwmiKaUjcj5inUUD2ko1EV4lAReiCIsVNH6JR4QuwGSIIE9hGid3Q8ruWAukhkH41ixnZhkCUDNzJg8f2s1rO6mq9CogZZqAHUwDQPIENHBEQXQG2kr8_7MF0t_MKOBuOWe14ulU1CEnjG56V0HGP8_L8q3tyxUim40vUnho79AL",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ0ZNZf6UED4gRLUUH4tVWTTQ",
+         "plus_code" : 
+         {
+            "compound_code" : "VMMR+HR Geneva, Illinois",
+            "global_code" : "86HHVMMR+HR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ0ZNZf6UED4gRLUUH4tVWTTQ",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. de Jargonnant 5, 1207 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2017698,
+               "lng" : 6.160456900000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20293982989272,
+                  "lng" : 6.161817229892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20024017010728,
+                  "lng" : 6.159117570107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "GMAA - GM Architectes Associés",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 925,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101925714633251302347\"\u003eGanz et Muller Bureau d&#39;architecture\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb8nBxlykJsGCeva7CbRItCx7NZGaXAKxtzNNZAwuFuQl-7tUTrabiBKk9D-aaP80oak05CnR-VZ9M65xodHFJuTFEVyFaIPIYArVQMWGBSQ-7LJLAxMPf0iarxR5iZNYBvx2rVczqNru74quOFBsXoSHnpvH78vkuVW4RyGs_TvdLO",
+               "width" : 1950
+            }
+         ],
+         "place_id" : "ChIJW7mVfjZljEcRJm4hCygmdJg",
+         "plus_code" : 
+         {
+            "compound_code" : "6526+P5 Geneva, Switzerland",
+            "global_code" : "8FR86526+P5"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJW7mVfjZljEcRJm4hCygmdJg",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Atelier 13 BAT43, Rte des Acacias 43, 1227 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.19037729999999,
+               "lng" : 6.1306084
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.19225542989272,
+                  "lng" : 6.132015929892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.18955577010728,
+                  "lng" : 6.129316270107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "JAVIER MÜLLER Architecte ETS-SIA",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3542,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117367200053043598979\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa1EgjpbLO7HnzR9FR4INmctZr5g2T1h6NNksOUaJSsxnoS70Ir2aPPkymF5WAARqm-pqFYiv6MY7rVhOlvxUyxT80mR63q4R1xUhmz3NtbuKCIZtg0SR3Y0AAyd-SZLj7kDVy7zvqN5XxLxUb3O4Co1_ITSuZrc2o9XPKI6I0eSp_z",
+               "width" : 4724
+            }
+         ],
+         "place_id" : "ChIJw7RsiNx7jEcRawfahjxIYwQ",
+         "plus_code" : 
+         {
+            "compound_code" : "54RJ+56 Geneva, Switzerland",
+            "global_code" : "8FR854RJ+56"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw7RsiNx7jEcRawfahjxIYwQ",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue Saint-Laurent 2, 1207 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2002348,
+               "lng" : 6.1562721
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20163562989272,
+                  "lng" : 6.157641729892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.19893597010728,
+                  "lng" : 6.154942070107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "DVK architectes",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2848,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114419073586549427265\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaEK1Z6U3U1zT1HPNGprkOLfQQR93GlS6TgOdQ8eu8Sm2CuwK8tEjWZpnseCUlfufCdQ4i1UG3Gvu4LQV6WZ4nj39PjoMAmwTKV60ORATnvy578OEN3FD1iPLz-zCt9aP8p4DLUsTZlCBb_liKvWALU60MPhPqKDlKHa8CjE-NIlBRn",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJCY8dkjNljEcRr7e1Urz52AU",
+         "plus_code" : 
+         {
+            "compound_code" : "6524+3G Geneva, Switzerland",
+            "global_code" : "8FR86524+3G"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJCY8dkjNljEcRr7e1Urz52AU",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "415 S Wells St #105, Lake Geneva, WI 53147, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.5875878,
+               "lng" : -88.42784060000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.58888642989272,
+                  "lng" : -88.42649192010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.58618677010728,
+                  "lng" : -88.42919157989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Joseph Zimmer Architect",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105738300173707163308\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYkqV2QwyZhhNFVQak-g4O3pi_AHJwEWMzkeAlrE3v-emHL1exrWgZGcgte_OQdxE1iELPA_E0yMeQXy8vp5XJM23N7rRfmX_wtgY35S9xkj6vCXbpODnXDb9WiowUeEwHQMrA9Pj0FtwdgW9yITENH3-1ku0WbZczyDNOqRX8v5KIl",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJNzoeT1qLBYgRumO6wpPg1e4",
+         "plus_code" : 
+         {
+            "compound_code" : "HHQC+2V Lake Geneva, Wisconsin",
+            "global_code" : "86JHHHQC+2V"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJNzoeT1qLBYgRumO6wpPg1e4",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. Edouard-Claparède 5, 1205 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.1961324,
+               "lng" : 6.1498007
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.19754922989272,
+                  "lng" : 6.151203879892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.19484957010728,
+                  "lng" : 6.148504220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "CSDK Architectes Sàrl",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1336,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101098801493068907430\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZE1OP2-8TjLGPQPGDXeNo0MEeqlAfHDhmWL_O9Vf_TEQVCEjAl5ULZl0KgFDXneb0T5skvTYLHYm0wR-2Qun1fTCsZdIxmkNYUrwq53gMBtrI9sWdV1js52LcxnSubZPAQJQDL6qQV_gLOTn_553FFqqaUq6eXIYb03faAWJ_lYw2z",
+               "width" : 2016
+            }
+         ],
+         "place_id" : "ChIJAQAAANF6jEcRfdM-NCDvUxU",
+         "plus_code" : 
+         {
+            "compound_code" : "54WX+FW Geneva, Switzerland",
+            "global_code" : "8FR854WX+FW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAQAAANF6jEcRfdM-NCDvUxU",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue des Vieux-Grenadiers 10, 1205 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.1988586,
+               "lng" : 6.137885799999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20007297989272,
+                  "lng" : 6.139177779892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.19737332010727,
+                  "lng" : 6.136478120107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jaccaud + Associés",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJL64nfNNkjEcRRq0fJESVVEc",
+         "plus_code" : 
+         {
+            "compound_code" : "54XQ+G5 Geneva, Switzerland",
+            "global_code" : "8FR854XQ+G5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJL64nfNNkjEcRRq0fJESVVEc",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Chem. du 23-Août 2, 1205 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2025586,
+               "lng" : 6.1342438
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20390427989272,
+                  "lng" : 6.135557229892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20120462010728,
+                  "lng" : 6.132857570107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "d2 Architectes et Associés SA",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112751250704399165917\"\u003ekurt impens\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZMk073H9nKo4YLiO6shbl14V-DT_x2gDDbZ1KJI2nzmgDKeJbyfiUu_4-VN5LQhBlBBDlq5Zcpuqu7T7ZVyAqARM-nhqzD7ZTiMmJozmVc7H0D1T3zVLNSlhLJcvHJK7IqkcPESopk6r2FDTCQw1KnN2tieUq45tgdtXPB7CWaIQKv",
+               "width" : 4592
+            }
+         ],
+         "place_id" : "ChIJyST57C17jEcRs8OXqQGmZuw",
+         "plus_code" : 
+         {
+            "compound_code" : "643M+2J Geneva, Switzerland",
+            "global_code" : "8FR8643M+2J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJyST57C17jEcRs8OXqQGmZuw",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue de la Poterie 5, 1202 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2093558,
+               "lng" : 6.132435699999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.21069842989272,
+                  "lng" : 6.133771279892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20799877010727,
+                  "lng" : 6.131071620107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "BP ARCHITECTES",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4016,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102065749629439087542\"\u003eBonvin Perrinjaquet Architectes Sàrl\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJ8XOfoU4UWi_k3VluchBJNH1vurdqohuM0urA_0GThUeqKVbmPR8brxICapGWCs4mgSigSCBaN1R_FWCdMFiDfahJtmT8AoUhk-U5-lqnAwnHYeqLcIW2y9RWJFlPqLW43JD5hjStvQHNZk5EVKZYq2YlpfG8TlzEdo9J2dAsEabG",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJHVgBM9h6jEcRkkTmCk_OHsA",
+         "plus_code" : 
+         {
+            "compound_code" : "645J+PX Geneva, Switzerland",
+            "global_code" : "8FR8645J+PX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJHVgBM9h6jEcRkkTmCk_OHsA",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue Boissonnas 20, 1227 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.19171410000001,
+               "lng" : 6.1294353
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.19332922989273,
+                  "lng" : 6.130794429892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.19062957010728,
+                  "lng" : 6.128094770107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "NOMOS ARCHITECTES",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113524247637568991536\"\u003eNomos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZs33udUlDA9akGaMKxuMreCmMKmAN31ENKMy7WjkpENbEHjnaBhlGzAYpM96AIGxdBJUDgOTtFgFsCWS3JmbI0BrAKIYUH3dycd5DiBgUn87TfLQmh53N_jAs2hPtuuCQZK18iKsHgxFTQdt5LR0vFYcuI0qnlBfNOMPNoAr7QckZX",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ2X-VTy57jEcRt11mpJJOzB8",
+         "plus_code" : 
+         {
+            "compound_code" : "54RH+MQ Geneva, Switzerland",
+            "global_code" : "8FR854RH+MQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ2X-VTy57jEcRt11mpJJOzB8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "323 Broad St Suite 102, Lake Geneva, WI 53147, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.5937094,
+               "lng" : -88.435096
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.59506047989272,
+                  "lng" : -88.43382002010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.59236082010728,
+                  "lng" : -88.43651967989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Lake Geneva Architects",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 3286,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118133408601924558119\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYQiP6bzg1HntmmM8xiIjV5_um3Jd-uZ87Wsts9cPW8FmTWSG1T-SJGBEjyTWS5Vh7v1gKIOkLjrSVRzff9MLMJiTMY9Nc38YpBgFBoanYoWgBFPhzbR2wTyWaSSXm3tZLeOoOWies0PSWY3NDDf7ApKYhSlNBg76DRO6RnmCZieAK1",
+               "width" : 4929
+            }
+         ],
+         "place_id" : "ChIJncynfpeLBYgRk3t7KJYa1RE",
+         "plus_code" : 
+         {
+            "compound_code" : "HHV7+FX Lake Geneva, Wisconsin",
+            "global_code" : "86JHHHV7+FX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJncynfpeLBYgRk3t7KJYa1RE",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      }
+   ],
+   "status" : "OK"
+}

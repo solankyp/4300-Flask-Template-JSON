@@ -1,0 +1,1217 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbee_t_uA7ivsbB_VvXbRhv-W2HeBKyuGaQO5d8IuwKIfC1PhoJsItyWJWXNR86XLRT_1V-EgOC8HXA1pTpSqtvRPsOimQSamyd4pdCiEA7bLxeUgYPv_-XtjEPCD5Zz5hlM04AbbNmJ4WUF-_IYm1_mwGaAbSgp7VoIRnKjaIkkw9KGBPpsQ526MR1nFVMOUEhC4gQg-b7IUHg5SKc6u-5figTzXs2JfbsZlkmjfbhsLLODcToyUGSToyRbToWHfrpaBU_-e_G97JblSqwIJObc26mym_Bgum4fpsdLdSB0e7_0tmRgCjR_xpGj0vRobqfPJ3KObF7kmSYEXfTqGSUCyDWAzQ7HWC_g9slCAsaXIKkpf_1_T5s_IquLDLCiEJHWq0lurZJp7MXnLoYEKT9XWyC",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Kazinczy u. 18, 1075 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4972429,
+               "lng" : 19.0632554
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49859442989272,
+                  "lng" : 19.06461062989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49589477010728,
+                  "lng" : 19.06191097010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Food Karavan Budapest",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104052646620836858518\"\u003eStanislava Dymnikova\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb-y2rmAHHRj1lGpAvxb1Ez7-p6TFlPnznCV-1mA9N8GA3s9C8wp5FbwUIWsTL_HN6szJPypYq4T4ZBB5gXSLUaHL5yOxPaMreJ3LxYHf1IwlEYJsOWn1TlqXrBbwkRu2gOGB7kCK_YD-feULChCw41Atr7rNMCSZr6J0fJvcmlGxQR",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJ8z64GGjcQUcRDtjy8jgvJIo",
+         "plus_code" : 
+         {
+            "compound_code" : "F3W7+V8 Budapest, Hungary",
+            "global_code" : "8FVXF3W7+V8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ8z64GGjcQUcRDtjy8jgvJIo",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9111
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Múzeum u. 7, 1088 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4902587,
+               "lng" : 19.0633479
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49155327989272,
+                  "lng" : 19.06469177989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.48885362010727,
+                  "lng" : 19.06199212010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "All About Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114258899382715962298\"\u003eCalum Page\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYwcowl3Q5F2XNfZzGOAqIt264rZSmxRuXzSo9iZFQUT1v7fOz1GzDZc_J09QNiifyTGg9zLRe6ZHOPdLvGUbzS-56z-QH89yiaWoNQPJiYBpRepKpr-hOBoWk13aRKC6dIO7_AvY9GAi3r7aGEqxqpySlzRHpcMPI0Ei3TpceNFbAx",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJew3oD1vcQUcR88sk5uM2xYc",
+         "plus_code" : 
+         {
+            "compound_code" : "F3R7+28 Budapest, Hungary",
+            "global_code" : "8FVXF3R7+28"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJew3oD1vcQUcR88sk5uM2xYc",
+         "types" : 
+         [
+            "meal_delivery",
+            "bar",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 145
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Thököly út 18, 1076 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5021034,
+               "lng" : 19.084672
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.50341812989272,
+                  "lng" : 19.08606077989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50071847010727,
+                  "lng" : 19.08336112010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Asian Street Food Budapest",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110749140460553329296\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZYd8BJ2BsE6q0QMmCNo8ob5-46rGJfasnohoAD6udloYpviNETnlKY8K51qanNAVTOFVXj_ZgqOGatkw3oMZPZDhdhP509We1vuNpQFTIIGnjyZd9GLQMmNOdwlsNETAQxjWPX6Ne7lSJmNJd3eIkxplv6BmuIbWQRNhvts34Uc0Ml",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQW-l3_rdQUcRVBYOwTfnEek",
+         "plus_code" : 
+         {
+            "compound_code" : "G32M+VV Budapest, Hungary",
+            "global_code" : "8FVXG32M+VV"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJQW-l3_rdQUcRVBYOwTfnEek",
+         "types" : 
+         [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1365
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Dohány u. 32, 1074 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.49723669999999,
+               "lng" : 19.0632199
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49859842989272,
+                  "lng" : 19.06460792989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49589877010727,
+                  "lng" : 19.06190827010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Karavan - Food Fair",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102546548282929375636\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa-VWoPIW5hBnhW2DzMrfqQdeApbgHKuBsgwQ_INDWNIB82ZhTKkSWbMUH_HgiJS0nnthKK5_rXCQOpK4VUpbICfdxHthiX3lmFFUvnCOaEVV3rUGtdwvvltyp_VfHIrrSuLKcT7CTn7QY1tEBh9_dSO1wJVu3XMLVw6BPFcVPhTlpr",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJhxkVV13cQUcR6ShWplA0ezY",
+         "plus_code" : 
+         {
+            "compound_code" : "F3W7+V7 Budapest, Hungary",
+            "global_code" : "8FVXF3W7+V7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJhxkVV13cQUcR6ShWplA0ezY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 153
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Kecskeméti u. 1, 1053 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4906324,
+               "lng" : 19.0591712
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49201662989272,
+                  "lng" : 19.06042417989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.48931697010728,
+                  "lng" : 19.05772452010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Bistro Budapest",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104451911418845077200\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbBJzMoIqQ6kZibL9PntWRO8pr_F-hinZFNFwMaVmSvAX0m1WULBbZ9OlmpK_WGWD9eFpN-Q2e3gHipMath7HYJ7OwQ2ee9A2639ymLuxiS3f6geZyr-ruv7F0R99ReihDNhDqnBbyx4JN4wwSemX3ZVm0vn_T8BqxtZsIfZ36KAwk",
+               "width" : 1333
+            }
+         ],
+         "place_id" : "ChIJwSNg2kTcQUcRqzmKvB3ELd4",
+         "plus_code" : 
+         {
+            "compound_code" : "F3R5+7M Budapest, Hungary",
+            "global_code" : "8FVXF3R5+7M"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJwSNg2kTcQUcRqzmKvB3ELd4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 183
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, József Attila u. 31, 1042 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4991838,
+               "lng" : 19.052779
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.50049287989272,
+                  "lng" : 19.05408272989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49779322010728,
+                  "lng" : 19.05138307010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street food",
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103874640612853126857\"\u003eMiruna Ivan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaYz9ohDHvlCZ_yNhqt-gQND_OrypIfx3bOUKdIvRdLpg7ys7YW_0lvGe6dTCySPQRq9_DFaYDM_UoSd5eManE262yu00JSD_kMtAaRF8TFbLnX-7hYN3YBCEAGF9Kb3tYXZHmssf4YD5J17hPhKOfmQDWAelH2qVjGQ0bBZQ4RVLJ6",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJJzNmdZLdQUcROh6kUWaeAr4",
+         "plus_code" : 
+         {
+            "compound_code" : "F3X3+M4 Budapest, Hungary",
+            "global_code" : "8FVXF3X3+M4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJJzNmdZLdQUcROh6kUWaeAr4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 29
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Holló u. 11, 1075 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.49904369999999,
+               "lng" : 19.0599417
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.50034467989273,
+                  "lng" : 19.06123292989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49764502010728,
+                  "lng" : 19.05853327010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Raqlap Gastro & Street Bar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110011669336594851586\"\u003eBoglárka Szántó\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbPdtuP62cTlMoiUPpCgWdH5hcRo5q41Ezg3fq5XgJhHNULm1DVihvMiW4WYLumD6U2wYjJniODY6umGPrVN6MxUratVV6nPDFrre-PGy4zrZGlg6vENLVh0H3cy_md8D0WGa71ui3dkHFbooEgIxr2b59tXll3o3X71ndOOZYNpJsu",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJH3tMk2ncQUcRKsK0GhUotPg",
+         "plus_code" : 
+         {
+            "compound_code" : "F3X5+JX Budapest, Hungary",
+            "global_code" : "8FVXF3X5+JX"
+         },
+         "price_level" : 2,
+         "rating" : 4.9,
+         "reference" : "ChIJH3tMk2ncQUcRKsK0GhUotPg",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Csanády u. 4b, 1132 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5160546,
+               "lng" : 19.058304
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51743452989272,
+                  "lng" : 19.05967457989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.51473487010728,
+                  "lng" : 19.05697492010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Food 13 ker",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115269443317144497648\"\u003eStreet Food 13 Ker.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa0pGPfa0417KIvmhHDvXpkG4pbHnt0hjdZxzbH5cxiVH9cZGmn76dxracr19WWu8fLXS404q2h-ez0Fio77QFyDpWH3KvW_fkcwuo9eY8k0SGJeFl3IN1LyCm429Rj1jYWa1KDT9-T3wRKorQsgxixm_h8Fg_SecUx16bRFEufVYit",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJG6PrTgrcQUcRX7DxZzzBQ6Q",
+         "plus_code" : 
+         {
+            "compound_code" : "G385+C8 Budapest, Hungary",
+            "global_code" : "8FVXG385+C8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJG6PrTgrcQUcRX7DxZzzBQ6Q",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 549
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Kazinczy u. 18, 1075 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.49712239999999,
+               "lng" : 19.0631056
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49850922989272,
+                  "lng" : 19.06457502989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49580957010728,
+                  "lng" : 19.06187537010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "LangosBurger",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100233282636589448666\"\u003eRiccardo Tosetto Photography\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbfVejgIAFM-h3lHtiAohLohjsMY2qrTlvA-Pmt_OBPNceVrv5CK0WXWDEsqubTaqCA9g0zP400fdPUm5IxeY9mAcdnDFRrw4m32hl70nl0ZmuFsgf96ii24UIRzER9Up7vFm5olHzo9HWoL4Zh7SE0EM0veiDcJu4dn2fG4TDLdxTn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_7QXRYvdQUcRhpy9Zigt89s",
+         "plus_code" : 
+         {
+            "compound_code" : "F3W7+R6 Budapest, Hungary",
+            "global_code" : "8FVXF3W7+R6"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ_7QXRYvdQUcRhpy9Zigt89s",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 370
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Hercegprímás u. 2, 1051 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4992747,
+               "lng" : 19.0530701
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.50055017989272,
+                  "lng" : 19.05443267989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49785052010728,
+                  "lng" : 19.05173302010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Indigo Express - Indian Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114623351909788460960\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbKklMcqiqfaL0bOHNuY3Xx40BqOTww-NQJW0eotq6OLYnSzaEOvokkwcdjgzO8jpgmvvP4UfJJFI9kUvFY22RG5iu1a7lvN9Fd16iqLrACML5FrAWJO-RVHgy3T9nz5q_rAed6XKfrKR7C8IsXDYx-iMwRzCI2981_8dPUnOWTtEnY",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJK2DYIdHdQUcR4sZ1_yzRN_E",
+         "plus_code" : 
+         {
+            "compound_code" : "F3X3+P6 Budapest, Hungary",
+            "global_code" : "8FVXF3X3+P6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJK2DYIdHdQUcR4sZ1_yzRN_E",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 542
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Dob u. 2, 1075 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4962739,
+               "lng" : 19.0589894
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49761417989271,
+                  "lng" : 19.06035817989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49491452010727,
+                  "lng" : 19.05765852010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street food 1:",
+         "place_id" : "ChIJ40vavMjdQUcRvvQ3b35bR5s",
+         "plus_code" : 
+         {
+            "compound_code" : "F3W5+GH Budapest, Hungary",
+            "global_code" : "8FVXF3W5+GH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ40vavMjdQUcRvvQ3b35bR5s",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Kelenhegyi út 4, 1114 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4840969,
+               "lng" : 19.0515563
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.48533562989272,
+                  "lng" : 19.05286552989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.48263597010727,
+                  "lng" : 19.05016587010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street food",
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116426860859588955010\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZKOQpBKVqjksQ1pXHjDxKRELUpRaEJ53tBY_xno_I9AyOgxoEHF75xhVBKKboEn9AM7yCHdz_Wz3VKnXSgI8LH2ZmonW-7iCEwjVF54dnrxocnXVOQ1sRSp-CmrAFiAekJdYlpd5a92duUBSTQnSDcUeursyPn5h-jv-IA21uTR8ES",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJy9J5TXfdQUcRQi3ZNLgeRiA",
+         "plus_code" : 
+         {
+            "compound_code" : "F3M2+FJ Budapest, Hungary",
+            "global_code" : "8FVXF3M2+FJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJy9J5TXfdQUcRQi3ZNLgeRiA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Madách Imre út 1, 1075 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.49767079999999,
+               "lng" : 19.0576703
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49907432989271,
+                  "lng" : 19.05894212989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49637467010727,
+                  "lng" : 19.05624247010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Blue Agori Madach Greek Street Food Bar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107023837931846676070\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaLaYBZiUspbZ7Ah30DORdxq000eFwngX9gSXoi_XHq8wQgpF-YqOjmgyiqevlk2XBxqKQPBrh0AwQ334FANbwmF02xqwrEEEkSeNYQgyLDdGzVFImgNn54rnZcudk3JP4QlsA39lI5BFzDVsuUEBqzGLmZrxCXJrsHhDQKvm-6oWJ-",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ0WX1KxDdQUcRt6sW8FXdbQM",
+         "plus_code" : 
+         {
+            "compound_code" : "F3X5+33 Budapest, Hungary",
+            "global_code" : "8FVXF3X5+33"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ0WX1KxDdQUcRt6sW8FXdbQM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1020
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Margit körút 62, 1024 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5100528,
+               "lng" : 19.0297801
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51142157989272,
+                  "lng" : 19.03111557989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50872192010728,
+                  "lng" : 19.02841592010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Blue Agori Buda Greek Street Food Bar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107205809769452354216\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaXjoqUIQd39SAgX4eo5l708UOjtpoXbTVibNp9336-NSDZzcdEvtyUK0k1Q4SaU7axxPPcgyWg5ZSgqtNmO-edUmY0ISeaviLqzCnJyNUPwi0u6xQwTRlnjvqbWSAG4v2X71LuVLW1Wrt2fVOoZCCq0j_hsIib4xrISgK0av3xtAt3",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJKy78eIvdQUcRiG2lR-wcq_Q",
+         "plus_code" : 
+         {
+            "compound_code" : "G26H+2W Budapest, Hungary",
+            "global_code" : "8FVXG26H+2W"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJKy78eIvdQUcRiG2lR-wcq_Q",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 606
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Kazinczy u. 10, 1075 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4967267,
+               "lng" : 19.0635487
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49809087989271,
+                  "lng" : 19.06494432989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49539122010727,
+                  "lng" : 19.06224467010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Bors Gastro Bar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2988,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117122812075727382412\"\u003e117122812075727382412\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaS2eSoBJKF63xhSd2fSfaVicDMjPXPjF190Q-M6EEdwQpMl35jiFiIQziylpgen8sdkltGI1ywI6M51_ddOwRje976Mmmy_rrFoq60CZyR7MDfRJukQV7oCAuy_E6JLjvZPNAEPk0LdvPoLr59vxisPxd-B_sq6Bdn1JYjQW-k5bsE",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJW_xUr0LcQUcR-feyVQrPtCY",
+         "plus_code" : 
+         {
+            "compound_code" : "F3W7+MC Budapest, Hungary",
+            "global_code" : "8FVXF3W7+MC"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJW_xUr0LcQUcR-feyVQrPtCY",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5781
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Dohány u. 68, 1074 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4983864,
+               "lng" : 19.0694911
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49970542989272,
+                  "lng" : 19.07088462989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49700577010728,
+                  "lng" : 19.06818497010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Papitos Mexican Street Food - Dohány",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 959,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114518377366945753558\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZS_6tg5ec9KVVT3jksbGbnBdzpT3eiR2DH6u-Ak7PvBSzKV0H_6Yl7qc5-h4zmjB30tp7i3366Qp4rPBIJdLlFe8PvjgLDcSmYE44qegO--9_RqqDD6hkjo5x3C1tvmokYFL8mGXuxHro4EAPlxICMqSFLfMehQVUyX8b00kHsKUHo",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJQZ_OxNfdQUcRg0h1M2rl9EM",
+         "plus_code" : 
+         {
+            "compound_code" : "F3X9+9Q Budapest, Hungary",
+            "global_code" : "8FVXF3X9+9Q"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJQZ_OxNfdQUcRg0h1M2rl9EM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 693
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Madách Imre út 5, 1075 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4977897,
+               "lng" : 19.0578966
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49920117989272,
+                  "lng" : 19.05915687989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49650152010727,
+                  "lng" : 19.05645722010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Papitos Mexican Street Food - Madách",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1702,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118196644884317052443\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbxPJk75hcYVffmPxPG7QYtqWb3FrXhPWje5FcYPams5rf52zph9KzJttG0FKXnRIthmDpU-dxemm8QKwXV69YUmlvDU2Hn_dzcJhxQN8GzA61ASArZhMvrOe8Ahut3Ia24O5mbEj84O4FLgGETEA9cNoBfCgUlkrfhFC1s8eSDUE63",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ5959IZDdQUcRlkz4FBUgHIM",
+         "plus_code" : 
+         {
+            "compound_code" : "F3X5+45 Budapest, Hungary",
+            "global_code" : "8FVXF3X5+45"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ5959IZDdQUcRlkz4FBUgHIM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 655
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Hollán Ernő u. 5, 1136 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5135261,
+               "lng" : 19.0497311
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51495422989272,
+                  "lng" : 19.05100157989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.51225457010727,
+                  "lng" : 19.04830192010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tökmag Vegan Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102124017647676354199\"\u003eNoémi Sima\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa0mT5Tk7x0VSitfEAHvn_kOvzIIO5xeU4BWYcFCfUR0bVlLIaukS0FW2iWw8A0spePnUe_3QbRcOkhcONAzwePTph285UacqWQnUYz1rlMW4RF6ojgnrVWYOWb_XLtOOQhf-bD1fJBiSTAW_tbntloW47ccBM3KShWGmlNKLinWT01",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJR9YrIg_cQUcRhjc0Al3YN1s",
+         "plus_code" : 
+         {
+            "compound_code" : "G27X+CV Budapest, Hungary",
+            "global_code" : "8FVXG27X+CV"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJR9YrIg_cQUcRhjc0Al3YN1s",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1738
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Bartók Béla út 9, 1114 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.48225559999999,
+               "lng" : 19.0523908
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.48358957989272,
+                  "lng" : 19.05383062989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.48088992010728,
+                  "lng" : 19.05113097010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Vegan Love",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3464,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105780159109270054626\"\u003eLászló Popovics\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa1anf9YyEyfjJqzTNlndZBKA9sH3IuXjKziVTsz0nJqIayxs3Cdr4Jiq4QvgfstdIWmcW7XpSjKiL7AFIoCU8YQLIw-pFkHaaK9uaal7Bh4MguCsiWHNgc0HrLipJh8xabttSc2guUAL_tniX_WtT9g17M-7Q5atvVzpOFRbKc4yvh",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJJb8Qv03cQUcR3D_NWerqjZ8",
+         "plus_code" : 
+         {
+            "compound_code" : "F3J2+WX Budapest, Hungary",
+            "global_code" : "8FVXF3J2+WX"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJJb8Qv03cQUcR3D_NWerqjZ8",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2407
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Dohány u. 28, 1074 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4958678,
+               "lng" : 19.0639326
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49719277989272,
+                  "lng" : 19.06529987989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49449312010728,
+                  "lng" : 19.06260022010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kpub (korean street food)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4284,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102036072618588392105\"\u003eEmily Ligocka\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaQOAdKPJ9R1WhZGb8tJoQ56ZuOdepwABoy1g_twKEZf4bzuP-vJKW57eZf5w4F2IpnQVpwz59WMViMFEP9bsi8nT9e8pRa8s1Ke88mf21Z2wblrgEQqlsG-P3Al_nvK7UlF_vqJVmGwuOhtRO9BcS6EsM4wZcFoR3U8loyC6JvxvrQ",
+               "width" : 5712
+            }
+         ],
+         "place_id" : "ChIJqfNmTt7dQUcRZ1VUunYaqVo",
+         "plus_code" : 
+         {
+            "compound_code" : "F3W7+8H Budapest, Hungary",
+            "global_code" : "8FVXF3W7+8H"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJqfNmTt7dQUcRZ1VUunYaqVo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 355
+      }
+   ],
+   "status" : "OK"
+}

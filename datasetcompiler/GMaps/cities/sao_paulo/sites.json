@@ -1,0 +1,1217 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYlwyGDui5mGwBKOOmndNsv5kFKFN6o3LDj_ttJKLWRocDB4T5Ij1Qxno5bykD5V6gY1XXaUnXj9FF_EKLMWHRSzx_LWn5pxXJLMcSSCfcq6aLrLCBliPpqceBtVXKMhHT6SFSWEtkNWs81Kr-fCHrIAI3nvOY-MuKtFZjvo1q5CNJwmhdVhkiXOVvn1S15yLd5lWnIdWOHntxoyBBcV-XlojVAqzLs1r8LzFvKvBGN9wy8XxjneJWYZdxN3VSUsmBGKxCOo0Be0BpeLRnaNfXNtuKjy1lJ4uVUlhxG5YoQo0-HsrhTcyaPJdJfdGER5yLO6gy5iyCT_yFqADVd275KfPl-sa4cYGdQD2GMLKd3f29CaxJ1X6uzDsQuTdStOnC7X62gSscqaEAl2ZHSIg",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Paulista, 1578 - Bela Vista, São Paulo - SP, 01310-200, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5614219,
+               "lng" : -46.6558831
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.56025612010728,
+                  "lng" : -46.65457772010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.56295577989272,
+                  "lng" : -46.65727737989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Art of São Paulo Assis Chateaubriand",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4330,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111907245192025794823\"\u003eFernando Do Carmo Costa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbBmR-1VL83BhF4PpGcmvWEU-SVMO8kSfOohWS15ZstsVatSLtjUVsLx61QvAvIj16YC77rVx4UyEN1EXdBz8pe3gxT0eOuYX99g5HsKuU41iDX5I2MLdceOQWpjwbmlebtDic2dUpQFZXFBClk1z6vhnMgDn63aeaJzXzwoI7pK-PZ",
+               "width" : 5773
+            }
+         ],
+         "place_id" : "ChIJH3frsc5ZzpQRoU10aab2BOk",
+         "plus_code" : 
+         {
+            "compound_code" : "C8QV+CJ Bela Vista, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MC8QV+CJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJH3frsc5ZzpQRoU10aab2BOk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 104356
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, 04094-050, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5874064,
+               "lng" : -46.6577302
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.5736562,
+                  "lng" : -46.64621550000001
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.6004014,
+                  "lng" : -46.67055989999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Parque Ibirapuera",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2992,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109384709932552221911\"\u003eFabio oliveira\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbq49Zjfx2WzToUzxpCewIRDzNvrL_25g2_GKesVUNWA5AiYA4QwhLYlVJbEQb5pIsf4BwfCw0IhWGE458kcsQZT-twIXdNdRgD_-KJM2kAI1LVDgVR2kGZeC_0KFHGmgaYFK1wqyiqElQyVaoUk7F1mUIEcuBePSFTKma-NowVK-5y",
+               "width" : 2992
+            }
+         ],
+         "place_id" : "ChIJ0RGdBvFZzpQRQeWcrwlhk8s",
+         "plus_code" : 
+         {
+            "compound_code" : "C87R+2W São Paulo, State of São Paulo, Brazil",
+            "global_code" : "588MC87R+2W"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ0RGdBvFZzpQRQeWcrwlhk8s",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 275502
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Praça da Luz, 2 - Luz, São Paulo - SP, 01120-010, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5346375,
+               "lng" : -46.63389429999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.53327992010728,
+                  "lng" : -46.63253107010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.53597957989272,
+                  "lng" : -46.63523072989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pinacoteca de São Paulo",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111783906747351745345\"\u003eLucas da Silva Barros\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY2HNbiHq715xeEneucGKnKvc-NwMtDBQo2dCngdafgIyjdL8Tz5JsckDDonVyLbY90Ayw15CHQAFxa1A6hrCIqIhYJKISDwZjEBI4Ki3_VOzgwSqgA6a9O3FI-8GJAD5DRCyXPNSMSGiTLWlPM_Eg0b87wm7tr3BJFCNSkro2DfUUc",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJ52h-6FhYzpQRASMhc4Xaw9w",
+         "plus_code" : 
+         {
+            "compound_code" : "F988+7G São Paulo, State of São Paulo, Brazil",
+            "global_code" : "588MF988+7G"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ52h-6FhYzpQRASMhc4Xaw9w",
+         "types" : 
+         [
+            "art_gallery",
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 37376
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Praça da Sé - Sé, São Paulo - SP, 01001-000, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5512802,
+               "lng" : -46.6343427
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.54966907010728,
+                  "lng" : -46.63302297010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.55236872989272,
+                  "lng" : -46.63572262989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Catedral da Sé de São Paulo",
+         "photos" : 
+         [
+            {
+               "height" : 1181,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116886481740139131128\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZexCtEWGU5575ZIWV4AaYhgm9jyipfS1GVBtlFpgtNhmgPCp54i-VgRWdviXrm72z17LZrVEX51USPqtUsi25HvXaj1l5VSicyfHNzzykQ_wz-zRSzvv6CAdB-5vxKm4PdIEHNPtvEUiHiS0VlTNWjVlAtVDtXZ_WhlBAFAJkSsTbP",
+               "width" : 1772
+            }
+         ],
+         "place_id" : "ChIJ8e6ysqtZzpQR9QNBpGcus_0",
+         "plus_code" : 
+         {
+            "compound_code" : "C9X8+F7 Sé, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MC9X8+F7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ8e6ysqtZzpQR9QNBpGcus_0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24454
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Miguel Estefano, 4241 - Água Funda, São Paulo - SP, 04301-905, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.6508725,
+               "lng" : -46.62044950000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.64952267010727,
+                  "lng" : -46.61909967010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.65222232989272,
+                  "lng" : -46.62179932989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Zoológico de São Paulo",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2322,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113264052059689882376\"\u003eMarco Terra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb2PBO2kzE19dcuNs_iLp3YumCfW9QQlWnHN3DslQ5QMUTO1sjvvW-atm3Kn39NyxmjRVcN2taO05RtEOy9qILHPo_BxWOFlICXu0wIwD0IxWy-2S1IpfGHrrPMxHdnmDxN0TSVlfT7vrFUFFQw-WK6L_KgWLkxFAZWaNNh9VjGHTaT",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJPYj0ATBbzpQRauOcRBu68bc",
+         "plus_code" : 
+         {
+            "compound_code" : "89XH+MR São Paulo, State of São Paulo, Brazil",
+            "global_code" : "588M89XH+MR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJPYj0ATBbzpQRauOcRBu68bc",
+         "types" : 
+         [
+            "zoo",
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 75437
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. da Cantareira, 306 - Centro Histórico de São Paulo, São Paulo - SP, 01024-900, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5420217,
+               "lng" : -46.6294111
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.54038965000001,
+                  "lng" : -46.6278132
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.54314704999999,
+                  "lng" : -46.63098159999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Mercado Municipal de São Paulo",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100428781992031415940\"\u003eEdimar Casagrande Raasch\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbSWUrtfSh7lOv0KkAUJTEuceQc-dUxUVT-bk-ay8-eGzv_NKZ56CVcgozwNXmjcySnbaDutejLchgzf2TvcGj_VXRiv8RbeHQmc74SvecPomHlrVgY_3A3LO1dS5XqUViBZW7MnXpcqVwKRQV2guo3YRam8bXDhZllSOq3Nj6pE71C",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJBQICYYxfzpQR9P4GxnTkmgA",
+         "plus_code" : 
+         {
+            "compound_code" : "F95C+56 Centro Histórico de São Paulo, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MF95C+56"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJBQICYYxfzpQR9P4GxnTkmgA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "grocery_or_supermarket",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 188083
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Praca Pedro Lessa, 110 - Centro Histórico de São Paulo, São Paulo - SP, 01032-030, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5420174,
+               "lng" : -46.6357797
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.54070327010728,
+                  "lng" : -46.63446252010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.54340292989272,
+                  "lng" : -46.63716217989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sampa Sky",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2834,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109196019359167815884\"\u003eviviani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY_MCgmFnQbYrSXqc0Sk4g3Efnd5H-o3W0qdV5DMMhpuk7ef-OYRc2aw9i9CsHkhrBa2pdCzqslRdhD3Vt28DcPVljivLe7PWlRajOwd4a1fWmbccJJ4efcvSCSzRnuagGPRa84r7JAQO0qRCq1jtJHPe8kh4HbAAH2NVJyct9iQicV",
+               "width" : 2267
+            }
+         ],
+         "place_id" : "ChIJM0OoaLpZzpQRCmBjOZvhSaU",
+         "plus_code" : 
+         {
+            "compound_code" : "F957+5M Centro Histórico de São Paulo, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MF957+5M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJM0OoaLpZzpQRCmBjOZvhSaU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5093
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Medeiros de Albuquerque, 82-154 - Jardim das Bandeiras, São Paulo - SP, 05436-060, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5566009,
+               "lng" : -46.6865773
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.55525102010728,
+                  "lng" : -46.68522652010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.55795067989272,
+                  "lng" : -46.68792617989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Beco do Batman",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109056930741066618147\"\u003eVanalai\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJagzm5A5Tux95oKSr6mgKtoU8fpE6OoDO61GT4HMqHB3xaiuVjOUuE5X_gepGRdeLzcCZ1cEz3Tkfy8BosjKyVE3kApm4mAR1f8rVRQ1WDgv3e2e-MRQjU0SKiy7icejS34ZfeIEGSCpS3Bp3Pjm5hXJhs_qR8qATaEglCzCllx-EH0",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJuaW2WFhXzpQRIv9DYGOpscU",
+         "plus_code" : 
+         {
+            "compound_code" : "C8V7+99 Jardim das Bandeiras, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MC8V7+99"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJuaW2WFhXzpQRIv9DYGOpscU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 26819
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Praça do Monumento, s/nº - Ipiranga, São Paulo - SP, 04261-050, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5793505,
+               "lng" : -46.6102926
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.57808712010728,
+                  "lng" : -46.60909387010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.58078677989272,
+                  "lng" : -46.61179352989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+         "name" : "Monument to the Independence of Brazil",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107106283935072380501\"\u003eCarmen Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa--PT3gnDuEKAyf-JMCszf_Or53hLCQqvHDtcXGm2PaLbXGb3uM2MsZWypvEdQL7crqAvb3oOI7ypWOCvraQ2UZBnbQYQgIyW9pVqnCahmu2ysyVArBKq1m_UL7uyBDRXF2W6VROAbed9B2yc11FT1V7WrmAV0U6mAToyaQ9CVQ71S",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVaV5NOBbzpQR-_pP7ZadNrE",
+         "plus_code" : 
+         {
+            "compound_code" : "C9CQ+6V São Paulo, State of São Paulo, Brazil",
+            "global_code" : "588MC9CQ+6V"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJVaV5NOBbzpQR-_pP7ZadNrE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7936
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Huet Bacelar, 407 - Vila São José, São Paulo - SP, 04275-000, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5934111,
+               "lng" : -46.6141169
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.59207152010727,
+                  "lng" : -46.61275327010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.59477117989272,
+                  "lng" : -46.61545292989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Aquário de São Paulo",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 399,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101007399904358736143\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYR4NVdq-9xPYmiTljQhoqewElzoNOcTikhDSp_zPE-WPlQrAatxZzidAnppd4_nG1iueXgih2_As9UGfVw9C97R_M0UvpJeCOAB02z08vCIc-GrwMRAYL_VbM8kXqhvd3uFNcI6coaqNpIp99677yFKTPYjO-wA-QeyLAsMetU9_WS",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJqy5LJsJbzpQRUNcwe0n37dw",
+         "plus_code" : 
+         {
+            "compound_code" : "C94P+M9 Vila São José, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MC94P+M9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJqy5LJsJbzpQRUNcwe0n37dw",
+         "types" : 
+         [
+            "aquarium",
+            "tourist_attraction",
+            "zoo",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 44596
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Roberto Simonsen, 136 - Centro Histórico de São Paulo, São Paulo - SP, 01017-020, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5485763,
+               "lng" : -46.63221180000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.54726237010728,
+                  "lng" : -46.63090302010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.54996202989272,
+                  "lng" : -46.63360267989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Solar da Marquesa de Santos",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1932,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117902042927253178986\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZHcAHPt8QV_pSet0JbNpqoqD2RzzdjI2Y-LcM-Z-Ls-DK6DndLaj35-CpwzZH-Icb5nufDo7v2iCeUhEhAdYcmnaCzQavoUOj-PgrmsTCkJPvU2wXlMV_dzhnJppTyOIaC8VCLIYiSEheMP2CE1VrvMvlpx96QajT7jowV3x74BVi9",
+               "width" : 2576
+            }
+         ],
+         "place_id" : "ChIJkzeGf6pZzpQR35Zx5_hr7To",
+         "plus_code" : 
+         {
+            "compound_code" : "F929+H4 Centro Histórico de São Paulo, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MF929+H4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJkzeGf6pZzpQR35Zx5_hr7To",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2255
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Mário de Andrade, 664 - Barra Funda, São Paulo - SP, 01156-001, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5274091,
+               "lng" : -46.6656539
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.52418885,
+                  "lng" : -46.65992605000001
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.52928465,
+                  "lng" : -46.66991984999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Memorial da América Latina",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1548,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101209410772206357507\"\u003eRafael\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbV0QIykgHvRQ6hulGey6NLlvLC5-GskIajo5IfsmLztCvRzfAt0zrOT11Mvy3uFgJfu5UaQESE8wFYqL30QnSejIKYmsJV49kIKUFheieD2y1cGV8zYKoJKOftArlyyS-35YmplVaW7ZLeZfbommN15OpYjXLuJEYb1RdjgiPiQ9Xo",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJt6CdcP9XzpQRSKfbCB1Vg58",
+         "plus_code" : 
+         {
+            "compound_code" : "F8FM+2P São Paulo, State of São Paulo, Brazil",
+            "global_code" : "588MF8FM+2P"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJt6CdcP9XzpQRSKfbCB1Vg58",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 55983
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viaduto do Chá - Centro Histórico de São Paulo, São Paulo - SP, 01002-020, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5467184,
+               "lng" : -46.6377189
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.54538557010727,
+                  "lng" : -46.63638417010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.54808522989272,
+                  "lng" : -46.63908382989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Viaduto do Chá",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113972469463132857945\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZSzhdH02ef0Nh2oDLxHOdwXiYI3JeotRpwn83cISbbg6cXqmfXzyAQFW7u3cfXCxdCy6RZxTaAVCo2MfGCUUUDSgh6jAl-g7kbZOPeGle3Z8yZ6EOVXz9Q_-MXuQNwpOTKFeG6EyzxC4OM_h_7XpLVLVR7dK2uuAE1KmmGVYGAeg6v",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJHaHRotZZzpQRjec_gTd0wys",
+         "plus_code" : 
+         {
+            "compound_code" : "F936+8W Centro Histórico de São Paulo, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MF936+8W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJHaHRotZZzpQRjec_gTd0wys",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 80
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Praça do Monumento, s/n - Vila Monumento, São Paulo - SP, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.581096,
+               "lng" : -46.6096516
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.57975557010727,
+                  "lng" : -46.60874012010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.58245522989272,
+                  "lng" : -46.61143977989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Casa do Grito",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1908,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102438434298993951343\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbmakya2y7wRH741L_92AVCU-RqlSiU06-BxokKsXN9HsCD8CxTi9zJNZn4t-XmliQxHngcB44lJC83SAaL9EhpnbatBRUiHeyjMoSaApgVNQdmjdvIrKG73GCEYT1XBsB0TX30pwax59qYCcbHssKhzZxgJBch4nO73IA6Vr17P-XR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7S_FGeFbzpQRCNPvxbte2I0",
+         "plus_code" : 
+         {
+            "compound_code" : "C99R+H4 Vila Monumento, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MC99R+H4"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ7S_FGeFbzpQRCNPvxbte2I0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 378
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Praça da Liberdade - Liberdade, São Paulo - SP, 01506-030, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5554978,
+               "lng" : -46.6352565
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.55414972010728,
+                  "lng" : -46.63393637010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.55684937989272,
+                  "lng" : -46.63663602989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Liberdade District",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115732791211799735240\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYDFvAIbIDREcZlt8RIwmRnOFC9tckx6HECP1MwqUSaTYmNFCd6q4Snts54jonRDdChFWTgFmcpp_-OX0b3g37aSNP1EsbNoGHp0-JZYlNlbQqzSqVVF5jkh1VsW6xnsPM1XV89P3fMG5wEZ84kMUZRxUpWZiwVDFW_P9zTYCoFHswg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJlRwdiPBZzpQR2ReWMSFYXQQ",
+         "plus_code" : 
+         {
+            "compound_code" : "C9V7+RV Liberdade, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MC9V7+RV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJlRwdiPBZzpQR2ReWMSFYXQQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4038
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Praça Ramos de Azevedo, s/n - República, São Paulo - SP, 01037-010, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5452348,
+               "lng" : -46.63861499999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.54412917010728,
+                  "lng" : -46.63747212010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.54682882989272,
+                  "lng" : -46.64017177989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Municipal Theatre of São Paulo",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117895943324464404085\"\u003ealy apolinario\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa4ABDJxEGPyI-geN3F4cLyvglul1iuMt97LRA4xE47u-bs0nJw3jwHSR1C3scVrggQ1rT2xQxWBaiCvzkNqLAaenwjd1gNJUMeXodVIkp0JuwevmQrevHHtuyXpf8gp0Qb7LpgX9HcRXyyl9Q4W-9uDR8JCKlNpw1mN2IcKpIjyxuG",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJi6GKOxFWzpQRHk7k7_d5Wyc",
+         "plus_code" : 
+         {
+            "compound_code" : "F936+WH República, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MF936+WH"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJi6GKOxFWzpQRHk7k7_d5Wyc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 30775
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Paulista, 119 - 17 andar - Bela Vista, São Paulo - SP, 01311-000, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.570617,
+               "lng" : -46.6454968
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.56930087010728,
+                  "lng" : -46.64437057010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.57200052989272,
+                  "lng" : -46.64707022989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mirante - Sesc Avenida Paulista",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3464,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117654886346759145344\"\u003eVladimir Rubinstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYa5tFTIRV0pMBQntmRjptFHOAFgz2Cy1MWmDSPMm__Mc8ngSV1N3mBs_8sPuDhy-ouTl9F_xEgXZ6_8GZBv0shju7wRBtc96ikZA3A1tDlS4KzGaODGp0gqwr50c9z0K-a8Xo8lfrc8BxnN4P5A0oS8n21gbG7edO25EHE1YNCIj_A",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJn9VUta1ZzpQRgKZ6xySXhKI",
+         "plus_code" : 
+         {
+            "compound_code" : "C9H3+QR Bela Vista, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MC9H3+QR"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJn9VUta1ZzpQRgKZ6xySXhKI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1646
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rua João Brícola, 24 - Centro, São Paulo - SP, 01014-900, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5457187,
+               "lng" : -46.634125
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.54401037010728,
+                  "lng" : -46.63251422010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.54671002989272,
+                  "lng" : -46.63521387989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Altino Arantes Building",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 2048,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102381405609561391184\"\u003eCaique Felipe\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbtH2D40G2b2FcFpeoUTpBV_E0X9hRzVXUYURT-xyTgKPpVuakrjqXZ0gBMSNFix15inj0XKWGHjIYgKwA7a4iiwjGsa2Rwy9YyMWXRqzyp-E3kfXiS2lKm4hKUrfa0KJqEZHpeJd70SIZxiHRDtpVjmSoa9X466aQbJ-glxcYJAQim",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJyRDBBlVYzpQR7pqQkvo7KkY",
+         "plus_code" : 
+         {
+            "compound_code" : "F938+P9 São Paulo, State of São Paulo, Brazil",
+            "global_code" : "588MF938+P9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJyRDBBlVYzpQR7pqQkvo7KkY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11391
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Francisco Matarazzo, 455 - Água Branca, São Paulo - SP, 05001-900, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.5306847,
+               "lng" : -46.6700473
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.5282528,
+                  "lng" : -46.6659291
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.53236999999999,
+                  "lng" : -46.6727359
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Parque da Água Branca",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3899,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105392689471754301324\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbb4MAdk1qHqKIGokTSD6RQXpK11ODrPO2Q1JRqgcJzn1L2qL3em35fSO9Fcdw-HVUQ0s21-a8m7Q1pQKB55j8e_uaSiz1YT-z5zDp8xKi7UWsb2bNByoOD4Ia1sjPLNOuoUHWUrTJkvBk08lWQqChNL-T7KTHo5cEqpWjQLHPx_fD2",
+               "width" : 5906
+            }
+         ],
+         "place_id" : "ChIJzQ_kIgNYzpQRFLRuCm6bgkI",
+         "plus_code" : 
+         {
+            "compound_code" : "F89H+PX Água Branca, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588MF89H+PX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJzQ_kIgNYzpQRFLRuCm6bgkI",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 43754
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Miguel Estefano, 3031 - Vila Água Funda, São Paulo - SP, 04301-905, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.6393149,
+               "lng" : -46.6273106
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.63796017010728,
+                  "lng" : -46.62602892010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.64065982989272,
+                  "lng" : -46.62872857989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Jardim Botânico de São Paulo",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112501548668803716473\"\u003eLuís Roberto Silva\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJauiFWpOyVxy_YOaZLABj59gfcV3FAMmBmoV4RY8xnGxbjDNfLsgAWIsX9fHOGpQx_d2u-4Ll-TMgPEZ0lYjfQTIHdrU4eh4ggYMZJ0YrE1L4BOtf8Ow1dx1_aZZntVazZseWRmmSfjKtGWFglJ2PQhWvxnJjtdSfOoYDh-37B5BRiJ",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJN5-5AyJbzpQRvFLy1MhRJOA",
+         "plus_code" : 
+         {
+            "compound_code" : "996F+73 Vila Água Funda, São Paulo - State of São Paulo, Brazil",
+            "global_code" : "588M996F+73"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJN5-5AyJbzpQRvFLy1MhRJOA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19399
+      }
+   ],
+   "status" : "OK"
+}

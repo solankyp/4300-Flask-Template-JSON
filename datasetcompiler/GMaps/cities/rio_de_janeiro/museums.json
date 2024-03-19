@@ -1,0 +1,1221 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJa8txNebllC7CleJaEp-3CD2p13Ik06JW3NeSUHXVLpz0O2OM3Sy3Rz5bPRZUfs8veGMC2yS3-OboB892uIT83Xqj3WvYBVhrqNfdieMKKzabfwNQPGCg59hSiGqWn4txjdwdbDNI8FDOAZXZjGBD77F5KQQ7ZueHdqQeAwsDqyIfATZMxm5ew-HFPzAIgMbAc18zISg1xHbDm4ub23yHBkw824t4ydFMj16dVOuYnb7LEII7ZqLOfqgi3injGcZah6IIJRLd8kfkSkqnJTvWknv7607lRTSwobEh2stTWfjYOumJncz3bl39oxYGiZ7j6GUVqk5fyKYPLUJPCg-eoF6u60pcCGipdvz587-UyOAbPUuN7svrXBXa2eobpToWG0_reGMj1XKwuCw61CLOGHKHq79Ns",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Praça Mauá, 5 - Saúde, Rio de Janeiro - RJ, 20081-240, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.8966558,
+               "lng" : -43.1819565
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.89533867010727,
+                  "lng" : -43.18050087010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.89803832989272,
+                  "lng" : -43.18320052989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Rio Museum of Art",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100457209498724167930\"\u003eMuseu de Arte do Rio (MAR)\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJatBA00T4-nJ6OG000zRPzOAnSKXYyGFfaPplUw6xkblOlH8wQVWte2l_tM_JfVa1XLxk8MpTeSzsV0TcU02QC1hT44Q2DCWrlcV-39BbKxkxM-Zzff98FpkJXmd72sVkRCf_4eUhGWPIv5T7KSAw93uONN4hXnTbT9BjjUfMEJDMlz",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJ58MVZlp_mQARIHvZTsIR8wM",
+         "plus_code" : 
+         {
+            "compound_code" : "4R39+86 Saúde, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R4R39+86"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ58MVZlp_mQARIHvZTsIR8wM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19240
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Praça Mauá, 1 - Centro, Rio de Janeiro - RJ, 20081-240, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.8945798,
+               "lng" : -43.1796012
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.89322997010727,
+                  "lng" : -43.17825137010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.89592962989272,
+                  "lng" : -43.18095102989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu do Amanhã",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100971909970549246443\"\u003eCarlos Edson Martins\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb-j_Or-ml3sxoY5WisZW7NX7kTvUriOdb54n3SOT6ZEzBhFWgH_kjtpEU4KJSG_QT-AuA_-355Kw8eBQajIOBR2F7ZsBLY9gU4rqBDnB1z0t-ntg8CiuVGQMjCuoQLuun3pcvRQi0Ooxuoy3BuEHqZTdu1GG6KtDSsa81PEptZ7QnD",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJMSqhMld_mQAR4QxmcfkBaTE",
+         "plus_code" : 
+         {
+            "compound_code" : "4R4C+55 Centro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R4R4C+55"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJMSqhMld_mQAR4QxmcfkBaTE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 96111
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Infante Dom Henrique, 85 - Parque do Flamengo, Rio de Janeiro - RJ, 20021-140, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9137527,
+               "lng" : -43.1717993
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.91227727010727,
+                  "lng" : -43.17070592010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.91497692989272,
+                  "lng" : -43.17340557989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu de Arte Moderna do Rio de Janeiro",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2256,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118227552221849572361\"\u003ejhonnathan eduardo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbflfUxmSyps1r05pphPfC1RWt_MQLZzuAWd-59CoKNeGXePQlXBBq8ae2KVz4Yyr0N6Kqx1cWy8npcOcuanOwXxmdF4ouor3NqdQmL4NghSrQzwgoHOvI3SelkbhB4oYqcaiZ3TbcjYfuZQh39hhha5cVM2qZRtkO03mW1hZbYBxYH",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJUSgMNtmBmQARXIhu6uypMK4",
+         "plus_code" : 
+         {
+            "compound_code" : "3RPH+F7 Rio de Janeiro, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RPH+F7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJUSgMNtmBmQARXIhu6uypMK4",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18298
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Murtinho Nobre, 93 - Santa Teresa, Rio de Janeiro - RJ, 20241-050, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9173611,
+               "lng" : -43.1842278
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.91599497010728,
+                  "lng" : -43.18281867010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.91869462989272,
+                  "lng" : -43.18551832989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu da Chácara do Céu",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3888,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100182391828776647958\"\u003eAndré Nunes\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbK7XSfPwQ7BYMBtx4xkxfPWfWRsOh63l6K8ahbjvqTJte_v9kapblwsXtpXh1Iy24Xv58ul59QnC2v2wJ_aOP975h5BNMlPg0jGW_TGaAeGiRI1jIQz9rbYBFtlB3_v7nZp8gTg4LtM_cgbpaeBHFbGOE4EmTGPVomxjuxrpDziuUg",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJmeLMRnp_mQARg0nsOu6kFOE",
+         "plus_code" : 
+         {
+            "compound_code" : "3RM8+38 Santa Teresa, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RM8+38"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJmeLMRnp_mQARg0nsOu6kFOE",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 412
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. do Catete, 153 - Catete, Rio de Janeiro - RJ, 22220-000, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9259013,
+               "lng" : -43.1763666
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.92463062010728,
+                  "lng" : -43.17512692010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.92733027989272,
+                  "lng" : -43.17782657989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu da República (Palácio do Catete)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100254701721032861638\"\u003eThiago Bertotti\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYitBAIk2F_Edw3Ro7X-V91DWiagPOL0-tVza1ASAOUtW_9TR3i_Y64PyyFTvKUFa8xB0TOFa2hZmbESPiXakNi5cG2aHoKwIqFkrcB0zIPA-dwcW6RRx29pSE-CEPfdrM1ps0njkMI--mTWqppQ-ONq3sQJ0Dh6M1uiZuRYHuQcPeC",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJUTDHPoB_mQARATxqvy10AFQ",
+         "plus_code" : 
+         {
+            "compound_code" : "3RFF+JF Rio de Janeiro, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RFF+JF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJUTDHPoB_mQARATxqvy10AFQ",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17128
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Rio Branco, 199 - Centro, Rio de Janeiro - RJ, 20040-008, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.908714,
+               "lng" : -43.17542359999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.90739092010728,
+                  "lng" : -43.17415542010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.91009057989272,
+                  "lng" : -43.17685507989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu Nacional de Belas Artes",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107689466304749204007\"\u003eAdolpho Alves\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZmVYvFXN0cVAXyvNzDLkLhsyfHuxGoFe1RCvyQCaYwMNiyvXZil_2aq92Gd-gZnlV12GzTTHVplRnjErP90vR6huuMMz9G8VVxJwj2Mr1gf43yX6rJFY2NmcyHUSk7YBrjHSPYDwsRqSqD4Q3sb5wb5nYBw01CRF8EpFfFdiyizyrn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJqeJXMWB_mQARjAMkA0Ma-p4",
+         "plus_code" : 
+         {
+            "compound_code" : "3RRF+FP Rio de Janeiro, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RRF+FP"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJqeJXMWB_mQARjAMkA0Ma-p4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4339
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Primeiro de Março, 66 - Centro, Rio de Janeiro - RJ, 20010-000, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9010588,
+               "lng" : -43.1765213
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.89970547010728,
+                  "lng" : -43.17489287010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.90240512989272,
+                  "lng" : -43.17759252989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Centro Cultural Banco do Brasil (CCBB)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2048,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104399200985880205057\"\u003eJessica Gomes\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaIaonlNb5ilUjWPJSxNOC4ItdeRLXZynbhbx5B6VNb6BQ9_B2FiGlavEH04V5Amkuk0FVlK22YH8jenD0vPjRejZDs9vKnyTGuleOw9Ogsr8G4yUvTH-QymOT0_gwSuwqTu2J-JAn03tKLcZZaXK2URThO3kF6uplTR0fDbFe04GdB",
+               "width" : 1639
+            }
+         ],
+         "place_id" : "ChIJT0hbxVh_mQARr0EoWZhw0rA",
+         "plus_code" : 
+         {
+            "compound_code" : "3RXF+H9 Centro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RXF+H9"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJT0hbxVh_mQARr0EoWZhw0rA",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 41938
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Estr. do Açude, 764 - Alto da Boa Vista, Rio de Janeiro - RJ, 20531-330, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9648139,
+               "lng" : -43.2820705
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.96347707010728,
+                  "lng" : -43.28074952010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.96617672989273,
+                  "lng" : -43.28344917989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu do Açude",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115391953283410762519\"\u003eIsis Macedo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYgjdQt8R7lWfdye23gOlkwkiCM1MyLYt7btjlEk-4c_FcEK33RmBL8qENKdUWyR_iAwJeFVHkpZ4jn1UIXM0FlmySjKrY8XQrwg7fteCiJlemvuKmAwCWJpOcFDZEmQru381R8jJv2nIckkaNeNuT9UED7TbJxudIkHqYO7UBDpd9E",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJnXa2jFfWmwARUrjnM0Rj4io",
+         "plus_code" : 
+         {
+            "compound_code" : "2PP9+35 Alto da Boa Vista, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2PP9+35"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJnXa2jFfWmwARUrjnM0Rj4io",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 700
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Alfred Agache, S/N - Centro, Rio de Janeiro - RJ, 20021-000, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9004672,
+               "lng" : -43.17494019999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.89911737010727,
+                  "lng" : -43.17359037010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.90181702989272,
+                  "lng" : -43.17629002989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Espaço Cultural da Marinha",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2988,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114905806918895236489\"\u003eMarco Aurelio Saraiva Cruz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZOhBMMdNhopy-ootdqMW6BY85uuh4AwCItZ5aL1nqMFgaj0LyGsppE7qbAwJHfQobfRxLPjIdvWX_Rfl3EUsXtUDwsy9zh7K2PmeTsc9GHST16Rq6gFbntmZGwSgWr3gbTyLVdULr0gjqtFl9NMkbL9F2zYfPqs_-YWXnrfmmvWV8",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ3Vt-cOKBmQARV_PYv8SfH2A",
+         "plus_code" : 
+         {
+            "compound_code" : "3RXG+R2 Centro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RXG+R2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ3Vt-cOKBmQARV_PYv8SfH2A",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7588
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Pres. Antônio Carlos - Centro, Rio de Janeiro - RJ, 20020-010, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9040674,
+               "lng" : -43.1740668
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.90282822010727,
+                  "lng" : -43.17291507010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.90552787989272,
+                  "lng" : -43.17561472989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Palácio Tiradentes",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113545777879410315892\"\u003eLeticia Menezes\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJatrlNgaELlqheG3v2-1uPJLLGSID3zsz3kpRW2ngJST08iUPX0Mr-R9PzoSa_lVnH90_66lv09alUvTbBB3vkedMX4eujMZ1ug7O6ogDyZzBvLG1zTBJ5ddxXcnPONOOuZ7p4BnKEBrJqVHy_fyeTqzVyEu91BNzKGACCYKiaqY8n7",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJV6sZ_POBmQARjVEyTxbMI3w",
+         "plus_code" : 
+         {
+            "compound_code" : "3RWG+99 Centro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RWG+99"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJV6sZ_POBmQARjVEyTxbMI3w",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 281
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Marechal Fontenele, 2000 - Campo dos Afonsos, Rio de Janeiro - RJ, 21740-000, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.8849992,
+               "lng" : -43.3896897
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.88368867010728,
+                  "lng" : -43.38833687010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.88638832989272,
+                  "lng" : -43.39103652989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu Aeroespacial",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117546450732393639712\"\u003eFRANCISCO PAULO Sousa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ_4_mluw_x_KERNyhSHGSYCVzvI-RBfTY2Z2tebejBG_Ajd5T3PoQOdmjasuOn3ltypKTkeThNreMEon_RN9RmZDKNdQ5gEl1TGYAeQthLZDe6CvjeS3jiP5fRYiLRnhr1o9XFJ5on7_O8d3OV2HkKuRfys1ea5OlG0lYdvq7ihhuA",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJc7UfAA1imQARirvb8KD_aCY",
+         "plus_code" : 
+         {
+            "compound_code" : "4J86+24 Afonsos AFB, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R4J86+24"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJc7UfAA1imQARirvb8KD_aCY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6475
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Luís Carlos Prestes, 130 - Barra da Tijuca, Rio de Janeiro - RJ, 22775-055, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9956896,
+               "lng" : -43.3642343
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.99427497010728,
+                  "lng" : -43.36288727010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.99697462989272,
+                  "lng" : -43.36558692989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu Seleção Brasileira - CBF",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 760,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102677508512581037601\"\u003enandocraft games\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaqdjeEGKPtaqK9RP3pSfMxrpnEWBiuCGk4NUvuCecd4W9gAj2ksOUyIrHnvIbVRf4ZX1fhyLXk0HDlxwaCW3cnq-5FRp5SaN358mApkT4_RBXlMqmowo_u0zT9BkRnlKdDnI_eiDM0Cc965MTuu2o_7rHSPQLi7yWx8RZw0NtiFDZn",
+               "width" : 1140
+            }
+         ],
+         "place_id" : "ChIJ341shzXamwARW39yIyqELws",
+         "plus_code" : 
+         {
+            "compound_code" : "2J3P+P8 Barra da Tijuca, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2J3P+P8"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ341shzXamwARW39yIyqELws",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 896
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Cosme Velho, 1105 - Cosme Velho, Rio de Janeiro - RJ, 22241-091, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.940062,
+               "lng" : -43.2042807
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.93861367010728,
+                  "lng" : -43.20283767010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.94131332989273,
+                  "lng" : -43.20553732989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Casa Roberto Marinho",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106584546672758769429\"\u003eLeonardo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJalq--DZBLdbe_loob4EKlVyl1oN6k2YrUDozliPD3V7TcrOE9arRQgFhBsDTai2Gv-KBJkThzFEfOqvAc2KWt5Byt1O2BNbmx8XqemOP1jiuPHZRB00erchafJt1fLrGUGOgoBrp2YAE_44x8O9wpA_a-eebo1FUn2zJHbBrDOrm24",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJSeog8sZ_mQARQqakG-A8N1w",
+         "plus_code" : 
+         {
+            "compound_code" : "3Q5W+W7 Rio de Janeiro, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3Q5W+W7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJSeog8sZ_mQARQqakG-A8N1w",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2806
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. São Clemente, 134 - Botafogo, Rio de Janeiro - RJ, 22260-002, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9488011,
+               "lng" : -43.1870261
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.94778412010728,
+                  "lng" : -43.18553517010726
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.95048377989272,
+                  "lng" : -43.18823482989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Fundação Casa de Rui Barbosa",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107199384744386622628\"\u003eFabi Garcia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZgniLwZVkQicHY1-tuSL91wXaELlFERaTZnC8Lhtf2lCsRbwyOMltiifV0AW2kVqR34Kc7QVrL2AuziHt_eQ5YQqBS0JdOIw4_2ey5PCawvmAjCI9FbzfXyHAhyiAm1FdZ1WIrUsO_CrkpLFEYa33X8-DVOjb4hdIr_1DQJvetO0NF",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ8wnYC-9_mQARcI4__yOG8TM",
+         "plus_code" : 
+         {
+            "compound_code" : "3R27+F5 Botafogo, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3R27+F5"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ8wnYC-9_mQARcI4__yOG8TM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2681
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Gen. Bruce, 586 - São Cristóvão, Rio de Janeiro - RJ, 20921-030, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.8959169,
+               "lng" : -43.2227535
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.89457867010728,
+                  "lng" : -43.22139352010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.89727832989273,
+                  "lng" : -43.22409317989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Astronomy and Related Sciences",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105102356328257620241\"\u003eMaria Thereza Assis\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYVyBgmrZxwa0pUGEfcha1prrxx49e2vdv7Mm40CX0KQmtDiLj2LDCxcudHuI7ZpKbVTOlYMrbhxtYuSXTX1dyoH7636GIYDuMkHAoCbpcZccM0EAxxwzL_7O8aS742m0jIBLTNoyZPpVS6k1_tjKR-OsIvHCfD28puPC9xGtD3TlDQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJzyDl_eV-mQAReMW7fLq8c1o",
+         "plus_code" : 
+         {
+            "compound_code" : "4Q3G+JV São Cristóvão, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R4Q3G+JV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJzyDl_eV-mQAReMW7fLq8c1o",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2329
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Dois de Dezembro, 63 - Flamengo, Rio de Janeiro - RJ, 22220-040, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9300346,
+               "lng" : -43.1764946
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.92862432010728,
+                  "lng" : -43.17513607010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.93132397989272,
+                  "lng" : -43.17783572989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Oi Futuro Flamengo",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115236082910949881929\"\u003eeduardo Teffé\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZRa-6im6ShJTjqZpNhAbEfqyqTouaWst_OGsWNg5_62aJMCwn1Txfp8ggaLv_bTi55UebqnASE-BE99Jlr-NAQhyZtIxnuvmRaAWmjlOn72BqQ0EycL3Ee23qWXiX4kGoAKiqj66sKKBYe-GIHTu9z28Y9xreDLAOyJrLXffaHVt8Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFT9l0IB_mQAR-f_kJ13m_zo",
+         "plus_code" : 
+         {
+            "compound_code" : "3R9F+XC Flamengo, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3R9F+XC"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJFT9l0IB_mQAR-f_kJ13m_zo",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3297
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Alberto de Campos, 12 - Ipanema, Rio de Janeiro - RJ, 22071-060, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9809826,
+               "lng" : -43.1994404
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.97963407010728,
+                  "lng" : -43.19792327010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.98233372989272,
+                  "lng" : -43.20062292989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Favela Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108339552130420612106\"\u003eHector Avendaño\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY1iMlpqvm1dYTRstPo9s5TuKbPNrQsG7PmdyAb0XqDsJAnLVMzxvWvW-jp7CDulg_P0QancAXXQItr9WvHVAPNvymj3kzjqU6ZBSd-pYDBFKCEHtnGfhxJ0uPP1NueSkqGUVV6-IU9N-Sd4zGo2MCaK30pNJ8TuxM6FoCNMGbV0TEC",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJjbYflRbVmwARqdumlEFpatM",
+         "plus_code" : 
+         {
+            "compound_code" : "2R92+J6 Ipanema, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2R92+J6"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJjbYflRbVmwARqdumlEFpatM",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 89
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Brasil, 4365 - Manguinhos, Rio de Janeiro - RJ, 21040-360, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.8766272,
+               "lng" : -43.244255
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.87485117010727,
+                  "lng" : -43.24230479999999
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.87755082989272,
+                  "lng" : -43.2450108
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum Of Life",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2561,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104096386255404905510\"\u003eRenata Alexandre\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb5bUJaRjb2cdyPSf5HDwXLUEB3GqsAhw54At-dr5rfiIvSXcXTxlCbUSuHDRgFRcRqAA8qWsPEZ46nwaet-xNSxzNOJVSrP3jyTl8l5k_mJlX9CBIPv63rcA6LzJ_Vf9Ump0pjICAuSLecSkC42wxtm3Fl2rcrGoba8xT_ZvyRwbhN",
+               "width" : 2655
+            }
+         ],
+         "place_id" : "ChIJKTscSaV-mQARELVVUvouOCA",
+         "plus_code" : 
+         {
+            "compound_code" : "4QF4+87 Manguinhos, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R4QF4+87"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJKTscSaV-mQARELVVUvouOCA",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1571
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mirante da Boa Viagem, s/nº - Boa Viagem, Niterói - RJ, 24210-390, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9078358,
+               "lng" : -43.125867
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.90624242010728,
+                  "lng" : -43.12469117010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.90894207989272,
+                  "lng" : -43.12739082989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Niterói Contemporary Art Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2322,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111532897075007394552\"\u003eAnderson Costa .·.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZeAw-DEn0Dwt_P3oPOTdvTqeJ3EfvwbR4QEjBOHkCHkL1NXkmCd0CY17xZwtv-II8OKFRgWxQQS73CSEmzA9LuNBMuoLGMfQmdBA6LiXk3GsGmXhfMk1NrAYhTZYa9Qc31b1ToD1Jt-hLyzGdGC5staH6U7FJAfH9v7401o3Mty2P7",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJP0gsN2OBmQARJWlzongt8vE",
+         "plus_code" : 
+         {
+            "compound_code" : "3VRF+VM Niterói, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3VRF+VM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJP0gsN2OBmQARJWlzongt8vE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19134
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. da Imperatriz, 220 - Centro, Petrópolis - RJ, 25610-320, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.508097,
+               "lng" : -43.1756492
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.50650637010728,
+                  "lng" : -43.17405245
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.50920602989272,
+                  "lng" : -43.17753905
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Imperial Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2440,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117710147571262715212\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYwC04ooTj5F7UZ2cnbu66tNysYgxHaZgkb4h2Qo8XXBb6p5Xl11EcNCHrY95zlDW9LL46gUFL48pc3vYnJblzQiWSyVnJhxonbhhPcjPhzdDThIslTqUVP23n68UPFtUQ_2zaD4026rLI1xyFfA7MpVlA8UwaKSSoOCWtHGmfCsQbt",
+               "width" : 3848
+            }
+         ],
+         "place_id" : "ChIJJ1sdTgAImQARyWXBt3S7djI",
+         "plus_code" : 
+         {
+            "compound_code" : "FRRF+QP Centro, Petrópolis - State of Rio de Janeiro, Brazil",
+            "global_code" : "589RFRRF+QP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJJ1sdTgAImQARyWXBt3S7djI",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 34316
+      }
+   ],
+   "status" : "OK"
+}

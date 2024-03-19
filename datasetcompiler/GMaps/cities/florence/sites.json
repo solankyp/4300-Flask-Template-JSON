@@ -1,0 +1,1205 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZBGeIClitMqc40QzpSuzMal03Pxvi2mMFK5N0DFG_1zEpwv5LQxrA2Jqv5mjlFa_PQ5WX5zzqkjBz_eavydID0mhjCGYNV5cabAdwYEl9Ss2Vee1PI4lGw2HGURHOhVbIZH7w8Eu4TgShPwwY-jUQXT6PiApU7EcLNy9LSxuUSKfOPsrtEoOHDivd887Z_OyYnY3mk7-Rn2Rk52PZT0qtNHLpMJus4Ydix6PwszIkZkk8ephrIsH9OlI81xEoEj_84FaivYlp2No1V2GJax5AifmAGD7bmu4E5bYuSbI51BPlk8MPAISB59qAAPAcbmL4bZt-Ic_o98TlPV-zoTY7Q9SzAu8qdpMwgJcL6A3ymqLSSf1FxGvW-FyTgybExKWCPJoUW_AkfXMcqqujK",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7624972,
+               "lng" : 11.2483996
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.76846385,
+                  "lng" : 11.25871725
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.75798844999999,
+                  "lng" : 11.23720385
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "The Boboli Gardens",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2976,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111634224910531393481\"\u003eGabriella Trombini\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJblcpEDwFEhfS5o0QKFQDmwMnuCIA2dxiNasSK9dMRGAPEaonHwKvY8HzK2WGUgK1_lm3Qct0J8Rw40cV4y4Yz-JuCgA01CM-F6GyORrybLvRx9nJMHP_x5s4Df68Bn7jhfQ8N07C8C2Fi8qtJD3-55eWOAxNCMaR40LscxLIxgosYX",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJl05zkFZRKhMRstkDO_cCDAQ",
+         "plus_code" : 
+         {
+            "compound_code" : "Q66X+X9 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ66X+X9"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJl05zkFZRKhMRstkDO_cCDAQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25677
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza del Duomo, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7730912,
+               "lng" : 11.2554649
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77462812989272,
+                  "lng" : 11.25619205
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77192847010728,
+                  "lng" : 11.25328345
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Piazza del Duomo",
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101699102897925294483\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ8ZJgX89DNQgJeWvimb6GH8_cvElbYERBJC29oo_d2FcZi-JgB7KB4OAzfixq3-9BcoFHA_Z9bdDYUD77tXgwzIU_VeSaEx3ntBb-clSL05UWGqmVX5T71T0iQof5UKeU74EGjkBNaNT5gcWX6pCVVvF2nh5DQtvGkZc232N2BkkYk",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJb9JLOwJUKhMRrhLYS5q4NI0",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7F4+65 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7F4+65"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJb9JLOwJUKhMRrhLYS5q4NI0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 130786
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za della Signoria, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7693012,
+               "lng" : 11.2561509
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77035892989272,
+                  "lng" : 11.25773677989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76765927010728,
+                  "lng" : 11.25503712010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Palazzo Vecchio",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109705534708647163017\"\u003eJason Achterberg\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZuEGg-zPy4KKeiM9BpYgr_eE3IXxq7slAVvbtCj6Djq54C64oqRAnk7aGh6to_jBB8ufHafjqb28DwCUn-uFesiVL3AkCJQzfXXu-Srs6g1UN2jRTKLJZtJnCpZpMXKZagglK3Pjl0ycFN2FXPgM1jYiNAOJwdVZ53f4JbSJnl-8H3",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJ-ZN45QBUKhMRh1fGVOcr4uQ",
+         "plus_code" : 
+         {
+            "compound_code" : "Q794+PF Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ794+PF"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ-ZN45QBUKhMRh1fGVOcr4uQ",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21742
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za della Signoria, 50121 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7691899,
+               "lng" : 11.2555334
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77069287989273,
+                  "lng" : 11.25659042989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76799322010728,
+                  "lng" : 11.25389077010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Loggia dei Lanzi",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3472,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105734470839403095166\"\u003eRossi Nikolova\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYKieHf1NwMCxafKCkzNYuniHw6oSdxl6CxZhiOhXalWQFsrOMOJiopm-_9bn8hULz1GSlRe2BCC9FwNNkcIGMCGnc53RZqo4ONEFsPJ2GDSH4Ymtq3FHah8iCoelx-1ddAcpjKEGgonPsN1B5YGDjssPecMP0sqJ92FfN-Cpkz9y_x",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJYTLQ-wBUKhMRmXBabFqCFBM",
+         "plus_code" : 
+         {
+            "compound_code" : "Q794+M6 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ794+M6"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJYTLQ-wBUKhMRmXBabFqCFBM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1266
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za della Signoria, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7696855,
+               "lng" : 11.2556422
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77093702989272,
+                  "lng" : 11.25711617989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76823737010727,
+                  "lng" : 11.25441652010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Piazza della Signoria",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101033664086608477260\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYxQ_Ov6gbUhE6vMynktmtFK0ULEIFf8mKdTRf8r30gXy4uwVOvGo7Ew74OOIdQg4t8XzT5XCL0FUzmhwRei1Ztx_JFxuZcH-KOh4Im8Ksgv0xSR636QP0PdICG37gf6go3RIxPryuWbYrywZ1CE_Y8CG3lPOTWT5P6rfD8c2yycpRz",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJNa5CIAFUKhMRbZDj-HFpvJ8",
+         "plus_code" : 
+         {
+            "compound_code" : "Q794+V7 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ794+V7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJNa5CIAFUKhMRbZDj-HFpvJ8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 75974
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ponte Vecchio, 50125 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.767925,
+               "lng" : 11.2531435
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.76931887989272,
+                  "lng" : 11.25445187989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76661922010728,
+                  "lng" : 11.25175222010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ponte Vecchio",
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112354273478311625808\"\u003eVicki Garelja\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY0UG9yaooNJRfZvwRvVypprbpTrWeEaV9MFPsC__zd2LhDqTLsij-ULx4kaG3Eo-UNCfnR9nThF5tHtOVy-XjsW3GbBsAFnsTXj3ntre9McENk9X8G6EU2sQX3kUBA65Pdl1rbbaTNmNWtRwY0D7TUX0sN-KO8BvzMQX8MZ62W7kNw",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJZ7bcoqpWKhMR6ALnMOgKMUA",
+         "plus_code" : 
+         {
+            "compound_code" : "Q793+57 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ793+57"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJZ7bcoqpWKhMR6ALnMOgKMUA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "landmark",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 132474
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza del Duomo, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.773145,
+               "lng" : 11.2559602
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77488434999999,
+                  "lng" : 11.25972295
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77174374999999,
+                  "lng" : 11.25256315
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Cathedral of Santa Maria del Fiore",
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110373373416174858163\"\u003eJay Finesilver\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZdAqJvDVQs7JFriZ5V7gbFHvRg-SakK69w1PYOVe9M0iGo4cHtOjFS_uDDGlyra_Qhq8F7nYD6yfOSuRYRzMOPGs6tbxe3aFBZPbqQn5a84BOYO39yqNFfPlD7Vqaj6SaUyoCeFY09daWxHtjwP_nAQaP5C7PWBUmOeDc9Gti0Als",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJ9S_ivwNUKhMR9fGqh4RDkVU",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7F4+79 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7F4+79"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ9S_ivwNUKhMR9fGqh4RDkVU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 93650
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza di Santa Croce, 16, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7685683,
+               "lng" : 11.2622677
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77004392989272,
+                  "lng" : 11.2630646
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76734427010727,
+                  "lng" : 11.259877
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Basilica of Santa Croce in Florence",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2854,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107184680647641443189\"\u003ePOMPEO GIOTTOLI\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ9ZrijlLRLSYPsKHuavOitB2OAxZ0ci8PMf4M5RuHxQ8e5Pcka2MpYVWVof4NhZySLbhSOHKe4DMXJFe_vaPNfpJ7DW8L4UyN3qEXgUxi9Mkt2Owrk3ZEOvr-JLbsou5kv2u0teLQIp4CdWh4_p0fCTmIGWmH1kTelY0xldxE7NHJy",
+               "width" : 4026
+            }
+         ],
+         "place_id" : "ChIJMcPMIwdUKhMRVRITnGR5go8",
+         "plus_code" : 
+         {
+            "compound_code" : "Q796+CW Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ796+CW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJMcPMIwdUKhMRVRITnGR5go8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 32786
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza de' Pitti, 1, 50125 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7651533,
+               "lng" : 11.2500081
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.76679482989272,
+                  "lng" : 11.25110272989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76409517010728,
+                  "lng" : 11.24840307010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Pitti Palace",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105802991965353209371\"\u003eGleeko Magpoc\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb832Jz3TuHs0TqDYx4R8CzrX3H9A3at3fh8yqhv33d_a6_vJJr4b07uT2_jtYp6Yn0iXxgKITcZ4YOMy-Mq9tOi6LV9EvlV8yB-qYyXvnmDNrBmo2wSRG99m7oLt17GKEHKjehX8xe6CjVNMwEHdxN9nhIQ-3Qn6PlUXQYfWwLZuOW",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8ZnbQVRRKhMRKlDx5uTM0Fw",
+         "plus_code" : 
+         {
+            "compound_code" : "Q782+32 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ782+32"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ8ZnbQVRRKhMRKlDx5uTM0Fw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 27559
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za della Signoria, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7695868,
+               "lng" : 11.2559899
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77094067989272,
+                  "lng" : 11.25756567989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76824102010728,
+                  "lng" : 11.25486602010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fountain of Neptune",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111129451360514893362\"\u003eVincenzo de santis\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ2WejUyA26csXin8qdNekfMKRgwu8yGkYOLJyxznj9-PITBkWD7GFfSrJyPtBlJwPr9ByENPXGtUE2lI5RyiDdiBStNin-jjwnSDpWWleohnvpYTRFGLJpn3RH39UUi35F7VJwOSzUm_smddVNf2JbhrVb_K-8TUpqp-_XKsFLQQ_8",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJYeCLBlZRKhMRJaZG7DP6XfE",
+         "plus_code" : 
+         {
+            "compound_code" : "Q794+R9 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ794+R9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJYeCLBlZRKhMRJaZG7DP6XfE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1452
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazzale Michelangelo, 50125 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7629314,
+               "lng" : 11.2650561
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.76412552989272,
+                  "lng" : 11.26592102989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76142587010728,
+                  "lng" : 11.26322137010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Piazzale Michelangelo",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 3468,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110946082155397095852\"\u003eEugenio Giacomelli\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaQjEDTWO8wAIfTRY6FUJzMuyfqKBNmlComqomZgBk0G4Go0JP7TilWRzEnrAHDD_vVFHMIQzTQGQchHhM0rTvL3FzCs3H078PJRMamL8oH8UqRVJmYH-bp0FoSF1E1IOoIsxthaanlHcT8W35IAir5Q-_bT7Mxt20syho-tjPk0ZkH",
+               "width" : 3468
+            }
+         ],
+         "place_id" : "ChIJQzhmQ_dTKhMRGVENguFo97Q",
+         "plus_code" : 
+         {
+            "compound_code" : "Q778+52 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ778+52"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJQzhmQ_dTKhMRGVENguFo97Q",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 90325
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza di Madonna degli Aldobrandini, 6, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7750913,
+               "lng" : 11.2533903
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77647102989272,
+                  "lng" : 11.25458777989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77377137010728,
+                  "lng" : 11.25188812010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Cappelle Medicee",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3264,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114592555692973338431\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJazL3WS5HWJrmefNV1oRRSjGw4e_1i8S5aFc6TgIAxKkmBcT6Q2P4vUjAZpEhbJ9vMGosSoL_HpJWIHohQdDr6zcUTYvQSCvFRN0CnGdy6hoOI3dDXi9PFpcUTlSSugHqlkfHaFWwdHYCoeEiaayTdJdnSrok6yGpDuaWCVW3Lb3UZ8",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJj_nVhwJUKhMRcHH43IISjnI",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7G3+29 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7G3+29"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJj_nVhwJUKhMRcHH43IISjnI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5068
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7677856,
+               "lng" : 11.2553108
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.76976447989271,
+                  "lng" : 11.25698127989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76706482010727,
+                  "lng" : 11.25428162010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Uffizi Gallery",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 516,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101187299104322333428\"\u003eLike a thug\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbUEa-tBlg2qxyxdHmPseX-SXKi19a9DBhyHnomfxrTWzqbVB43qS1Cxd2HXVjkXWsHm-BEsriTNiShzlxuYHwsrqsJvXuzSq2YeoI87lCXfpbaEYOUrj_1JGVaXfsKsI2_YqWiqJ7tReTX8TSgJ_RwtC_3ZCib0743yzvjhf6sHBO2",
+               "width" : 828
+            }
+         ],
+         "place_id" : "ChIJgZDFjQBUKhMRzcTwm8i33s0",
+         "plus_code" : 
+         {
+            "compound_code" : "Q794+44 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ794+44"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJgZDFjQBUKhMRzcTwm8i33s0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 74470
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via delle Porte Sante, 34, 50125 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7594184,
+               "lng" : 11.2649796
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.76105577989272,
+                  "lng" : 11.26656037989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.75835612010727,
+                  "lng" : 11.26386072010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Basilica di San Miniato",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106458678659706841912\"\u003egiomacho89\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbYFmDsPOCuKkktYaC5W190QCjeggSWCsB3hlhSI0sFrA4vQUdNw-M-Hmxs9t1Hg-nCoWkIR9kgJ13zBoFLrrLSVYfglfbL_hCWXBzpjXcGqVf6MrD6YIjMJglokGtsZD7PA8swgwgvjKETOjx4EuEQhl0s_DOcRUpT_Ns2WQ4QJ5Z8",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJl26IxfBTKhMRsFKUrq2_Pzs",
+         "plus_code" : 
+         {
+            "compound_code" : "Q757+QX Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ757+QX"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJl26IxfBTKhMRsFKUrq2_Pzs",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5232
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza del Duomo, 9, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7731722,
+               "lng" : 11.2577573
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77422312989272,
+                  "lng" : 11.25911352989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77152347010728,
+                  "lng" : 11.25641387010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Opera del Duomo Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110006105762653011703\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb-OFXULQjVQk6hPdyTzARINYoiIzt0AchuPpZYNckvYB5OGwobzbJ2WoWAODbyCgvBf77dZMwY579gUwqcwAgiHsC1-HouIBbzjnW6SBk45-eaPbIgatpIyz2h1wiiTrt90rfkWyJfbu_n_1OZC7jVfoy3elv5f9JQtkgx4D8GSPY_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9S_ivwNUKhMRUYCd7gsp86A",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7F5+74 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7F5+74"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ9S_ivwNUKhMRUYCd7gsp86A",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10303
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza della Repubblica, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.77142629999999,
+               "lng" : 11.254019
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77282247989272,
+                  "lng" : 11.25556392989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77012282010728,
+                  "lng" : 11.25286427010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Piazza della Repubblica",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118184212527384239002\"\u003eLisa Hickman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaNbKUkmBI9d2nNc0PwwnBwdPnDcOgHN5-0YjJHCgapg9EgJff7XcpPrUMSF9QyKxc0xYRf-KIbzy-zkGLMaxbW70optXTpzJGTQ36LQc-11L-j1jvjAEChUWJk3t_mA39AjbkwRgQKibmvuwKmuNmAe2Nz2hE_EdgaOOiwFQGCOTq6",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJ2_EClQFUKhMRQxAF-JVg5d0",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7C3+HJ Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7C3+HJ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ2_EClQFUKhMRQxAF-JVg5d0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24334
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cathedral of Santa Maria del Fiore, Piazza del Duomo, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7730133,
+               "lng" : 11.2550615
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77398657989271,
+                  "lng" : 11.25657887989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77128692010727,
+                  "lng" : 11.25387922010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Giotto's Bell Tower",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117589939810773594984\"\u003eDave Cummins\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaYUtwgDm_mmdwJgU83n8rJMCAa064qFx_MQLGpIgcmrbPh06AF2OcVAdQrAEFSjZfBWt5ombRlpiYUHSIuCccV6XkJfgQ29G64Eht3lx1uNLemjth-D9vHMft5T4tRFvjY86vpuTqo0WCx8J_Sx1aUDlnJywumLGVjTlREXjL9wQr0",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ9S_ivwNUKhMRuHV-NzGBS5w",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7F4+62 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7F4+62"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ9S_ivwNUKhMRuHV-NzGBS5w",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5666
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza del Duomo, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7731978,
+               "lng" : 11.2569527
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77501392989272,
+                  "lng" : 11.25866462989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77231427010728,
+                  "lng" : 11.25596497010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Brunelleschi's dome",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1366,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112028987775408034407\"\u003e渡\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa3wOJKQ2oa32Q2dAMl4pNn7lKTf5JaYAkaxFXtJAUkvHtGJ1Of3L5V3UuwvWJTwziZsjP5yhBGBYKwSeqEubRNxaZsoDgtIv_Dswa1uWjr0xLj3b555bMcLDZHc_njPjdvjZ57rZerS9CJ0VVt8vvbKlu0KuoJOdqaWeQnHhilN2WL",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJnbhz7ANUKhMRD-fzrt-dp4c",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7F4+7Q Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7F4+7Q"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJnbhz7ANUKhMRD-fzrt-dp4c",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8898
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza San Giovanni, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.77311539999999,
+               "lng" : 11.2550232
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77488525,
+                  "lng" : 11.25998985
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77174345,
+                  "lng" : 11.25175805
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "The Baptistery of St. John",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2623,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107303159152089403287\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaI9hIzSY0KSQWpXRXeIsiQxSBKvxuCfT8FbSl7Y5ONA7_qW6ZrrLKR3-gmBRz4meNsEwrSQkDVwUnvWE7aydMa_deN1RHat0wvFwvgSJV-fdKMsG1dEWgZcQVHUXpyI-Th6t6uJ8JCv8OLtTXvGFe-BNodbTSGNAu96p3Ic8yUh9gC",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJJQXzvwNUKhMRfYXRv0EzSgc",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7F4+62 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7F4+62"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJJQXzvwNUKhMRfYXRv0EzSgc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7436
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza di San Lorenzo, 9, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7749619,
+               "lng" : 11.2538762
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77629817989272,
+                  "lng" : 11.25633415
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77359852010728,
+                  "lng" : 11.25149315
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Basilica di San Lorenzo",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3472,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109496959111209342142\"\u003eGianluca Vincitorio\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYh-kmxA0R5zpglpk82GGxJjUgoPa79sMatKgPxPLAfH0TJBl-22t87gW7dIUm8IXniB_LvL-F4lH1l6TqmWIxKSXcHWaU16s5tYylVLc2VGmkCNkq7RCAtv9zGDU39kyfTWoXmc-0J4N-6eExgclhZjlBDLdZL-nYnhT-cDLIPjvkG",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJa5d9-AJUKhMR7BIYGTLAp-0",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7F3+XH Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7F3+XH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJa5d9-AJUKhMR7BIYGTLAp-0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10436
+      }
+   ],
+   "status" : "OK"
+}

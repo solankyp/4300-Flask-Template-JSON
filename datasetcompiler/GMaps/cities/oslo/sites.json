@@ -1,0 +1,1214 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbLuMCd5FGXADXU9Jsy40l2frCtp3R4SIJZwVIbeS_CMYrbLAD8wsENesiOI-Do4ehj6w7-4fnT4Vf6UEd_UGypFctkzHSxDvnDmJwb4povlroJXMgIdzeLVkWDKjCPJZGhnAEAbF669hlJfa7TdLkHaQa0Q1Vh90nba1hK9GQOtk1yTQu59sqvjrdT6qBHiZ5y0QigIwFz_q2k9zr4jNeLh5CFPcC7TblOPoou_WmemhPk3QIF49SbXGmJ2RLWDodk3wgmH2-qdnTV2Cimb-lQsmlatBpQjCrpMqLqb0WhH9MW6zRWzFORgvIINqVQyx5L2n8hK1EeEnystxEvUO5Jnukdp07TOqOqad8nv5jGrx6sGXSXy2bsizI4cfw4JrDQdMxptMPBEmo",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Museumsveien 10, 0287 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.9074942,
+               "lng" : 10.6867085
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.90887222989272,
+                  "lng" : 10.68810962989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90617257010728,
+                  "lng" : 10.68540997010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Norwegian Museum of Cultural History",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3999,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112423178836824986903\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbJJJUHpsulxz8t5s87oVy8rxfed__5GU9gAnEeco2GEJqQDyx_FhG0i2NGqOVkE9vLuDW8LtLoVvW8ospWYTd5ifu9Ctu3jMBTeWJGXjiQ2DuBLyUFJvDp3LAYqsoYkA3-St-S5Bq639S_AIuqaOiqZcKbc8uUKDzsExi0lhtLi4Wq",
+               "width" : 2999
+            }
+         ],
+         "place_id" : "ChIJbcQbpTdsQUYRcPVxnHOFQy4",
+         "plus_code" : 
+         {
+            "compound_code" : "WM4P+XM Oslo, Norway",
+            "global_code" : "9FFGWM4P+XM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJbcQbpTdsQUYRcPVxnHOFQy4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9342
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nobels gate 32, 0268 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.927029,
+               "lng" : 10.700865
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.93125864999998,
+                  "lng" : 10.72065255
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.92083525,
+                  "lng" : 10.67979475
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Vigeland Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106237026027913497142\"\u003eKatarzyna Fudalej\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYuteEEUynsgFzkhpRhIg2sDrPybObwUqcSOMRdILZxOLHrdsG51K5uR1L0eTPcsyYb2mnTMB8B6c4nItKTOHSvrZtYmciwz_vQYCzDEwpE4UjAZBz1FfGYyzY2WU9GNM-dxqhp6fr_Rh6hDngXYo_ob5tHklvGe_wTQGYlmfdvFeYJ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJsV__us5tQUYRlsdVNqT4Ywg",
+         "plus_code" : 
+         {
+            "compound_code" : "WPG2+R8 Oslo, Norway",
+            "global_code" : "9FFGWPG2+R8"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJsV__us5tQUYRlsdVNqT4Ywg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18077
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bygdøynesveien 36, 0286 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.9033479,
+               "lng" : 10.6982028
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.90472852989273,
+                  "lng" : 10.69939742989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90202887010729,
+                  "lng" : 10.69669777010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Kon-Tiki Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101724153596673716777\"\u003eRene Müller\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbfBpOXyK7HBz0m-pkeBIIqbgUtO11lFkOWurvx_9ixXsESR62AlwrrfB9RDG242efzvRh1iQDIlqjV43dMp3cGN5ZuC8yJ2bJ3j7vyQOkR9CWP798xpN2-tXtSo73JyRiGil-nZyRk7wde-nLltPWyVY56G2DlpjDlAXTtN84ZHe9Y",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJu4wrvDpsQUYRgF8XWfTcwBU",
+         "plus_code" : 
+         {
+            "compound_code" : "WM3X+C5 Oslo, Norway",
+            "global_code" : "9FFGWM3X+C5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJu4wrvDpsQUYRgF8XWfTcwBU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3352
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nobels gate 32, 0268 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.92272869999999,
+               "lng" : 10.7002828
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.92398952989271,
+                  "lng" : 10.70272655
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.92128987010727,
+                  "lng" : 10.69920675
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Vigeland Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106267691099161370069\"\u003eThe Vigeland Museum / Vigeland-museet\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJawdqoJ_HNKKLllUw8HoIx35iGZJoLAX_wxAQhQsGi3WVxBJ03lpLyRTM3sNIUrTc28wqb71zfiyPNFuK2W5QejUoCM-eZcmBNGfWm_XxgKVs5Fb9brGdaJFQXs6KTjQ6MTqwJ22RmdpdM4ErFj-fwAXjfXJ-15Ygw167vmOdwQSOcv",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJbcBYus5tQUYRAQVENosTVKQ",
+         "plus_code" : 
+         {
+            "compound_code" : "WPF2+42 Oslo, Norway",
+            "global_code" : "9FFGWPF2+42"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJbcBYus5tQUYRAQVENosTVKQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 640
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Karl Johans gt. 11, 0154 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.91252399999999,
+               "lng" : 10.7468866
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.91406982989272,
+                  "lng" : 10.74809997989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.91137017010727,
+                  "lng" : 10.74540032010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Oslo Cathedral",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105317694397117985830\"\u003eVictoria Ruiz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYZbq00XwFym8Mtac6ve5Oeko_5cmxZP2PAlwi5S-xbArJ97yW6V8raDmwQedOqa8aZOIreBw2jQmE_F08II5qCvdmjO44KV3_6AKAmhCFtIuDo_-AVIV8Nm6aNVOnxv7Ap2-WtnQEUBYONHhckSZgfFm9lIzLdXHH1SuNFA8QB6b4U",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJafNVh2JuQUYRS87dbb5wUrM",
+         "plus_code" : 
+         {
+            "compound_code" : "WP7W+2Q Oslo, Norway",
+            "global_code" : "9FFGWP7W+2Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJafNVh2JuQUYRS87dbb5wUrM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3946
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kongeveien 5, 0787 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.9640897,
+               "lng" : 10.6664141
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.96696729999999,
+                  "lng" : 10.6720201
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.96114410000001,
+                  "lng" : 10.6640849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Holmenkollen Ski Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3468,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108496111241406191100\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbtpsr9fw9CS2PdHc8ApIilQxLxMsbqiZ2p7TJzDMwDnEhAdg6XiQSvfsgVbLxSDucAqWhpGiBm5_M7RArKw-QIz1CO0kHf98SNtB9c_meJXsbi2EaoNEjRXBon-OOp2eumK_vMzp9HNT0o2FHUpp4k74VZcTbseTP1mEvVLs2K5R8",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJAVYeCn9tQUYR-b71kdo6ySs",
+         "plus_code" : 
+         {
+            "compound_code" : "XM78+JH Oslo, Norway",
+            "global_code" : "9FFGXM78+JH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJAVYeCn9tQUYR-b71kdo6ySs",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6119
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "0150 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.90758599999999,
+               "lng" : 10.7370841
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.9097052,
+                  "lng" : 10.7411794
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90367199999999,
+                  "lng" : 10.735719
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Akershus Fortress",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114407697664829058947\"\u003eJaeseop Song\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY2HX4L6BtX5_lhEWoNa_Q_tHkfWk101-v5BHspgaLIrZOr6335Oy7xgoW7B4emxYnJ3nWPsVhq2s0BBFYkydMzG-7VvKCkhBIcA3f0ioSaMw1Ptat8YU_3f8QonW36fua9TV8_27LBnaZTtD2DKNkhST1gDukOVD_NEhMOIqLzmNH6",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ035kbYZuQUYRuu0uM9oMKao",
+         "plus_code" : 
+         {
+            "compound_code" : "WP5P+2R Oslo, Norway",
+            "global_code" : "9FFGWP5P+2R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ035kbYZuQUYRuu0uM9oMKao",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14851
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kirkeveien, 0268 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.92645829999999,
+               "lng" : 10.7034734
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.93371339999999,
+                  "lng" : 10.71461585
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.92008980000001,
+                  "lng" : 10.68898725
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Frognerparken",
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101083530608182377633\"\u003eRene Sirock\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY_GEU3QGFBKLgU2ThiVR1rHOWzAz_gF6o-WKqnQ2aN2hgeKaUxstBsaD5fmTbhXsxXMyIoPmL7SY2QMOOAZYlQKweu58LvQRNCb49zAava0VPv9LXT5wa-p9vPfr0n7KctzhusXDIWLeRd48rWt_0aEl3cE4TGaENhm-q8T0J-par1",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJn5IXQ89tQUYRqXaN0mEtOw0",
+         "plus_code" : 
+         {
+            "compound_code" : "WPG3+H9 Oslo, Norway",
+            "global_code" : "9FFGWPG3+H9"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJn5IXQ89tQUYRqXaN0mEtOw0",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19053
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Karl Johans gt., 0010 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.91684089999999,
+               "lng" : 10.7284998
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.91819072989271,
+                  "lng" : 10.72984962989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.91549107010727,
+                  "lng" : 10.72714997010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Slottsplassen",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103455670941662670843\"\u003eJens Nyman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ3KQPRcIHsIVevW_1EHsoR2gB_ic6pgo6gjqiJ6jrlRS8Fz6Fde7G1uMr9_fUr1Kl1IB7TVhxSS-l_DZRM45bjTRvc5CCoORYYmdFyfDNPzYj_2lbOc0COh46sm9aiRHkVeuJCCppblaG_oNo2vArk24sEIahZy6S4U5bkFG6whwXf",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJOSC1AH9uQUYRLR0Vf5KZsPI",
+         "plus_code" : 
+         {
+            "compound_code" : "WP8H+P9 Oslo, Norway",
+            "global_code" : "9FFGWP8H+P9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJOSC1AH9uQUYRLR0Vf5KZsPI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 691
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bygdøynesveien 37, 0286 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.9028133,
+               "lng" : 10.6986424
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.90429707989271,
+                  "lng" : 10.69977317989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90159742010727,
+                  "lng" : 10.69707352010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Norwegian Maritime Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4525,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106061752360467052107\"\u003eNorsk Maritimt Museum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZOSrptIQYQ8s4ZWgH4Z55kCJg8S5RNxvegL5DcpYsARRhEOoAub8GabWj2zzQxgZCxTfbX3rm_v_EnUmxuNknqQCAw3H156oStIEJpwkzfaqOrVmiA1ooIbpjX3wSuzR4VlgcTqbzVrRE9xOtIzT4bhWbIe40DpvZRLDvBc0htNcyh",
+               "width" : 3728
+            }
+         ],
+         "place_id" : "ChIJJciAwTpsQUYRfGgnc_Iwv8c",
+         "plus_code" : 
+         {
+            "compound_code" : "WM3X+4F Oslo, Norway",
+            "global_code" : "9FFGWM3X+4F"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJJciAwTpsQUYRfGgnc_Iwv8c",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 933
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Strandpromenaden 2, 0252 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.90631759999999,
+               "lng" : 10.7217175
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.90766742989271,
+                  "lng" : 10.72306732989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90496777010727,
+                  "lng" : 10.72036767010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Tjuvholmen Sculpture Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102042931515606155399\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZPDHDB421eRLcBEXWbFlPHoYpr5mZ0OrNJy1J4I-fiucJzQ3yl7gBFQm4u2lG0AvKTRgZJtEtPinlzHG3sl66hD_B6-ITL_CrgfVHftK4vNGJXilJdSbUM6XNi92Y9cMJPkcKzcqKaGOHCjm6bxh4AQ-WfSVS-FV9hTthwbRGMcx16",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJp1pdb4JuQUYRBOWB1ubqOWs",
+         "plus_code" : 
+         {
+            "compound_code" : "WP4C+GM Oslo Municipality, Norway",
+            "global_code" : "9FFGWP4C+GM"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJp1pdb4JuQUYRBOWB1ubqOWs",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 838
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Brynjulf Bulls plass 3, 0250 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.911506,
+               "lng" : 10.7292472
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.91260882989271,
+                  "lng" : 10.73009752989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90990917010727,
+                  "lng" : 10.72739787010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The National Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3265,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109535270529966891812\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZd1inUT-UlPbZs6yDu-WJfRhuIhzne5naY1VgBMi2xFLVC0YY6ZBhdxe-G1xabuSI1xr1bnnJ9waaQG8Rjskiwd0lZ0GY2yMxGig5tgWa-7sb67yZbH7ZpFjf2qHf70Xl-PQQcVX7Qyu2SStstCaQd4vNp2IXapvKQeqYwbgWP0wM",
+               "width" : 4898
+            }
+         ],
+         "place_id" : "ChIJOdGZU3xuQUYRRpZUX1Z3YUM",
+         "plus_code" : 
+         {
+            "compound_code" : "WP6H+JM Oslo, Norway",
+            "global_code" : "9FFGWP6H+JM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJOdGZU3xuQUYRRpZUX1Z3YUM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5951
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Slottsplassen 1, 0010 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.917625,
+               "lng" : 10.730332
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.91897482989272,
+                  "lng" : 10.73168182989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.91627517010728,
+                  "lng" : 10.72898217010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Slottsparken",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101295732402435441067\"\u003eSlottsparken\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbIO4rcsM06eUMOTDf6ilgkeyM7e2mIRVOneR6pEn2Rm3n_7UdLWutoPCQCjoErMRRlGpq9SF0Dr0nzodlOb4OaKcVlD_GWuqPioc6sUajQV79Bq3MfM8Q1xqKiJA3jcyRT56BodiW9Phg37C6EYTkDWvtR88XqUiH-sxam1kBaYm5X",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgzu7EH9uQUYRwajtZJFSX70",
+         "plus_code" : 
+         {
+            "compound_code" : "WP9J+24 Oslo, Norway",
+            "global_code" : "9FFGWP9J+24"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJgzu7EH9uQUYRwajtZJFSX70",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2646
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "Slottsplassen 1, 0010 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.9170428,
+               "lng" : 10.7273769
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.91839262989273,
+                  "lng" : 10.72872672989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.91569297010728,
+                  "lng" : 10.72602707010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Royal Palace",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 2728,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104472348739988750794\"\u003eMohammad S. Kargar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZidlMwlNrbUMq5q54gBmopwfxm4GBAUtrJ7xKJ7vcQucAzRbuiqLnbvzSOJPVvmYuT2xporgRiHZLX6WfEcC32nzU8CWJc8gEXzcK45TYfvMAtug7xlfd9ZPYtYLWC1cL5giFayWlddtxum381DXNr18XATePt1E9EY42K-LBo1XqG",
+               "width" : 3638
+            }
+         ],
+         "place_id" : "ChIJezW6eddtQUYRHFnCrMk4cGc",
+         "plus_code" : 
+         {
+            "compound_code" : "WP8G+RX Oslo, Norway",
+            "global_code" : "9FFGWP8G+RX"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJezW6eddtQUYRHFnCrMk4cGc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11970
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kirsten Flagstads Plass 1, 0150 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.90748850000001,
+               "lng" : 10.7531275
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.90833112989272,
+                  "lng" : 10.75506462989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90563147010728,
+                  "lng" : 10.75236497010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Oslo Opera House",
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118374907033404054589\"\u003eGium Marais\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJboI8G7zjREMEg6RIIcpqFTjEnpFxE4tG4I4ehmO92aYnPTLba2STzutY4nbz64cVbr6ajVj_1kgnwxvLGI6Ku6hl6v3DBstAvsOc1MmCaaV10Asz5BIDnPDgZMGqwBn-h5gKIthq9E_SFyiVXyD9mghach0mtl86WE-88OXNhGA2NX",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJFfcho4tuQUYREdaiosanthw",
+         "plus_code" : 
+         {
+            "compound_code" : "WQ43+X7 Oslo, Norway",
+            "global_code" : "9FFGWQ43+X7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJFfcho4tuQUYREdaiosanthw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 23530
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Strandpromenaden 2, 0252 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.90680829999999,
+               "lng" : 10.7215537
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.90865132989271,
+                  "lng" : 10.72303732989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90595167010727,
+                  "lng" : 10.72033767010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Astrup Fearnley Museum of Modern Art",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3890,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107732787709826137146\"\u003eJim Li\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJarkaGoF942q_Pnri-MndtQldustuV0l6EjyTGvya1LJO6YmLTs4gbz8eOczJlEzfaQq33ThwXTULzF8CKg_KlS7JGcT522MTW-kAOptWEMUzN3ThUa4S_fc6fmYyLP6yI5HRQTaIMVQN3AtePv5uIrew5rg1dIzYoxPpQDugbS1Suh",
+               "width" : 5292
+            }
+         ],
+         "place_id" : "ChIJT4tdJ4luQUYRgMF5nmdF7L8",
+         "plus_code" : 
+         {
+            "compound_code" : "WP4C+PJ Oslo, Norway",
+            "global_code" : "9FFGWP4C+PJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJT4tdJ4luQUYRgMF5nmdF7L8",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4032
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "Huk Aveny 35, 0287 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.90494479999999,
+               "lng" : 10.6844075
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.90624032989271,
+                  "lng" : 10.68642862989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90354067010727,
+                  "lng" : 10.68372897010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Viking Ship Museum",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116760567627768073378\"\u003eRadoslav Hapl\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb04IH1oMFu56eQyew5fWSsRsBrZvG_zMlMIuWE_MEW3WXa_o-N1JldnbjXEb527CYs6xGBMX18pDYGnTwRHMG9r0cxxxvRAC4pj3BHmQFBBtbPPQKPtGB1dhfVohfWb6-mHxoUNKujnuJaZXAcom7VenMuf_7PEkBbtMJ1QDEZVqZ3",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ_RU_NjhsQUYRB-AemP-rpkM",
+         "plus_code" : 
+         {
+            "compound_code" : "WM3M+XQ Oslo, Norway",
+            "global_code" : "9FFGWM3M+XQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ_RU_NjhsQUYRB-AemP-rpkM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12421
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bygdøynesveien 39, 0286 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.90338130000001,
+               "lng" : 10.699729
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.90467197989273,
+                  "lng" : 10.70057792989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90197232010728,
+                  "lng" : 10.69787827010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Fram Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109188801152576864430\"\u003eSuparat Wirattanapornkul\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ5Fp6QOz1HKZmK1EM5k9kgVuEq0vokmhLA5BZUxnchKwc9ZPkCN_6FFzA606rvWkxVnVzaCZW538q0kgqG46F6DhC2znTc0vvDZscn9YpQ7V5JTZvDGZcMkxqHyf4F-rQZhB-Ys-ZI8ZI3O5cyHboxGOwraysODPgWMg9HhrBxHZO4",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJMcBwszpsQUYReqPeWg4Oe4A",
+         "plus_code" : 
+         {
+            "compound_code" : "WM3X+9V Oslo, Norway",
+            "global_code" : "9FFGWM3X+9V"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJMcBwszpsQUYReqPeWg4Oe4A",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10191
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "0160 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.91106490000001,
+               "lng" : 10.7327979
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.91263902989272,
+                  "lng" : 10.73480537989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90993937010728,
+                  "lng" : 10.73210572010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fountains at City Hall Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101826579113758352878\"\u003e101826579113758352878\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYqCKXBLnTcYeTUPzffbsDbi_x3thq77XoMGfEtmerZ_3-I593iVUqkfAapu1fYCRg3CwU5yHHEHQ8tLM1iDe9z1ahqAe9Q17hSq-EdvwR8KqrtAVZfizUVC_-wVV-g77hWbcxWY1dTn_VZhxHAVFOIL-Te9WHvyQqA9HmoiqoDywi1",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0Y98JYduQUYRsLEt_XDm4cU",
+         "plus_code" : 
+         {
+            "compound_code" : "WP6M+C4 Oslo, Norway",
+            "global_code" : "9FFGWP6M+C4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ0Y98JYduQUYRsLEt_XDm4cU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 82
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Edvard Munchs Plass 1, 0194 Oslo, Norway",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.9061331,
+               "lng" : 10.7557042
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.90757997989272,
+                  "lng" : 10.75689312989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.90488032010728,
+                  "lng" : 10.75419347010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Munch",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103702311564341605460\"\u003eJohn Erik Lindgren\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ5kwnVN4YWIrVTsJLbe_chnE_ii7Qi2bwVhavF0pUkz5wFZQwf4N10zQ_VddX-i2D7veWC5NbjDAnncYLQACzabK5ch9s6R2BS3FS6B2_1_PSy0QqyUVfV1ziX9D7vqWhhIS-RWSo4zoXNgDKHXdzJ8PIsHO0w-BiwAN46tnV8MwN3",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJ0uE7VtuQUYRGxJdLJL1PmU",
+         "plus_code" : 
+         {
+            "compound_code" : "WQ44+F7 Oslo, Norway",
+            "global_code" : "9FFGWQ44+F7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJJ0uE7VtuQUYRGxJdLJL1PmU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10942
+      }
+   ],
+   "status" : "OK"
+}

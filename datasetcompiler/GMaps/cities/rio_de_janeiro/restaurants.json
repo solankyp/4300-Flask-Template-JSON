@@ -1,0 +1,1250 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJazHHcYYDAWh_fPalfy1-2eJkhUPjoIn2bNLZRKGX_k6ppac3JvWP7_3WQm-BLT8uxN9I3btzhKphQgPQJ-RCNN86LFYjBuIg5TNhDCOS6iZTUmKm8KGLbpg8DA7iy9ypH5MPigCOhDYkXxKcafR73Z-LDHWOgBKliQaoWZmTNkmnI3taQmho8vN2k2fn3AFXiq6j0fmOBwFYq1426E-dStBDJrrpPJU98fjTfizr26PKTBcQWhA77Wxs9iQehXKi1TGJCvmRxXedUgWDbHKY6UyEGDyjrrad76lVt6E3h8paGsMvluE1Iv5hU37oP5aDGsqscb8nfkeDHPluW_GIItKSR5PzGHbwpkmtI2bdjNKnS5rKEZaFDfhEDdUBbM5MYt-J_Rs9OJS_x0s5ZOozcx7z6FB0z53JYe",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Atlântica, 290 - Copacabana, Rio de Janeiro - RJ, 22010-000, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9619514,
+               "lng" : -43.1663495
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.96078022010728,
+                  "lng" : -43.16489682010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.96347987989272,
+                  "lng" : -43.16759647989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurante Marius Degustare",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106074167532814759149\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZDHJppkZ0A1cyifZid4urBJTikZGExPF6z6Ispf2WfUowBhYP9mhXHgLXOn1RI__dvL5qTiOE_fHKDanx4DAmXkuflgLBrwhTuFjbmseSGBStyKHBGBHz2RjH1dNoKWO9XVoWT_igBHJhfvzdGZWEvhm5m8jf8Vj5iR2HPV8QUZPSM",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ1UBopT7VmwAROmGzVspQpvg",
+         "plus_code" : 
+         {
+            "compound_code" : "2RQM+6F Copacabana, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2RQM+6F"
+         },
+         "price_level" : 4,
+         "rating" : 4.9,
+         "reference" : "ChIJ1UBopT7VmwAROmGzVspQpvg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18419
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rua Inhangá, 30 - Copacabana, Rio de Janeiro - RJ, 22020-060, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9666761,
+               "lng" : -43.18168439999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.96537727010728,
+                  "lng" : -43.18027697010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.96807692989272,
+                  "lng" : -43.18297662989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Alfaia Restaurante",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1152,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101049399286363706855\"\u003eLucio Miguel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbGGLdWTUrMQphy1rfYafb3VHTRAj5LfTvihqrVxdZzMqFjUD5_M7PJ26qWImjX_t9PkU_Y8ccZy5u-wa8Il-_4rsav9WoGv6-Cu53tN2Es2aD8Z3Lqv0NatILf0YL9xk9_n2K-FmjMsV3lkEINmtCuQ0qApZUEQMs2_pzDrCRDQL9O",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJUbga1FbVmwARHAIi4JfIHbA",
+         "plus_code" : 
+         {
+            "compound_code" : "2RM9+88 Rio de Janeiro, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2RM9+88"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJUbga1FbVmwARHAIi4JfIHbA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1680
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Barão da Torre, 192 - Ipanema, Rio de Janeiro - RJ, 22411-000, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9830477,
+               "lng" : -43.2015444
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.98184057010728,
+                  "lng" : -43.20020497010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.98454022989272,
+                  "lng" : -43.20290462989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Satyricon",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3468,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106161645616626736903\"\u003eCamila Santos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYFxbPYblnkIl5SLYlHl0vptgWMwOniYBf0Z3MQtbloU1bEI7ikpEeO8F2nxy3MlumTCtDqTzVx6G-HEqeESY6RoaVcIWxGemTg4S-13pWopfLFL1GgeBNOoPn_M7BBz5eCKsinB5Vf1Pl87q6p-5ke3Lc2m_mFYWNpCwp6_3xBlBs",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJ_YtWYRDVmwARMVszQTjt0R4",
+         "plus_code" : 
+         {
+            "compound_code" : "2Q8X+Q9 Ipanema, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2Q8X+Q9"
+         },
+         "price_level" : 4,
+         "rating" : 4.7,
+         "reference" : "ChIJ_YtWYRDVmwARMVszQTjt0R4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2022
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. das Américas, 7777 - Loja 334 / 335 / 336 / 350 - Barra da Tijuca, Rio de Janeiro - RJ, 22793-081, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -23.0016511,
+               "lng" : -43.3861753
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -23.00037532010728,
+                  "lng" : -43.38496907010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -23.00307497989272,
+                  "lng" : -43.38766872989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Camarada Camarão",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105282728770397919877\"\u003eAlvaro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYHzqaZtqm-LFb9EusmkbVuQP99cu5kRbP-x42JnOkg6uBjTz1NSXtptqtijhb9ddK7CoffZgpPSgj1moyV0mmdwiHg9D1M0IUBIXsUoUesVueensj4mzDLWYLpGkOL2po5h6TXwj-XMP-Qk5TCmettosk95Wy0V3WkOZGkGdwy6KRe",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJn42MVqLbmwARybdWK0VlpbI",
+         "plus_code" : 
+         {
+            "compound_code" : "XJX7+8G Barra da Tijuca, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "588RXJX7+8G"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJn42MVqLbmwARybdWK0VlpbI",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2180
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Aprazível, 62 - Santa Teresa, Rio de Janeiro - RJ, 20241-270, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9248138,
+               "lng" : -43.18747
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.92353412010727,
+                  "lng" : -43.18608917010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.92623377989272,
+                  "lng" : -43.18878882989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Aprazível",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 420,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111333676217970757495\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa_mQHXBCXwNXMl1lbxFt0w2oMPcS9Nl1Q5PYndQfVGreugAiwTLaDJ1MUb5TFh1zv-g_J6kbZcFXAcIKAQ0pYN3xjBw0iVEXXZKmzVFsmOskMhjLngBsy-ABYUyaeDbc0CAOHsgZaHf7r047YmPbULwEhtAefB-iV0uIGQGjEQ4BgU",
+               "width" : 620
+            }
+         ],
+         "place_id" : "ChIJh93cB51_mQARZDVCt9ubeqc",
+         "plus_code" : 
+         {
+            "compound_code" : "3RG7+32 Rio de Janeiro, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RG7+32"
+         },
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "ChIJh93cB51_mQARZDVCt9ubeqc",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8491
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Atlântica, 3668 - Copacabana, Rio de Janeiro - RJ, 22070-001, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9809193,
+               "lng" : -43.1902721
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.97952232010728,
+                  "lng" : -43.18892102010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.98222197989272,
+                  "lng" : -43.19162067989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Alloro al Miramar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110363701427812982066\"\u003eSá\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJboB46EhxPXXFGvZEp--nJQPQIHJ8xAwZr7jrCp71Q-cgbii9J-YJcXUNd0lZT-oJHIkoQNFTglbmMlaCa2YvopZd9R3xzJAUtbVY_gyRlow9bc278v2mQl7kOs5GwCiwefSAv9actYbK1J7iTNbq_hmPGNqxz_wDHkl1vFKVrRJ4Ev",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJFYqonejVmwARbCp9HS1ageo",
+         "plus_code" : 
+         {
+            "compound_code" : "2R95+JV Copacabana, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2R95+JV"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJFYqonejVmwARbCp9HS1ageo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6415
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rua Lauro Müller, 116 - Botafogo, Rio de Janeiro - RJ, 22290-160, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9568951,
+               "lng" : -43.1765303
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.95543352010728,
+                  "lng" : -43.17509982010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.95813317989272,
+                  "lng" : -43.17779947989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Camarada Camarão",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110818888817373856990\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY4ApcllPcz80Mu-5SaAk2NuXrGvRYATwZ0KdJ8EM8L0i8QsXUh-vQjjU6qNu4Z_LG3kNben-XXJb1z3YgvNQdNQ5Upmh1uc8XOv9VAgN5vS2vsEtT1ZlZegAjEne23yPcPUYLV3DgxFJbA0tscLw23wBjVvn_TSSDSBTS-f5O8_wb5",
+               "width" : 3543
+            }
+         ],
+         "place_id" : "ChIJ48kBDj6BmQARoeg7ZegQqGo",
+         "plus_code" : 
+         {
+            "compound_code" : "2RVF+69 Botafogo, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2RVF+69"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJ48kBDj6BmQARoeg7ZegQqGo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 610
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Atlântica, 1020 - Copacabana, Rio de Janeiro - RJ, 22010-000, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9644981,
+               "lng" : -43.1733172
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.96316267010728,
+                  "lng" : -43.17209002010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.96586232989273,
+                  "lng" : -43.17478967989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurante The View",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3264,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117224658920710870438\"\u003eANTONIO AUGUSTO\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbRW4f6XkXy5u6ecKS_efrERLLKZv0hPQhWs4HfRD7xd-4KB0Qd6wIScXg3yErnQJCoRb1qYiVoAPFm2d3HVzGT_fBb1MO42J8Mpp_ERZP79c2r9qcHLM1DlKjfoUw8LEXurBEmqQXUl0lC4fTeM8DX35aPKZiz5X1bunTRWsM8J9IK",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ7XHSLAGAmQAR8qKxN4y6xiQ",
+         "plus_code" : 
+         {
+            "compound_code" : "2RPG+6M Copacabana, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2RPG+6M"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ7XHSLAGAmQAR8qKxN4y6xiQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 90
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Jardim Botânico, 971 - Jardim Botânico, Rio de Janeiro - RJ, 22470-051, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9704907,
+               "lng" : -43.2224114
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.96902422010728,
+                  "lng" : -43.22122037010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.97172387989272,
+                  "lng" : -43.22392002989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Rubaiyat",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 608,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113465516916692029308\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaBJx6IQ_aiH-_cuxONOKAGBjNYGS-ENZfvSHe7aivn07jhk56FQg5gtz4wbJ1mJaKswnlj7hYoraqdCDYsxnB0uNI-7uG2zf9hEc5sl98pO7F1jM5UGeANSrhC-eSy_YNIo9UrZGKFrqArF0hl-h_Miwai47Tk3XTD8pmeit6aaope",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJtxa1r7zVmwAReqbulxj-Nj0",
+         "plus_code" : 
+         {
+            "compound_code" : "2QHH+R2 Jardim Botânico, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2QHH+R2"
+         },
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "ChIJtxa1r7zVmwAReqbulxj-Nj0",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3540
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Alm. Silvio de Noronha, 365 - Centro, Rio de Janeiro - RJ, 20021-010, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9138499,
+               "lng" : -43.16681850000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.91250007010728,
+                  "lng" : -43.16546867010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.91519972989272,
+                  "lng" : -43.16816832989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Xian Rio",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 682,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114524337284781862150\"\u003e-_-\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ39OnV9SYoR-1-quhabTJAewfnbnn91IqqA3QH--rF6G5OXaYk1HoEKGdiF4IIk42XVe1Evkml9IacsqCuTSIl72Jz1P666AD6fyf7D71VCr6cMTTVhqIuY-ymym7pSKT8Qp9oVne1vBldQ4yEFXNqjgq0KR5WjD5XNwlI7iZtsHnj",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJzRXrptyBmQARwwyUOYlKvtQ",
+         "plus_code" : 
+         {
+            "compound_code" : "3RPM+F7 Centro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RPM+F7"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJzRXrptyBmQARwwyUOYlKvtQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4061
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Visc. de Itaboraí, 8 - Centro, Rio de Janeiro - RJ, 20010-060, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9013405,
+               "lng" : -43.1755447
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.90003642010728,
+                  "lng" : -43.17421412010727
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.90273607989272,
+                  "lng" : -43.17691377989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cais do Oriente",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2848,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103882649661979235633\"\u003eCais do Oriente\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYHHh15HS4XXCv5qVW8TaXbqr9oOxa3say5kBl3FDxF2ND1A1GABaCetyE8FifnHtBEjaASZVHhfJ4OXT7oOZidmq1ti3TN2YII-K3zszdBgkybBdRe391GBSTWDq9Kn73Ag2fJxpi3hgBXM_tXI3oA9srg25DO654nEc_2Y_TMR_n7",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJm5_MuVh_mQAR5R5sZTAbt2Y",
+         "plus_code" : 
+         {
+            "compound_code" : "3RXF+FQ Centro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RXF+FQ"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJm5_MuVh_mQAR5R5sZTAbt2Y",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4314
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Barata Ribeiro, 7 - Loja D - Copacabana, Rio de Janeiro - RJ, 22011-001, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9624759,
+               "lng" : -43.1760815
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.96108697010728,
+                  "lng" : -43.17475892010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.96378662989272,
+                  "lng" : -43.17745857989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Galeto Sat's",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113575762715969664489\"\u003eB Kalsey\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYnp0Lkiu6AtZguOugGkAK6jAFtpHCvye7QXAN6tR6zZQshElh-2E0QO9V_KNbM4mi779pu-UXSXib1YiXSrHrmF1HC2DwG_hsY7uMSrk9jiekk7pfaPdCkMATr3K59BG0bZGOClM2QOdR5R3FrY6gm9zpoOCLJyQkZCATp43C7xUVu",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJKS3qov9_mQARIOHo8Du0qyQ",
+         "plus_code" : 
+         {
+            "compound_code" : "2RPF+XH Copacabana, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2RPF+XH"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJKS3qov9_mQARIOHo8Du0qyQ",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3493
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tv. do Paço, 10 - Centro, Rio de Janeiro - RJ, 20010-170, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9041687,
+               "lng" : -43.1736684
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.90278012010728,
+                  "lng" : -43.17229867010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.90547977989272,
+                  "lng" : -43.17499832989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Hachiko",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113648574721573002530\"\u003eFlavio Krutman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYBQSqzYRGYCpch-l_8GOQRkOwdjwbiPfXmNkPm2Q5VL2TS3mwpQTId-x0Cj2GIq3qcddPi5ayUujfExS789h4zhg2CDDSnoGtSTPS4MB2E9r3meI880ytMWOIu5iS3_WEZe7aIB9mpkRU6blYiUfsYNQlauFfer2vQKdlzYb_P19mQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJhbGS6uGBmQAR48UT1UmAxbw",
+         "plus_code" : 
+         {
+            "compound_code" : "3RWG+8G Centro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RWG+8G"
+         },
+         "price_level" : 3,
+         "rating" : 4.7,
+         "reference" : "ChIJhbGS6uGBmQAR48UT1UmAxbw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2046
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Bartolomeu Mitre, 370 - Leblon, Rio de Janeiro - RJ, 22431-002, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9835344,
+               "lng" : -43.2230006
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.98221952010728,
+                  "lng" : -43.22180867010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.98491917989272,
+                  "lng" : -43.22450832989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Giuseppe Grill Leblon",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109056930741066618147\"\u003eVanalai\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYhA-fcDYmPpqES-gFeIBOWx9C2ZEjHTmJBs-Ko_RKHoZj7u6Jb0pD3Nq2aBqNlVOqSl2v-dw0p3isVt8nRyTGKxiJruvz8kQI1HOjQ3dPrSshhmLfYg9X3oV1eVkD4DdEnXPwXaRNWyE0qdDiO6MjHuaf6peUp7PM7qTJ5MjRRXZ7a",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJgeOHeLLVmwARMb1FSRWEEi8",
+         "plus_code" : 
+         {
+            "compound_code" : "2Q8G+HQ Leblon, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2Q8G+HQ"
+         },
+         "price_level" : 4,
+         "rating" : 4.7,
+         "reference" : "ChIJgeOHeLLVmwARMb1FSRWEEi8",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2062
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Joana Angélica, 40 - Ipanema, Rio de Janeiro - RJ, 22420-030, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9854504,
+               "lng" : -43.2049363
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.98409637010727,
+                  "lng" : -43.20362697010729
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.98679602989272,
+                  "lng" : -43.20632662989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Zazá Bistrô Tropical",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109638257000238729330\"\u003eSilvia Garrido López\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZvTFM80HKR7mZX09hCBuB0AaiejamCkVm1J2tl0BM2WUJ605py7xH2XQ3mfvXbPVOWr7uqYD8ga3xBMTK3baW_R6RcUvCGdeV3Jc5y9u6HtH77ut-_XlbGxHE1yEC4vep4ccp_QyFXCCsgBJnNkLMDXFOPYHLt-3dNCKVJUhy8rxii",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJe3Hs4ATVmwARsLPcaC--ux8",
+         "plus_code" : 
+         {
+            "compound_code" : "2Q7W+R2 Ipanema, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2Q7W+R2"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJe3Hs4ATVmwARsLPcaC--ux8",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2614
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Infante Dom Henrique - Glória, Rio de Janeiro - RJ, 20020-140, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9195896,
+               "lng" : -43.1692002
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.91830087010727,
+                  "lng" : -43.16790927010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.92100052989272,
+                  "lng" : -43.17060892989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bota Restaurante",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103801651734085098303\"\u003eAlexandre Werneck\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa53pGk_I4ZMHWZPOGc78Zw2nx04Zb2BShETXC5I6fBhGjBh4diN_WaUdNXHmOhSQ8p9cALrKe4bp1LloDTuhja4JSJuie722wundCHOPUkm-PQhHYvmMnLwJX0udChgN15nJ6GkMiIo_BCGB8pHWQYrjQCLFodmG2tvcAqAw8hkgLR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJY2l-zV2BmQAR9bCBVj-nqFQ",
+         "plus_code" : 
+         {
+            "compound_code" : "3RJJ+58 Glória, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3RJJ+58"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJY2l-zV2BmQAR9bCBVj-nqFQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2016
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Vinícius de Moraes, 124 - A - Ipanema, Rio de Janeiro - RJ, 22411-010, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9835828,
+               "lng" : -43.2026978
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.98222977010727,
+                  "lng" : -43.20140117010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.98492942989272,
+                  "lng" : -43.20410082989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Didier Restaurante",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112448582237311527947\"\u003eGustavo Alessandri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbWLDWqd5C7uEhHi_MqsfA-nx9agnYgjt7eysKVl6OgWHIGj731vo49IPM1BhKo9w-8gkaZVeBRfOagqzit5TN_qaZ9qqdavd8J3Yz7mv-ybZrBuU9_wdTHheC_lkp9oF9Jxe2vqOG-P6y7FvE2BrWDh2M0w9JYHbeip-jMBj0z-UPD",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJE0KniiHVmwARy-paa3Ow2yk",
+         "plus_code" : 
+         {
+            "compound_code" : "2Q8W+HW Ipanema, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2Q8W+HW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJE0KniiHVmwARy-paa3Ow2yk",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 484
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Voluntários da Pátria, 46 - Botafogo, Rio de Janeiro - RJ, 22270-010, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9508654,
+               "lng" : -43.18333639999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.94959217010728,
+                  "lng" : -43.18197642010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.95229182989272,
+                  "lng" : -43.18467607989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Marchezinho",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3169,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113139497588060785957\"\u003eAndré da Costa Vasconcelos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJauLG4K-Wk_eZ0bc04NEGX36lVIL1N9ZPssdyv_srFgyQlBpOvrpRA7CDQaacXCAV4mt8eZaAia3N3FOPuHCjmnMTf__SEsWYEW22SuGLzjWyMv3yrWhCmIYE33ktRNEXrnjiNLOZViaea10OxzxXKCqzgbRyzj0063bw-zS9ueWyv0",
+               "width" : 4211
+            }
+         ],
+         "place_id" : "ChIJgxXpmeZ_mQARTwjhrI1zsrM",
+         "plus_code" : 
+         {
+            "compound_code" : "2RX8+MM Botafogo, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2RX8+MM"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJgxXpmeZ_mQARTwjhrI1zsrM",
+         "types" : 
+         [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1142
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Reporter Nestor Moreira, s/n - Urca, Rio de Janeiro - RJ, 22290-210, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.949045,
+               "lng" : -43.180148
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.94765042010728,
+                  "lng" : -43.17904892010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.95035007989272,
+                  "lng" : -43.18174857989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Fogo de Chão",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 639,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107179885447852233243\"\u003eFogo de Chão\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZzYZrX4InTzp49ZmFB0Z1je68B4dvvyelAArS3mOjpKuPd-CHR8IkA7aOzLSpzZV6nIi9dgxCucEiKvOtBofWU5K2k4yIVeSpn8BkYasr_NUXjPMCczIId2JdXrt9taqFJZfZLg8OoubsX9P1evMyBppBcktbUZdfdCbVEUk1Z661w",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ3y0eRfF_mQARRi1YDN_OqEI",
+         "plus_code" : 
+         {
+            "compound_code" : "3R29+9W Urca, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "global_code" : "589R3R29+9W"
+         },
+         "price_level" : 4,
+         "rating" : 4.8,
+         "reference" : "ChIJ3y0eRfF_mQARRi1YDN_OqEI",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 30295
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. das Américas, 3900 - Loja 301 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-102, Brazil",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -22.9973767,
+               "lng" : -43.3511919
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -22.99611437010727,
+                  "lng" : -43.34974142010728
+               },
+               "southwest" : 
+               {
+                  "lat" : -22.99881402989272,
+                  "lng" : -43.35244107989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pobre Juan",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111262102303608656319\"\u003eAlcides Santana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZsWqVK3I43O02ABo2RIKgLxXT4spZZYeag7cv4sGg3i9GhI5MqhrVwcc68Cjljao6cESl5YrkhJfB25dGViMhEy6Fecee9I3-QW5v6bL-ALdnE-cbolWT1bbTXufFYw_YxYdvKAOb3EKmlN21ckco9x-XXRHV1-_tzUg23z14rYoyt",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJtf_olT_amwARtm3_H3TylSU",
+         "plus_code" : 
+         {
+            "compound_code" : "2J3X+2G Rio de Janeiro, State of Rio de Janeiro, Brazil",
+            "global_code" : "589R2J3X+2G"
+         },
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "ChIJtf_olT_amwARtm3_H3TylSU",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1724
+      }
+   ],
+   "status" : "OK"
+}

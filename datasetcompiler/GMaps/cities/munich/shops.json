@@ -1,0 +1,1224 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbEJJc0cOmRTJgXO-bRZS4zzfSGpacn_aIF68RRMYxLkhLYTOiNnHncUOLzLum7chZhS3z8zZD5Wh_iy4u3_5TlnLZ3e84XiZnhEfXaoglo8GsTfAok9fd4T5v15ohMiKuSqnZH8S1UpQdqSR7H6AcDd0_NOZ7uAKJWAIeAcLFaRQKyIBQgMJNUhwukVIMycxmUNRPFnquWIBvG6gavJeoDNCu3sSAtGG_ch4ZCdrSTp0RKb07NWVWDq980z_XtU1ibFAqUW5-xXKky0gAeFfaM8-A1We-L-V3ElfSDPnJomkOshlU0vO1qGdAMCyPdZohM7cKslHMykjnAn03WPKOLQ_KM9XcOZGbVtdgmgvhv5PN6r1zjup2qWTmjuanvTquLBNl9_rdfRkiVVw",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kaufingerstraße 9, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1374795,
+               "lng" : 11.5731401
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13863862989272,
+                  "lng" : 11.57428092989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13593897010728,
+                  "lng" : 11.57158127010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Kaufingertor Passage",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102031904581592302158\"\u003eKaufingertor München\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYsvSyISKB8j2VD08Ov9u4rGq5Z7nB7cMgdJwenY0zb-XD_0Ub1Dsf-zT1fECWIqzX1WZRt2Bh8F_jx_W5ry-wDtUKttwnwHDrrooaUQACOZdhxWJTivZLZIjYoNr1vDI9pYVh0v6lg_IP-u1g0xzcP4Z-q7ZlqeNxUFWKdmSKa8sTZ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJTSaT4fR1nkcRxbGh-3vbwos",
+         "plus_code" : 
+         {
+            "compound_code" : "4HPF+X7 Munich, Germany",
+            "global_code" : "8FWH4HPF+X7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJTSaT4fR1nkcRxbGh-3vbwos",
+         "types" : 
+         [
+            "shopping_mall",
+            "shoe_store",
+            "cafe",
+            "clothing_store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1891
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sendlinger Str. 10, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1362347,
+               "lng" : 11.5714269
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13781462989272,
+                  "lng" : 11.57306862989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13511497010727,
+                  "lng" : 11.57036897010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Hofstatt",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102320879882938850191\"\u003eKarin Lissl\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGpomY6MwaLu5l5WBRLZfPp5tDJsQ88-OJmjK5QbdAwreEXQCSPJiWyG2iY5JmFxmKRulFD0jbhtYdRY2YDwY3oAlpcSI72mNSxpIauFzM3Ii13_Hq_xfw_-jcZll3Qu6jsvX9jk4ElCodnDuXpCQ7gUkrBx7qEuhJ4tF-jNS2Bj8h",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJEXHxc_V1nkcRhrpiaHG_Wk0",
+         "plus_code" : 
+         {
+            "compound_code" : "4HPC+FH Munich, Germany",
+            "global_code" : "8FWH4HPC+FH"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJEXHxc_V1nkcRhrpiaHG_Wk0",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3991
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bayerstraße 10A, 80335 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1410201,
+               "lng" : 11.5603954
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14242142989272,
+                  "lng" : 11.56178072989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13972177010728,
+                  "lng" : 11.55908107010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Einkaufsbahnhof München Hbf",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2556,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116713264771957326434\"\u003eDave Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZVM2iuT3-pywDJZgVWQJllsX-GtXPBtRe7E_GLQTmutYm-JMXuXEDBm9GAPuUKGUdcmq6ZP_q3BFs4Y-rsdAR4o4AOdGRuyBv_Afv3oSg4Khx7V_fSYHzsZN4PnQbwMbnv7LBOptpoRHp5blN8oGDA7HwQozBqffrpdACTcGzL6rM",
+               "width" : 5382
+            }
+         ],
+         "place_id" : "ChIJ_9SHCPl1nkcRn0XtfIQGjd0",
+         "plus_code" : 
+         {
+            "compound_code" : "4HR6+C5 Munich, Germany",
+            "global_code" : "8FWH4HR6+C5"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ_9SHCPl1nkcRn0XtfIQGjd0",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2754
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Karlsplatz, 80335 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1394134,
+               "lng" : 11.5650719
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14073542989272,
+                  "lng" : 11.56704112989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13803577010728,
+                  "lng" : 11.56434147010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Stachus Passagen",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116520324933360957955\"\u003eЕкатерина П\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYRJCXUpHJMfp1izQaoIGuLzKiNkOmnxdzpDv6IbxoOUiaHH2F0jvoZFtqdgHpKmBfw5Sli-1cQZxPhsX8N05FiXswh9JymL9ngn8Z-95cl6DfGjhjr_nMS8-J5dnPHjecMmdnWLm04nEtHYuXQloNQsEsgZA7lm368JXf0h0OVcVkn",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJZyyg4fZ1nkcRy8htlfS30XA",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQ8+Q2 Munich, Germany",
+            "global_code" : "8FWH4HQ8+Q2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJZyyg4fZ1nkcRy8htlfS30XA",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11093
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Platzl 2, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1377268,
+               "lng" : 11.5799355
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13904582989272,
+                  "lng" : 11.58111832989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13634617010728,
+                  "lng" : 11.57841867010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Hofbräuhaus-Souvenirshop",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106695389359546983612\"\u003eJuppa Bex\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaTamFGfVSh_vP-rD1vj8cV6y3oBxBR-2bm1R5ER-sE7gjeg5SPgVx67WPkjWrY6Po5oWIbZIf1QlO86ohZht6GmgyIET5E_s0g7staXV2V19OgtHeYFeOqxJ4bCbZ6CWD6mESJeDYNeSR7mD6DViIwj8LL8m_NlpLox034ZyzhhB2f",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ0Um1OYV1nkcRwz0O1rbfRC4",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQH+3X Munich, Germany",
+            "global_code" : "8FWH4HQH+3X"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ0Um1OYV1nkcRwz0O1rbfRC4",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 20
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Asamhof, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1353814,
+               "lng" : 11.5699698
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13672972989273,
+                  "lng" : 11.57131732989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13403007010729,
+                  "lng" : 11.56861767010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Asamhof Passage",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3265,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105881285521567303432\"\u003eLouis Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJacHMKnex6jVSnbKaOgDqehK0RCmAz20XvlMWuWStHGYLWQzBjDaWOiy4MGFt72R_-62YZ4FIgSuPVK1ci83x9CMr-c2u7Osg8KDYGGHdFV0p__zZmfzOQZGXVvnJPDMOZ1wtmiktaqH5N84AZuyJhrFxMLMLzMe4-WWLzSMoQ4WFl-",
+               "width" : 4898
+            }
+         ],
+         "place_id" : "ChIJQfms__d1nkcRKib66F101fo",
+         "plus_code" : 
+         {
+            "compound_code" : "4HP9+5X Munich, Germany",
+            "global_code" : "8FWH4HP9+5X"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJQfms__d1nkcRKib66F101fo",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 64
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Theatinerstraße 15, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.14069139999999,
+               "lng" : 11.5754466
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14197897989271,
+                  "lng" : 11.57626012989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13927932010727,
+                  "lng" : 11.57356047010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Fünf Höfe",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100748662484944828749\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbgHDRzRi4qPG_XJBk_fs2Z8WHHpARv40fKVJPrNcrvyi6tsrbsZHE_jrg0t4ZXGELIxnLsn1ZRS_EgLsDTlOHnV2G2hUfpH9MOUm6P66B_KsQ7rlYQ9HLmZ9sUmIhG80sXMnyL6vuD4P8ExOGNqcEtvO_NiaRsz4Igt-0qZZygGIuP",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ1wd2Aep1nkcR0alZ55hyGmM",
+         "plus_code" : 
+         {
+            "compound_code" : "4HRG+75 Munich, Germany",
+            "global_code" : "8FWH4HRG+75"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ1wd2Aep1nkcR0alZ55hyGmM",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5233
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Neuhauser Str. 39, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1385594,
+               "lng" : 11.5678474
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13992887989271,
+                  "lng" : 11.56868612989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13722922010727,
+                  "lng" : 11.56598647010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Munich Village Fashion Outlet",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116941275820489450615\"\u003e116941275820489450615\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbuKj8lkLjuxYvv5qG3YUM_Vx6lIJ4GI0fMNkDA1UKaZvZSw1xca5HYzwPqVITGOsIhjPmqEFiyZERvtxP5O744KwnYg3WEGyXtc--PQDP-pbrlzM5vi1WRXaGXP1DpVjairgZ23IPVkBrVMSx4h65ZWuy2MrtMtfewzMK2QDX1FP_O",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJrW_by1t1nkcRiSF6DdS-C6A",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQ9+C4 Munich, Germany",
+            "global_code" : "8FWH4HQ9+C4"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJrW_by1t1nkcRiSF6DdS-C6A",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bayerstraße 3-5, 80335 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1391419,
+               "lng" : 11.5638216
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14059202989272,
+                  "lng" : 11.56526742989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13789237010728,
+                  "lng" : 11.56256777010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "85 Eighty Five Munich",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110443715797099915973\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYZbfsSvlILC8H_buBN_J1ABrmwbpgsWEBfFRkwMJhBNL5iJfw-8Ut_NjHF86C02t6syAS-0bxpokxMPens2oaRnpdaRptIB-FjUVAPKF0Lbvp91ToHKuumzt31aAoeLFQURrsXGN64LU8bnW1f0ShhjaTC9uj-oVvE0XqNqVqDI026",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJ7mTbvd1nkcRQT9cwTeJKBY",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQ7+MG Munich, Germany",
+            "global_code" : "8FWH4HQ7+MG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJJ7mTbvd1nkcRQT9cwTeJKBY",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 208
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Neuhauser Str. 18, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.13947839999999,
+               "lng" : 11.5681636
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14098437989271,
+                  "lng" : 11.56935292989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13828472010727,
+                  "lng" : 11.56665327010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Baccarat Shop Im Oberpollinger",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 720,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114786115647722493374\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYQTethyNteKH_V0Bf859WPmmx5AA6n9OtmtCZ-AuljU_tCqSdRA7iFM6PM8usinV8gLVkklPEGMp0pXo-4cpxNZOCrjV5hs9xr5hqV4fQq6RgvJNmid1BnS-fo4xkr3QdWGV3plG0iUA0qqsm_lzyo33mIjKK_-liFEnuXz3rReBLd",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJN6I1K611nkcRz0xczieXdK4",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQ9+Q7 Munich, Germany",
+            "global_code" : "8FWH4HQ9+Q7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJN6I1K611nkcRz0xczieXdK4",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Maffeistraße 7, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1394428,
+               "lng" : 11.5739674
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14076227989272,
+                  "lng" : 11.57523377989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13806262010727,
+                  "lng" : 11.57253412010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "LODENFREY",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107899920546016668900\"\u003eChristian Melius\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYJ3qCHz8nKzpEOGsD2WK1HTP-lWostA4D_1Nt1DqT3LVEYAgDYK7mcGcbf_z0rStl7dzlrfZzXh32VeX_6ConfZpET8miX6Hq6180mkLqvhgza4JYumEpC9NGnOJbcMwUt9bkmcrNcXHxVc3Zp7xkesOxTH8d5Q4YXCFOSLP6nLx9X",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ113fmPR1nkcRdBrceSEtgqk",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQF+QH Munich, Germany",
+            "global_code" : "8FWH4HQF+QH"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ113fmPR1nkcRdBrceSEtgqk",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1128
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Perusastraße 2, 80333 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.13980489999999,
+               "lng" : 11.5766708
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.14104682989272,
+                  "lng" : 11.57842652989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13834717010727,
+                  "lng" : 11.57572687010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Stone Island",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2731,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101982735344054364332\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb7Y8SQOVWKUA-inhLvv7E2nlerJe1YF_HIid3TWiva15ytXs_I3wifGrfLiFMMoBbY5qG9HHGU3Ed5NtcziNwGnCseRqeV28Sf_VgFB4J4ch_wQycaRi94XPuSkoLnafhwVWxR-_NWTJVZQHIZo8l1xRrf01sI0Dvs7bRi6GuE7J-y",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJsSzHTYl1nkcRaToRNnyn33E",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQG+WM Munich, Germany",
+            "global_code" : "8FWH4HQG+WM"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJsSzHTYl1nkcRaToRNnyn33E",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 231
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Orlandostraße 8, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1375121,
+               "lng" : 11.5795966
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13888327989272,
+                  "lng" : 11.58095897989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13618362010727,
+                  "lng" : 11.57825932010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Souvenirs Flohr",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1872,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112018074022755620002\"\u003eMan Sang Chaung\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ7fglmKwaq5NCRRK6LNR0cN5jKCjt-mkHfqhSeftNEdPlmrWZ-mnbSzQbri6RWWA0CItRHpl9g0KR6zHypLgje3LCs4QKVbh7IPrxMAk0p6f3p_QtRTPVmgZTPx41jVdJxIWYK5X41iUfkS_soWf0zeV9CJ2R3hT6G85Gr976vNhkL",
+               "width" : 4056
+            }
+         ],
+         "place_id" : "ChIJsUonuot1nkcRGKuBmb33znY",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQH+2R Munich, Germany",
+            "global_code" : "8FWH4HQH+2R"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJsUonuot1nkcRGKuBmb33znY",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 32
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Neuhauser Str. 19, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1382582,
+               "lng" : 11.5699238
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13932147989272,
+                  "lng" : 11.57088432989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13662182010728,
+                  "lng" : 11.56818467010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Joseph Pschorr House",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107612236992796710606\"\u003eAl-Fatih O. A.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZUUvCBe-5GW-gzRGdwBL6LDiQctF5VR6ggj8unPCUraO1FSiJGnycpv1bOFPFQDOZtwF8N2F1Eqdp2Q5oyYVX4yFLZZu3BAA7LYvrxx4QyPQJHrxhNlKSc715NoQswSpGBs6Kp77B3ruofejGFnVgF9z2pK64BKGWH4X5wQP7EjYi3",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJT6PgMPR1nkcRkRNNrKqmqVU",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQ9+8X Munich, Germany",
+            "global_code" : "8FWH4HQ9+8X"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJT6PgMPR1nkcRkRNNrKqmqVU",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 507
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sendlinger Str. 11, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1356805,
+               "lng" : 11.5716532
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13704487989272,
+                  "lng" : 11.57275772989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13434522010728,
+                  "lng" : 11.57005807010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The North Face Munich",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102567798294329530134\"\u003eShah Zalak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYLISFJJ7KHBY7IeBNeKI9SB_PsItmBzr33EQjgydvjm64KmUy_IJr13Cwvsztne1Le2otE0yYc-UHRLNDXRzJ4Iuzv1WH-2MQNFZdtwVaGHs9R8y-DrV1rLcovr1MRZ39YvI1Znk0OFOg_a5mASHmzF0x-z8EPBOziQsz9nDa2sIgY",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJaeqDevV1nkcR5ZCHsvJcvqk",
+         "plus_code" : 
+         {
+            "compound_code" : "4HPC+7M Munich, Germany",
+            "global_code" : "8FWH4HPC+7M"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJaeqDevV1nkcR5ZCHsvJcvqk",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 362
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hanauer Str. 68, 80993 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1835798,
+               "lng" : 11.5315283
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.18498332989272,
+                  "lng" : 11.53275022989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.18228367010727,
+                  "lng" : 11.53005057010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Olympia Shopping Center",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2627,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106770765266467252580\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJazzig42L6m8PX3I_KdWieyDl79HFf_1mH5qYQaLcFlveLw9IVPNp1SXoTKFBQteHPjH3abS9r29362gqneAZJ1-fzfhgi8oteQpkyKxdpl2pyyWiWbBtv5Oyi89OYN6vdnRDG1QzafdMVMs8YjzDS7IGWGZ_GvThqg7bzb24z6qnfy",
+               "width" : 3947
+            }
+         ],
+         "place_id" : "ChIJi3awIA93nkcRnrJtdjL4Mj0",
+         "plus_code" : 
+         {
+            "compound_code" : "5GMJ+CJ Munich, Germany",
+            "global_code" : "8FWH5GMJ+CJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJi3awIA93nkcRnrJtdjL4Mj0",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19984
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Frauenstraße 22, 80469 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.13429,
+               "lng" : 11.57853
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13573867989273,
+                  "lng" : 11.57985417989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13303902010728,
+                  "lng" : 11.57715452010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Vintage Love",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 785,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113138105318424480566\"\u003eVintage Love\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZhd2HOVzx_0uVmP2-OF5p-0oLAKXt-SLb7FMI5v5Tz_6L6um4mpM0sI3GPFId-sKYHYM-nUm8fNDDwpvpRVpDMXpbQyIEA7dJWP0wGRPGt6uNbJXqSZibQ6-Z0SKkTzBOdNo09yo3VgU0z-JzKyBOcWmhYA0LRmaPRBXD5cVTFN92H",
+               "width" : 1466
+            }
+         ],
+         "place_id" : "ChIJMSyLdYp1nkcReucWJiPUCwM",
+         "plus_code" : 
+         {
+            "compound_code" : "4HMH+PC Munich, Germany",
+            "global_code" : "8FWH4HMH+PC"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJMSyLdYp1nkcReucWJiPUCwM",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 35
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Neuhauser Str. 2, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1384249,
+               "lng" : 11.5711408
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13945257989272,
+                  "lng" : 11.57250042989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13675292010728,
+                  "lng" : 11.56980077010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Max Krug",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3888,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110058848532626643974\"\u003epaolo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbHfxqJfVfr71U_ULGRnavVG6GTRM0R_2MQ-i4V7LgCbttWh8XKdnxw4ZeTgFiMAgM3fLb2hvQPAo6aZ5iFCeK0h2WnovyujXmzoxCMOEMB9DcQFu9Q2xM0WMh9_zB-hCa2RB6trkWDKsTX_50v6aoV585kL9CfBasNdXyX2zjJ6Q52",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJw1ViT_R1nkcRocgZt26otx4",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQC+9F Munich, Germany",
+            "global_code" : "8FWH4HQC+9F"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJw1ViT_R1nkcRocgZt26otx4",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 188
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Färbergraben 20, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.13652399999999,
+               "lng" : 11.5722552
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13787557989272,
+                  "lng" : 11.57365147989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13517592010728,
+                  "lng" : 11.57095182010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Titus Munich - Skate Shop and streetwear",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108037819202213193567\"\u003eCurtis Cummings\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZTgLo-qfzv2-M3cXDvuUEytGFPup2NfhNAnc88-UXfiYHjy0iwjuPgI4XxOy2nebmSF_WSUZ25FSxe7cL_2nlQzg5t5pwXSgqFf4jqFwEuC_bbAyahqZzVqN-iHbGwUb9fh1xzL891nc69b4wDxM1rra-q69tBe8yECj4pkNZFnvkr",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8ZPLqfV1nkcR5okuDiXWqcg",
+         "plus_code" : 
+         {
+            "compound_code" : "4HPC+JW Munich, Germany",
+            "global_code" : "8FWH4HPC+JW"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ8ZPLqfV1nkcR5okuDiXWqcg",
+         "types" : 
+         [
+            "shoe_store",
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 232
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Altheimer Eck 6, 80331 München, Germany",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.1375272,
+               "lng" : 11.5705781
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.13883032989272,
+                  "lng" : 11.57191127989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.13613067010728,
+                  "lng" : 11.56921162010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Solebox München",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111020723816017631170\"\u003eFreddy Schwoerer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaODDjLEYbvChN7jL5cahxue1dcT01WD_NlUupyAWYVEzpeVqB_7dH0WpORx8Ih7nMe6eFamjyhwEswlokDawSM4KuzlLCZ0tbzj5qjaSWdHcnE2iIeB4AvOSI3All3W1gi62iAkg7OTZDGa_ml7P--mH5vIEOxa2eUOLVokF5NxYua",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJCwp5s_V1nkcRxyQUQ3_PGBA",
+         "plus_code" : 
+         {
+            "compound_code" : "4HQC+26 Munich, Germany",
+            "global_code" : "8FWH4HQC+26"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJCwp5s_V1nkcRxyQUQ3_PGBA",
+         "types" : 
+         [
+            "shoe_store",
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 468
+      }
+   ],
+   "status" : "OK"
+}

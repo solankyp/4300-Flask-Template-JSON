@@ -1,0 +1,1232 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYkQt4y-qXRZgySqq8A26d4jMLihWxzrk-jDamAR-uhzexDpNzdyXVtmn5eC1mOKjVodCDiVUUUvFJQgYvAxZ48y6zOVO_6xSe_uCc6xKdVppPz3aA3gOSZkBPVdym6ae0yGWAYf8QFD6XkP-zyMW1ZeZuvzZyJJfiQ2GTR1KODHq8PL9UDG8u2NorjGbesi5-Nsj8tgPz1EVptkNrzGbWHdXhEojZmycQWfOI34aCalNkHeSZGPQ8kYAKn9l0yCYNVrdOcd3kW3PfeDgzG3sS0l1hUaFLyb8HSfVZFTYF6vnmCMxlO8wWcCkMsEr-b-H6mzKNaFvdU_BeOiXgvW4QskuOe350DLWbHo1xPo2oIYMkRjTAs5n82I2ObKsGfSSKGlzYjXVoamhBVPiGT",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Heimpl. 1/5, 8001 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3708369,
+               "lng" : 8.5488348
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37212942989272,
+                  "lng" : 8.550131779892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.36942977010728,
+                  "lng" : 8.547432120107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Kunsthaus Zürich",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112230693218467756457\"\u003eCharles Whittaker Curry\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYlm46dglJkXIBteY5xwyzAcx1rq1icxFkkJblwEcKoL9VeALQNzU9nMuhMK_R_FDPNB2KB0pPmhKHzjKxCXhL07vc2tbZqh7hUEfEYo6teF7fxtNL2X3mKiDQmFObkyhjyJKMzKj7fMP4C-gxm0Y1eZAuqcM4KwlKj32Z0t4H9JSWh",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJw12aEaygmkcRowvgojyyzdk",
+         "plus_code" : 
+         {
+            "compound_code" : "9GCX+8G Zürich, Switzerland",
+            "global_code" : "8FVC9GCX+8G"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJw12aEaygmkcRowvgojyyzdk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6421
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Museumstrasse 2, 8001 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3791037,
+               "lng" : 8.540542799999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.38019812989272,
+                  "lng" : 8.542036179892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.37749847010728,
+                  "lng" : 8.539336520107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Swiss National Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114463757146278597669\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYh0ntV5DeDXDaaZ5RchkqM6aBHc2e5ozIUfu5I6g9FtkvYr_5bpxhTz2mZMoEjjCsj5mqe7pyhc8aQoFC-mBs9BoL2cPH0RSI247MtjFya7mJ2swIJrUy9AAtPyb8df10Ld17F89E3kwrrLz02LH__IegvL9y0YSdR1__k4FO1MEWe",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJLYUQHAkKkEcRzA4gWFr1Hf8",
+         "plus_code" : 
+         {
+            "compound_code" : "9GHR+J6 Zürich, Switzerland",
+            "global_code" : "8FVC9GHR+J6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJLYUQHAkKkEcRzA4gWFr1Hf8",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7950
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gablerstrasse 15, 8002 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3589294,
+               "lng" : 8.530225
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.36002502989272,
+                  "lng" : 8.531523029892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.35732537010728,
+                  "lng" : 8.528823370107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum Rietberg",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104944947478660976320\"\u003eAayush Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaw2JTOia94V38BbIV_AyHo-XpmBqf8PFS_RB6Bj8_cbPXcJiy-tC2OiRkIh2E1MuYbL1xH_2yBipFfx2-4j-J8Nfkd2RCcRXDIz4piAVQ-C6KaQz_89REwzDuV8rV8wOggnf0gjpGsRpzlM_TA20Tt-GVUde6UCxJZHtQ9XTqEeuBo",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJgcawFfsJkEcRnXtmMoXBxJ4",
+         "plus_code" : 
+         {
+            "compound_code" : "9G5J+H3 Zürich, Switzerland",
+            "global_code" : "8FVC9G5J+H3"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJgcawFfsJkEcRnXtmMoXBxJ4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1214
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Seestrasse 27, 8002 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3633348,
+               "lng" : 8.5317033
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.36490432989272,
+                  "lng" : 8.532926579892724
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.36220467010727,
+                  "lng" : 8.53022692010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "FIFA Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118387705763486586553\"\u003eHimanshu Sathe\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaolbs50l5T7ltZisDd2TdZ0bhtLBNgfZTNqnbs3IB6yg3LoM_a-2G8_0O4UuT7cIy3sKJ8NhkZvyPU8T7hvm4UqYYgrjXDmcA2cQKQ1ZwTN-WyohKQ5w9H40e2ciscpbdXmCJMJdVEOPml1SJvVzGmG1_afe1hONwMy-Chx_33REnw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJs__AavkJkEcR7cf-Mk_UPRU",
+         "plus_code" : 
+         {
+            "compound_code" : "9G7J+8M Zürich, Switzerland",
+            "global_code" : "8FVC9G7J+8M"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJs__AavkJkEcR7cf-Mk_UPRU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4157
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pfingstweidstrasse 96, 8005 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.390136,
+               "lng" : 8.512039999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.39151207989272,
+                  "lng" : 8.513572529892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.38881242010727,
+                  "lng" : 8.510872870107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum für Gestaltung Zürich",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100864356638775181186\"\u003eFilip Sokolowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbm2GOCpy5ZHKpFaSJTYwNDxQRq5G4W9GD5Kv5Iky0YmqV1TFEUsnGRA28RJRUOrUyDFyXI9BU_mLEF8y3a0MC0KBBrba8IkGSx3PSEyOwC31gbsLvGS7TZ4KdTPW-HNWHRHm0mYLfJ6S88Mw6Ox46qfrEwuBnZLC-5kxFWlcQ0R_TK",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJP4Javg0KkEcRk8O9Snj5VQ0",
+         "plus_code" : 
+         {
+            "compound_code" : "9GR6+3R Zürich, Switzerland",
+            "global_code" : "8FVC9GR6+3R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJP4Javg0KkEcRk8O9Snj5VQ0",
+         "types" : 
+         [
+            "museum",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 392
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Selnaustrasse 25, 8001 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3725454,
+               "lng" : 8.5322358
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37377797989272,
+                  "lng" : 8.533693879892724
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.37107832010728,
+                  "lng" : 8.53099422010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum Haus Konstruktiv",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1667,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116854139788859543223\"\u003eMuseum Haus Konstruktiv\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZcjDHBo6O5SWA1JMZB2ajaPTKnwHwptl2uKsdJLSWRWR7QXtAVpZ8E30kquNDDYLInMf0rPXU32PbvPVrAeSj0gGiXg3xBGYWA_MVGoYtg505eaC-nQnHYFUGH12PAug80ikWl69DwWP4HFuyaAtBfn3V0H28CTJs7xxwSOEHjrBvS",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJx7M8gwQKkEcRdPe2XKs5Qwc",
+         "plus_code" : 
+         {
+            "compound_code" : "9GFJ+2V Zürich, Switzerland",
+            "global_code" : "8FVC9GFJ+2V"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJx7M8gwQKkEcRdPe2XKs5Qwc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "cafe",
+            "museum",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 343
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Forchstrasse 260, 8008 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3575564,
+               "lng" : 8.571472
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.35900087989272,
+                  "lng" : 8.572741529892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.35630122010728,
+                  "lng" : 8.570041870107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Zürich Tram Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103172087632691359445\"\u003eOdin Palen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbB7amiXlEJC21qRd9qG_4tHnCrY1cj8wgGKZgPaA42-m8Vv_F3KOUa1aRfL98w7Qsp0WatHWNAeoZde_agjyVwVgLkfuMAFngNpMqUnXOmSMonhJpqSuacMYUQqkJgp0gYuUPDo1osg5OppJT2vZuU_8SvTRw5gooXJ0Ep2OCR3e2O",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJvSPwpTGnmkcRFTSkOsv0U7U",
+         "plus_code" : 
+         {
+            "compound_code" : "9H5C+4H Zürich, Switzerland",
+            "global_code" : "8FVC9H5C+4H"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJvSPwpTGnmkcRFTSkOsv0U7U",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 726
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Limmatquai 31, 8001 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.369881,
+               "lng" : 8.543263999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37132882989272,
+                  "lng" : 8.544638529892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.36862917010728,
+                  "lng" : 8.541938870107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Helmhaus",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1184,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101660898046420875414\"\u003eiwan fokin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbAQNuyIOxV1BILn0gUqOxQfFIQI8hpYAsfJ2dinWJ9Q2BN_ACAmAudo8Ie4Eew_PZnGZE2vXL_ZbNATJhfEKQXyuvadM10raMKcW88oUkzEkvoAiBeNhXt-y5VyWODWFahKINiMnd7Aa9VqFIAhXqR_UKHpYokB1CnP7IUILoFgjQj",
+               "width" : 1776
+            }
+         ],
+         "place_id" : "ChIJHy1WQaqgmkcRGnuclxLntZc",
+         "plus_code" : 
+         {
+            "compound_code" : "9G9V+X8 Zürich, Switzerland",
+            "global_code" : "8FVC9G9V+X8"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJHy1WQaqgmkcRGnuclxLntZc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 258
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sonneggstrasse 5, 8006 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.378325,
+               "lng" : 8.5475171
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37962202989272,
+                  "lng" : 8.548984629892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.37692237010728,
+                  "lng" : 8.546284970107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "focusTerra",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115083977326769475909\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb5Lyqb-l8skd0nwjW6JElgtA61QP51s09D1EQU0fEOVZmW9DJAFwW5HyrvaUsd5P5tQ20NpvaZIwiNOaL3xkHL3BsPC7XwHhyf10jxbLev1sF4H2DdpvOWkAatSIeAN1jLxwMgoS7YTeATDldqTxNpHYkTSQr1Y2XfYx7mmm8MptWk",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJHaae_6agmkcR3IX4xXHKZ58",
+         "plus_code" : 
+         {
+            "compound_code" : "9GHX+82 Zürich, Switzerland",
+            "global_code" : "8FVC9GHX+82"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJHaae_6agmkcR3IX4xXHKZ58",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 391
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bahnhofstrasse 31, 8001 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.37077739999999,
+               "lng" : 8.5386962
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37199647989272,
+                  "lng" : 8.539811529892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.36929682010727,
+                  "lng" : 8.537111870107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Uhrenmuseum Beyer Zürich",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2336,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114317259109308613938\"\u003eJohn Piper\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaVP50PPGUYx45X896GA_qikalvDsVQHp_F3p5kRz-jLZL158_L4VePWW_WBrBSUZMCG81sng7uhcfkKiUp-I1KktgmR2Qio7-PzaV0vhX5rKmvX34lxKFOHBqg__tj0qJmjkfqUQn6aEjeGp7N9BGwvZL5QqxKZ18YvKZD3MTqLwbz",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJHSM3JwEKkEcREruF5i3U3Ns",
+         "plus_code" : 
+         {
+            "compound_code" : "9GCQ+8F Zürich, Switzerland",
+            "global_code" : "8FVC9GCQ+8F"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJHSM3JwEKkEcREruF5i3U3Ns",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "jewelry_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 472
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Karl-Schmid-Strasse 4, 8006 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3753314,
+               "lng" : 8.5479979
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37677417989272,
+                  "lng" : 8.549305529892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.37407452010728,
+                  "lng" : 8.546605870107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Zoological Museum of Zurich",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100092611294354744644\"\u003eTatiana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJadCYSaoaKWy0hDm_BLxJTtRKL0Z4mIihN9aCicQvrAStw7VjKVxP9B1YgMIFXhJjQ_Z1I64u04nUY2WAjRJ5zas4UgqflBkMO8Wq1BgrCHEOKsckGtKGjbv2R22MgeUX2yo45Oe0ciTc1ICpTzkGcq1ZtyYd017cthn8cg-fchqx2O",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTZJtjX-hmkcRlb5gBTLTcaA",
+         "plus_code" : 
+         {
+            "compound_code" : "9GGX+45 Zürich, Switzerland",
+            "global_code" : "8FVC9GGX+45"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJTZJtjX-hmkcRlb5gBTLTcaA",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1142
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Predigerpl. 10, 8001 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.37351210000001,
+               "lng" : 8.545281899999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37486987989272,
+                  "lng" : 8.54662597989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.37217022010728,
+                  "lng" : 8.543926320107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée Visionnaire",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110363024566588450544\"\u003eAndre Lot\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaHI4jpF49fMsAVpxxI-6iVVwJCLxpMZpsnsnCLI5PR75ED5fJ1P2DHMGEkX2YnMg4LBNPQctIsuPNeNOEsKu9d2XiHn8DY0ilc09j5GtPahigsE2ffDaPl5kL_H3-deHG7mG2IWzTQQacOyGUdVQnyd1GUZ0U7Ly-s2c965vE3gmld",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJEyLNq6mgmkcRgWh0EEqI1pY",
+         "plus_code" : 
+         {
+            "compound_code" : "9GFW+C4 Zürich, Switzerland",
+            "global_code" : "8FVC9GFW+C4"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJEyLNq6mgmkcRgWh0EEqI1pY",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 51
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Limmatstrasse 270, 8005 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3893211,
+               "lng" : 8.525082399999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.39054522989272,
+                  "lng" : 8.526377229892724
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.38784557010727,
+                  "lng" : 8.52367757010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Migros Museum für Gegenwartskunst",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1575,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111887217370635378600\"\u003eMigros Museum für Gegenwartskunst\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYwtyQPE9uMgLFiqSWR-IOphRd9iRPZPkH9X27vMuATxpnFNj7gSNdRAa2p2ht2fvDRNNANWYcLF2BwONQzafs9Vgk3wKNdObE82zMlKKsNBUzNH3OXdGJ1cOYvRe3IxKtGEp5ZpHdofsPxPV8Yiu3ziuCIwk4j8YhvJNd4vcePMegx",
+               "width" : 2362
+            }
+         ],
+         "place_id" : "ChIJK8Ni7moKkEcRTqzHs_nJYu0",
+         "plus_code" : 
+         {
+            "compound_code" : "9GQG+P2 Zürich, Switzerland",
+            "global_code" : "8FVC9GQG+P2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJK8Ni7moKkEcRTqzHs_nJYu0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 240
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Seefeldstrasse 317, 8008 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3470385,
+               "lng" : 8.5658061
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.34832527989272,
+                  "lng" : 8.566910229892724
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.34562562010728,
+                  "lng" : 8.56421057010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Nordamerika Native Museum NONAM",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101137276744176831581\"\u003eSan Béo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY2EjDzjZGFYxY6okOi6Jb-45mhp2vnuCfovSDb0XR919rE6JeoX_puhRg6o11v1hQnMRFd-0AUGdROewVs2lT2ORsBSLLY8GHE0kk_bFs9SskWooXpIX_eYSXjQRJjIX3OR3bUdV-xHsOo6Cy5aD-m8TJRveBOqY5dgNyYKvItSM9L",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoX9Q0D2nmkcR8ynltYzzEHw",
+         "plus_code" : 
+         {
+            "compound_code" : "8HW8+R7 Zürich, Switzerland",
+            "global_code" : "8FVC8HW8+R7"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJoX9Q0D2nmkcR8ynltYzzEHw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 236
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pelikanstrasse 40, 8001 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.370881,
+               "lng" : 8.534587
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37208907989272,
+                  "lng" : 8.536164379892725
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.36938942010728,
+                  "lng" : 8.533464720107281
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Ethnographic Museum at the University of Zurich",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111181193526921252829\"\u003eClaudia Mittmann\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYkkogQy9-7F4T7ln7TA_J56dCZsHS6YngIYAvh48YbIncsCyWJZqW3GNeiXpiZu5_cmj7lrraNKDyMD2z7Jc-VNngaB7O_hWXrYS7w_7v7fcnhsGotrYHN8DSJTHqRsiOzkcRY21uGQ42mEv8mGj47UYlK3rVK0S0KuHioeIbAu18l",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJg5HE6QMKkEcR-m6y43Djh2w",
+         "plus_code" : 
+         {
+            "compound_code" : "9GCM+9R Zürich, Switzerland",
+            "global_code" : "8FVC9GCM+9R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJg5HE6QMKkEcR-m6y43Djh2w",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 116
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Augustinergasse 9, 8001 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3717113,
+               "lng" : 8.5400052
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37309647989272,
+                  "lng" : 8.541392229892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.37039682010727,
+                  "lng" : 8.538692570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum Strauhof",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2333,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115982516849005171524\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYyivTMHGtweolB-QVEc56GKuXpNNLWD6BH3zJ6GbbeUN_TfjNjyFIj0XiO9XlGaSDOMm4cHLJMWRGIIm-7mcqIAwp7IEej9rjPtgaRjNRmtRxo3Zil1EkQK_jKRGRn86oL_C1-JT3ECCXXndoDi5yHPglqUhiDjp67pgIHMy1_37UN",
+               "width" : 3500
+            }
+         ],
+         "place_id" : "ChIJsbRbMwcKkEcRb7cqvUdjhxY",
+         "plus_code" : 
+         {
+            "compound_code" : "9GCR+M2 Zürich, Switzerland",
+            "global_code" : "8FVC9GCR+M2"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJsbRbMwcKkEcRb7cqvUdjhxY",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 67
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Haldenbachstrasse 14, 8091 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.38043889999999,
+               "lng" : 8.5485872
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.38184477989272,
+                  "lng" : 8.54990137989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.37914512010727,
+                  "lng" : 8.547201720107276
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Moulagen",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109103908376679822599\"\u003eStephanie-Christine Eger\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZOdVSmKspaSWV_fBKFtkl0eNqtygeFCIvXyWzlkTAwsQb6WnG-SJL2qGbGZ4-I4oPYII95kzUoPofoo_QLnxzL2fwM_fkvJhgyNncrbhfX4ir3__kDTuBNFss1274g5r6iIlnaxMcxBcGTaxkxG4ubcDpUwoHG_yQ_NJUT6v5TdtI",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ3RdJzqagmkcRrWXQNtv9IpI",
+         "plus_code" : 
+         {
+            "compound_code" : "9GJX+5C Zürich, Switzerland",
+            "global_code" : "8FVC9GJX+5C"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ3RdJzqagmkcRrWXQNtv9IpI",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 95
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Zollikerstrasse 128, 8008 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3569041,
+               "lng" : 8.559774599999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.35828492989272,
+                  "lng" : 8.56119617989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.35558527010728,
+                  "lng" : 8.558496520107276
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Heimatschutzzentrum in der Villa Patumbah",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3432,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115993386960738272899\"\u003eThomas Zeugin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ4uKE7AItFZmqS2UMP8SbSErxnQCs0ikNQj7Yl-3n-YGM3brYjz4J9jYMjRs8EkY0DtGG4QnGtCd_hpZjCxf3IlE4IsFQzBTWeg-eoAtbdOxk31hx3_IISJ8NFQg_gQ5Qkpt2umdTpfR7epPOKd78UUfCUGbwLSulEVHrXtcn9Q4gt",
+               "width" : 4576
+            }
+         ],
+         "place_id" : "ChIJF2DyQ0inmkcRTsNf0AW2HQc",
+         "plus_code" : 
+         {
+            "compound_code" : "9H45+QW Zürich, Switzerland",
+            "global_code" : "8FVC9H45+QW"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJF2DyQ0inmkcRTsNf0AW2HQc",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 249
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Werdmühlestrasse 10, 8001 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3750984,
+               "lng" : 8.540432600000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37649202989272,
+                  "lng" : 8.54173742989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.37379237010728,
+                  "lng" : 8.539037770107276
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "WOW Museum - Room for Illusions",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110055882814652822769\"\u003eAmer Salman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbUziHlBTNAg9OKgymeeq5xJuCPxhMZd5tvV48k10fD3ZH4X-mkz5aHcY6ZVvFMKkOUb7XwU5zCF8koOom527FXX5m_fpOKBU8XadXQiyOllmKwsAF_I0wBl32UcLSz8StIFg-9mEUau9ixYhm1jNnwHqZ3BuJeshrZkcvYWrxysY3l",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0xncYyELkEcRFvI7-j1OYuA",
+         "plus_code" : 
+         {
+            "compound_code" : "9GGR+25 Zürich, Switzerland",
+            "global_code" : "8FVC9GGR+25"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ0xncYyELkEcRFvI7-j1OYuA",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1658
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Englischviertelstrasse 9, 8032 Zürich, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.3688127,
+               "lng" : 8.555675299999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.37011657989272,
+                  "lng" : 8.556855129892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.36741692010728,
+                  "lng" : 8.554155470107276
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "KULTURAMA Museum des Menschen",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102996935509382666988\"\u003eFridel Rickenbacher\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYb4-rGLGloYNCXwevmCNoocGDArXRmyMRoCoKIPBncK6z2tv2N_UFaFc2haLOkc_Oz7CdvwsxhWHEsQe9aQtx23_4wCnwjJtrS9G5CWu00Bmd41QgbLiSjKXHnSzCPvw2yahcN4sv0V6I6TQQRCan0VQyyV004uwPOJflfzzUnk1cD",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJXaK6T7KgmkcRbv2-6nkB3n0",
+         "plus_code" : 
+         {
+            "compound_code" : "9H94+G7 Zürich, Switzerland",
+            "global_code" : "8FVC9H94+G7"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJXaK6T7KgmkcRbv2-6nkB3n0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 401
+      }
+   ],
+   "status" : "OK"
+}

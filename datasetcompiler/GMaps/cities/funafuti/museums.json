@@ -1,0 +1,640 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "F5GW+22M Funafuti International Airport, Te Auala O Valaku, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.525018599999999,
+               "lng" : 179.1949708
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.523641720107278,
+                  "lng" : 179.1963381798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.526341379892722,
+                  "lng" : 179.1936385201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Tuvalu Women’s Handicraft Centre",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105515456375112804951\"\u003eTodd Geist\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYrFAWvoX8cLmkYt0rEfLBk8wA4FJILV8QRg7vP4XFcnUiuD2R1DAdPN4uORhumUxUHmnOJt592Pizxv-BWJL55DRbm3UoYgMuQfVZg9PWWCMLfWofxp6aKPiD1BzSPFoytPOo3NfEXF_4LDEHE6r7CqmZ_yBohNYvToBtjs0qe0E7g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_RzeOIPj1m8R0X94t2bweBI",
+         "rating" : 4.7,
+         "reference" : "ChIJ_RzeOIPj1m8R0X94t2bweBI",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "939X+WR, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.630239899999999,
+               "lng" : 179.0995603
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.628890070107278,
+                  "lng" : 179.1009101298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.631589729892722,
+                  "lng" : 179.0982104701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Funamoana Takutai",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1616,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113889609013047334644\"\u003eKAHONG YEUNG\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYVyNIuEtaU9EqGVTDkRiZ_h6YQtXSRnodiebXkcN5ZK8Dsp7MmRTKGGK422mnuCzaFvzbrmq_F24hk4XzorOYEGo0DAcy1cqOASkJSWdTQdgNsHY4u0JFhUQ-wcTWCIlVOwu2kGQk_xOeIJc3BqmS7vgJvwJz4W6re8rB9klmj7OM",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ2zH89tPn1m8R9QWZX6ZOBrk",
+         "rating" : 2.5,
+         "reference" : "ChIJ2zH89tPn1m8R9QWZX6ZOBrk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C3F8+XG, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.575024599999999,
+               "lng" : 179.0662902
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.573674770107274,
+                  "lng" : 179.0676400298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.576374429892718,
+                  "lng" : 179.0649403701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fuagniu Beach",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101133273891108279321\"\u003eCindy Chou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYO9_4xNE3L2l1vNIuJBbTF-zNN8Ds785sZM0kzdeVEh58-F6QyMPTVh6cUhOFlbiZAL5LtG7rnzthdxgbOJUX2Pnx0tq0CAuRQwAXfc9_dGhLMlTlPY_ltErnduWN6kzbAgGTfi0Jgb-8WtUV2TQzgdtuBzcwFfd-u0KxRCXrjfKWm",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-8fu38rd1m8RR0Yz9K_Q0tQ",
+         "rating" : 4,
+         "reference" : "ChIJ-8fu38rd1m8RR0Yz9K_Q0tQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C32C+R3, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.597925499999999,
+               "lng" : 179.0701324
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.596575670107278,
+                  "lng" : 179.0714822298928
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.599275329892722,
+                  "lng" : 179.0687825701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tefonufala Beach",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101133273891108279321\"\u003eCindy Chou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJVn6UohdZP5ZZoAPgiE9hUSsu6jaGy_z_CjwO8MpMEmMMGMRX5EaOah7XKk9kwHUFQ1KZVKiTB0ARe2fRTm3rf-0z3K9WCdwNuR9iNvPx4kWD81aHkUZ0yfCIELbKJGWpXWza5dut0f0NpdpEJ4sDHsU30gL6Oi842XHP7KldpYBJ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEVQ-mQ7d1m8RMgQu-_6A7Ys",
+         "rating" : 5,
+         "reference" : "ChIJEVQ-mQ7d1m8RMgQu-_6A7Ys",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G3MH+XX, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.465007,
+               "lng" : 179.0799111
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.463657170107279,
+                  "lng" : 179.0812609298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.466356829892723,
+                  "lng" : 179.0785612701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tepukahakai",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101133273891108279321\"\u003eCindy Chou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ7pc_DqY87a4hjLdut8e91yrTp6OZVY1THpUnmwA4u49AeVu28yAZ15jXYDQPoWEp06Z4ycWqsrjgQvC5y4kdqmZq0BA_MGIVQ4KFEImMfPk0OM8Fjg_daMh3WmCCu7c9mz2CZ2rWzBSywBrrD75aVaULhldUvxuPr2qpeQ9Eixdvr",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJX21qY_Ih128RwXHpYD6RVt4",
+         "rating" : 5,
+         "reference" : "ChIJX21qY_Ih128RwXHpYD6RVt4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C498+7G, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.581803299999999,
+               "lng" : 179.1163456
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.580453470107276,
+                  "lng" : 179.1176954298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.58315312989272,
+                  "lng" : 179.1149957701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Falauniufatu Beach",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101133273891108279321\"\u003eCindy Chou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaBMfm_Qv-zhIO2P-Z9fJqIyrlhr7EKkz5ZZBhftCkt9jedXCJSKK7yzcc9koWg_H3mDdhKxd_eUtqr1NHbi_dAiAGKPd-f0uXhC1q4e5nHvv8c_LHI-cTxdplOuPpiGL02ZuZxPszdoUKWVf9YhRrkl5Fu1YGgnWt4t_vOfMJkHdxn",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJJZXB9Ozn1m8RgDaS-ofjud8",
+         "rating" : 4.8,
+         "reference" : "ChIJJZXB9Ozn1m8RgDaS-ofjud8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "F6G2+H3M, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.5235375,
+               "lng" : 179.2001719
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.52104495,
+                  "lng" : 179.20108025
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.524368350000001,
+                  "lng" : 179.1974468499999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tuvellice Beach",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJpVuaF_7j1m8RCzUU89FB5p4",
+         "rating" : 5,
+         "reference" : "ChIJpVuaF_7j1m8RCzUU89FB5p4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G355+GG, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.491217599999999,
+               "lng" : 179.0588373
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.489867770107278,
+                  "lng" : 179.0601871298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.492567429892722,
+                  "lng" : 179.0574874701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fualu’ulopa Beach",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 712,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104185984108066105067\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZQpx5-IzSvowzyStMsYGYlodu41yD4o_jitBL47aBetvPZmDYv22HsibHazbMvkEg4Uu_LStze0AA_WN4jtZqH9fFzKRnGbzA2JqZztRsfqpu60ZdeDlg2yq8kIW7AogsfBalc-1Tw81Qoz7mUfC_GpXi_ClIGMJXgusDJC24Usw-f",
+               "width" : 717
+            }
+         ],
+         "place_id" : "ChIJidp0Zr7f1m8RUgc6P-tK3ao",
+         "rating" : 5,
+         "reference" : "ChIJidp0Zr7f1m8RUgc6P-tK3ao",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "F6M2+QC4, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.5154944,
+               "lng" : 179.2007621
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.514142120107278,
+                  "lng" : 179.2021345798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.516841779892722,
+                  "lng" : 179.1994349201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Te Vili o Tavita",
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106547981531703830418\"\u003e이재형\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYMnaW16Sqmtnub4_opLzBoufmoyk-M7jY40u16MzKC20jEVZ_-7uSIeNFtVYxF-SLPgU4eGXa_DH5z8hHDBv1zjW9zHrej0wMmROgiqhUnaeQLbla_mIKSmWkw3W1Px-RPK1V-chXL4Ap-mb7ZkRykTXSZdm88sShXkTjC_yLD1aWg",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJR21SbgDj1m8RFiqIrVi6g6A",
+         "rating" : 5,
+         "reference" : "ChIJR21SbgDj1m8RFiqIrVi6g6A",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tuvalu, 库F537+HM 图瓦卢瓦伊阿",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.5460128,
+               "lng" : 179.164221
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.544662970107279,
+                  "lng" : 179.1655708298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.547362629892723,
+                  "lng" : 179.1628711701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fatato Beach",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1046,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109216782279137760353\"\u003eParsifal Wagner\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfwOJAG25YusRL-j3sCll6FnAvR0TiaSBE00S-GgzjDXlYNQsIihiqagNZi-a3e_e5ZHn1ocDc7RwG53X3IF1dUZCU75v--MOA5s8Q_BSG9qyOkMOn3-JwzAnse4T3hddjO8wJ9dTQyHfpSxIvA-jtaFzgkD1qELcx1b-hLJapuWVA",
+               "width" : 1400
+            }
+         ],
+         "place_id" : "ChIJicEA6Kjh1m8RGoArnlF-VXA",
+         "plus_code" : 
+         {
+            "compound_code" : "F537+HM Vaiaku, Tuvalu",
+            "global_code" : "6V3XF537+HM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJicEA6Kjh1m8RGoArnlF-VXA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C4VX+WX, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.555180399999999,
+               "lng" : 179.1499339
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.553830570107277,
+                  "lng" : 179.1512837298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.55653022989272,
+                  "lng" : 179.1485840701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Funagogoʻiliʻili Beach",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 469,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105735474307923428046\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYcBG5eqM_TpcT9-qReLPwjDWOygDRn4ogak4BQS9jL7SJzGpYYjQiORzet1jkupepv4sZmm049Lbo1URIin5AOqG2dxXZeNSVdR96oooUZw5liMKf-7YVMROmYLTu4fFMZKBzkVjnGwj1ylzKyPwyakLXZHrxpByGegS8Ky5sAK2gW",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJexaOPWrh1m8Rs3dvtMv6_jE",
+         "rating" : 4.8,
+         "reference" : "ChIJexaOPWrh1m8Rs3dvtMv6_jE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "934J+GP, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.6436586,
+               "lng" : 179.0818312
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.642308770107277,
+                  "lng" : 179.0831810298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.645008429892721,
+                  "lng" : 179.0804813701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Elelemeral Tohu",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJWcugiW_d1m8RDLK5HeswjIM",
+         "rating" : 5,
+         "reference" : "ChIJWcugiW_d1m8RDLK5HeswjIM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      }
+   ],
+   "status" : "OK"
+}

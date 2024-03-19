@@ -1,0 +1,1220 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYRysJl8WPSul-vlL3htH3XQQgHHuI_2n1NluYU_I440KNWfWqIHYzUBRCNvU7L9cZZVMKLjk4wUIxkyKHqCuFcGNedLNIqG8axCim8_zBAe2tgI_N2mR3GuDwDpaiWkgfA0U1CuHmAAC0wPjI4AnSG0EsO61ydOyemg_tcXWM47CYPu3xO7idHtF5bz0UpdpUj6nnOdsqPhze2tt01fYCepSA1-Us9l_0NG24XSrdYffOTqEOnjBeDTTXdKBBjsC00CYALPelgSelSe87r6veCfeR39guPtcFbiGQFMLOQHvC3FcsT_1UI-kKOTqfKjGduE9C84jQ65LPSC-f3ytGBoN86RRA6DJdxw2blJDbLfydYZ54fgx0yvRiKBgmdAWO74uFUVs60bZUIWG9-0w",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4, 110, Kistuhylur, Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1188552,
+               "lng" : -21.8162084
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.12021777989271,
+                  "lng" : -21.81445177010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.11751812010728,
+                  "lng" : -21.81715142989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Árbær Open Air Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100951056945389198920\"\u003eA. Michael Stevens\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYXrOq_9k7gGtAwNLMU9HVA4izq50rOdkNRiTDDpbs8SZKOU4oOHkeRkHE5vrYiRMoyZcDNIJm5DgcFPgiEhRsZ4_HQSbAshARJ3ehQijlouDdCfbFyEr6WiV4p-AsamPo_zTGb7yKyRiGISKzeIkjxpBExYCls5ttN4eMhQWjFee0f",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJrU_8yntz1kgR5kiYKmovBJg",
+         "plus_code" : 
+         {
+            "compound_code" : "459M+GG Reykjavík, Iceland",
+            "global_code" : "99PW459M+GG"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJrU_8yntz1kgR5kiYKmovBJg",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 888
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Aðalstræti 16, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1473871,
+               "lng" : -21.9424301
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14873717989272,
+                  "lng" : -21.94108887010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14603752010727,
+                  "lng" : -21.94378852989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Settlement Exhibition",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111316088386742183694\"\u003eReykjavík 871 +/-2 Settlement Museum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ6sc2VV4sLWDbS42RRfJ5BSGurxxbppsZnEX5ZJJJ7sI0RuwrV4n4XWkZtodHjRXaLCSEi1ZYfdk_rl2rlzkYo4XDN69nVi1XY7PuTWYVadbJowFsE4xFIrp49lu2dzXHKtyX3sQ4S5WrUbq_jdd7LYQ8sNSpBB5r5EAAMrVTYL9O3",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ02uKCC0L1kgRNnwo7G1p-GU",
+         "plus_code" : 
+         {
+            "compound_code" : "43W4+XX Reykjavík, Iceland",
+            "global_code" : "99PW43W4+XX"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ02uKCC0L1kgRNnwo7G1p-GU",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1078
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grandagarður 2, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.15274330000001,
+               "lng" : -21.950934
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.15421892989272,
+                  "lng" : -21.94967752010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.15151927010727,
+                  "lng" : -21.95237717989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Aurora Reykjavík - The Northern Lights Center",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105073470952540701593\"\u003ePeter Kinley\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYP6EudBQL6n9VQkbvI6bAXaDhrcVXp_muL2eQthNcR6lEwPev7ReEhKN61s4wbdZkchhk96jnEcKs9WdGHH74nmWQ7GUsRISAzbK2k2jnLt_iyJjWBiUwgsVSyfSaPXZ0SzKMLD9kzygW2LWeY3RtxE-vVd8th0A7RNGgra6BS3bj0",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJlTAzxisL1kgRadAfmiNzg5c",
+         "plus_code" : 
+         {
+            "compound_code" : "523X+4J Reykjavík, Iceland",
+            "global_code" : "99PW523X+4J"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJlTAzxisL1kgRadAfmiNzg5c",
+         "types" : 
+         [
+            "tourist_attraction",
+            "travel_agency",
+            "clothing_store",
+            "museum",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1632
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sæbraut, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1476306,
+               "lng" : -21.9222846
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14898042989272,
+                  "lng" : -21.92093477010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14628077010728,
+                  "lng" : -21.92363442989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sun Voyager",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3014,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113470773367975337169\"\u003eHengjie Cai\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZyR4C52KAOyysjdCf_ru6Z-NXGpWGhAxa2fa9L6QhkGDgG7A-1E6X36TtRasQ1o_MtQRjrdT3IDFw00eouZvGCTyFIpW3KGHbzdh4o1wfhNMrpKxJdPaY6XH1sesoTSjwgPSXepGUpuC2z3b_amHax5dfg3SpYqq0FbpBQ1IhSxt5-",
+               "width" : 4271
+            }
+         ],
+         "place_id" : "ChIJz-YMCc501kgRqKacmXs6e9g",
+         "plus_code" : 
+         {
+            "compound_code" : "43XH+33 Reykjavík, Iceland",
+            "global_code" : "99PW43XH+33"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJz-YMCc501kgRqKacmXs6e9g",
+         "types" : 
+         [
+            "landmark",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8246
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kalkofnsvegur 2, 101 Reykjavík, Ísland, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1485594,
+               "lng" : -21.9358427
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14992852989272,
+                  "lng" : -21.93446862010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14722887010728,
+                  "lng" : -21.93716827989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Icelandic Phallological Museum (Hið Íslenzka Reðasafn)",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113495948609418725009\"\u003eChih-Chun Liu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa-ionq4uP2T2Vxt4UVSI2-visAc9NScSWo0bCr9aVuM44J8i_UQAS7d1_2wiKU42vI4SwSo4o5L7csf2I9_axGowYoZ9zVandySRHkNcNTCdS7oJ35SNlAb5smPCE__zWcOHD_ppSirhNQaHbDVVtDZ-vJG1kOe0TMXzfJvhy8ZWw7",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOyxLnhVCzUgRoOQvu5-Krk0",
+         "plus_code" : 
+         {
+            "compound_code" : "43X7+CM Reykjavík, Iceland",
+            "global_code" : "99PW43X7+CM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJOyxLnhVCzUgRoOQvu5-Krk0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "cafe",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3940
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hallgrímstorg 3, Njarðargata 51, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14191629999999,
+               "lng" : -21.9288843
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14342182989272,
+                  "lng" : -21.92770382010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14072217010727,
+                  "lng" : -21.93040347989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Einar Jónsson Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117268049427195277728\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYzGy9eoKJRYBGKocPUdazk_Ie_zUXN2Woqd6dmJhzHlvB3XTHtDRKiRGKxYSQHX1k2-KAmYg8yHW0Rr4wAiuFRm-wcrDpO6Akjc38K9E-KbJjRUmoo7FiJSaI6XGdqTkSCHcaLqULKQn1HTk-z9QDpLBa_bgze62DQiKCQMpoysDbP",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ9R83rMx01kgRBDj7UN9rJyA",
+         "plus_code" : 
+         {
+            "compound_code" : "43RC+QC Reykjavík, Iceland",
+            "global_code" : "99PW43RC+QC"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ9R83rMx01kgRBDj7UN9rJyA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 199
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grandagarður 8, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1532788,
+               "lng" : -21.9487063
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.15466922989272,
+                  "lng" : -21.94739872010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.15196957010728,
+                  "lng" : -21.95009837989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Reykjavík Maritime Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 480,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100505086474337102690\"\u003eSjóminjasafnið í Reykjavík - Reykjavík Maritime Museum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbiyj8PM9uuR756y7AkLtEfUnjryu5VrzlxrAaePmBTFUdE645BLQNiHpiu5Ze40PEbDA78mguzry8twHpOlOLM__9WcGi2i7noOJ7MVwykRZNU-u51S7e5Hs-YHCMNyKzW-_N79eVzyJB7nKsYKMoRfTpVDhNg_YuJn4HNqTefOVpZ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJKZ4b4CoL1kgRjvWvUKA1HPo",
+         "plus_code" : 
+         {
+            "compound_code" : "5332+7H Reykjavík, Iceland",
+            "global_code" : "99PW5332+7H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJKZ4b4CoL1kgRjvWvUKA1HPo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 840
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "105 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1292126,
+               "lng" : -21.9190507
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.13040837989271,
+                  "lng" : -21.91275625000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.12770872010728,
+                  "lng" : -21.92114884999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Perlan",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115296220663408009568\"\u003eAngela Clark\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ3BzDBFM3xTIeDVS9RDy0QI8aCjNfCuDMi7vFh0CdWAAa48AsKdkhJM0tCIoJBjLrPPLfkc69s1UoM4qTSpNAhn7iLekguWHYHPbJaFEw68etNFUpGBQU3cdnfxVm7SdEYyHSFtaXPQQQjmHqVeAQPO-klsvNv-ucSKl3Vfw6L6g-D",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJnXOkuUwL1kgRKT9vWdb_DnI",
+         "plus_code" : 
+         {
+            "compound_code" : "43HJ+M9 Reykjavík, Iceland",
+            "global_code" : "99PW43HJ+M9"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJnXOkuUwL1kgRKT9vWdb_DnI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "cafe",
+            "museum",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8637
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hallgrímstorg 1, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1420229,
+               "lng" : -21.9265493
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14337952989273,
+                  "lng" : -21.92535254999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14067987010728,
+                  "lng" : -21.92879275
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Hallgrimskirkja",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 12000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115288639636050005526\"\u003eNina Beilby\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa4nELAHHQE5fRhnKvyXLFqj5feu1B_XR_XD8tmIrhq6jfIurY-4Sq_xC7pSWy506v0yEmQ9YcOXkiZoIbFAzg4E9ZhvdmP2cXBhGlQm64hrn_PHRhN50dXxAXWmj9OVPSnS2AFoSe-hkFgrRHqlDsBwJmdtWIyckBflU1uFnAgJURV",
+               "width" : 9000
+            }
+         ],
+         "place_id" : "ChIJtS1DoMx01kgR76qdSMQor_c",
+         "plus_code" : 
+         {
+            "compound_code" : "43RF+R9 Reykjavík, Iceland",
+            "global_code" : "99PW43RF+R9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJtS1DoMx01kgR76qdSMQor_c",
+         "types" : 
+         [
+            "church",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21510
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Skólavörðustígur 101, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14565929999999,
+               "lng" : -21.9320124
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14698962989272,
+                  "lng" : -21.93060227010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14428997010728,
+                  "lng" : -21.93330192989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rainbow Street",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2048,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108218973256738993926\"\u003eAndreas Ludwig\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbvb5h0uNHJAAFgCBd2A2sl9fxGHIVj71lZCdbxtRdDYlGdryoYt1kbEaA39WaT8NqDElhCv-z7yw3RySqatyPEGiP0XJ2Q_mXDTbOeoSOjVPLIyv2VP4voyD_4CdkOBFjUVmTlAjHdiKJyRUXZMEdW4ItswEF4AAz1ClqXN8tZh093",
+               "width" : 1638
+            }
+         ],
+         "place_id" : "ChIJ3Sq5QJV11kgRh-e82xPZHVk",
+         "plus_code" : 
+         {
+            "compound_code" : "43W9+75 Reykjavík, Iceland",
+            "global_code" : "99PW43W9+75"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ3Sq5QJV11kgRh-e82xPZHVk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1684
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Fiskislóð 23-25, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1553734,
+               "lng" : -21.9482867
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.15668092989272,
+                  "lng" : -21.94686702010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.15398127010728,
+                  "lng" : -21.94956667989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Whales of Iceland",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1152,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107429422237056011056\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaTSz9Swy7kmmGQBoYIHj6mOy_0McP_MPRFt0L_mKO7-t81gS7iB17cT1HaEnEYrBk5bfuv9r5TFnWRRQv8IGHOa_M83HRcyUucfoAzprIGbhLlZ31PYDwcugMTvBfuxyNkPwo_FMWFXwZi1tgRbqTC-DD7z6hYb1rziTpSz2J5zq0-",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJW2giY9UK1kgRQSFXuArgnpA",
+         "plus_code" : 
+         {
+            "compound_code" : "5342+5M Reykjavík, Iceland",
+            "global_code" : "99PW5342+5M"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJW2giY9UK1kgRQSFXuArgnpA",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2360
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Fiskislóð 43, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1567623,
+               "lng" : -21.9487487
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.15816447989272,
+                  "lng" : -21.94748382010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.15546482010728,
+                  "lng" : -21.95018347989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "FlyOver Iceland",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105706373245180321037\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYsTJhmD00OymMqa98sH1de-X0Jk9Q9czD-qEkIhpeo3P5pW2DWz_OQj387YoFDi3VVtWJRhAKTlcVb2Tp3_Dr_Ronp6y-_uOjAtR3tC1MHCFisKjrwH2jBjPrRNrs8bR-1C6vVhEF1TJYFjNHQExsdsrWk4HOXjmGdHV2NBgupnNUz",
+               "width" : 1400
+            }
+         ],
+         "place_id" : "ChIJ1wXOtZUL1kgR4Y50lMiQx2w",
+         "plus_code" : 
+         {
+            "compound_code" : "5342+PG Reykjavík, Iceland",
+            "global_code" : "99PW5342+PG"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ1wXOtZUL1kgR4Y50lMiQx2w",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2977
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5338+QF4, Norðurslóð, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.15438739999999,
+               "lng" : -21.9338071
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.15604882989273,
+                  "lng" : -21.93278592010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.15334917010728,
+                  "lng" : -21.93548557989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Þúfa",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108509201074143176994\"\u003eJanet Rough\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfVY-gFAETTLx_Rv4U7PmWlPiWWYA-_tUUwc-ZHJtV9WOgkn5vvULE36x5FxLuVfgPnT1ynPiqUuufFDTvIbeXHkSTSOWyHh9WRxuy-LoKs5Yj9To6B2HXLGg7RmZ8hGWHPnQ7uRE5gPR0NrXw_llr1dtM6lEKhOBEJb7_b31wqtRt",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_eRmadR01kgRESaRJU2ZDyg",
+         "rating" : 4.3,
+         "reference" : "ChIJ_eRmadR01kgRESaRJU2ZDyg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 592
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Suðurgata 41, 102 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14161469999999,
+               "lng" : -21.9485779
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14297432989271,
+                  "lng" : -21.94751812010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14027467010727,
+                  "lng" : -21.95021777989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Museum of Iceland",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115012830338533114779\"\u003eChrisi Haslam\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZiUZ0czflHkhy7IymBAcCrDXpNfhalZKa639os9BzQog6YqDXiRRQ1cGGxo7zyAEItm--KnUM1QWxhsY6_cyhX8KF7Yz8NrMYamUxOaXwXJCyDOoG-EByt9BHqfLrmIQqDENQtctOiWA_yFOsRHnlL0sRC1X4JJwicr7eMuc7OO8WT",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJr6HBrjEL1kgRlTxmCyjm_tg",
+         "plus_code" : 
+         {
+            "compound_code" : "43R2+JH Reykjavík, Iceland",
+            "global_code" : "99PW43R2+JH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJr6HBrjEL1kgRlTxmCyjm_tg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3057
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Fríkirkjuvegur 7, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1441008,
+               "lng" : -21.9394271
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14546452989273,
+                  "lng" : -21.93822782010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14276487010729,
+                  "lng" : -21.94092747989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The National Gallery of Iceland",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116197248854161238749\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZjxJSWMappZfqmWLkd7fObR8LJySe1ndYW7rOGqNH8SFpOYRW_578HIM8joKyaQJgohv0NAeHYiRBqJhyofemBZe8ViKo-j5gxTUvKLft5QS3ocMqq3REZIbbBq42up_BtaWXGofWMDKRfgZe8lDtkxPStOVHFvKpxNu6yz_ICrZau",
+               "width" : 3196
+            }
+         ],
+         "place_id" : "ChIJIbHOWDIL1kgRO5YVvZcn_xA",
+         "plus_code" : 
+         {
+            "compound_code" : "43V6+J6 Reykjavík, Iceland",
+            "global_code" : "99PW43V6+J6"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJIbHOWDIL1kgRO5YVvZcn_xA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 455
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "43RC+XVH, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.142436,
+               "lng" : -21.9277544
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14378582989274,
+                  "lng" : -21.92640457010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14108617010729,
+                  "lng" : -21.92910422989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Skolavorduholt",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104742861788427899685\"\u003eDusan Gorencic\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYwjjLA7ANyKpzkbPAhV0cBIe1Bx6mDEnpNDRjRKrke3LZmu2020PgF3pYWzvDnJvKhB2Fz9OflIvidhBf-2bmUIeogq5-qXXxGUNMBIwOUM2emskgiEgp2FJu4iPkRh9Fnne1jjJaD3rnR34fNVkmcFVSD9goeyT4PrY0-QHAi8v59",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJpze5vMx01kgR0XCjZDQpxjk",
+         "rating" : 4.6,
+         "reference" : "ChIJpze5vMx01kgR0XCjZDQpxjk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 121
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hafnarstræti 18, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14756260000001,
+               "lng" : -21.9365012
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14911792989272,
+                  "lng" : -21.93511072010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14641827010729,
+                  "lng" : -21.93781037989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Lækjartorg",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108411301106386149215\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYxflPorsJbqyGPBbkKaovYREq92YqgHogdO77YE-5GeaBqlLVEb3i6AKi6rMbCsCd4FQTqrSj5BXWm-TGuKj7ekZncgSE_EzFlNu0ulgEf7zNDPzLcVAQTWy3wMMXHgNbu_wgEwoOvZtK2os0oREWy9j7A69dqIB_tKZGIvCT4gq4I",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJOeW7Ti0L1kgRw1UybXbmC70",
+         "plus_code" : 
+         {
+            "compound_code" : "43X7+29 Reykjavík, Iceland",
+            "global_code" : "99PW43X7+29"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJOeW7Ti0L1kgRw1UybXbmC70",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 578
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tryggvagata 17, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1491393,
+               "lng" : -21.9409376
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.15042102989273,
+                  "lng" : -21.93954397010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14772137010728,
+                  "lng" : -21.94224362989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Reykjavík Art Museum Hafnarhús",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1939,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111064629898929782783\"\u003eReykjavik Art Museum - Hafnarhus / Harbor house\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJagt-V8Wif_ZJ9NJH5NVL5yisHGqCkTDTvwqMOzhEX2MYQSzLqD310zCkHWJFgDECl46wVL3ASUfqP-F76w4WFEupgBqUMShTKYiE0S4Fr_vtJqrWt7YtiVSol9k8xhgBYiSKf_yZHNXe5b85wbuvc0S2s8isaNzudXMZ9rHMkizDSK",
+               "width" : 4350
+            }
+         ],
+         "place_id" : "ChIJNV3Fe7901kgRJLUPv8oYN2k",
+         "plus_code" : 
+         {
+            "compound_code" : "43X5+MJ Reykjavík, Iceland",
+            "global_code" : "99PW43X5+MJ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJNV3Fe7901kgRJLUPv8oYN2k",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 785
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hofdi House, Félagstún, 105 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14743989999999,
+               "lng" : -21.9056064
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14878972989273,
+                  "lng" : -21.90425657010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14609007010728,
+                  "lng" : -21.90695622989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Höfði Lighthouse",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 5304,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117909336185613802582\"\u003eWilliam Kan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaZwlKFaFL1Lw1LiNnc4WssQ0kF0p6JV-7xa1t6beVGPDwZ2mujIicRPMeiKQmMxFJ0cl6OUmxmmIuCxmsopd_UB1gBttfFmmDsPvD9Vh8f_x42iKO-OwBp_T5zhcFnVTiHjQoWTM0hMiU6bfJRkMiLPgBuJ2boZy2P3ImigSMq4rQ",
+               "width" : 7952
+            }
+         ],
+         "place_id" : "ChIJj8HJHb911kgRC4WDapRPvnw",
+         "plus_code" : 
+         {
+            "compound_code" : "43WV+XQ Reykjavík, Iceland",
+            "global_code" : "99PW43WV+XQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJj8HJHb911kgRC4WDapRPvnw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 99
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Aðalstræti 15, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1474035,
+               "lng" : -21.9418001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14879622989272,
+                  "lng" : -21.94068042010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14609657010728,
+                  "lng" : -21.94338007989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fógetagarðurinn",
+         "photos" : 
+         [
+            {
+               "height" : 4096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101074976832482491451\"\u003eYafea Al Faqieh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ_PMjDEhj2IT--pjtnTRmhN1DLm-wcPBhOXqFpXkdzTioyTD7lY2Bxd2hs3sc4kC5TOrCsKg7mpAS6dwncrgpJ8k30hUGF1ZWJy6Hm2twzzp0M9-YXxNL7TohU56-V3_2UZi5blp3eu2DClkpi39kMOntFQ4R64rW8ombh5uMjXWfa",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJF6ENzFsL1kgR_fgHTIG6X4g",
+         "plus_code" : 
+         {
+            "compound_code" : "43W5+X7 Reykjavík, Iceland",
+            "global_code" : "99PW43W5+X7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJF6ENzFsL1kgR_fgHTIG6X4g",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      }
+   ],
+   "status" : "OK"
+}

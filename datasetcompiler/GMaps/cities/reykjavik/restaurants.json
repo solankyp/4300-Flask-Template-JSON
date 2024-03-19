@@ -1,0 +1,1248 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYRayE5ZcRCtHLOf6Mx1hg36cssISxHOkdQo4B6jozmKW3I87M7Xm_Ct4_F_yrfWgN25zo0ZXCJPBXjFdYt-SXXfUB7iDxD779zDLT6NAba8f0xxJbrW8I75iLi2MAeU5XpFMLBHpLuOisBi0GmJm6Uvk_77zxOcFIQzx7sLtxXqweYESLrLO5ODUOu3EQzD3z13AowuWK6FhrQklGwn8HQ_-aIMHjOps2V9DEfpanFW64-i3qeXg8vet1loUVzVBaWHOo5wCft_ldguUW20oDdPRKFu6quqoMHhYzjglrfz0i6IjLLhK4zq8JLMBrYvLFLCTgq-vRjHx1BxsTaSWyoOYDdj27xkJL-4BmUbsGHPTBgOgGYmbqMrDM1BMM2ndZwPFO9N4RyxIIqDs_DSKgdApEwcA",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lækjargata 2a, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1471693,
+               "lng" : -21.9374717
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14851912989272,
+                  "lng" : -21.93612187010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14581947010728,
+                  "lng" : -21.93882152989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Grillmarkaðurinn",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104215184311606896124\"\u003eSam Rutherford\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ6LEIFOFrRpvImJ9JlkvT4xlK3xfgIHKwaqESEA_aYY9a7TEThxY6waQU-7o-HFyNQnkCd3hPKx24Dqzg7YadBMCvW0au5NdHBXclMeQWwGsEhuZxm6myrgS6WdVdlYb-OP037KRomKvp3UfyZEiOBFwhHDE2WIqKysh76PEttm1gS",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJcRCrXC0L1kgR1efjhHAQZVQ",
+         "plus_code" : 
+         {
+            "compound_code" : "43W7+V2 Reykjavík, Iceland",
+            "global_code" : "99PW43W7+V2"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJcRCrXC0L1kgR1efjhHAQZVQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2163
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Skólavörðustígur 14, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1452195,
+               "lng" : -21.9316447
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14658587989273,
+                  "lng" : -21.93025682010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14388622010729,
+                  "lng" : -21.93295647989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sjávargrillið",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3264,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100030693891416270492\"\u003eJavier Ballester. Google Trusted Photographer. Pro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZvIwt3eSo4G-_u8owex8IqHaTfJ4HBJc-Ovan_tbQ10SBLocgnCQe0XZsQgqTOAvtzvRgDt0OalyIj1j6V0iNEg1HuBD-_YRT_57tPT3D0awELlotAnjlWsX3FKecbQb-0mA_6OaHA1sAkFb0rxsBmR7pMFezqWLZ1pBEPce4mRxmv",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJkUNtOs101kgRlkrqx0BcF6Y",
+         "plus_code" : 
+         {
+            "compound_code" : "43W9+38 Reykjavík, Iceland",
+            "global_code" : "99PW43W9+38"
+         },
+         "price_level" : 3,
+         "rating" : 4.7,
+         "reference" : "ChIJkUNtOs101kgRlkrqx0BcF6Y",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1650
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Skólavörðustígur 40, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1429851,
+               "lng" : -21.9286332
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14435657989273,
+                  "lng" : -21.92720092010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14165692010728,
+                  "lng" : -21.92990057989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kol Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 798,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114089321536632146225\"\u003eKol Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGULQV-56n4ors8BBdfiw1QFManGOcVP0vCG-dQ1uQ23qWOgYAdb2CbYoIR66yzzncrEOgXv21JCdTsgd5ldHHUvXyBrfgoL79YDqrz_EqCyIH0F05JPrCvNmeLy1Hq3k6-d3dE2LztOCmsWpQzOl8FXgEboq8StCVDhXSzbxFAUeL",
+               "width" : 1196
+            }
+         ],
+         "place_id" : "ChIJXUynuMx01kgRLBy8uQfjkx4",
+         "plus_code" : 
+         {
+            "compound_code" : "43VC+5G Reykjavík, Iceland",
+            "global_code" : "99PW43VC+5G"
+         },
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "ChIJXUynuMx01kgRLBy8uQfjkx4",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1244
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Geirsgata 7, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.15084259999999,
+               "lng" : -21.9433448
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.15221292989271,
+                  "lng" : -21.94194272010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14951327010726,
+                  "lng" : -21.94464237989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Höfnin Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106263262032426457697\"\u003eMorgan Johnston\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ1VAf1iqLdZMDBtaK_OFVMAO4LUFXzSSwUxpRgY0u0PZ9Ew7Fp1e6qA74EzIcN8X3j-qFWMKmxQxa88SgQGlf11NwCZeXCUMP77kP4aG7N4NM76hsHTfuCA22OMcujrQKogQ80FImduF-_gx0WfP6YgxWcTQFxGYnBdWmgmkZl7J50",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJP6b-miwL1kgR5wy1mwGSvws",
+         "plus_code" : 
+         {
+            "compound_code" : "5324+8M Reykjavík, Iceland",
+            "global_code" : "99PW5324+8M"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJP6b-miwL1kgR5wy1mwGSvws",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 991
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lækjargata 6, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1465831,
+               "lng" : -21.9377267
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14790832989272,
+                  "lng" : -21.93628987010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14520867010728,
+                  "lng" : -21.93898952989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Messinn",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104699767077104678754\"\u003eMatthew Hanagan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbGYkR3e4go3JQL2qgQkngLrWtPF8u2YD6xxIWpIOygC3aWEmMu9vPYmdDuPQ8BZI_8edLcdIuIRaUXG2IgUtYkOhDB6kUNmNtGM19YmSWHH0X7CBO7guJTsDukb8aF7OeEseBDMaFAXuV3wvN_lKKOyMkSPSFEenvox949a7c8TQHt",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ84QQXi0L1kgR91608ywTlqo",
+         "plus_code" : 
+         {
+            "compound_code" : "43W6+JW Reykjavík, Iceland",
+            "global_code" : "99PW43W6+JW"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ84QQXi0L1kgR91608ywTlqo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2580
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lækjargata 8, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14636609999999,
+               "lng" : -21.9378766
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14771827989271,
+                  "lng" : -21.93653507010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14501862010728,
+                  "lng" : -21.93923472989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Icelandic Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 670,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114763392216612024481\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfIYIFjoNfWi2nAoSwKwtU5waLs7EOXs0iov4BeLNtYib-X10L9rAEytdvXGMha_YP04FwGZlwbIXhwq_x84U_hiDKnG-EF8rdkAut5eIyq2NY2ocVLOdo6PvauikH6Ou5smE3ilrgkBn09aECzgOU0aPVqrRI3AdqcoZ9zF6I83eo",
+               "width" : 1300
+            }
+         ],
+         "place_id" : "ChIJVxyfYC0L1kgRT5xxsk6z3kg",
+         "plus_code" : 
+         {
+            "compound_code" : "43W6+GR Reykjavík, Iceland",
+            "global_code" : "99PW43W6+GR"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJVxyfYC0L1kgRT5xxsk6z3kg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4250
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Laugavegur 54, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.144471,
+               "lng" : -21.9234562
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14585362989271,
+                  "lng" : -21.92207287010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14315397010728,
+                  "lng" : -21.92477252989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Svarta Kaffið",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104788893780679163202\"\u003eKristopher Lauro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbY3UyA8yc0_58Yd-RX_rkyXaM9qEEuxH_IYOOFCUB7h26XPLflL6y5M61IrVRswl50bxzr1jiPdn-vzUvkQUMvwRYiAoGALDUILtiWlF0iNzyDSseiB_iKkDM13y2WLQolnCXQotRpt-NrTAbDF-5HKvSDi-DfwaOF7CU5r8A1uo_x",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ7wlrRsx01kgR_D1l_VKIEuw",
+         "plus_code" : 
+         {
+            "compound_code" : "43VG+QJ Reykjavík, Iceland",
+            "global_code" : "99PW43VG+QJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ7wlrRsx01kgR_D1l_VKIEuw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2546
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Geirsgata 3, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.15111109999999,
+               "lng" : -21.9438972
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.15248847989272,
+                  "lng" : -21.94260252010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14978882010728,
+                  "lng" : -21.94530217989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kopar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107571579982694632310\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZTD-9iDX8_wC1tBU7dCDD3YFv2cFatGoxU_yCe4MaZR21dBSOc9osxjgikl-YrSocviKNHOFuyTK1ROV6oMvCkoO3uFNecuKsrJ9C6-vU13iogh6zfToRsz_8NqbLBCgSMmyiilAxLZBvGSY6U21DoZHlp9WH8sz9S-UoqZZG2R9xi",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJC9qenCwL1kgRRV9coEIVT_Q",
+         "plus_code" : 
+         {
+            "compound_code" : "5324+CC Reykjavík, Iceland",
+            "global_code" : "99PW5324+CC"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJC9qenCwL1kgRRV9coEIVT_Q",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1026
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Aðalstræti 2, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14861929999999,
+               "lng" : -21.9418488
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.1498830798927,
+                  "lng" : -21.94027957010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14718342010727,
+                  "lng" : -21.94297922989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Foodcellar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3547,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115163606287734748132\"\u003eMatarkjallarinn - Foodcellar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZOm-zgx5HngfqSMZl8iwPsBmxSZ2zFN-OqN2WMXOGHaHlCPidQUtVZQAuYg1AZPLy3z43Uz9t07FRI58HR-DYx8fpJYUB278K0HlWvNheNTE3Z6a270udH-RoRNKjFHCBK8JPHh9IAkdvHnnRMb2v--G5zHPSlUaPqV2hpeR1KrrrA",
+               "width" : 5320
+            }
+         ],
+         "place_id" : "ChIJXyXzAi0L1kgRl-a30TQxBd8",
+         "plus_code" : 
+         {
+            "compound_code" : "43X5+C7 Reykjavík, Iceland",
+            "global_code" : "99PW43X5+C7"
+         },
+         "price_level" : 3,
+         "rating" : 4.7,
+         "reference" : "ChIJXyXzAi0L1kgRl-a30TQxBd8",
+         "types" : 
+         [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 890
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Frakkastígur 26a, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1429438,
+               "lng" : -21.9271757
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14426887989272,
+                  "lng" : -21.92572327010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14156922010727,
+                  "lng" : -21.92842292989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ROK",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107676797310416161265\"\u003eFranco Finstad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaepuBx3dc3DZt3AkQeVTmWuLaIfrwnlYgfoSbkIyGHdQFqznrNmwe-uOP_yNf2raLYqAm-T8uG28DeAlNvfe4w9l2hpBUdg4v3c-6tMBQvZjMoSdWn3vCq1LpqXFR-Tc1Frp1W3NM8S0R2sfciwfK-j38H_IEL7wV9xpgkuZnjtJ5-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ05I1lMx01kgRKApBXw6PCmM",
+         "plus_code" : 
+         {
+            "compound_code" : "43VF+54 Reykjavík, Iceland",
+            "global_code" : "99PW43VF+54"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJ05I1lMx01kgRKApBXw6PCmM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1181
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rauðarárstígur 8, 105 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1427163,
+               "lng" : -21.9141038
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14406312989273,
+                  "lng" : -21.91272977010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14136347010728,
+                  "lng" : -21.91542942989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Reykjavik Kitchen",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3468,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109289773334877225416\"\u003eLeon Rodgers\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZgISrQr6jGqVWDp0fgB6UysrvjTcNTXCXhqHvhGJH_gNZdHNihjc5cDXHHdr2SRneW68sZ74vzxan4jr93XeqkOCLBmnzsnJ5DWBd0Tr1iM28VEJl-bS_pTGItneCPMjeo-R5PnpfmLzS-WRUiGMQE0DbEXKFTO2Go68-oB7ixwNtV",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJr-Nci3h11kgR2h_Wvs-chmo",
+         "plus_code" : 
+         {
+            "compound_code" : "43VP+38 Reykjavík, Iceland",
+            "global_code" : "99PW43VP+38"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJr-Nci3h11kgR2h_Wvs-chmo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1374
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Laugavegur 107, 105 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1431762,
+               "lng" : -21.9141511
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14445222989272,
+                  "lng" : -21.91282567010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14175257010727,
+                  "lng" : -21.91552532989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "KRÖST",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102906874407787392846\"\u003eshawn.reimerdes\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaR7JE1xBqI346Pks_Yv-TRhMg2GuPjxNd9zsd9GGnJTXsVAw9YQX1i2u4DyRQDLOdgelG7GmE57b8hcRa11D3aOd0rZbW_QlHcMOne1P22eAR7VgaMQ4Vjvd_zK_lvFCXOFdmdW1cNHtNeZP3Ss-utXFfQ-CACMUW2vbgyYxn4gEkh",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJe_7MNsl01kgRpmzliFDOnhE",
+         "plus_code" : 
+         {
+            "compound_code" : "43VP+78 Reykjavík, Iceland",
+            "global_code" : "99PW43VP+78"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJe_7MNsl01kgRpmzliFDOnhE",
+         "types" : 
+         [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 897
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Laugavegur 72, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14388559999999,
+               "lng" : -21.920387
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14526242989272,
+                  "lng" : -21.91900922010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14256277010728,
+                  "lng" : -21.92170887989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Old Iceland",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113177410817132352739\"\u003eoleg garifullin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZNK8dzVe1EdJhQ-hynfVM_c6bVXES_2X9spEhLO2Afg1gZOBfIAeS1S6nUQFH0YEAVFR9YDOz-cO0Wflik015ehpYusRPMPdHzLIJF5UhitLsIl7qkmMuE7DdivWpNTYJDOtAJhwvV9DhaUrPT29SY-BVkwTR6TlP4-D9lAcU-iEwz",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ8VuJGcx01kgRgF8Oht1GUag",
+         "plus_code" : 
+         {
+            "compound_code" : "43VH+HR Reykjavík, Iceland",
+            "global_code" : "99PW43VH+HR"
+         },
+         "price_level" : 3,
+         "rating" : 4.7,
+         "reference" : "ChIJ8VuJGcx01kgRgF8Oht1GUag",
+         "types" : 
+         [
+            "tourist_attraction",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2114
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Laugavegur 85 101, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1436533,
+               "lng" : -21.9184117
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14500777989272,
+                  "lng" : -21.91705707010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14230812010729,
+                  "lng" : -21.91975672989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Harry´s Seafood and Grill Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106842995202360385560\"\u003eBimpe Olaniyan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYZKlLt3jt36ghLYXV8nZBiqcxqxQdoZTWgTh8naK5iYHl3jQTOV__kExf0FWCk9IGJnD17jtN3NjjZKh3iVYfzsPnHmDSLi4CZ9cAR4rtV7wOgWOVzZmc4WJ_fJ4ylNrZkHMh06x_SoJbBCfkn0fcupZxI3b_FB_5T5cQdQd2KVCZD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJAdjBq8501kgRs-4a7fa5dyc",
+         "plus_code" : 
+         {
+            "compound_code" : "43VJ+FM Reykjavík, Iceland",
+            "global_code" : "99PW43VJ+FM"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJAdjBq8501kgRs-4a7fa5dyc",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 667
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Austurstræti 14, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1475372,
+               "lng" : -21.9388077
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14887732989273,
+                  "lng" : -21.93738772010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14617767010728,
+                  "lng" : -21.94008737989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Duck & Rose",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100195813885893921792\"\u003eDave Norum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa4iuSo0VswaDVLPvg-4wAW5sZUfjYwkF9RC-qQrEx8GKRRtJKBEhHHu0qfCxQxZXFtVWaS2u2Mag1EJV_CexCjoAiy6kwbrRZCeZ36kQEX8gQUgarr7tLgDXu-HKrjv1Qz3SrbGa-4xJZXUp-d-HyFtq44LGXd7DJ_vMlmKVGP-x2A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJV_a4B0kL1kgR4vpo4IhehXM",
+         "plus_code" : 
+         {
+            "compound_code" : "43X6+2F Reykjavík, Iceland",
+            "global_code" : "99PW43X6+2F"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJV_a4B0kL1kgR4vpo4IhehXM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 295
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Brautarholt 22, 105 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14133509999999,
+               "lng" : -21.9046382
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14269977989272,
+                  "lng" : -21.90337037010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14000012010727,
+                  "lng" : -21.90607002989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Potturinn og Pannan",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3036,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109898725830425992419\"\u003eHeiko Folkerts\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaWGdnvtj7Xjrco5zZPBdQZLqBzF2xmAkz7LY0NQhsiu6TrP5IO5dvoftaVSyGwVLEVR7CLQQWvayhOhF1wSVAlPYvcGDwutCByeIUlq9CjdWjmO8wPRZw52UyuS5Te8fgLsZ5F-B4UEGmvkzFNUTN8aXkea9zl32KqBV674ay2NREH",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJiZnn88h01kgR7sCBFCH2qUg",
+         "plus_code" : 
+         {
+            "compound_code" : "43RW+G5 Reykjavík, Iceland",
+            "global_code" : "99PW43RW+G5"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJiZnn88h01kgR7sCBFCH2qUg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 630
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lokastígur 28, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.14241249999999,
+               "lng" : -21.9288648
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14375362989271,
+                  "lng" : -21.92743362010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14105397010728,
+                  "lng" : -21.93013327989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Café Loki",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108788647477497292837\"\u003eMaximiliano Bertacchini\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbI18lJb67wS5-_JSHfcNgMD3qRlcj2egRALscwrY-CkB5u4tH8JayD854ELi70aq2ATysyvs8h6467Afep9Tp_AAsUpU5C5VTRk_nvUE88zT9up8Q6LT_cjD6CUkCaBrw9OpB9CI0QgVQINtrvDiFSrW-H0NTy6EsE1BVayLAP3Yg5",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJCRdisMx01kgRUCG-12-_bE0",
+         "plus_code" : 
+         {
+            "compound_code" : "43RC+XF Reykjavík, Iceland",
+            "global_code" : "99PW43RC+XF"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJCRdisMx01kgRUCG-12-_bE0",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4989
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Skólavörðustígur 23, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1441985,
+               "lng" : -21.9298803
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14554242989273,
+                  "lng" : -21.92855387010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14284277010728,
+                  "lng" : -21.93125352989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Salka Valka eldhús/kitchen",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103831720242737711143\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb1EhWq_tIlAbOaQHoZCQ8iVHTt8VfspLR5lCcIOLFMCKhVKZ4mPwMElVPwUV4REU5X1LFKY5QbaJKisKi55-ReVM85uhUrm30DoXDJyDMexSjmVtYzwBYIS5xyEp7-x1UzYwZlYJgxj_sJDbgVFR3LrIbTgi7PMSK8ErwtTUYSBo1C",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJiSva2Mx01kgRlu7_SPeQphQ",
+         "plus_code" : 
+         {
+            "compound_code" : "43VC+M2 Reykjavík, Iceland",
+            "global_code" : "99PW43VC+M2"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJiSva2Mx01kgRlu7_SPeQphQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1303
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Laugavegur 74, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1438376,
+               "lng" : -21.9200334
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14520202989273,
+                  "lng" : -21.91866862010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14250237010728,
+                  "lng" : -21.92136827989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kröns",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108300709398685147150\"\u003eAndriy Petryna\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY1Hkhz1wGCchidwzCJZd3KAXgDuNNwQ4HaXY6kLsVmUbTpE9CNhVxeUSOGUSsOV0hqcElLeMrP814lB-tdFldDM6bogYv7qw8KDJSeILv61zZggQsdCfbahRZiSrECXj5iE3cxpaToSSxczQ5SxAIOj6GygCZSlCkRbQewHz9Zi_Lh",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_-dgL_UL1kgRBNn4Hdt0he0",
+         "plus_code" : 
+         {
+            "compound_code" : "43VH+GX Reykjavík, Iceland",
+            "global_code" : "99PW43VH+GX"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ_-dgL_UL1kgRBNn4Hdt0he0",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 355
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hafnarstræti 101, 101 Reykjavík, Iceland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 64.1484208,
+               "lng" : -21.9409375
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 64.14972987989272,
+                  "lng" : -21.93940132010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 64.14703022010727,
+                  "lng" : -21.94210097989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Fjallkonan",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107363921089487494115\"\u003eStephen Kowalchuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaSUw9U4aES6ZevNTAFdzQNJ91cMaXsAtRsz4ljkKMo1gNHHVRgT5yBhR6mA28z9aJWXSRm1BKWFid1liT67PYw0zy_3hF_hBCFbHmZmvVHKJXdCDg36wWOSRPKGznmeZDEc_7jCFMcZwEEyfmSyOWzhaNdTRu3RtSVrxFbY3lV8rHe",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZZ057KUL1kgRXxy_yvHunZs",
+         "plus_code" : 
+         {
+            "compound_code" : "43X5+9J Reykjavík, Iceland",
+            "global_code" : "99PW43X5+9J"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZZ057KUL1kgRXxy_yvHunZs",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 600
+      }
+   ],
+   "status" : "OK"
+}

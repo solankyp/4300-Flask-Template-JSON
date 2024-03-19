@@ -1,0 +1,1205 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJaip8a6gyIPC7WsXo7Ju0lOl59Lq6P_V_dgMcaQSxKvOtOn7fvnf1Vs5IXC5WcpId40JFRfmzfjPkt9Ym07jA4vmy1MutdbmNONqfYH20DUz6fQNBejj59uH0zrZsLq_AEPbUtYHavrOVBCb95Lz5qzCLR93QtxUM4yQCF4UC01twYS7LyCAnndIfOLcALcY-sgPnRDIlB_j0g8koUQq55etqURBuyyeqVfwK3aduXsAd0-a7odadYqo9meuBfRPy9kieZG2WjEN-dkd8dG9GP8BFvU_YQz7-7XQXOJZE43nxFJDmXqBVqCm2rcu6jkh4YtNHgRKhhlGssJ8j5KdmZMFwKm8tEvBMbYuiSFxy8s2XjK19CSWk3zrPKoX6_TReBGm-mBDIPK2juHXg",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C.Gran Vía, 32, Centro, 28013 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4205637,
+               "lng" : -3.7034011
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.42170517989272,
+                  "lng" : -3.702080770107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41900552010728,
+                  "lng" : -3.704780429892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Primark",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117778944134405734661\"\u003eOlivier Hochstaetter\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbxefFSRZ21uvapeA1Ltp2x_UDpTrs_hgCRRwfrj2enBQIQ868-wWvlVT99fgPfzC3tOPoQEScq-iswxwoHDkiThh7HboiELDOxeToC-7ym8ZuWslB6K_1k5QgS7ZRifZTdHI9-eJg3Cq6W_WIH5hENSX-A_Vr40_fjfFYyqEeYnpio",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJaUu5gn0oQg0RJGkn0OeXftE",
+         "plus_code" : 
+         {
+            "compound_code" : "C7CW+6J Madrid, Spain",
+            "global_code" : "8CGRC7CW+6J"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJaUu5gn0oQg0RJGkn0OeXftE",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 98431
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Preciados, 3, Centro, 28013 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.41767,
+               "lng" : -3.70488
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41915437989272,
+                  "lng" : -3.703704920107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41645472010728,
+                  "lng" : -3.706404579892721
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sandro",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ93boeX4oQg0RUK6abUMitKw",
+         "plus_code" : 
+         {
+            "compound_code" : "C79W+32 Madrid, Spain",
+            "global_code" : "8CGRC79W+32"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ93boeX4oQg0RUK6abUMitKw",
+         "types" : 
+         [
+            "clothing_store",
+            "shoe_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. del Conde Duque, 22, Centro, 28015 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4273292,
+               "lng" : -3.710453299999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.42869117989272,
+                  "lng" : -3.709132520107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.42599152010727,
+                  "lng" : -3.711832179892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Mini Shop Madrid",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108187234346068981066\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYSCglaZZVtD_r-0P8BJh-mGjS49wTfaIFS9kw9Ydz8QVTw6ALSA23-X16PhPmy_pQM_lWbdlZnRdpHHAQCoWAhs3xSmpHvFBG4v-R9ZIkccb9F6o9x5vXvnOFh1gU7iCytThyrsneYExiImzak_oCdBYk3HcQWmRM1ho_xvJgSDtsO",
+               "width" : 819
+            }
+         ],
+         "place_id" : "ChIJ2xhANGQoQg0R8xM5gBJb7Jc",
+         "plus_code" : 
+         {
+            "compound_code" : "C7GQ+WR Madrid, Spain",
+            "global_code" : "8CGRC7GQ+WR"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ2xhANGQoQg0R8xM5gBJb7Jc",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 96
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de la Montera, 19, Centro, 28013 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4180118,
+               "lng" : -3.7027246
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41974232989272,
+                  "lng" : -3.701848220107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41704267010728,
+                  "lng" : -3.704547879892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Madrid Souvenirs",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3168,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103491020294173910636\"\u003eJoaquin J\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZNl35GHyCF6L-Xg247-4Nw36ucahPoO1YvUy0pBYtBC0OfczPP6tw3ovfg2ineiYdZgo2Mr7rPId0sxho3cav6H6D1BKdofHRjgfFqyy6SibYWZaTFFOIQ1kYFG_PGZ-f7alE8tdcCEqOetKhZPe_1Uke6AaVYzzv16XNNEAFqKFrb",
+               "width" : 4224
+            }
+         ],
+         "place_id" : "ChIJjSfXVIcoQg0RTAjTHMFV64I",
+         "plus_code" : 
+         {
+            "compound_code" : "C79W+6W Madrid, Spain",
+            "global_code" : "8CGRC79W+6W"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJjSfXVIcoQg0RTAjTHMFV64I",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 43
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de la Montera, 43, Centro, 28013 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4193303,
+               "lng" : -3.7022065
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.42083162989272,
+                  "lng" : -3.700558120107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41813197010728,
+                  "lng" : -3.703257779892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "From Madrid With Love S.L",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114524114069261034534\"\u003eDominick Maone\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZfAB3CKRWUDVFv_lsGFcYQERyNpGR1KaoKgts21MI6w5Jz-pZuy1b3pkAshWbQhDls3K8fQeEOUzukoAGVI84j1Co8dRuIfxWm7TL5fn7PUCgYJNWh6y8kWUsaDw5jajl3Q-AaQgAC2YX4evKTlthYnBq0pEE_tNkvls7CStGhJBdQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJFzb5X8EpQg0R24M7choIi9I",
+         "plus_code" : 
+         {
+            "compound_code" : "C79X+P4 Madrid, Spain",
+            "global_code" : "8CGRC79X+P4"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJFzb5X8EpQg0R24M7choIi9I",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Preciados, 1, Centro, 28013 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.41714,
+               "lng" : -3.7042064
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41822962989272,
+                  "lng" : -3.702937220107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41552997010728,
+                  "lng" : -3.705636879892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Outlet Madrid Bags",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111795676422155457786\"\u003eTeresa Sanz Leal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb0dKN-vkyUxZ850Tsh2Hez-LXtOe0UR9PzXOo-nw8r8OcF42JH9VNB0sfDBjfePuvpTm8AiCYa0ouptWoP5d3JhB939Zm3a9VONYX5orHT_dARWtktsQAABs8vwqTKPEwljF-tG_99MK3MF7Ey7Xo7IKTGRUfAnx3CKtZ87GEYgYkm",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJayIZIX4pQg0RmS9uZsGVz-I",
+         "plus_code" : 
+         {
+            "compound_code" : "C78W+V8 Madrid, Spain",
+            "global_code" : "8CGRC78W+V8"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJayIZIX4pQg0RmS9uZsGVz-I",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Centro, 28013 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4163956,
+               "lng" : -3.7065288
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41771012989273,
+                  "lng" : -3.705168870107277
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41501047010728,
+                  "lng" : -3.707868529892721
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Cinturón",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJBwkahG4pQg0RBWGok32v3Hc",
+         "plus_code" : 
+         {
+            "compound_code" : "C78V+H9 Madrid, Spain",
+            "global_code" : "8CGRC78V+H9"
+         },
+         "rating" : 0,
+         "reference" : "ChIJBwkahG4pQg0RBWGok32v3Hc",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. del Callao, 2, Centro, 28013 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4193875,
+               "lng" : -3.7051552
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.42088307989272,
+                  "lng" : -3.703653070107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41818342010728,
+                  "lng" : -3.706352729892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "El Corte Inglés Callao",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101473453380886121247\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbFdjGpO5yRJcLFh5Khw2T3M4juQJ8C235qkkkCjOs5ZHQWt06D9roeRuBwbJ2W-oObMjI2qmayVvjT9MFLhAgkJG1VozoAa6fo-_ISk_rt_KIymd5aTrw4lBGeDnXGoaIvqoWZIdHGjvZxJCOtBWAP_YMEry47FublquIGO80VDH5n",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJ_-GuX0oQg0R6OQFx90MVTA",
+         "plus_code" : 
+         {
+            "compound_code" : "C79V+QW Madrid, Spain",
+            "global_code" : "8CGRC79V+QW"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJJ_-GuX0oQg0R6OQFx90MVTA",
+         "types" : 
+         [
+            "shopping_mall",
+            "supermarket",
+            "meal_delivery",
+            "grocery_or_supermarket",
+            "cafe",
+            "parking",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 15190
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de las Huertas, 17, Centro, 28012 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4138749,
+               "lng" : -3.6997098
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41517592989272,
+                  "lng" : -3.698354020107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41247627010728,
+                  "lng" : -3.701053679892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Corner",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3720,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106877276513323145226\"\u003eThe Corner\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZykqh1wkA7vrhHiBpkMz-wK9KNPhYnZBJPATQ9_cD1RsbrIpui3gM7hKSumx0BLcNBJD5fZRd55biuOd9cmC1cafHhfLQjF7LdQWH60rnWVwaBWoXBTBkRpT6yqMk1tvvVgYc-DC7pj6TMeYDHjcUQNLywpIL5fqRtynAl2OCq5ts",
+               "width" : 5404
+            }
+         ],
+         "place_id" : "ChIJUxVnz4EoQg0RvXdVqlEBMwo",
+         "plus_code" : 
+         {
+            "compound_code" : "C872+H4 Madrid, Spain",
+            "global_code" : "8CGRC872+H4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJUxVnz4EoQg0RvXdVqlEBMwo",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 50
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. del Arenal, 6, Centro, 28013 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4170872,
+               "lng" : -3.7052863
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41817967989272,
+                  "lng" : -3.703603770107279
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41548002010727,
+                  "lng" : -3.706303429892723
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Real Madrid Official Stores",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117296747758648442705\"\u003eFahmi Alila\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaO5x4mq4x6JurJ7I8OjgyEITKJUCBjUp8A7VHNdiDhDf8Hmyu2muEjHfibaNe42fpJ9G-viOW_jng6bmKiRHF3hTtSob0sC9WY3ut38VIh4xHNEy4qIZtdQygouIzJoL_BiwdfRK-ObaSOXYuk7hxZ2Bid-_u8Z2W6SB5rJp1x1zOE",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJE5I7Yn4oQg0R-bmosLpqW3I",
+         "plus_code" : 
+         {
+            "compound_code" : "C78V+RV Madrid, Spain",
+            "global_code" : "8CGRC78V+RV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJE5I7Yn4oQg0R-bmosLpqW3I",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 361
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. Mayor, 65, Centro, 28005 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.415499,
+               "lng" : -3.7101671
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41682722989272,
+                  "lng" : -3.708975870107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41412757010727,
+                  "lng" : -3.711675529892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Madrid Souvenirs",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1360,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108488854244469315004\"\u003eMadridSouvenirs\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbGKaHeYjvNEiPT1_bTpP1LayuXFjJS22i1Zu0K5fGz7IWAHcQBXmPTCHSZ-7OyPXO22QwmkkQzt9ZdQ_yd5rmZ7rh3ixksIN9CYGaBKLRW0JBsPfS8BiGCY4fsDhoMksGotlHnhOlrl1T-fNioyzUlVBJJMp1GnU2PDvdrCQsUYfaQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJQ0eSBHkoQg0RHkRWb2sBxC0",
+         "plus_code" : 
+         {
+            "compound_code" : "C78Q+5W Madrid, Spain",
+            "global_code" : "8CGRC78Q+5W"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJQ0eSBHkoQg0RHkRWb2sBxC0",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Postas, 7, Centro, 28012 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4160328,
+               "lng" : -3.705497
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41754627989272,
+                  "lng" : -3.703968120107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41484662010728,
+                  "lng" : -3.706667779892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Madrid Souvenirs",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103678571420232545756\"\u003eVali Harcea\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZRXJu17hNBEDF5C-ci2Vlg30rGqFtz6IlUFe0YpAQHpkroA1dOkGJwwM7A9O78jrbeX2WsVrKd9l6aVtmrBDszvo-gRwhWUOczuTYTbn4QFzAiBfy-AszXA7-jtMrC1JJOCmZzQnoN1SsTdnT-12yO1CSft7lCYSSqFnAYsRXZnVaI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJNdbt934oQg0Rf5Bapr7QgFg",
+         "plus_code" : 
+         {
+            "compound_code" : "C78V+CR Madrid, Spain",
+            "global_code" : "8CGRC78V+CR"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJNdbt934oQg0Rf5Bapr7QgFg",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 24
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Carretas, 11, Centro, 28012 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4161389,
+               "lng" : -3.703147599999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41772602989272,
+                  "lng" : -3.702395120107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41502637010728,
+                  "lng" : -3.705094779892723
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "From Madrid With Love",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115102307186632409206\"\u003eTorben Mauch\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbpGxSCNlQTppb8LxaKEJ4fIL-vii9et6FM8kCGXbnDyyiKbTyWvetBQcjoHRDIjlZFbSWqXR8kwiu1Ydz0VGu_SfEzLudCxejLZB3QE7xYDVo7IdAWZrkrSHVkqzewXK7nqaBSy-o_L39EQFdXlbxKiT3Jz1YzqiAbFsYBCHVRqSXI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJMyv4UBYpQg0RkIU9MIksXCA",
+         "plus_code" : 
+         {
+            "compound_code" : "C78W+FP Madrid, Spain",
+            "global_code" : "8CGRC78W+FP"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJMyv4UBYpQg0RkIU9MIksXCA",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 28
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. del León, 29, local izq, Centro, 28014 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.412975,
+               "lng" : -3.699202
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41432672989273,
+                  "lng" : -3.697859920107279
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41162707010728,
+                  "lng" : -3.700559579892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Alphaville vintage shop",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101730508163213163037\"\u003eAlphaville vintage shop\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb_0BeVI_M44zSd74bPMG2q84qzF6KP33GOMen6OcCMy-icQQvNiXiUp0VtYAx2TMJGymNsUKoRuBnFWg_X3hf7-RcFMm4WUyxv-rGQmNrvrPk-dPH9pw0q9EXUXZFw3HYBwjpreMSZ5EG7_0aXXBhh81Ccrh6K98WVjuesKYCQn9qK",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ5axldSomQg0RY-1aDxJv4rc",
+         "plus_code" : 
+         {
+            "compound_code" : "C872+58 Madrid, Spain",
+            "global_code" : "8CGRC872+58"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ5axldSomQg0RY-1aDxJv4rc",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 300
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. de Canalejas, 1, Centro, 28014 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4169288,
+               "lng" : -3.7004583
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41820497989272,
+                  "lng" : -3.699047020107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41550532010728,
+                  "lng" : -3.701746679892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "DIOR Madrid Canalejas",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4480,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115447973607697374855\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaC4hXTJA2hJIUJZ2i2YpX5SUq4KwG60YiIdjFy60NYWm1mzzRwA9T95sBGgQn9EbalzuH6XDy_t-_GFifGIEbdh_z4O8Lamr0mNmksHSHzj7AcUvjDMKebjdVnl8a-kpc2rGGpkA2K96J1M61P9QyhZYVWtGOYK0nxgBUFmzS-6V3b",
+               "width" : 6720
+            }
+         ],
+         "place_id" : "ChIJv5WQv9gpQg0R-OZMHyXY0GA",
+         "plus_code" : 
+         {
+            "compound_code" : "C78X+QR Madrid, Spain",
+            "global_code" : "8CGRC78X+QR"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJv5WQv9gpQg0R-OZMHyXY0GA",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Latoneros, 1, Centro, 28005 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4139595,
+               "lng" : -3.7078073
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41531402989272,
+                  "lng" : -3.706346570107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41261437010728,
+                  "lng" : -3.709046229892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Curiosity shop",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114459764624460693468\"\u003eTito Kempa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJxrcK28kB5VzFQQlfvlczBEtf2kEAWVWpMvUz1H2k1VecjdWn_O4xcW-sM39SeuobQKeKPOY4yUehdcwkw_29P93XIddkeohPW5nvvUT4JLy0DR5-27p3XhW33MEIbQCWxxDIdtc7oLWuEvrA4lwNeJyGjj1SkAKpjYTu9akAXMc0",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT3OISn8oQg0RJ_NBAwNQFRw",
+         "plus_code" : 
+         {
+            "compound_code" : "C77R+HV Madrid, Spain",
+            "global_code" : "8CGRC77R+HV"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJT3OISn8oQg0RJ_NBAwNQFRw",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 115
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Preciados, n°3, 4° Floor, Centro, 28013 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4176289,
+               "lng" : -3.7048889
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41911592989272,
+                  "lng" : -3.703706620107277
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41641627010728,
+                  "lng" : -3.706406279892721
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Maje El Corte inglés - Madrid Preciados",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 608,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117178847296518351506\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa9RB9SFtpfD6irpFNG6ezAiek84Fid2P_NoP_h9yGPsHKyCIUNFMKXjjtzIJ9qkRbdBUBSxBWs7OYfwYgBXB0WYbFl13CCK1ftKv1IIBuNo1Ia2vX7ESvOJ6nHNfHGiKlxFrkZ6xJwGNB0wGTCf1ooFvY0iatA0smyW0a03MxOnKTV",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJYwsmnRUpQg0RgmAvtXAiMjc",
+         "plus_code" : 
+         {
+            "compound_code" : "C79W+32 Madrid, Spain",
+            "global_code" : "8CGRC79W+32"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJYwsmnRUpQg0RgmAvtXAiMjc",
+         "types" : 
+         [
+            "shoe_store",
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plaza de Santa Cruz, 3, Centro, 28012 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4150684,
+               "lng" : -3.705858499999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41635027989273,
+                  "lng" : -3.704461870107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41365062010728,
+                  "lng" : -3.707161529892721
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Santa Cruz Plaza",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2776,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104371887834635739894\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY7OoINVo6GDwSAwHabxvxmOSHqOtAjzfz3quaHzzZhj5wwy1IipA_vF6U0RepKxqAYwB8V61OTIPn-7yOyngFzaXW42Shyh5GuJelk0Ph5HHjPmgoqUR59bUrdvlxlFr6op-Xu6wBgNtgaCJCxEOXVddBBbQy-duUC4elFWn4WrJn4",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJgS7FAX8oQg0R13U3ju87ka0",
+         "plus_code" : 
+         {
+            "compound_code" : "C78V+2M Madrid, Spain",
+            "global_code" : "8CGRC78V+2M"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJgS7FAX8oQg0R13U3ju87ka0",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 231
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Preciados, 11, Centro, 28013 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.418437,
+               "lng" : -3.705132
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41957962989272,
+                  "lng" : -3.703935120107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41687997010728,
+                  "lng" : -3.706634779892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Hard Rock Cafe Rock Shop",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114118451392288609524\"\u003ePaco Valera\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZM7uXlowoY1PpFQWj60qyRzfVkH466-WqI9e8z81JQHhd_m8KJiOuzQcsbw-8pyFwgbEfolJVVMnyt7JJbu7OW-5QsXR-0KPaj3E0lqWoaknRZAlHTDJ_Ylcz8grJ1JiOwF2ObfY14k6tCbxQk1NE-7VlaGmnq4AsgMGAMiFKl0zGM",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJXxGFJf4pQg0RXwWmZH96km8",
+         "plus_code" : 
+         {
+            "compound_code" : "C79V+9W Madrid, Spain",
+            "global_code" : "8CGRC79V+9W"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJXxGFJf4pQg0RXwWmZH96km8",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 591
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cra de S. Jerónimo, 4, Centro, 28014 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4166319,
+               "lng" : -3.7019
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41793477989272,
+                  "lng" : -3.6998744
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41523512010728,
+                  "lng" : -3.702575200000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Madrid Souvenirs",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118394015791105133038\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJajkcDEypa8ZWFyV4qmmy4sgJPjXxs48drLlluNeO-nl_4mKLiDO_eBIyw0geEksy_EJh-43GQc2lj0t4GtH40TH-OoM7q6OgkCUZ3N_Ju5O-A81AZvwk2zISbXeJOn4E_xBvZlxIJHAxaH_Zmr0Gm7rrp2xrkI_VpPRPJCA2O4soQQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJEa4KloAoQg0RityKJDEBziA",
+         "plus_code" : 
+         {
+            "compound_code" : "C78X+M6 Madrid, Spain",
+            "global_code" : "8CGRC78X+M6"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJEa4KloAoQg0RityKJDEBziA",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      }
+   ],
+   "status" : "OK"
+}

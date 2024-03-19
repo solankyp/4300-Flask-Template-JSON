@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "# 17/R,1st Floor,18th Cross,18th Main, Sector 3, Hsr Layout,, Bengaluru, Karnataka 560102, India",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 12.9066298,
+               "lng" : 77.64308489999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 12.90797902989272,
+                  "lng" : 77.64449722989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 12.90527937010728,
+                  "lng" : 77.64179757010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Residential plots for sale in bangalore",
+         "place_id" : "ChIJvxoa7pkUrjsRuTt7hk-rEJ4",
+         "plus_code" : 
+         {
+            "compound_code" : "WJ4V+M6 Bengaluru, Karnataka, India",
+            "global_code" : "7J4VWJ4V+M6"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJvxoa7pkUrjsRuTt7hk-rEJ4",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12
+      }
+   ],
+   "status" : "OK"
+}

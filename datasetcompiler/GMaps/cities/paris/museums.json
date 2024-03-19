@@ -1,0 +1,1227 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYkuOWgzUdWYAGqyRFAX3czXXcCS9xep3mAoQUzGTRASM98u2EbtvTQX25a3_q11G39AxJ7haJ3Z2bKmKttuIt_j-zL3Wj1FCuz7caUtFRxW6gSRhbdz6akckS_Nn3gF_gP04u_M2sm91qYtfUqY87rXQmQ-0flebLGADbcBpqr5l1fBPWN3YnSHNX1C4Cc5iCSTtm97NYXydIL4VIBHcTK8MQwOYfdDY7ocfRefPj9c8bsFju15CQMz959WPoVTcrKbUG65wTG4Sw3c-VOwIwuq7sXMvMwdbNAFGjXGml-DTBz6B8BWgWpRBPk-KvrLZdKpnH13KPc3hxPB4ma99DJZZyzbdvL3SyqHpkvyygPDH_oYATRHS37dlbCWBk2PRXwdcUM-5wC4-KMEV4",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Esplanade Valéry Giscard d'Estaing, 75007 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8599614,
+               "lng" : 2.3265614
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86152997989272,
+                  "lng" : 2.3275171
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85883032010728,
+                  "lng" : 2.3236943
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée d'Orsay",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112781049900590415383\"\u003eRomain Plagnol\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaNFQBNtszHjrhVPTmrTEJV1H3vDMQHN0H9ej2rEMcoCvyv6SfxPX0D2Z66INrrqGutAj-SYW8bL71Hn37c0O_yEa_3xLmruUBuMO_Qya_fyE8So4bceJbuKwF_WrtWvt4kqh3shNxtpAaFcqJGMoV4MibWdOTegzLEFLQfwlUDtS2N",
+               "width" : 6048
+            }
+         ],
+         "place_id" : "ChIJG5Qwtitu5kcR2CNEsYy9cdA",
+         "plus_code" : 
+         {
+            "compound_code" : "V85G+XJ Paris, France",
+            "global_code" : "8FW4V85G+XJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJG5Qwtitu5kcR2CNEsYy9cdA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 89331
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "75001 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8606111,
+               "lng" : 2.337644
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86355484999999,
+                  "lng" : 2.342908599999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85824504999999,
+                  "lng" : 2.330669800000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Louvre Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102049816190459072347\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYwIn6VMiOQZQBl5JGdGKJjHyJJPpvkIad1L4W_SwXXkIMk0XQ-bw-haDuDYtCUSvGR_tzChjGtNUKIF-v2REBcpmyK2oWQjyb89Vs-TAQCl2c1hktoRntug4yAgjwoEeY8TFXzgVT7HvQ18FvHnD8qxQMs-girTJysgWHlgkWMfXlD",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJD3uTd9hx5kcR1IQvGfr8dbk",
+         "plus_code" : 
+         {
+            "compound_code" : "V86Q+63 Paris, France",
+            "global_code" : "8FW4V86Q+63"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJD3uTd9hx5kcR1IQvGfr8dbk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 311577
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jardin des Tuileries, 75001 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8637884,
+               "lng" : 2.3226724
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86588105000001,
+                  "lng" : 2.323703329892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.86309084999998,
+                  "lng" : 2.321003670107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée de l'Orangerie",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108799099049503589097\"\u003e108799099049503589097\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb2LpkTqaJX6-_XZkmUbozLDxZuMYY1ZQv9Gin9V-IHrPK99ear8rsk8uRqy4z79Kdc3gqK1v3cSMMr7rmtkI34I8YTlfHxF1Q3mmSIoury2cg76tVHv9Z38KDV4HWvtRytowUYZ01A_yv6G2aaFu-OBl9jxTUzy_ZLj5BIoS2pqmKD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJo6qq6i5u5kcRCpYBp4rQP9w",
+         "plus_code" : 
+         {
+            "compound_code" : "V87F+G3 Paris, France",
+            "global_code" : "8FW4V87F+G3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJo6qq6i5u5kcRCpYBp4rQP9w",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17321
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Place Georges-Pompidou, 75004 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.860642,
+               "lng" : 2.352245
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86199594999999,
+                  "lng" : 2.353983179892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85889895,
+                  "lng" : 2.351283520107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Centre Pompidou",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103850319430787124751\"\u003eSven Wischnowsky\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb2hX1z9sAM35NRgT8VxHquNJycI8JPrwjqd86R_YWbIxvcI46b7RXSZtcL_I66NMmsaRz-Kc1dS81xf9Pb5az5UPIok63pYWK-wWlDku8o90ki3KmJJOnIEFnBUnBGv4p_YHmWnXgnDnDRJ0JEYVcDlvJ-iDE7efL_u4G9b-PLtotP",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoyC4CRxu5kcRRTPcWX5srLc",
+         "plus_code" : 
+         {
+            "compound_code" : "V962+7V Paris, France",
+            "global_code" : "8FW4V962+7V"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJoyC4CRxu5kcRRTPcWX5srLc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "movie_theater",
+            "museum",
+            "library",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 55810
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "77 Rue de Varenne, 75007 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8553072,
+               "lng" : 2.3158354
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.85697512989272,
+                  "lng" : 2.317365629892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85427547010727,
+                  "lng" : 2.314665970107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée Rodin",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 500,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104342994579464755536\"\u003eRogerio Carneiro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZtLwUKgdiT8w2YMlIquhmHmfoUC2X4HAK7Ugngc1_x8AJqvGPfnDsP5fQO3gc3xubxZY4lN1CILGc0oWsl6BHXrGNlnT8VZXU-DU40puEYBPTb2mmZ44PgWvwoGKTahADg7p48p1C1QJCKvvTZieHdmX1PoKD7lHnpSyGBXMPf-bOs",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJQ9vMHipw5kcRWHC2ESjYaGQ",
+         "plus_code" : 
+         {
+            "compound_code" : "V848+48 Paris, France",
+            "global_code" : "8FW4V848+48"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJQ9vMHipw5kcRWHC2ESjYaGQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16719
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8 Av. du Mahatma Gandhi, 75116 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.87664530000001,
+               "lng" : 2.2635239
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.87793522989273,
+                  "lng" : 2.264982029892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.87523557010729,
+                  "lng" : 2.262282370107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Fondation Louis Vuitton",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1152,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101299682359348096173\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ_0xfj7oUX6qjNCeiTDYv-wP4r4eM_j4cURMKrBE_NAzA_t3hDZRDSAZgUUC1pmJXEgmDwENT1dWsz1B8E8cGS3XLxpgYvvLlxfP2eVP7i9hR1XIejLe_v7aetyslITqX_GboHINrPjPIHDh0J7d_p8gHGmJj4N51FtamJWJHKXdo8",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJSr0RV1l5kcRzbW6FfxF1oU",
+         "plus_code" : 
+         {
+            "compound_code" : "V7G7+MC Paris, France",
+            "global_code" : "8FW4V7G7+MC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJJSr0RV1l5kcRzbW6FfxF1oU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18756
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5 Rue de Thorigny, 75003 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8596668,
+               "lng" : 2.3626138
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86107602989271,
+                  "lng" : 2.363785029892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85837637010727,
+                  "lng" : 2.361085370107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée National Picasso-Paris",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 5242,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110185672020199961449\"\u003eJean-Louis Ravoux\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbXGGrfPFH-5avZzsgUjOCZBQh2JDZapTCR4aw4OEAaqZaEx--qUWXRmezXHuZXH4z1v8RCBGTS90VqhhbyEdvyOqNVrgKsr7JWcqKwKPiJxuEJBz3WADG6BUWGfChi_SUzUvmbA85qGLNbRTYk11Sv8d64UndV_sPzgSXHrgmFd8M8",
+               "width" : 7780
+            }
+         ],
+         "place_id" : "ChIJS2t0QgFu5kcR92388prakcE",
+         "plus_code" : 
+         {
+            "compound_code" : "V956+XW Paris, France",
+            "global_code" : "8FW4V956+XW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJS2t0QgFu5kcR92388prakcE",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11935
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Winston Churchill, 75008 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8660479,
+               "lng" : 2.3145896
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86743782989272,
+                  "lng" : 2.315560529892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.86473817010727,
+                  "lng" : 2.312860870107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Petit Palais",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1512,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115279343161455394868\"\u003eCatalin Baluna\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYFhyGTJe4MtYuzKGD6ZlHe9XMI3NbZ3_888_RlXqyn9VFI9JtjXjiIrK1tzlGnUf6lVvGWblihII_fPhjkfLpC3exXkHss8tgkhr5C9uzi1UwGU9YiQ6aXHeKJTY9vdC8qaw6Fz9vaHAvzokJozDA5j8bUEwQZ8f2MCdrgBnMisCFn",
+               "width" : 2016
+            }
+         ],
+         "place_id" : "ChIJSUOPztFv5kcRnEbSPYG-9fM",
+         "plus_code" : 
+         {
+            "compound_code" : "V887+CR Paris, France",
+            "global_code" : "8FW4V887+CR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJSUOPztFv5kcRnEbSPYG-9fM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17114
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "23 Rue de Sévigné, 75003 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8570669,
+               "lng" : 2.3628579
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.85892712989272,
+                  "lng" : 2.363931479892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85622747010728,
+                  "lng" : 2.361231820107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée Carnavalet",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1363,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103129492918452428910\"\u003eMusée Carnavalet\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZoH0ol9jAH8T5g-Aj3g5PKgP0JWUnSHu0ML-4MrBHty_OI4aE1SDzuJHxMHfglTzQOflI75h5bVZMhaJrvXSKdgU0g-ThJFytZxIfqohDYN4AdjbGO8Cjp-OMF0EW_Iv5-4Zxl5SgL56SZYVhN3ciTL5MW2M59Z4KZa0JvznbriqDw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJfRtS-QBu5kcRwRg5JXVrwcg",
+         "plus_code" : 
+         {
+            "compound_code" : "V947+R4 Paris, France",
+            "global_code" : "8FW4V947+R4"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJfRtS-QBu5kcRwRg5JXVrwcg",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7455
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "11 Av. du Président Wilson, 75116 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.86434209999999,
+               "lng" : 2.2978208
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86571157989272,
+                  "lng" : 2.29942475
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.86301192010728,
+                  "lng" : 2.296173350000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée d'Art Moderne de Paris",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2246,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111381496513186491330\"\u003e戴政輝\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbzqsUAyilOFSuGDN_7Bv67Eths46Oz2iSgRuN5ZQ03MrF7cVErY-GpD6mNSZCZeA78F9gXG7ug_T-WuEaYPuAHCR26_-j1O8hUr17sVRTmjI-xtmf7OjWGmBm2A-9w0rZyHV5_hj6ZsEQAilmTf006jOpfvo4mkYzzGSVKfUyKxbLX",
+               "width" : 3993
+            }
+         ],
+         "place_id" : "ChIJr3SOmOdv5kcRJUwZDs3C3mA",
+         "plus_code" : 
+         {
+            "compound_code" : "V77X+P4 Paris, France",
+            "global_code" : "8FW4V77X+P4"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJr3SOmOdv5kcRJUwZDs3C3mA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6610
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "37 Quai Jacques Chirac, 75007 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8608889,
+               "lng" : 2.297894
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86273005,
+                  "lng" : 2.299601429892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85949905,
+                  "lng" : 2.296901770107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée du quai Branly - Jacques Chirac",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111315492364886505963\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaHYF9PDp1vy74VfFuiigoG3Nbf1cExUXHVka64-9q8fw3-Vpu8ebCznMbGfI_tC7QnqOeMA6wFkEaSf9ZeqmZVG33AU5KU5-ML2kJ9eKkf0NdVg5IOQfoxtTuT2Jq6OsKr3FR08qTpi_PK9Ta9LMyMc4mcH8bWBXQPA5A4gf5gpnOk",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJY8922uBv5kcRJESw9l2dlLc",
+         "plus_code" : 
+         {
+            "compound_code" : "V76X+95 Paris, France",
+            "global_code" : "8FW4V76X+95"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJY8922uBv5kcRJESw9l2dlLc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16671
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2 Rue Louis Boilly, 75016 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.85923030000001,
+               "lng" : 2.267236
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86054937989272,
+                  "lng" : 2.268583179892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85784972010728,
+                  "lng" : 2.265883520107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée Marmottan Monet",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2912,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104131499777352985508\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa3PdiImpZGwTqZT6Q3jOeTb6a8IRyjfbkKvzDUYKdekeudfrvOGNTYcT_RaRzlp48TJpthUbMmW-MRnadMIZnQrSfupvFbCZOK9iPK9tJs25MDjjBx_QMJq1XM6HRxw7-HOeUZAAcWP8lLCiX_dPRHcsaJ6PkojKYidBB6Sr1RFb9D",
+               "width" : 4368
+            }
+         ],
+         "place_id" : "ChIJYfRHlFJl5kcRTIXaVRFhx04",
+         "plus_code" : 
+         {
+            "compound_code" : "V758+PV Paris, France",
+            "global_code" : "8FW4V758+PV"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJYfRHlFJl5kcRTIXaVRFhx04",
+         "types" : 
+         [
+            "tourist_attraction",
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7049
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "129 Rue de Grenelle, 75007 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.85579329999999,
+               "lng" : 2.3125934
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.85725312989273,
+                  "lng" : 2.3148614
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.85455347010728,
+                  "lng" : 2.3117514
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Army Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 534,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113235678621954790854\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb8Gr-2Mgk1BZqefUfyUIdJQjR_PMJgquqhJ0vJnFfP6UgjLbnsHVLk37Xirvtg464GgJMJT52M9bggob4Mr7JhBEMouTp_V2YhVWFVRsbFbEnzjoR1tO27Gf2F_JIEij0HnzRSyw1BmbtznDHnE19ZitKlc4KN5pInaZCJ0nAPASSt",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJv-rX7Ndv5kcRJ0IdTc55HnY",
+         "plus_code" : 
+         {
+            "compound_code" : "V847+82 Paris, France",
+            "global_code" : "8FW4V847+82"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJv-rX7Ndv5kcRJ0IdTc55HnY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 23443
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "28 Rue du Sommerard, 75005 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.85048339999999,
+               "lng" : 2.3440808
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.85173152989272,
+                  "lng" : 2.345437479892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.84903187010728,
+                  "lng" : 2.342737820107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Cluny Museum - National Museum of the Middle Ages",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111869854835444412155\"\u003eCoralie Van de velde\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa4yq5oxSO1jjBMZdvKpSaXQ2xhPt4ad_pq2Gai8hTn32BA-esDtRrmWZqFAT1G4Q1irC9K4RwMY4-gQ2ioXpBucHkN4CjTZ01zX85E3LvKMFSuFtnQYnFU2zh1UiZziRD-7GZRnsKsFRTbATsGBtE3dEi6V6ujRzDu55icozla4J7k",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJLxPh9d1x5kcRf7M1U0pu1gU",
+         "plus_code" : 
+         {
+            "compound_code" : "V82V+5J Paris, France",
+            "global_code" : "8FW4V82V+5J"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJLxPh9d1x5kcRf7M1U0pu1gU",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5462
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "57 Rue Cuvier, 75005 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8443091,
+               "lng" : 2.3562824
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.84572807989272,
+                  "lng" : 2.357553879892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.84302842010728,
+                  "lng" : 2.354854220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Museum of Natural History",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103160462618039456039\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZxbEmjp_RzX-WqtTzcFQUchEUOVJXDGqGk9y5r61koYC9dibLMJFHKkTEZVcZ_HYmao3FzNlE_AujxQH4PL_3VF_7n2lI3usb0MlRifqIsc2Xkw4sjfepNW6Ro2EBLn_KIXvT3vOmLdJ7PmmUfolbM9hYeHjCh3QdDYAZ2NeENjizz",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEURALfFx5kcR4cbxSSHWQ0c",
+         "plus_code" : 
+         {
+            "compound_code" : "R9V4+PF Paris, France",
+            "global_code" : "8FW4R9V4+PF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJEURALfFx5kcR4cbxSSHWQ0c",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6586
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10 Av. Pierre 1er de Serbie, 75116 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8659745,
+               "lng" : 2.2966155
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86738047989272,
+                  "lng" : 2.297949579892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.86468082010727,
+                  "lng" : 2.295249920107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Palais Galliera",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 683,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116289340011264205468\"\u003echristine couderc\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbhHUxZ0NZHZyxOFjuDaci1cAMbamsyMKZ0WSOGYW5_JTTng-uvxmlsXb99BgFD7GIVMGUC2VFStK9JEKD1O-xo00LnXrA33cizCBlypzylcpGQM8s2cA_Z0ijbvG4qYqeiHQsiLko6ZYx0yFsdfrKaPp1xfJ3qxg2qk92fz5x0e3w8",
+               "width" : 1078
+            }
+         ],
+         "place_id" : "ChIJYRVPQOZv5kcR8DUkxywb2-A",
+         "plus_code" : 
+         {
+            "compound_code" : "V78W+9J Paris, France",
+            "global_code" : "8FW4V78W+9J"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJYRVPQOZv5kcR8DUkxywb2-A",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3153
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "292 Rue Saint-Martin, 75141 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8660399,
+               "lng" : 2.3556152
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86785057989272,
+                  "lng" : 2.356362329892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.86515092010728,
+                  "lng" : 2.353662670107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée des Arts et Métiers",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108998054009276683753\"\u003epomusa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJamE-L9zEG9kaAV3vso3t3d5Ky0lcb20rl2Sj8q7hsFvnX2joYWUBx60qjCWHmUG0Q9-IJI3qpvUUqZDp8yn72NMkCXZz2kD_leDDPQIiHvHEdcKP6_GZShdmzrxpOL7MX5cIR-X_RT6DdsblKamjy3nIZiOXXG3zHjuy-s5fmF493y",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJNUTIphpu5kcR4h07VuxFIHc",
+         "plus_code" : 
+         {
+            "compound_code" : "V984+C6 Paris, France",
+            "global_code" : "8FW4V984+C6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJNUTIphpu5kcR4h07VuxFIHc",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7633
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "13 Av. du Président Wilson, 75116 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8645866,
+               "lng" : 2.2966748
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86557612989272,
+                  "lng" : 2.298324429892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.86287647010727,
+                  "lng" : 2.295624770107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Palais de Tokyo",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113995682084264301487\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYBvCDDTzrfE-c-eq7ycCFw6HXM-f3Sp108LdsSmKrXIjRshp9tGqOh12wuPIWlUnLhAxOBWx0bpqFITpRLgq7imGgnQi48D7rW4JrUA0jXR1qGJgRuirt3jxMm4JhfxlEinl1GOf2E0Z4-APeAsUwEVsxxID16HTpZ_cgTlsRKi_g",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJC0I3-eZv5kcRHaMcXnrRLsk",
+         "plus_code" : 
+         {
+            "compound_code" : "V77W+RM Paris, France",
+            "global_code" : "8FW4V77W+RM"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJC0I3-eZv5kcRHaMcXnrRLsk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10176
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "107 Rue de Rivoli, 75001 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8631146,
+               "lng" : 2.3334945
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.86455237989272,
+                  "lng" : 2.334902479892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.86185272010728,
+                  "lng" : 2.332202820107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée des Arts Décoratifs",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114746334443732292304\"\u003eDiman Prrok\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY05F8MVpQhN6MZeZDx70rqfgnihjygK23V5wxDiEOTMVZY4P1FQPXz6tfJo6leVGeHvq51wZ2S0-t7l8tb8rF3DqnB7xeHqVThRVKbrPHcHsKqaj9e6CDFybjcPEeaYJoZ4MZrI4ArDBaLHekBo6rUcjeixY9wcS3PXAn-xFeGCrwj",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ_QwlZC9u5kcRi6OALXVubvc",
+         "plus_code" : 
+         {
+            "compound_code" : "V87M+69 Paris, France",
+            "global_code" : "8FW4V87M+69"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ_QwlZC9u5kcRi6OALXVubvc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7247
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10 Bd Montmartre, 75009 Paris, France",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 48.8718125,
+               "lng" : 2.34221
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 48.87309567989271,
+                  "lng" : 2.343532629892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 48.87039602010727,
+                  "lng" : 2.340832970107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée Grévin",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102817054867920441908\"\u003eJulien Lebel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbZ-radmuqjYsZHR9mhS6ByRlS7OufpCpci2rSzN-xErjXjCqilOLgNWVaOKg2I6ksFJR4Nxo23f2bMOLk2iMeU_-wbrGkiOaDqTRQgdEkbphodcIRkCFBSMhPPBVbbEE7ND4XHqClJ41bwHjRSrBpm49hojY_0BrZ8S6XmVTcUoBnn",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJVUrgmz5u5kcRWPSN-T8a730",
+         "plus_code" : 
+         {
+            "compound_code" : "V8CR+PV Paris, France",
+            "global_code" : "8FW4V8CR+PV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJVUrgmz5u5kcRWPSN-T8a730",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 27465
+      }
+   ],
+   "status" : "OK"
+}

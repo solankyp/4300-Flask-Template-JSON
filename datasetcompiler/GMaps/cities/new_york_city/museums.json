@@ -1,0 +1,1238 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbwSdYBp_trg-c7klK02KbSy_2I-Jl4q6br_KyzdqqlSBd8cu2wOIJVU_mBLlS7QFEP0YmsarXIcbP-vljhLqciKhV-C-7yOoZIxpeVGgBi5bCLg4fTAuF6CXf3g3tyDxt7YI0Z9eLU6sCqPcmEgtweMta7GC7E3m0-1BbZ84Tqu0d1bP0q-P8zzuhtkWbHY_lqK8KldabqhHcDp7Vc4nFQSDxq9scUfrECfxRDynnptZakFWamMX1x6-ytQLKVHGitdsmPtIDIXOY0aMKQVjHXgp2xt7q3VLigJaQup4u9wsat6MPQ3dI4xOoeqeElEobYV6EDW2pvIyAeBp5q59gxhYMlU7lx3TtQSPkrAOcr-rof9M3u_u4P-V57StIxkMjpWUQGFfXTpqPLC8XjFAAtd2UHXQ",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1071 5th Ave, New York, NY 10128, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7829796,
+               "lng" : -73.9589706
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.78443592989273,
+                  "lng" : -73.95776212010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.78173627010729,
+                  "lng" : -73.96046177989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Solomon R. Guggenheim Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 794,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101948760137100881813\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaygLuzilyQOc-scyH4teMmVBRdmZYNDyyvHwARrcdCThFAwKQeACmADkHY84KwSqXNs140Axn_4JwsnQJQ8GRXL6nY0YZ0senWdPgF8g5yBobBVYBZGTAbjCRKwuZYa2jdjReRXeNMiTvTJHUiWyGyGmcqQjxwxFR5d6zysHCrRkxU",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJmZ5emqJYwokRuDz79o0coAQ",
+         "plus_code" : 
+         {
+            "compound_code" : "Q2MR+5C New York",
+            "global_code" : "87G8Q2MR+5C"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJmZ5emqJYwokRuDz79o0coAQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 22189
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1000 5th Ave, New York, NY 10028, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7794366,
+               "lng" : -73.963244
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.78025357989272,
+                  "lng" : -73.96137637010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.77755392010728,
+                  "lng" : -73.96407602989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Metropolitan Museum of Art",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 334,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112712849246177372757\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYpQxhajlJf2R4F4u-K8rjsXiwusgLlSOi5wpEg3lKD2_yVG09jdbJrh1Of5zp4RVOtmXFd1ZPugnp5wNbMURzTex_WvAeWT5flLW_MmNo0r0-XuNGyK_ElRW0Ubz6VdyAr6qrDWwP9_PONK3_gsCZNX_chkoLMfvF9sVy6M9gP11wW",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJb8Jg9pZYwokR-qHGtvSkLzs",
+         "plus_code" : 
+         {
+            "compound_code" : "Q2HP+QP New York",
+            "global_code" : "87G8Q2HP+QP"
+         },
+         "price_level" : 3,
+         "rating" : 4.8,
+         "reference" : "ChIJb8Jg9pZYwokR-qHGtvSkLzs",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 80750
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "11 W 53rd St, New York, NY 10019, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7614327,
+               "lng" : -73.97762159999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76268482989272,
+                  "lng" : -73.97635947010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75998517010728,
+                  "lng" : -73.97905912989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Museum of Modern Art",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 797,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110084771099728789053\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb25YuhmbL-gK1u0aObrbCp3pql1eK1FW9xSQqCcEXtkaxVRpgTGRQJkLL10z7QfYw1fFWT6_Wg1Zv7xCHRq04H12Xk4qu1n1jbZ9cR1T3a1HzzlQX1JJ1y5U5afMPg7asNyYTISsyiTKsZpbdKslWqZ_bJjZ8d3NagUewk1VTvLbi_",
+               "width" : 1242
+            }
+         ],
+         "place_id" : "ChIJKxDbe_lYwokRVf__s8CPn-o",
+         "plus_code" : 
+         {
+            "compound_code" : "Q26C+HX New York",
+            "global_code" : "87G8Q26C+HX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJKxDbe_lYwokRVf__s8CPn-o",
+         "types" : 
+         [
+            "tourist_attraction",
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 50578
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "200 Central Park W, New York, NY 10024, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7813241,
+               "lng" : -73.97398819999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.78294769999999,
+                  "lng" : -73.97157354999997
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.7799797,
+                  "lng" : -73.97596895
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "American Museum of Natural History",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116604357729816626027\"\u003eAmeer Al-Sayyed\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ5nRijh2D9VEWlsbvuSBMw4_Lq1qbjbyxbgPcPDWLuYLk4SsTTqEb_tfhfl6Gl1kMKptBdDa3dm-l5BgPv_7soO2BNg1D-qrolJpyJBV9eoXqrp7YLa-Cl9pY-GPRGHYgH7ejN7-feElOm9SDkejYfZ6aqlfhxszAgeJRWSwuuG-dk",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJCXoPsPRYwokRsV1MYnKBfaI",
+         "plus_code" : 
+         {
+            "compound_code" : "Q2JG+GC New York",
+            "global_code" : "87G8Q2JG+GC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJCXoPsPRYwokRsV1MYnKBfaI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19602
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "99 Gansevoort St, New York, NY 10014, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7395877,
+               "lng" : -74.0088629
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.74081427989272,
+                  "lng" : -74.00790137010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.73811462010728,
+                  "lng" : -74.01060102989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Whitney Museum of American Art",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107239765823220609141\"\u003eAlejandro Corvetto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJapvc4MtH5bdF1D7L9FXcg48iDXJtDMjS4OsmbWYnaJgHb8Vx4P_qyuXznQ22KRJK5PpF-DpebzBAxRe9gagJMiJODLtKV3FqZzf7WPx2t4pO4_WpQJ5HOQtJlUEn5UIOxnbfXv2AqPEbzFY793mDfshA0DLXYy5BMTyX7yiXp8cZ5e",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJN3MJ6pRYwokRiXg91flSP8Y",
+         "plus_code" : 
+         {
+            "compound_code" : "PXQR+RF New York",
+            "global_code" : "87G7PXQR+RF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJN3MJ6pRYwokRiXg91flSP8Y",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12268
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "180 Greenwich St, New York, NY 10007, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7115776,
+               "lng" : -74.0133362
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.71443325000001,
+                  "lng" : -74.01095310000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.70813985,
+                  "lng" : -74.01552910000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "9/11 Memorial & Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3587,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118317417282337144519\"\u003eJoe Oravecz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbNu530A5256-twWQFb7RHuFcZ_o3fqtECaz3HRMBHxZ8sO4Lcs3S7SKR0lbtES4CK8VoSACqy4if26px97iHp1FL2mLcDgPjpweO3Z3Bb4JMaoTkOR6769xQPT05fl637dZu-oICRF54FwJSFOHCXCqVCUlLjlAlXSN1_mjkNwSWcZ",
+               "width" : 5380
+            }
+         ],
+         "place_id" : "ChIJRcvoOxpawokR7R4dQMXMMPQ",
+         "plus_code" : 
+         {
+            "compound_code" : "PX6P+JM New York",
+            "global_code" : "87G7PX6P+JM"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJRcvoOxpawokR7R4dQMXMMPQ",
+         "types" : 
+         [
+            "museum",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 76250
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "225 Madison Ave, New York, NY 10016, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7492258,
+               "lng" : -73.9813971
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75065432989273,
+                  "lng" : -73.98024622010726
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.74795467010728,
+                  "lng" : -73.98294587989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Morgan Library & Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105787647052433885325\"\u003eJonathan Letzter\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYKCIErPijJKjqlqHaLlmSsf9q5JmyYsoQ72K4vGi_-SQnbeIYCFDLz3GIj6-MMuxqcTA0lYYm9NuaJrsWxrMlG1PN1ohGNjtxHKm0xkZEgpVrjfFE96lWKl1lXS6G-NUPnUvPQmTA28vHxQLKxZw2-gQgoDjILhSJ3f6h9BpeeRmkP",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ3453OAdZwokRja92OOKCugM",
+         "plus_code" : 
+         {
+            "compound_code" : "P2X9+MC New York",
+            "global_code" : "87G8P2X9+MC"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ3453OAdZwokRja92OOKCugM",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "library",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4405
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "103 Orchard St, New York, NY 10002, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7187923,
+               "lng" : -73.9900068
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72014032989272,
+                  "lng" : -73.98864997010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71744067010728,
+                  "lng" : -73.99134962989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Tenement Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102717622350549853074\"\u003eMichael Oehlandt\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJakJu-LQSyAcoAI-Pu_zMhYvbd-LyVIaaG9mOqkC0KDmctm3zI21H1_yQWxBi_CXhW75ydGiweVh8PdvSPZgcJAbSXosEAdCRcPUrdKnRTiuaK4xlfOAgJEurgab2naD5YUkt5XeOW4PoSW5FXmmSfCmh6nIYH6tNTltnJD8BXOwK5o",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ20bVJYdZwokRhI7esP3mYM0",
+         "plus_code" : 
+         {
+            "compound_code" : "P295+GX New York",
+            "global_code" : "87G8P295+GX"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ20bVJYdZwokRhI7esP3mYM0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4621
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "99 Margaret Corbin Dr, New York, NY 10040, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.8648628,
+               "lng" : -73.9317274
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.86665500000001,
+                  "lng" : -73.9246285
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.86222299999999,
+                  "lng" : -73.93519849999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Met Cloisters",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1367,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102154866008824111507\"\u003eJonathan Newby\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ27XDk9Kub0-V8exfg0YzM6yFoYHxdbJTEVU3KadbFjZ8-F302UMKyI2RZzZdZe-qYKb6fXjQV7rtluKBrClTqTX4TBhBM61A9Mt7us-hg7uKkiAzfa68oHOA1IwfUGM4hf7JTDvNeOxI2U8PY9LCFAWwMdgMSsNFmFvEt9IkdP5MO",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJK6bycAH0wokRrSnflfrnkZE",
+         "plus_code" : 
+         {
+            "compound_code" : "V379+W8 New York",
+            "global_code" : "87G8V379+W8"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJK6bycAH0wokRrSnflfrnkZE",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6990
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "200 Eastern Pkwy, Brooklyn, NY 11238, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.6712062,
+               "lng" : -73.9636306
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.6729825,
+                  "lng" : -73.9613173
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.66878529999999,
+                  "lng" : -73.9655441
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Brooklyn Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108806825593259691048\"\u003ekelso4001\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbJDO2MNxWIKQqpWyoWvE_kf5fdDsYMa7n8CsCYjYMP1CDJb1tW7ZAkBIXQNfon5blMeGgoFjQ33TStIKzszoaUGk9OG_y6YOkOutdPBkfXM6Bu1KCRcpCSQOq8LXQ84o9bG2HBHSiuv8DJX6p3jVHsRK6Xeu9j_j16-snwgKIH6brD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJyTmcRApbwokR-oXJRqpVI8Y",
+         "plus_code" : 
+         {
+            "compound_code" : "M2CP+FG New York",
+            "global_code" : "87G8M2CP+FG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJyTmcRApbwokR-oXJRqpVI8Y",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9309
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1109 5th Ave &, E 92nd St, New York, 10128, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.785334,
+               "lng" : -73.957351
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.78663292989272,
+                  "lng" : -73.95599292010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.78393327010728,
+                  "lng" : -73.95869257989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Jewish Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 861,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115503915800536413202\"\u003eThe Jewish Museum Shops\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYpZwB47bF6q7V1FLPTTtA7sFEbafXaYQ5PibbF0VCtYGS5Dm5numrW7FPEGPjmULfYlBqA_U9ZSNFrcV9kgtLeJa0meXseHexQ7DCtXhAJN0ecvKhqJvbSqz6dWseMxOM3ej2QMyAW1Hdt6cH0uVXTF_5OD4IFLiBdfRNklwBTwENX",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJYWLHOqJYwokRmkVum_hd7Ss",
+         "plus_code" : 
+         {
+            "compound_code" : "Q2PV+43 New York",
+            "global_code" : "87G8Q2PV+43"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJYWLHOqJYwokRmkVum_hd7Ss",
+         "types" : 
+         [
+            "museum",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1623
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1220 5th Ave, New York, NY 10029, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7925329,
+               "lng" : -73.95199219999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.79393292989272,
+                  "lng" : -73.95075302010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.79123327010728,
+                  "lng" : -73.95345267989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of the City of New York",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 546,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113719639442868633401\"\u003eAshley Hughes\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbujCV2IxsUJFOMiTR0R123MxLoV9ys8aMJFmhxRxoKPT8yQIk-BGKJXEeAumAQskbcXLG_Ph1XK6p-oHbmGeXHEevaaBmoIrARNu3_C2bmri5CGs0PThVZjlwXyQZBjhEtTswXaBRtQDT5C1rITuyDkaQFV5WOoYjFJxrbnZPehe0T",
+               "width" : 830
+            }
+         ],
+         "place_id" : "ChIJi4hYtB32wokR1Npx_Tv7phk",
+         "plus_code" : 
+         {
+            "compound_code" : "Q2RX+X6 New York",
+            "global_code" : "87G8Q2RX+X6"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJi4hYtB32wokR1Npx_Tv7phk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5113
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "170 Central Park W, New York, NY 10024, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7793332,
+               "lng" : -73.9739093
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.78059062989273,
+                  "lng" : -73.97257337010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.77789097010729,
+                  "lng" : -73.97527302989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "New-York Historical Society",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1838,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102775025205971391524\"\u003eAnthony Le\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbGjJMoj8Idg-BLsYI2gf46oABaq5ZnlflUjvDbWRt-OxaSJts-CPi1wS563KAu3F6xW_eoJMLmKfRqhSH4Z__o9KE-02saDgghe2-YElxYcOr-IOHGQfT42R9bv2bLST3ACmVJmCWXkj0PTnXP5Gfa99bldPjgb2WxcHrMfmBNvUlK",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJIVEyfY5YwokRXqcWLrl5XVA",
+         "plus_code" : 
+         {
+            "compound_code" : "Q2HG+PC New York",
+            "global_code" : "87G8Q2HG+PC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJIVEyfY5YwokRXqcWLrl5XVA",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "library",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 568
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "150 W 17th St, New York, NY 10011, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7400671,
+               "lng" : -73.9977244
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.74150957989272,
+                  "lng" : -73.99628432010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.73880992010728,
+                  "lng" : -73.99898397989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Rubin Museum of Art",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108993860535944249200\"\u003eSpencer Owen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZG64iHElEhvDcJSeSFDoRpa75K72KByxrxROqtImaAhEvzTP6BjnZG5NhQ-Di6D6plce1lp89qA_3yW4-W-IWYP82WqY0Ji-dDCJpTkbG6Scxi1JSy1AE4zUbwGM20kTUfNpXDMfi8FP8MhsfMZa09UvXQ5j2wlHvB2E7C_GF3jF2l",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJD4QSVbxZwokRaFPDajZtIaI",
+         "plus_code" : 
+         {
+            "compound_code" : "P2R2+2W New York",
+            "global_code" : "87G8P2R2+2W"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJD4QSVbxZwokRaFPDajZtIaI",
+         "types" : 
+         [
+            "cafe",
+            "museum",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1992
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pier 86, W 46th St, New York, NY 10036, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.76488010000001,
+               "lng" : -74.0008306
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76594567989272,
+                  "lng" : -73.99792300000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.76324602010727,
+                  "lng" : -74.0017998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Intrepid Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106695005623479450261\"\u003eChris Callow\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZdk1UE4AXymbKRo7qFLMe8X5UdHGpUK6cjRIci6vhExcDhtCDBmdJknoMBs-UmoVfS_DmRtBK5abR7jMvatN7inxxTcBZ3K63_2RmWffhwwOS_sMt-8YcF2tWvFyz2T2zTx_Sr9wgZEpo9ZngqWWBLlZqeD48pmFpd8RzKsIo5-0Jl",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJnxlg1U5YwokR8T90UrZiIwI",
+         "plus_code" : 
+         {
+            "compound_code" : "QX7X+XM New York",
+            "global_code" : "87G7QX7X+XM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJnxlg1U5YwokR8T90UrZiIwI",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 38391
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ellis Island Bridge, Jersey City, NJ 10280, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.6992753,
+               "lng" : -74.0394328
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.70062512989272,
+                  "lng" : -74.03808297010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.69792547010727,
+                  "lng" : -74.04078262989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Ellis Island National Museum of Immigration",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109269542359883474623\"\u003eemil toth\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZD01dcXtDcAsNqMj2ckrF_EqwICfEY6HyYPIqyAbwye5n3myH697pDRgCafF0BEyjL0YSySjRZ_SPSIgO7qNsfEx6VS-9vM26c2spI9NGZeJzE_WXd2TgHvdwH_gPe_SJR1KKObjxPVA5OGbgYLPpiVQcXrgaV9hOUBYHCEWzbntef",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ3-0FiytRwokR7opvak3pfI8",
+         "plus_code" : 
+         {
+            "compound_code" : "MXX6+P6 Jersey City, New Jersey",
+            "global_code" : "87G7MXX6+P6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ3-0FiytRwokR7opvak3pfI8",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5109
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "29 E 4th St, New York, NY 10003, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.72766499999999,
+               "lng" : -73.99234
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72893082989273,
+                  "lng" : -73.99105802010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.72623117010728,
+                  "lng" : -73.99375767989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Merchant's House Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2049,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112099107266160569364\"\u003eKennyat Kwnphoto gmail\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYPNDFPpKN8Wqexf4jBF0q7NBdYmadTtiPHrGQCX_W8cMqjNAG4Ev35iXm50A3OLCHxrs0Pnj46Ml2h3AsFqV9gBYsaez6SG_YmrSCLU5_PFp3wD0N2MmkpV7Wsui751Tu2Q5vwxKhFUG2WwEOpfnrv7_-QlcpLFypfJdHcl5wyLupS",
+               "width" : 1236
+            }
+         ],
+         "place_id" : "ChIJCWqa2ppZwokRj3c3kcIR9x4",
+         "plus_code" : 
+         {
+            "compound_code" : "P2H5+33 New York",
+            "global_code" : "87G8P2H5+33"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJCWqa2ppZwokRj3c3kcIR9x4",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 375
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Bowling Green, New York, NY 10004, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7039861,
+               "lng" : -74.01368889999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.70554702989272,
+                  "lng" : -74.01241127010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.70284737010728,
+                  "lng" : -74.01511092989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Museum of the American Indian",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108585025234485852384\"\u003eDavid Herszenson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYJUqdWp6qswhOhPDhoJj9ZQD4jyLu9dsGdQ5piwh4bw5L1GkDCCI7w_0zmw7rFfwRJzZMlFqiXzlc3DoJ8aA_0YUvtL7tbKPigaSrJ3500oboeL8OHF0FZLYxcntPTbuc-yHqnOIkST1nGtFZdXGBfIWxt4MSJXE0mjEMZyXvz0qB5",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ95aJ6hNawokRQFMmQ08gkYg",
+         "plus_code" : 
+         {
+            "compound_code" : "PX3P+HG New York",
+            "global_code" : "87G7PX3P+HG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ95aJ6hNawokRQFMmQ08gkYg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5109
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2 E 91st St, New York, NY 10128, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7843958,
+               "lng" : -73.95787319999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.78582952989272,
+                  "lng" : -73.95643472010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.78312987010727,
+                  "lng" : -73.95913437989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Cooper Hewitt, Smithsonian Design Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 443,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114018481788295115232\"\u003eCooper-Hewitt, National Design Museum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaccAvP4YmcAbxAvmPJvVG9NIjDo7sHkP-9S5Qxc8JEUWBh2SOCoY3ZHiV5I5eFIl3gwnBaIA_gBgO_CavtzeAJzkBcO3i7F7NnfgPqFkBWDK2IxvZwD4ooHxgoRlQm7rCPZbe7uxNI1W99RBmZpBf-g_dUNG1XIylQMnVE_uRvCfTb",
+               "width" : 680
+            }
+         ],
+         "place_id" : "ChIJsT8qSaJYwokR-m20OGJUKCA",
+         "plus_code" : 
+         {
+            "compound_code" : "Q2MR+QV New York",
+            "global_code" : "87G8Q2MR+QV"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJsT8qSaJYwokR-m20OGJUKCA",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2724
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "99 Schermerhorn St, Brooklyn, NY 11201, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.6905696,
+               "lng" : -73.9900672
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.69185862989272,
+                  "lng" : -73.98866647010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.68915897010728,
+                  "lng" : -73.99136612989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "New York Transit Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108217570078458101504\"\u003eLiam Tahaney\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZBUNKqmyPhtq2Wb7JO1sHjFLsq5nDuyN-sDuNHZSD-iu6x6wFJZEgud2pEqjrB0WF7qpHOX6S8k8LVU9Y_R4u3wJxWEJmS1GpNLEYHMrOaDeKfkENrYcEr8dAKtSqHOgaH98KTg-P2-BV0NJYi-1w2A8P5crUfMQsdkYbLtrD_mMEu",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJdThqNVVawokRFk58UQOvtuM",
+         "plus_code" : 
+         {
+            "compound_code" : "M2R5+6X New York",
+            "global_code" : "87G8M2R5+6X"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJdThqNVVawokRFk58UQOvtuM",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5041
+      }
+   ],
+   "status" : "OK"
+}

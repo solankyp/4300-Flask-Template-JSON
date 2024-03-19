@@ -1,0 +1,1201 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJaF7q-kyqAMFm-geKnUqzFItcczbBV4lcOVOJTrIXU1t32Tjby3PNZ7brNNt2FzrY3ZeL-9-pbQNnvRwfppo_lOWmGIgJHG4HS4d7rS1OHkekU7YPnEOH2KMmZDlCnt6GnqJpgmjHLVobiyUnfDt2OOLZHUjtJcfrqdHudHEIxnhraN6GTLh5Fs3bu3JKDvurwdrJNVJkZymLcQl3Ji6_4Pts-2DjqdANY_CEfGc6v5IydGN0jvQzraEx_mB9PEu7rIGR88t_-fu_Ptsluz4z1vZC4SGQsZFjWtpBz1wlgcyFWCE-45-fb8Cn98M98jVH7-znHvFbHDa1bJT0KTJ0pCZFy-iWRQZQit3UoHf7xeud6KvnoXP2KpR_58bm9sepVmDL4e876eX_y3wUP-5A",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pg. de Gràcia, 92, L'Eixample, 08008 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3952155,
+               "lng" : 2.1619024
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.39652207989273,
+                  "lng" : 2.163307229892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.39382242010728,
+                  "lng" : 2.160607570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "La Pedrera-Casa Milà",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3750,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102888276412420232045\"\u003eluis vidilla\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbr-YHjyQMF-rUHJryywPjK-DXqc4C93EKbszmaCmtuWrn9iqkRTE82iccfB3V29rmvyw2dqoNN5O8rpSogSB2Z4JYtRm4w4V6Gt9VDx9sG2DswCjzN9M3jmjhnLhapvGOxCYInZePvf-RckNXRUxPuPdM-6DN0tqJKRtFtvV_wM8J2",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJ1eGKmZOipBIRah43T2Kjn8Q",
+         "plus_code" : 
+         {
+            "compound_code" : "95W6+3Q Barcelona, Spain",
+            "global_code" : "8FH495W6+3Q"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ1eGKmZOipBIRah43T2Kjn8Q",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 91045
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ Nou de la Rambla, 3-5, Ciutat Vella, 08001 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3788901,
+               "lng" : 2.1742308
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38027457989272,
+                  "lng" : 2.175519229892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.37757492010728,
+                  "lng" : 2.172819570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Güell Palace",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115406825926278532219\"\u003ePatrick Ballou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZO21LgijneDCHPbIZWZiqxACB3a_d7QBDl0IUMM62e3bpJbwyZDk_e0qLsgufvW50ztxKAbhp-2gHbs3R_mX28_I741U4nkjg3eku3agWITHv95B23yqKWrKsaPMFCx8rOcpj2BNMg7yrPoimL6DrATmD764XDF9Rgk7KCjnYJqMMU",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ3fHTIFiipBIRpKXCn_E_oJY",
+         "plus_code" : 
+         {
+            "compound_code" : "95HF+HM Barcelona, Spain",
+            "global_code" : "8FH495HF+HM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ3fHTIFiipBIRpKXCn_E_oJY",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19193
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pg. de Gràcia, 43, L'Eixample, 08007 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3917,
+               "lng" : 2.164918
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.39311602989272,
+                  "lng" : 2.166342179892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.39041637010727,
+                  "lng" : 2.163642520107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Casa Batlló",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115819114138971191158\"\u003e한원만\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJacGmNnJW6Ifdei66L8t2PfKesTCnouEwVB8XDjAbGsjq4xyoGVYKSN4NQYwIG-E6_viSJjoGKyFqTpewXvxThQK3f5ffeCoaNYRGo588I8bI-8bbbBhg9uZ9gUK-_xGOJhO69XO85IAFP2k_XeOVyo4C2zf_gkDQ83k6XG2Fa4G9ZO",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJYUFLSe2ipBIRD04uni940kA",
+         "plus_code" : 
+         {
+            "compound_code" : "95R7+MX Barcelona, Spain",
+            "global_code" : "8FH495R7+MX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJYUFLSe2ipBIRD04uni940kA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 138288
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gràcia, 08024 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.4144948,
+               "lng" : 2.1526945
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.41654734999999,
+                  "lng" : 2.1567524
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.41144915000001,
+                  "lng" : 2.150594
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Park Güell",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3472,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106689750203740956251\"\u003eMisael Vita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYt2hQP2m1oXvflM_ZkvE_zhstH6I5T5uO6Pz8G4PPlordxLD0vrRzPEDtya58HR8vIiqKP2N8EuZdcSZ2WeOUCf_0L8JeGFufCRlNC7-tivApz7ANyqiAg73XW4iVxgfhNdsexKtxLmfsL_s-e3IhOxH9hdA17ulBqFe5GI-ct3KqE",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJq0HUUq6ipBIRWM6qGqALmok",
+         "plus_code" : 
+         {
+            "compound_code" : "C573+Q3 Barcelona, Spain",
+            "global_code" : "8FH4C573+Q3"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJq0HUUq6ipBIRWM6qGqALmok",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 191146
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plaça de Santa Maria, 1, Ciutat Vella, 08003 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3838871,
+               "lng" : 2.1820711
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38515417989272,
+                  "lng" : 2.183455329892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38245452010727,
+                  "lng" : 2.180755670107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Basilica of Santa Maria del Mar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110127217298133322567\"\u003eAdam Lysičan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaWwmMeZ4RxmyRzo5qqfyxDCv1LIM4rCk7uI_hmDQUGHKXdIXvU1x0JU3CzZi9nTrImdlI1EMu8nQNY6c-gPStqcK2gO8rc5DyCxDtYgLaT6BoIIZ7-oeE6ZCZPCRORvjDYePv5ZEhWgUlx-w1GQ9gX6J1EfmQdnw8xIQe5PKJQN6KT",
+               "width" : 3696
+            }
+         ],
+         "place_id" : "ChIJV6QNXv6ipBIRYOHAH1yUvLQ",
+         "plus_code" : 
+         {
+            "compound_code" : "95MJ+HR Barcelona, Spain",
+            "global_code" : "8FH495MJ+HR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJV6QNXv6ipBIRYOHAH1yUvLQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 34619
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Còrsega, 508, Gràcia, 08025 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.4049367,
+               "lng" : 2.170681
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.40632307989272,
+                  "lng" : 2.172004679892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.40362342010728,
+                  "lng" : 2.169305020107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sites of Barcelona",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102950999791838164694\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJawZlaj9FVYG83MrDcyqDNEdCdt2BseRrPD3CCB3W-O345uz0Cl3G4-77lygB-j_RKzktKmJw3FEQWZKZ7ij0va18ke9lkpG9BbqRHK4MMTh_uZU-jPehLwELmCQwCqDfDlwBd2GbgGRK5bUnMSB5CXlmVHpydBJVP0Dvw8_Yncf-5O",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJy0bkaCWjpBIRZdrB9CzykA8",
+         "plus_code" : 
+         {
+            "compound_code" : "C53C+X7 Barcelona, Spain",
+            "global_code" : "8FH4C53C+X7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJy0bkaCWjpBIRZdrB9CzykA8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. del Rei, s/n, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.38416,
+               "lng" : 2.1773472
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38551912989272,
+                  "lng" : 2.178723279892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38281947010728,
+                  "lng" : 2.176023620107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Plaça del Rei",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114747429525318764651\"\u003emarisaouro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaxVY2dJeZZbWLardmSViDdPL7GDMNCqp-ZLQXrCSjikJtUOE3FVKvJsi-b9llx3VAT4hnpGDblEKbxyTkaRlc9hZRaa9Bc6-wCNcYZQrmUv7Q7XwT6juYEkhKYKDzk-WOS366w53nmiF9eV9RP3-QuKHMeHi_0SXm8CiY-bQCCxS1j",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJ6NJDPmipBIR-7N-fZzI_Fo",
+         "plus_code" : 
+         {
+            "compound_code" : "95MG+MX Barcelona, Spain",
+            "global_code" : "8FH495MG+MX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJJ6NJDPmipBIR-7N-fZzI_Fo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3818
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. de Sant Jaume, 1, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3826971,
+               "lng" : 2.1770236
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38398442989272,
+                  "lng" : 2.178392679892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38128477010728,
+                  "lng" : 2.175693020107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Saint James's Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118371370753800042235\"\u003eCorinna Traurig\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZS_o5ak3UZgHrFG04Ren4EmzQeO-dxgEF0tFguqXkfgC5PWjPT26y3VM4Aq8vl45kTYkHA1xhg-u8aqHyqbM7uOgfK-LOXfACA4Ud2TwYqkc3RKk6XXkG-iOzTqbRfruz22cwag_vnbOAe7_9CiE-gUGEXq0z_OFMITWm2ePm5vpHj",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJDQeJ-PiipBIRTjO6gbOPY4c",
+         "plus_code" : 
+         {
+            "compound_code" : "95MG+3R Barcelona, Spain",
+            "global_code" : "8FH495MG+3R"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJDQeJ-PiipBIRTjO6gbOPY4c",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17157
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plaça de Catalunya, L'Eixample, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3870154,
+               "lng" : 2.1700471
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38848337989272,
+                  "lng" : 2.17153665
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38578372010728,
+                  "lng" : 2.16868925
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Plaça de Catalunya",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113297625595901408280\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbCEKWbI4cO_IS6FjzbFC1RNAl6v6LMY567JOkp8XJEbR0NzpZShUwiI5hyZE3_T85eJUlyYO5dmLQPO-SJs_t3ojELcjN5_w29T0_hlx2kHmlw8ORetkEhUumoucZ7bzWqnidnRYKAyayXcX63Iacw8AOF77LKgGmn9RFa2AmBsxuV",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJGUgrYPGipBIRS9ZgHK_C7B4",
+         "plus_code" : 
+         {
+            "compound_code" : "95PC+R2 Barcelona, Spain",
+            "global_code" : "8FH495PC+R2"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJGUgrYPGipBIRS9ZgHK_C7B4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 185396
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de Mallorca, 401, L'Eixample, 08013 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.4036299,
+               "lng" : 2.1743558
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.40495932989272,
+                  "lng" : 2.175745979892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.40225967010728,
+                  "lng" : 2.173046320107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "La Sagrada Familia",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107090153661944020086\"\u003eFelix Onwudegu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbU4HkgLHGhQfUMG25KXvkGAII0HxnBdNJgMWvtPslSPl_oXQJmzoj36b5f77QWV4JrOHSoe0p7ZxQTSfou72NsfD3SKF8dr5lK2EAk-7kyGrT20Y66aYSN9KQAM2rIZrbnPzLkfMAx7I7EQt5pdyFVccowm2-d4rUY1GnhKZvyM5H7",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJk_s92NyipBIRUMnDG8Kq2Js",
+         "plus_code" : 
+         {
+            "compound_code" : "C53F+FP Barcelona, Spain",
+            "global_code" : "8FH4C53F+FP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJk_s92NyipBIRUMnDG8Kq2Js",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 243054
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pla de la Seu, s/n, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.383962,
+               "lng" : 2.1761991
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38562552989272,
+                  "lng" : 2.178297100000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38292587010728,
+                  "lng" : 2.1752647
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Cathedral of Barcelona",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1439,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118401562218010941746\"\u003eooha2009\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYagM_QJ3UQoBQWsFysEIn4OuQfsdeumc1kKkVD7Imq85tHZHhrl7447-Lv6Ev5jcjTh9uMAdFYYV7uUhTyV34rzaAaDfT5X5fug7lq2dptQm3heC9WIUkC0lsR0cAr8vGEuN3Ew3OkaMcM501z2M9TiKTBXp0y8T09fTwhLiN15lgN",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJg2xxlvmipBIRg1jhdSQR9hY",
+         "plus_code" : 
+         {
+            "compound_code" : "95MG+HF Barcelona, Spain",
+            "global_code" : "8FH495MG+HF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJg2xxlvmipBIRg1jhdSQR9hY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 65409
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3686304,
+               "lng" : 2.1598509
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.36974722989272,
+                  "lng" : 2.161291429892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.36704757010728,
+                  "lng" : 2.158591770107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Joan Miró Foundation",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3472,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104201218322047187585\"\u003eMiquel Ignasi Jodar Solans\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa2o0QiCZMjzp2dhpfyWkv9E3A7oobbSvNRimC4gyoDcA12_g3uiDj2qKMSldayNKTald-Svqpa3_CHY0THsnSa1MIDFPTMBDcZIqmN6eF_2os9QmEmFmscI4gpWhpCZJu6ByYDOZNSZA6LcCnEoSfWeTgNb-2pYCIa3dWlpGgiEJzd",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJLcelLmmipBIRqmlJrcEfypY",
+         "plus_code" : 
+         {
+            "compound_code" : "9595+FW Barcelona, Spain",
+            "global_code" : "8FH49595+FW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJLcelLmmipBIRqmlJrcEfypY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11662
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pg. de Gràcia, 41, L'Eixample, 08007 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3915608,
+               "lng" : 2.1650349
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.39297627989272,
+                  "lng" : 2.166480979892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.39027662010727,
+                  "lng" : 2.163781320107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Illa de la Discòrdia",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112105914213639201142\"\u003emario valentin AA\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbMh7ZZzknDTDSgEjAMyfljlfHaR5ov6N2ydblKNYtwapi2i-BelxnMt7jIDFl_cYNBFsjt4CZIwgYLG1115cpPK8eA4MemjWo_5rt479jOO3iYUcjXZMZCx6oEIhjy-_dcqkT3naaIFn0S08X77Zcfcjc8XN0oS8sf7tauaO0KeVNH",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJyVF-Ne2ipBIRNW4_T1_ZVU4",
+         "plus_code" : 
+         {
+            "compound_code" : "95R8+J2 Barcelona, Spain",
+            "global_code" : "8FH495R8+J2"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJyVF-Ne2ipBIRNW4_T1_ZVU4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 204
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plaça del Pi, 7, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3823031,
+               "lng" : 2.1738023
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38363827989271,
+                  "lng" : 2.175183229892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38093862010727,
+                  "lng" : 2.172483570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Basílica de Santa Maria del Pi",
+         "photos" : 
+         [
+            {
+               "height" : 12000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107308122465986900678\"\u003eSunaina Arshad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ706aI8jznfCahI1oG_wZ_H5FP0T1j3nMbHx96_OXg07pVvsZJllmsYXJsnAP6jCiUlNObgqYb6qIv4AuaaUU8FpvVeBmklR4bCo8SIySmqpPsOAhxO8eR-7v303a5B5KNaR3aqbsur0hnrOVNH7y7uvn8o79lv4B4dR0-4y1V7Kgf",
+               "width" : 9000
+            }
+         ],
+         "place_id" : "ChIJx5adlPeipBIRKWosvaChtG0",
+         "plus_code" : 
+         {
+            "compound_code" : "95JF+VH Barcelona, Spain",
+            "global_code" : "8FH495JF+VH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJx5adlPeipBIRKWosvaChtG0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5547
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rambla de Mar, s/n, 08039 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3751582,
+               "lng" : 2.1806792
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.37639197989272,
+                  "lng" : 2.182632379892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.37369232010728,
+                  "lng" : 2.179932720107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rambla De Mar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100455253831877648159\"\u003eSimone Limone\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa2x2VQ-Wzy3nlOoId8ZiCo_v5j0AI7DQs-IRksq9YVJ8MSFwgqzxA8-fgJrfxTLslV6orU8V-sNmSFZGruRBZ7flF7JcudbP3oDDgz2TWSkNx8R2xrpzn6kury5N3h-RoDInMgnMPJKzbLgDspPw0Gyg95chmQXV2-le7hkXo5YrYy",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJSTWtjVOipBIRj8k9C7up8Y8",
+         "plus_code" : 
+         {
+            "compound_code" : "95GJ+37 Barcelona, Spain",
+            "global_code" : "8FH495GJ+37"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJSTWtjVOipBIRj8k9C7up8Y8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9882
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Passeig dels Castanyers, 1, Horta-Guinardó, 08035 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.4399698,
+               "lng" : 2.1455713
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.44087405,
+                  "lng" : 2.15000565
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.43739665,
+                  "lng" : 2.14132945
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Parc del Laberint d'Horta",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110991641392658981707\"\u003eBalázs Bús\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJblJF_ewarT5JsBz69j7wYiBfvo13qo7A-7v1rErx5fN9tOv7ZIU1owk7sHdWqvtuQ5GjONRpOMBEImlXf_vsKzUdOp3xmQNN77KoGxo_iIiwfPlo4pwm-HRYWR9LOvTe7a1vbD-qA73jwcDtqHf1AdYrQifX6xnIvccOYzg3i_CW3D",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ1Xj8vF-9pBIRAyIuSGQxzd0",
+         "plus_code" : 
+         {
+            "compound_code" : "C4QW+X6 Barcelona, Spain",
+            "global_code" : "8FH4C4QW+X6"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ1Xj8vF-9pBIRAyIuSGQxzd0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "city_hall",
+            "park",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14834
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Passeig de Lluís Companys, Ciutat Vella, 08003 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3910524,
+               "lng" : 2.1806449
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.39268062989272,
+                  "lng" : 2.181954629892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38998097010728,
+                  "lng" : 2.179254970107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+         "name" : "Arc de Triomf",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2992,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102909511446478907003\"\u003eMárcia lofrese\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa9Y4pibjBqylzaCLxeMdY2ieVA1H8AwYI1hMyJTT16Y3i-kOPGEQvpnz0koZNRVqILLmkcVcLVdwrQkys6QesrVj3rdfCaSk8enDNBokJkwMRZl9LimbwxT2ST_FXz2hBN-aKoyKc3o2ijkup6unWUqpFsnhYhnnd0VCXpO3i_zOnj",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJoXZqNuOipBIRsZU39a8r_qk",
+         "plus_code" : 
+         {
+            "compound_code" : "95RJ+C7 Barcelona, Spain",
+            "global_code" : "8FH495RJ+C7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJoXZqNuOipBIRsZU39a8r_qk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 81791
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Carrer de les Carolines, 20-26, Gràcia, 08012 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.4034408,
+               "lng" : 2.1506898
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.40475987989272,
+                  "lng" : 2.151952579892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.40206022010727,
+                  "lng" : 2.149252920107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Casa Vicens Gaudí",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114584998888218006804\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYsW-QV4SCDVzcxPFAQHaZMyj7H3tzsAU7__s4G43RqC1qhO6bulFc4koTebfeepspFFH0GrtNMfmvpzLF57neF1yn_f-4po5pxEQChssdaag1DxS9RZYil0LN1riePkg3DGpW6kJF4CSW08YVMLxxhyQXAyvaOQ5pmX7Z0hDywq6jn",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJoYA0MqKipBIRRwJG2R8H8s4",
+         "plus_code" : 
+         {
+            "compound_code" : "C532+97 Barcelona, Spain",
+            "global_code" : "8FH4C532+97"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJoYA0MqKipBIRRwJG2R8H8s4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14892
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. del Bisbe, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3833034,
+               "lng" : 2.1764215
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38440692989273,
+                  "lng" : 2.178190579892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.38170727010728,
+                  "lng" : 2.175490920107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "El Pont del Bisbe",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 633,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105023952927326307566\"\u003eImanol Gallego\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbqBQSkbLAjPu49w1nvJD8ZMGOQPr2eYVUwG1aXYbfQus4gs3rBgqTII7QMj_E1s_q8tpe0SsMUD_goAiauSpb1aK6mcT06bBpdjWvIrZImmCEnFsttPeJXU8bMkHoj70DsiBmQvVv9XnLgpsKDwZBV2cJzKc1R1BVY8DKlp9AHqVuq",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJeSfNs_mipBIRuZwbLHR1M2I",
+         "plus_code" : 
+         {
+            "compound_code" : "95MG+8H Barcelona, Spain",
+            "global_code" : "8FH495MG+8H"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJeSfNs_mipBIRuZwbLHR1M2I",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 751
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C/ de la Plata, 5.B, Ciutat Vella, 08002 Barcelona, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3803898,
+               "lng" : 2.180537
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.38175417989272,
+                  "lng" : 2.181852429892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.37905452010728,
+                  "lng" : 2.179152770107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "BARSHELONA",
+         "place_id" : "ChIJOd8tZRSjpBIRzcfbPDJBUVk",
+         "plus_code" : 
+         {
+            "compound_code" : "95JJ+56 Barcelona, Spain",
+            "global_code" : "8FH495JJ+56"
+         },
+         "rating" : 0,
+         "reference" : "ChIJOd8tZRSjpBIRzcfbPDJBUVk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

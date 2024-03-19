@@ -1,0 +1,384 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H5V8+P9R, Goro - Kaeaga Rd, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.405639899999999,
+               "lng" : 147.1658802
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.404299170107276,
+                  "lng" : 147.1665861298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.40699882989272,
+                  "lng" : 147.1638864701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Port Moresby Nature Park",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2976,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117350616903653764550\"\u003epeter zhang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZH8gLFoydrtZJPej0RX3UCGX5ac5zetyXZihcoiRTaSaUuIgPFQijYQTEvJbcj6QERjr3SS567PJVdYPtRUUFJp7dsnZl2cXGbg9IPlM1BT6yYvHPGcOiYrxr6-nzUBQzwR1agvckr8R5jNqqZJstDRsme5lHn_Q0xUBYYQqkEtePa",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJv7reqHM6AmkRcRJSg1ZmOkY",
+         "rating" : 4.3,
+         "reference" : "ChIJv7reqHM6AmkRcRJSg1ZmOkY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "zoo",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 885
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.425708800000001,
+               "lng" : 147.1899636
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.42451147010728,
+                  "lng" : 147.1907988798928
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.427211129892724,
+                  "lng" : 147.1880992201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Papua New Guinea National Museum and Art Gallery",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107702930459480531536\"\u003eDavid Jorm\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZUCLaD6e4quOZKUuDP7hfDYK1mbB5KS8NKluyBhxQULMwi826a2Rqp6kjDzLFd4896wJD6VP3HfG6W0InRPTrIrzVq9YMGSUbMHJXf4Uf84Mgl4Lwxl2XCv2hBbIJVcu4dOXhaNemMFvtOSFuxc9J7oQ8aayFk-lM4Zum9Sv1WQyTN",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJERHUobIwAmkRXGCO-4q1UhA",
+         "plus_code" : 
+         {
+            "compound_code" : "H5FQ+PX Port Moresby, Papua New Guinea",
+            "global_code" : "6R29H5FQ+PX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJERHUobIwAmkRXGCO-4q1UhA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 192
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G49X+RVX, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4803862,
+               "lng" : 147.1497366
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.478964020107277,
+                  "lng" : 147.1510609798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.481663679892721,
+                  "lng" : 147.1483613201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Coronation Park Port Moresby",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111628213661442694611\"\u003eAaron ηear\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYwvhZu-1nbTwIsEG4fHEATKFA9pNCxlW4WS6l8t52XTeqNfIt4ScJNSOANidPyfCIk_c1Dc4F5NYr3BZCVqHMzxoJNCl7g8yy9wjTC6Zmj5nN8wWP0laKcf2siFeh7Dh22gq-2-F7sETuo7Ozw_ner-Cqpov8xy4N0YdV5ZaYoO7G8",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ_RA3tnkxAmkRW22BPgXdMQ8",
+         "rating" : 3.3,
+         "reference" : "ChIJ_RA3tnkxAmkRW22BPgXdMQ8",
+         "types" : 
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5C7+2MF, Healy Rd, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.479937899999999,
+               "lng" : 147.1641713
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.478716820107277,
+                  "lng" : 147.1654102798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.481416479892721,
+                  "lng" : 147.1627106201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+         "name" : "Remembrance Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2988,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115450501418997198394\"\u003eLalinda Ekanayake\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZAyI-qGc7JbQLV2Cit61mw37iyAmVi9b40ozjLDIXrneszFoAUyyD4EYpeW7tJCJ4XLM0KHuYdiKiu8yt4rnXrSeeAotNc5HN6nQJXLToGT5EgmL804hIGOpJZpZ7ihCYE42dhoWvPPH8NV8pT6u_JXNN6U-PAB2wte_-aVksDpSXH",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ3eehsGgxAmkRC2GdcHdG1Lg",
+         "rating" : 3.8,
+         "reference" : "ChIJ3eehsGgxAmkRC2GdcHdG1Lg",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 36
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G6QJ+HXJ, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.461034399999999,
+               "lng" : 147.2323866
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.459671470107278,
+                  "lng" : 147.2341992298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.462371129892722,
+                  "lng" : 147.2314995701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/airport-71.png",
+         "icon_background_color" : "#10BDFF",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/airport_pinlet",
+         "name" : "Port Moresby NDB site",
+         "place_id" : "ChIJc0GkGUo3AmkRFvChlmvRNMY",
+         "rating" : 3,
+         "reference" : "ChIJc0GkGUo3AmkRFvChlmvRNMY",
+         "types" : 
+         [
+            "airport",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H56H+WG3, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.437745399999999,
+               "lng" : 147.1788007
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.436394570107277,
+                  "lng" : 147.1801586798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.439094229892721,
+                  "lng" : 147.1774590201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "syo parkplace",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112746482495142387443\"\u003ePaizal Azura\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJad_AMXZI2cIIYk66kLuFR1-H-o_AcXmsA8sihhJoozD3Vb1QytOOaOulPU-5xiNqq9Eq064Ic5agqJx-Z_6LrNZxSi10h4DBPqUHc4dmYiVAkQrGgUioCoGpWTCncJbd-n2g8KtmS-bRYW-3OShD_RmOi1h8jYGqD0kgd3b0bUClwN",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ6yjbasYwAmkRsFJXcZcqnUs",
+         "rating" : 2.9,
+         "reference" : "ChIJ6yjbasYwAmkRsFJXcZcqnUs",
+         "types" : 
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J74G+CWF, Tanubada Central Province, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.393936799999999,
+               "lng" : 147.2772901
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.392677320107278,
+                  "lng" : 147.2786603298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.395376979892722,
+                  "lng" : 147.2759606701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Adventure Park PNG",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3648,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101777560684460257642\"\u003eNorman Javati\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaFcFH5jNx1pCIaX91wm_dAfiv6EyvQU66HjIgBBk7R1MebOU8jpd3o9bxbQIYdcb9QLZ-CFasbOvLUjk0K9Y4gUM9Jf5iadRTJVt4F5sY93qjFTh9dEPQFyUkBV_6wnPangX1aDsE1tSQpJSFZwr_STsb8wgfUbZAHQ-EuP7UvPQsL",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJo7Y3KXo4AmkR0iBX89F1mCI",
+         "rating" : 4.3,
+         "reference" : "ChIJo7Y3KXo4AmkR0iBX89F1mCI",
+         "types" : 
+         [
+            "amusement_park",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 149
+      }
+   ],
+   "status" : "OK"
+}

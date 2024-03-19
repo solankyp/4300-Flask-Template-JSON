@@ -1,0 +1,1182 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJb_DG6gt7fRmM3wexl4MwEL2SS6nHjDmHerQ7wCG4ECt_yDyj2u6AC_IRI_z--ifS_Q61rwnBjt1I5fXOyiwz0mFZfrJdXa07RPrlJ44L4hP91_l7OUIeGOkxxdXfYxuSvovDEENIuEuDarstFqcOKn8CDYoTM2o8DVIZEj7z7GE49vvXHUsJ4XsyXpy4Gw0yBW3UzTDpV5pW25Kc9mxBxXXDXKnLLnf2nPm4ru1aKOSz5fXVQ_365JlHDdSQvRDymEwzvsGV_Ct922MMRCQaRypqLeFkKK7LaZyA0xd4Bx6xcnSnwvGextH0MlgsoplDUQXQXcGEYgbQLe79UsPJls6E_OxM9ZvTQcP-Yknr1hr4IXqyno-NwdF7QovmYsh2npaGmynH9lB-jwPw",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za San Marco, 328, 30100 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4345606,
+               "lng" : 12.3397124
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.44178060000001,
+                  "lng" : 12.3509553
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.4309722,
+                  "lng" : 12.3059837
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Saint Mark's Basilica",
+         "photos" : 
+         [
+            {
+               "height" : 1124,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115477446029862935983\"\u003eJacob George\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYI2E9ktDQnEHuEn7J6-14bPx5x-mTJngr-S0Kob1pZfK9n7KQ03qgPvZcnwDf0GvkRbpGDM6ChFq-os2Gyzzd9-TyTmF74VZ-vlCtzxYyZpZ7vL2K1ohPo7Eg2QlBHe1KVfLCSC6xyr5YpykYECEfE95aqJxt49aoJ-WyePTMyJXNO",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJv2xSZNexfkcRBaKsgyfVEgo",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MQ+RV Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MQ+RV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJv2xSZNexfkcRBaKsgyfVEgo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21020
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za San Marco, 1, 30124 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4337035,
+               "lng" : 12.3403894
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43495837989272,
+                  "lng" : 12.34178652989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43225872010728,
+                  "lng" : 12.33908687010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Doge's Palace",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111090155167005000360\"\u003eSalma Jabri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaqR3AcomBvRBgwLVXYPamNWQiOqCtkBCkkE7_QLMgORuU-Uw4JHFOd3hyUgJ2fTcJ-0iEw2Gw3LII56VlGoQJ8qMNmDRt5iOgrJ8vNgTt_hABIImMcaIlRdsZ9kxMsyC-XIup2jcqubxfbpa2vwvPy0Ww-kg-l4EMhoggwhowNDFn_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJiYRBbtexfkcR0XTK3ATSCbg",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MR+F5 Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MR+F5"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJiYRBbtexfkcR0XTK3ATSCbg",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 29750
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za San Marco, 1, 30124 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.43404959999999,
+               "lng" : 12.3408544
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.44168174999999,
+                  "lng" : 12.3526163
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43120395000001,
+                  "lng" : 12.3055687
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bridge of Sighs",
+         "photos" : 
+         [
+            {
+               "height" : 12000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113432477795717565231\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbWJFl1koKY55RsY4OkO2Ivm6Q25H57SuzJMXQueCjvlm2XSNHKPos34R59t_Yo6s8aF6gNHgQjDexeykNGIC9dbY9dw4x8HTnT87iZ2srwNB4RsOGSoJSWaLdlfGBT0VdDEPpvqmrO-2FTdzt0p3Y_Svox0gifaGk8Ox1ZjRUmaa40",
+               "width" : 9000
+            }
+         ],
+         "place_id" : "ChIJwwEk49exfkcR0BTo2j_W1Xo",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MR+J8 Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MR+J8"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJwwEk49exfkcR0BTo2j_W1Xo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21578
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sestiere San Polo, 30125 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4379842,
+               "lng" : 12.335898
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43940352989272,
+                  "lng" : 12.33728172989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43670387010728,
+                  "lng" : 12.33458207010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rialto Bridge",
+         "photos" : 
+         [
+            {
+               "height" : 2973,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117087421125479547490\"\u003eGijs Beijer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYxpgvINEtkHBfGmh3fm3UObvWpyuylWMK5r4mTDGZL4Wycq9Ul07uVhNb9LJAusES4YdJoCHsWO_i3Kxj_gGZtNyo1e2LNBDaUcVAVojeFGI4ZBQyQowRoB5SzhlVrd0Md-KB5uT99WWRBBa2L0tOtyMGNNJSqjseUyymAFEXgodo3",
+               "width" : 3965
+            }
+         ],
+         "place_id" : "ChIJOzqj-sexfkcRicyOKaERIHM",
+         "plus_code" : 
+         {
+            "compound_code" : "C8QP+59 Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8QP+59"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJOzqj-sexfkcRicyOKaERIHM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 165173
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za San Marco, 30100 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4341668,
+               "lng" : 12.3384717
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.4419624,
+                  "lng" : 12.35105404999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43066120000001,
+                  "lng" : 12.30587145
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "St. Mark's Square",
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102031259854785667894\"\u003eMichal Czodor\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY3D21KtoZgKL9iTNbFOYMX65QYA3jAmkCbvJDyYPE2KCpfQjBZeRZtB2WGhnriNofPxMi33xAIUtTxMKq_NslwjM-weU9LHVnMGDjkeM3z6t1QukdfaxcLNjgvTxYslifMXHgoU6KBRtVnNelnxBlXsDv8XvF67g0JV3iiEmjBZfzJ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJiYRBbtexfkcRG_b_RJa70AI",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MQ+M9 Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MQ+M9"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJiYRBbtexfkcRG_b_RJa70AI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 175474
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za San Marco, 30124 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4340359,
+               "lng" : 12.3390331
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.44180819999999,
+                  "lng" : 12.35035295
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43096300000001,
+                  "lng" : 12.30610555000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "St Mark's Campanile",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1876,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103978346351474149278\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZwXiytAXv56PZ7KQRfA8b_hlGyJ5997QJe7F-rmfG2QoV2FC-opSi01aFNzIiS5BwpRnC5kWKtRC5sCMc6ycqaY-sdWGvATxJ6h8CAkqsTODK9Ub-phrXOT4KQB2z1BIKjj0yK3i_mweKRbqSS5nfDAsnVnFSmbP_brY0XsJmtNxmh",
+               "width" : 1656
+            }
+         ],
+         "place_id" : "ChIJt92SstCxfkcR9D1UnQrkRq4",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MQ+JJ Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MQ+JJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJt92SstCxfkcR9D1UnQrkRq4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4971
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dorsoduro, 1, 30123 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.430675,
+               "lng" : 12.3347626
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.44313955,
+                  "lng" : 12.34346725
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.42652014999999,
+                  "lng" : 12.30864865
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Basilica di Santa Maria della Salute",
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113164770152192679593\"\u003eKen Kitikoon\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYxaX9p1pgYnil7h1ziUrM3_JPRm7LvbI6HssfJtHtGZJRyCPvYvkrItgDxBnlvJKjfEzqa21ngvFl1aO8S3CRTaKcy0ljpZ1dCJO1I-8D-NL7is4sSvMYw-EOYlusuFZyxjNXBnsGWoLSf15Ljdxz0Il2Zhp4SenQbLodgHuF3N64e",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ241oDzOwfkcRXyfdym_t-ck",
+         "plus_code" : 
+         {
+            "compound_code" : "C8JM+7W Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8JM+7W"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ241oDzOwfkcRXyfdym_t-ck",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9770
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za San Marco, 30124 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4347587,
+               "lng" : 12.3389668
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43608092989272,
+                  "lng" : 12.34034227989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43338127010728,
+                  "lng" : 12.33764262010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Clock Tower",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 12000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107300808458794283407\"\u003eMartin Casár\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbESE2i_JasC-1kk0v26bW9bzl_SxaRSw8K13c3L5prmr_c-JF_jFvEZh8qO1bLxlo26A-6sqagQ6ZiwOunn1KOY6_oZZHajfj3llRe73AOODjf_A32ZiZ9sHbExTkMJNQNBPDl5MmNhoGTgvBvQBkanWu4kbpzn2ZWHbgyjx0IqM6H",
+               "width" : 9000
+            }
+         ],
+         "place_id" : "ChIJLbrmd9exfkcR4YVP0azgB4g",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MQ+WH Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MQ+WH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJLbrmd9exfkcR4YVP0azgB4g",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1300
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "30100 Venice, Metropolitan City of Venice, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4386222,
+               "lng" : 12.3377156
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43997202989271,
+                  "lng" : 12.33906542989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43727237010727,
+                  "lng" : 12.33636577010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Corte Morosina",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100457361751020463918\"\u003eLuca Scala\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYusTmTSQh5EVInEBdLkeMSOoQVBZ1D8HDQg4nL_cCHJrwd2VE6FP-LbRMGWKIFpQvqJmaqGHulV-BKhxeejlNSUdGQuNO817k05Li9b_69OssNKwZy2LslNGLO6UpNOxNh9edwa6DTMpOLWiytIO7aiKgkvkiPP4LMzTElrbhY4eUd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJo477LaWxfkcRC2ZeS1Ldye8",
+         "plus_code" : 
+         {
+            "compound_code" : "C8QQ+C3 Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8QQ+C3"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJo477LaWxfkcRC2ZeS1Ldye8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Campo S. Fantin, 1965, 30124 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4336376,
+               "lng" : 12.3337579
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.4418408,
+                  "lng" : 12.34248095
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.4309032,
+                  "lng" : 12.30871354999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Teatro La Fenice",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100034629757867957560\"\u003eLetícia C\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbRAAtfoPW0ITGkt89saykGcijAWNdOtgFiCCVDBEdUOqs0Edsf9QPDa_oei1Zvpj3kfJurSXoCk83btkwXNuXjmGr0pNYZo1xj12ft2s-chAvtczXWRg58UchcQyaUJzP_m86J0sdxrELPL54tIkPEgspbFE7H-qRXzlmssVGHSQE-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJr24y6dCxfkcRGiZJP4wZoig",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MM+FG Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MM+FG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJr24y6dCxfkcRGiZJP4wZoig",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12722
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "30121 Venice, Metropolitan City of Venice, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.44315719999999,
+               "lng" : 12.3320601
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.44450702989272,
+                  "lng" : 12.33340992989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.44180737010728,
+                  "lng" : 12.33071027010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Monument to Paolo Sarpi",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111113808441625249887\"\u003eOphir Bar-Gil\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaisK9hz5knS5fqXaG_TdXYUBus5rL1vBVwVyBRXZ0wxTNEFa66i027HFLGN4XQy8HDmQ6ZoDN2Ixls7GlwIRubPOkQWeWcZ8b5i84P388b19ZOSc_ObDzNsmcu4Ig_yvbGWAGaiUHcmnGj7P0nUrLhoxVdQzRD7hbGHOvBTtBa6TFM",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJF8Gq58KxfkcRIJFyXt3uc6k",
+         "plus_code" : 
+         {
+            "compound_code" : "C8VJ+7R Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8VJ+7R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJF8Gq58KxfkcRIJFyXt3uc6k",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 118
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za San Marco, 1, 30124 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4342465,
+               "lng" : 12.3398201
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43553177989273,
+                  "lng" : 12.34096672989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43283212010728,
+                  "lng" : 12.33826707010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Carta Gate",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103667738823739982204\"\u003eGinés González de la Bandera Romero\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYvCyU8OpJPdFWoU2TCET-KMfOuuiR9IMr3og1lXlMQltUyzh4FkgRxE_SImU2bxiwp0UGhFentohKDfsQ9rCJZo-7zEQs7TrCkHFARigWo4YxACzk7Gnrium-ZYSPKrEw5vIuI6iBdLposmWxsnf1SKCeRpTAt7ZplrLqZeVioqXYa",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJY8vTmtexfkcRLBIbtGmblos",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MQ+MW Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MQ+MW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJY8vTmtexfkcRLBIbtGmblos",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 282
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Fondamenta Diedo, 30121 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4435247,
+               "lng" : 12.3319056
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.44489077989272,
+                  "lng" : 12.33327752989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.44219112010727,
+                  "lng" : 12.33057787010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Palazzo Diedo",
+         "photos" : 
+         [
+            {
+               "height" : 4344,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116400725457713621244\"\u003e116400725457713621244\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbwgPrfL4ejfu-L9t4EOltsQW-NuCg_jO2S_phsR9fdxGoLgF7lIamS7g9IVj2yrjw2EG9DUm_cKwZ2BFMTzMxFrY9EGBkHynW2EGE14VfeXQ2cU88PHOzYjnVwyN9IJTLS-krE6ZwaD0hA2J6nhtJVHU-z8GWcPTOXJ-_5pSLhddaw",
+               "width" : 5792
+            }
+         ],
+         "place_id" : "ChIJQSgh7MKxfkcRvVVnWKi5dS4",
+         "plus_code" : 
+         {
+            "compound_code" : "C8VJ+CQ Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8VJ+CQ"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJQSgh7MKxfkcRvVVnWKi5dS4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. Giazzo, 30122 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4287722,
+               "lng" : 12.3580806
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43039412989272,
+                  "lng" : 12.35886932989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.42769447010728,
+                  "lng" : 12.35616967010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Giardini della Biennale",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100372721970420536173\"\u003eMoritz Küssner\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYXV0-nbMSIX0THwOBvpIMJ7FWEK3RvRz8KlGt4y5C4mT2kmM2jMbcykM8HnNipjnRiwOuSTBk1nPrauUkrz3zOHmtYm77TQKfVEEk1N-pBlj_JsEme4PSOO8fKarbu0OHICi68eg4gHrE3OUYz42yqInYRS4aukKHsVgK8vUJA8Liv",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJqzZkRzGufkcRiabs3CYIiBk",
+         "plus_code" : 
+         {
+            "compound_code" : "C9H5+G6 Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC9H5+G6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJqzZkRzGufkcRiabs3CYIiBk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10780
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za San Marco, 328, 30124 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4344493,
+               "lng" : 12.3393815
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43578572989272,
+                  "lng" : 12.34067442989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43308607010728,
+                  "lng" : 12.33797477010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "St. Mark’s Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114426841305435218583\"\u003eMyriam Gaete\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaFPWoapXWIMaqqYhtyuYmO3GSASaqJbzN3ZS-xpiwdel1P0R0TTmgVQZ8gWJy42v-EH4HAQxYQIXUI8DF5tsaEk9Zs8_4S-szodNQe2aHkJijyaE4RG1UlG4p5B9LbwQ7aw82Qsk9QhlRXArABQOtTJ8GB6Br7sq8PI_7nS1Rt4FIO",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ-0cUcNexfkcRHnYrFFMKTTo",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MQ+QQ Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MQ+QQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ-0cUcNexfkcRHnYrFFMKTTo",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1351
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Campiello dei Miracoli, 30121 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.43938970000001,
+               "lng" : 12.3392402
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.44088802989273,
+                  "lng" : 12.34066012989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43818837010728,
+                  "lng" : 12.33796047010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Church of Saint Mary of Miracles",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106843832352114749349\"\u003eDavid Holdaway\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY3UOQTJ32E8cZ5Pd9zb40CabM4nyPUn0cFv4nJR50WEv77zdJo5YpAxo3tkOXBdVge3CX6NWroJiDyOcSmV6kVZf6WHd3lO3Ll7yBEVMHCGvNUws2K-pvreLgLpDqLsNwsaRsNG4D0MuIb3kpMckoIBbLMukMH3U_EL9YCI6ZqtW1p",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ62lRTdmxfkcRyvFRIr5As2c",
+         "plus_code" : 
+         {
+            "compound_code" : "C8QQ+QM Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8QQ+QM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ62lRTdmxfkcRyvFRIr5As2c",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1885
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "30122 Venice, Metropolitan City of Venice, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4348502,
+               "lng" : 12.3499009
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43620002989272,
+                  "lng" : 12.35125072989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43350037010728,
+                  "lng" : 12.34855107010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Venetian Arsenal",
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100911414474391382727\"\u003eNevio Coralli\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY8ZMWO-5Sb8gopA3s-ing0cGBqcMZB0H9hwpaj_4Kh8iyS9mxQsZ7qkO00DuoKVx4zStPkLtubP8sVnM4ULmMFD1iUAO9E1LwP-JJ-_DQp2bvDCDuzxe37icaK4PW8I1bzruG100h-z-PLj4S75d2LvK1CgWHHoBhqu392iVua-uiW",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ64TU6yWufkcRhn7M6ooFgHU",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MX+WX Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MX+WX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ64TU6yWufkcRhn7M6ooFgHU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9848
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "S. Marco, 1622, 30124 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4335677,
+               "lng" : 12.3352285
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43491752989272,
+                  "lng" : 12.33657832989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43221787010727,
+                  "lng" : 12.33387867010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Campiello del Carro",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103441300803870266453\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa4pCtJtGM5xJHhXy_IKGAuOTQ45mBzhjqNHhrT8EnY_SKLwPCaRhzUaGff9hjVFIMUi_ujKqPShyQ3K4QSvnke_wqFny4TYgwzwp-501iMyNWoHweY7ISc91t1wRDJOk0d73VxHkSYDqbwcB0XA4CFSnNL4XE5PD7qHKerCiHy7CkO",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJW-VMCYuxfkcRIkBJPFm852U",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MP+C3 Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MP+C3"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJW-VMCYuxfkcRIkBJPFm852U",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.za San Marco, 52, 30124 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.4335634,
+               "lng" : 12.3372551
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.43467407989272,
+                  "lng" : 12.33834745
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.43197442010728,
+                  "lng" : 12.33451085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museo Correr",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117265888656019036796\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbdW3_9Bl3lrieR_sDsjnqD8mw0Tu6eYmtw8lXdTJ4jHyrfXPs-dMrWeod1whHW-t5GBdYdF_DhRxglrRkxzdK-BKJ1lMN6i2g83dqi3Mt6rqG2PrEz-AOSNiCuYq_fuUgzmHmXxjfvUaJNNPa-oVgI_6muon2-edw7JwEGjSPrGUdP",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ1a1MDdexfkcR2H65Jv-LxhI",
+         "plus_code" : 
+         {
+            "compound_code" : "C8MP+CW Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8MP+CW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ1a1MDdexfkcR2H65Jv-LxhI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2019
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Roma de L'oca, 2040, 30121 Venezia VE, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 45.44273039999999,
+               "lng" : 12.3299913
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 45.44408022989272,
+                  "lng" : 12.33134112989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 45.44138057010727,
+                  "lng" : 12.32864147010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Wagner Museum",
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103075272909517165728\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYUcorHQSFFsLOD5M_nqUHitQrMxvx-4HoIeB-4jp1WKZ7we51fvNlAUkk4unrsf18MzT1ZCZFLgQE3X2FAfTm9QuoZayGbQ9i4-GzANqmTKPY91rJYAJ76GyV6CdSkEZ_UCMpLmymYRXDX3d0PB0hNGHN_BxN9_HEmrbTau9PXcGQN",
+               "width" : 3719
+            }
+         ],
+         "place_id" : "ChIJsQcXrsOxfkcRNeg1wjdauGc",
+         "plus_code" : 
+         {
+            "compound_code" : "C8VH+3X Venice, Metropolitan City of Venice, Italy",
+            "global_code" : "8FQJC8VH+3X"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJsQcXrsOxfkcRNeg1wjdauGc",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      }
+   ],
+   "status" : "OK"
+}

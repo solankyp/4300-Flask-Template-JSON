@@ -1,0 +1,1228 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYVOp62uVJwtJwVg8U26NPjusM1wee7-YBpHgqfX7RnJQyP-jmqcV-fi11Z6JtlUKdsBepiiVr7HrPysnMQrVc4HiFfFTU3HLX4ulj8CHWGEiHoWXHBhZAlOLQx5mH_pGbUyZyG-cpZHnVcN-uXDCPEby_uKzOy_h0fPhVNFRWs2hyD--tA0qIM0NFvXbsZ6XInStHmOasyw1I-4WWB-SDao-MFS9Rvi-J3x_dqHoZTRs_kuw5S0-Ob7gdr_uZbfO0-TqUnP4uJMyGTk6tCtlfSMiDhsMWDhZUa3GYljIYTZbJQuslILVxhoqLncpq1nIO38sreZ5-pz04bbdyqm3PcoSygwUBdNEOvJ43q9VJpuxPwYh5qp9Og1UEj-SdN80XGkTvByytWx2-Yj3Et",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Ruiz de Alarcón, 23, Retiro, 28014 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4137818,
+               "lng" : -3.6921271
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41564285,
+                  "lng" : -3.691133670107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41198024999999,
+                  "lng" : -3.693833329892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museo Nacional del Prado",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110870613578389950982\"\u003eGloria Berruetta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ5b2Uc_oUIWbOsgxZgTetnnQAHrqp57PfREENaz-PEC0IKMNAQTPDqCXyaELB-eM7Yn7049AFt_em-hr3btj_Le3gbaJChTpAiA_svzG_bEHxULCrwYXHljAsMt2W2l6WdKHWWxlDUjEYM_UP8ST6EVPbbF7yGuOBATBRCfVn7Tbgf",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJ7aLYZp0oQg0RWoitk33wlBA",
+         "plus_code" : 
+         {
+            "compound_code" : "C875+G4 Madrid, Spain",
+            "global_code" : "8CGRC875+G4"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ7aLYZp0oQg0RWoitk33wlBA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 120826
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Sta. Isabel, 52, Centro, 28012 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4079123,
+               "lng" : -3.6945569
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.40931670000001,
+                  "lng" : -3.6930256
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.4064787,
+                  "lng" : -3.696892399999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museo Nacional Centro de Arte Reina Sofía",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115812095290736064908\"\u003eMaria Rosaria Falivene\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZKtGqk49H2ZG9putTirnaH5TQEvwCALGZPzW0djDIxgiwHbluQzhd_sTba-C4mQ0P4tSLV0bG0DQTThY9SWoQAyYlVVsF3DmlsYeUlwvYV24d9hmZqXJMtik9OoPOtr19JxJ1T4184YYo2ZCYooJ45EjYi8I5i1KLqCGOKmnlmI29w",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJvQc62ygmQg0Rcb-6WdEUmDA",
+         "plus_code" : 
+         {
+            "compound_code" : "C854+55 Madrid, Spain",
+            "global_code" : "8CGRC854+55"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJvQc62ygmQg0Rcb-6WdEUmDA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 56375
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.º del Prado, 8, Centro, 28014 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4160406,
+               "lng" : -3.6949254
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41734152989272,
+                  "lng" : -3.693520120107279
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41464187010727,
+                  "lng" : -3.696219779892723
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Thyssen-Bornemisza Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1411,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104198127758143377918\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ3CDkREz2qmjAkUlk6SjAE3NT5mYa7WtrwdHSRnB4aZny1NpBuHVwDCZMb9mljQ2pgb2tM5KbUMqpzYfRwdk4CXGjTa6GtSHGxFGZ0DylZxHsN2NspU9oTBhkZ5XYdl6pMcT-whJi0Klq4nisMfyOMclWxvYi1s9c9WdL3UnYWXEvD",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJv-yiGoMoQg0Rj1LLgnhKk1o",
+         "plus_code" : 
+         {
+            "compound_code" : "C884+C2 Madrid, Spain",
+            "global_code" : "8CGRC884+C2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJv-yiGoMoQg0Rj1LLgnhKk1o",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 38868
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.º del Gral. Martínez Campos, 37, Chamberí, 28010 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4353663,
+               "lng" : -3.6925026
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.43663172989272,
+                  "lng" : -3.691149170107277
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.43393207010728,
+                  "lng" : -3.693848829892721
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Sorolla Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110907025967936635325\"\u003eNatalia Manzano García\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbwX_FwGh7NX-5hrrj0OnXTcoJP7oYaOxVTKj3fQURV2py_WR0inZaR267YGYRgTYnCiMMv1wOUFgCLOdOW0f3YLc_7oL9wOdRqKjQbKq0wfaJ8fBTtlo0Uok4j8NqrkzAyhs9s2htODaZdo2l8d_cAOF1nh0TF_Iu0ypw-ZlfnFwVu",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJiymaZO0oQg0RIuMgSth17No",
+         "plus_code" : 
+         {
+            "compound_code" : "C8P4+5X Madrid, Spain",
+            "global_code" : "8CGRC8P4+5X"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJiymaZO0oQg0RIuMgSth17No",
+         "types" : 
+         [
+            "tourist_attraction",
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19710
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Serrano, 13, Salamanca, 28001 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4233216,
+               "lng" : -3.6886687
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.42525847989271,
+                  "lng" : -3.686956350000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.42255882010727,
+                  "lng" : -3.692037749999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Archaeological Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113096985681387951981\"\u003eCristina Pérez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbRbpuTXGp1Va6VMW34RJIyhPuWFL_GQmvHLme7NQwVozj3g43ceNRwZkfnNk_NP3S_6Ua_N0A8bnIeUw0C7OqdY5AuSPk9auTha9LsDG5WHCvL7cyBa_TmiVeWKAo4XbkndIQHJYeX2r9S3NNPvshL2hd4lJDA23ag9u05N0lGOTMN",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJySfBCJooQg0Ry8Qhx3Mk3zs",
+         "plus_code" : 
+         {
+            "compound_code" : "C8F6+8G Madrid, Spain",
+            "global_code" : "8CGRC8F6+8G"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJySfBCJooQg0Ry8Qhx3Mk3zs",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 22655
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.º del Prado, 36, Centro, 28014 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.411112,
+               "lng" : -3.693571
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41248217989273,
+                  "lng" : -3.692219920107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.40978252010728,
+                  "lng" : -3.694919579892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "CaixaForum Madrid",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2432,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115287717520451197337\"\u003eMarcos Gamella\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJafFDbCe0wCAq7q9H9yI1Ku-E9RohAGjrG540qj1I18MPFBiGxEUGaA-R0sQPPradiAcH2Yvm6NRtxl6JqSWxQN8dCozWUap1ONJHC4Q-sBzvzk82xxdGcSE8cNvvZmvpnAhQf_i8eSu0RxdACkJ7CiBXPNsX-LFfH7SjDdX5v2ti8r",
+               "width" : 3286
+            }
+         ],
+         "place_id" : "ChIJmUm3eSgmQg0R6kTeCcnVsjQ",
+         "plus_code" : 
+         {
+            "compound_code" : "C864+CH Madrid, Spain",
+            "global_code" : "8CGRC864+CH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJmUm3eSgmQg0R6kTeCcnVsjQ",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19674
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de San Mateo, 13, Centro, 28004 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4258946,
+               "lng" : -3.6987643
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.42721187989272,
+                  "lng" : -3.697388220107279
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.42451222010728,
+                  "lng" : -3.700087879892723
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Museum of Romanticism",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 720,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107171456737469733321\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaxyRmg9P4nFt5SgZo_1D0q9LgpUI52-T4aEs3Nn-z0INQljU3aDKTgeK-3k4G8gy6KDXvimC5T_8e1vqe6oMU2yg-Wc5Jey0i03iFG8oTI6nDkUSgE8broMIMgBg1F_C_7hHm2v4acbNro6u15N1DkbaWAVW_gQ5jTPwDwkgW9xSQC",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJdbewIIkoQg0RZS3cT1ZMzSc",
+         "plus_code" : 
+         {
+            "compound_code" : "C8G2+9F Madrid, Spain",
+            "global_code" : "8CGRC8G2+9F"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJdbewIIkoQg0RZS3cT1ZMzSc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7115
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Ventura Rodríguez, 17, Moncloa - Aravaca, 28008 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4237888,
+               "lng" : -3.7145957
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.42514612989272,
+                  "lng" : -3.713269120107277
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.42244647010728,
+                  "lng" : -3.715968779892721
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Cerralbo Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116756008611428548791\"\u003eAlicia Prada Gallardo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZeWnOxR-IDn8TPPNgSdAciZhLIvygzKayewsAjcnP7lhxo0sVvhwBOTzXWz5bwHl_jdJdtA174nwQbWYepAu6iYDgSxlJaO8YzyXlYE2m96raHRf4CeIMzUJM08vOvdmL2FiezEvE02Oth-1_c2N8VJdkRH-ak-YQhyLKchKvBXs6d",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJwzjYwG8oQg0RqHNjv78udl0",
+         "plus_code" : 
+         {
+            "compound_code" : "C7FP+G5 Madrid, Spain",
+            "global_code" : "8CGRC7FP+G5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJwzjYwG8oQg0RqHNjv78udl0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7182
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Serrano, 122, Salamanca, 28006 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4369187,
+               "lng" : -3.6857512
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.43825327989273,
+                  "lng" : -3.684477720107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.43555362010729,
+                  "lng" : -3.687177379892721
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Lázaro Galdiano Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2992,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106095867635583967763\"\u003eElena Serena\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbocoXhwXeXlP9Afky6vAykjM1L4jPdEWPJR91siSacc0OqBsJ5vuXy6GwEAG6u3B_sTIMU_nvORMgRfKpJPjC-MDZDnAu8XtgmkIl9lV-WZ3kXs-rFxwEOzA5LckR9RJo84wR9P1cqsaLs3ah6V2ptU6qhKQYXM5uY07nKCd91VjHI",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJtR1HpesoQg0RqUnZcYUk7q4",
+         "plus_code" : 
+         {
+            "compound_code" : "C8P7+QM Madrid, Spain",
+            "global_code" : "8CGRC8P7+QM"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJtR1HpesoQg0RqUnZcYUk7q4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "library",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1178
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P.º del Prado, 3, Retiro, 28014 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4177842,
+               "lng" : -3.6927193
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41903017989272,
+                  "lng" : -3.691451220107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41633052010727,
+                  "lng" : -3.694150879892721
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Naval Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2992,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102086093787264950492\"\u003evagdim69\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbPkf2Y8BkDFrTvhD8V9j_m4B6C3_s5SJwpAkajlYKsZFXY69Vo8MQr2de5OZxAjhpvDHbiYQEuPnP0ADiYRrLV7L0QatKr2EaDbRMrGS3Ng7Ri_0Z6efMqYpVEgp8_oTv0WcXoJuwCmgtu9JQNMncqlfHC_mzFndpkL3DKMKFbnyL_",
+               "width" : 2992
+            }
+         ],
+         "place_id" : "ChIJTfzMspwoQg0RNgubC1KTTB0",
+         "plus_code" : 
+         {
+            "compound_code" : "C894+4W Madrid, Spain",
+            "global_code" : "8CGRC894+4W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJTfzMspwoQg0RNgubC1KTTB0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9235
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. de los Reyes Católicos, 6, Moncloa - Aravaca, 28040 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4382175,
+               "lng" : -3.7220554
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.43933502989272,
+                  "lng" : -3.720714820107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.43663537010728,
+                  "lng" : -3.723414479892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museo de America",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114974135517464440988\"\u003eAntonia Juan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY-bZgcjpbAIICnEWhtExRzatEs5CYHDhN4KD-zyb_QNbFgh7WJ8klh9L3chUvZpARr00jDKxHFtd8yMexTfvxJG0MNMWkA2Kk4jZWj5rXs6_iqBCJCX4kqG86z_xh7T0TZgX84bLJZ8uZz4eeGFnVa7TS7d0m3VMe5m5aq_9syqs-r",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJtXBzsUYoQg0RIwSOTUcqlb8",
+         "plus_code" : 
+         {
+            "compound_code" : "C7QH+75 Madrid, Spain",
+            "global_code" : "8CGRC7QH+75"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJtXBzsUYoQg0RIwSOTUcqlb8",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3637
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. de Legazpi, 8, Arganzuela, 28045 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3919453,
+               "lng" : -3.697883399999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.39388405,
+                  "lng" : -3.693895300000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.39021864999999,
+                  "lng" : -3.700386499999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Matadero Madrid",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112741638209852983506\"\u003eM Wei\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZRd_-cKmVPIHvImZLmpaGnLHKx2enV1Svy23e-uojxliwYIfUY2S26Kfb3Kk-XMqOCWZU6SWch2fVnn-SQ4P3B6Dj2ssaeTmeerklJ3HzkQrJemI_olFCWjbJbySyk7sXnzpfd47umbnzG8Q8FBtkCAfZuifc6dJWLOdy6sj3LaJo9",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJM7u8_EkmQg0RSH-cbUX_1Yc",
+         "plus_code" : 
+         {
+            "compound_code" : "98R2+QR Madrid, Spain",
+            "global_code" : "8CGR98R2+QR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJM7u8_EkmQg0RSH-cbUX_1Yc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25573
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Alcalá, 13, Centro, 28014 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.417734,
+               "lng" : -3.7006582
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41900532989272,
+                  "lng" : -3.699285620107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41630567010728,
+                  "lng" : -3.701985279892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "San Fernando Fine Art Royal Academy",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2931,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117727773000529261267\"\u003eBego Benito\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYr5WTYzgu2zFBBR8YXxF559ioyX2Ql5SRyU3XGjQIIIz_ZLN5Zq50bypt9Svc-LKtbd-5w-_QCg-uVcUOWAJb6TTCDqsMcztpWSkcnzhC_ohzshZOMWN3XAS8ZxYHdtlKH4vn3LGSHlccEeBNHIgpNv11frz1Lqw9kLQJC-MnO28sg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJXeEW14AoQg0RWhgMk3A9TY8",
+         "plus_code" : 
+         {
+            "compound_code" : "C79X+3P Madrid, Spain",
+            "global_code" : "8CGRC79X+3P"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJXeEW14AoQg0RWhgMk3A9TY8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3590
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Paseo de las Delicias, 61, Arganzuela, 28045 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3993973,
+               "lng" : -3.6920912
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.40130055,
+                  "lng" : -3.69072235
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.39762635000001,
+                  "lng" : -3.695199350000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Railway Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115752346260839350260\"\u003ehaasz.janos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ3vjqY8r59UstV0UarclQUIk-x0uHDo_iCy_F7poCbNBWIgInVNiR4hnAShBTcqRKx6GnWpJ7NsHHGRu7lPMaDfwqYElrJkvkFZKuuLMAe-1iiie25kzOoVL25tuYDIxYigHPyx3CXBDXnTJKY1GbQFswgjWid6qgsQM_sh0lnU5GN",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ0W3WFzomQg0RHiK-NaVoa7Q",
+         "plus_code" : 
+         {
+            "compound_code" : "98X5+Q5 Madrid, Spain",
+            "global_code" : "8CGR98X5+Q5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ0W3WFzomQg0RHiK-NaVoa7Q",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16087
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de Montalbán, 12, Retiro, 28014 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4179105,
+               "lng" : -3.6898041
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41932917989272,
+                  "lng" : -3.688415570107277
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41662952010728,
+                  "lng" : -3.691115229892721
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Museum of Decorative Arts",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112677594173292141170\"\u003eJerzy Nowicki\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbuYvzN4cAcTUufSLcDmVRnMumL-Bh1YSP-7bF17bgYsYjhKXjBkHTP-Q2sd6PaeSSv9Du-iI5JcjEuGtCIpzb6L-mDbvWPhZYaPfyV6w__Rnwq2ZVXOU7jF8hgWLuaNesjkjZbvnjezllJuRJwgLMdLnhSdFcNRl2JxBEHWs3uD3Ao",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJXUmqe5woQg0R3CQqaZtY3zM",
+         "plus_code" : 
+         {
+            "compound_code" : "C896+53 Madrid, Spain",
+            "global_code" : "8CGRC896+53"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJXUmqe5woQg0R3CQqaZtY3zM",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2451
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calle de Fuencarral, 78, Centro, 28004 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.42573670000001,
+               "lng" : -3.7006699
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.42724172989273,
+                  "lng" : -3.699547170107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.42454207010728,
+                  "lng" : -3.702246829892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "History Museum of Madrid",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111749086166136539274\"\u003eDavid Ojeda\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaLeGB8cu-PBTaar93swjVvSsu1esWCry58Iw6V1FxrBb-b-nEPKAWQmh3r1npDJkQhWRBql09xkTCK_Qjtdyyt6tYw_-PtPoFa9Na7pVKjDmK57vDG-ubgNYYMH_9G0t8mPR5zDYfDvIuyio1oN-MO1CG4RcEqp0iVzONIGn-CJnqE",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4-4wsokoQg0Rg8n_sK3Jiy0",
+         "plus_code" : 
+         {
+            "compound_code" : "C7GX+7P Madrid, Spain",
+            "global_code" : "8CGRC7GX+7P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ4-4wsokoQg0Rg8n_sK3Jiy0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8436
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. de José Gutiérrez Abascal, 2, Chamartín, 28006 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4412381,
+               "lng" : -3.6901921
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.44218962989272,
+                  "lng" : -3.688638520107277
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.43948997010728,
+                  "lng" : -3.691338179892721
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museo Nacional de Ciencias Naturales",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115542171778966288209\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJabK7WRZrKpXiPTBuDVzgTNJcW31ffF2uZUSGLKStqbRTbMY_kbrhaArzl0PbZctNh8gAotBIv0bN0OI_-mpNqYuSoNuS85Hes298HxmXmUTMcw4ZSnjrkujmXgNOhUlbWK_HvHyoIoESi_PG93YDuGtoUjlr3y1K-VW7jNThidAoyk",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJxYeg-O4oQg0Rjnq7nU4nHRQ",
+         "plus_code" : 
+         {
+            "compound_code" : "C8R5+FW Madrid, Spain",
+            "global_code" : "8CGRC8R5+FW"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJxYeg-O4oQg0Rjnq7nU4nHRQ",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11656
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C. del Conde Duque, 9, Centro, 28015 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4269963,
+               "lng" : -3.7109397
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.42850982989273,
+                  "lng" : -3.709433820107279
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.42581017010728,
+                  "lng" : -3.712133479892723
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Contemporary Art",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108019464997703080381\"\u003eE R\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYSt5mjyJptkDAzwzAX1XOeuyBujZS2OFIW2zbsALlxhDtEoSA-Aa4PR6eevGa8I6NEIDH5OgtQbIGUlrD0KQdpHBVuBNgflVNC0u5HB-50sZiHnq6FtEI3QaATcpCNiXNs_J2osWlDi76f7v9qWYDp-bM2hsuMrmkjDoI5UWEJuxxQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJrWpuK2QoQg0RNy5SsBRnZK0",
+         "plus_code" : 
+         {
+            "compound_code" : "C7GQ+QJ Madrid, Spain",
+            "global_code" : "8CGRC7GQ+QJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJrWpuK2QoQg0RNy5SsBRnZK0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 735
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calle de Cervantes, 11, Centro, 28014 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4143821,
+               "lng" : -3.6974563
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41574177989272,
+                  "lng" : -3.696105920107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.41304212010728,
+                  "lng" : -3.698805579892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Lope de Vega's House-Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103364828725071708311\"\u003eMarc PT\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYupd4VO6wpAXnJQ41i6Od-ntIGpgruFU0cMl-4eB12jpUnX0Av4QlCR2mFIseXBdpIdrBQMUYFwsXe1hLYcj3ItbGztnCHZZDlN0eTYODFaxwMA3jRjUl4WR_zEEr_oTATbOhRYpq3eMXDVRSeCnnKsj2mLZSCm-3zU8bVQf6hNq8",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJWeRJKGKFQQ0RfhEw8rXXCn4",
+         "plus_code" : 
+         {
+            "compound_code" : "C873+Q2 Madrid, Spain",
+            "global_code" : "8CGRC873+Q2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJWeRJKGKFQQ0RfhEw8rXXCn4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4681
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. de Colón, 1, Centro, 28004 Madrid, Spain",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.42507459999999,
+               "lng" : -3.6915129
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.42647172989272,
+                  "lng" : -3.689934570107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.42377207010728,
+                  "lng" : -3.692634229892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museo de Cera",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117443251973245427335\"\u003eZenovel Petrea\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaFsYkcH8c9PDiQuh1De3gOrP1h--hz9GBNAnbS2cum9q57_4JfKQ2oiNTPhPC9AnzjFUc1HM_zi1ZfBufVyQu_jyJZ8GKkFWZp1JCPATLpCdN3buV7Co14tTVKRjceKXx-m8mkurcWsO3PXg-V0TwMLw8FRBKHCcXzkN_LRxbnBKOh",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJp1KDQZAoQg0RR7bOeI48BrY",
+         "plus_code" : 
+         {
+            "compound_code" : "C8G5+29 Madrid, Spain",
+            "global_code" : "8CGRC8G5+29"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJp1KDQZAoQg0RR7bOeI48BrY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8778
+      }
+   ],
+   "status" : "OK"
+}

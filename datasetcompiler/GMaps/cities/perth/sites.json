@@ -1,0 +1,128 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Fraser Ave, Perth WA 6005, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -31.9609106,
+               "lng" : 115.8321929
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -31.9417028,
+                  "lng" : 115.85772575
+               },
+               "southwest" : 
+               {
+                  "lat" : -31.9834788,
+                  "lng" : 115.80482355
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Kings Park and Botanic Garden",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107678749735717243432\"\u003eWilliam Brown\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYMROmZaB1WqKUDLwEP25zI2DCQnuwoJUCQiL1vmQ1tRJw9rNgeCn4f3ZyEuZcR86tivpsbs2maoN9n-K2mh-IAa-fysfci4KWk9mSL4nxgI8HcNdnG0B7-axQ4Nf12Vp8-BmxMifHgLwdktC0SwYmnN5WrUq4oTjnus5nPkhHC4ctF",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJLx-NCSWlMioR5zBnYpB7Suw",
+         "plus_code" : 
+         {
+            "compound_code" : "2RQJ+JV Perth, Western Australia, Australia",
+            "global_code" : "4PWQ2RQJ+JV"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJLx-NCSWlMioR5zBnYpB7Suw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24956
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "The Esplanade, Perth WA 6000, Australia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -31.9575763,
+               "lng" : 115.8569874
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -31.95622647010727,
+                  "lng" : 115.8583372298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -31.95892612989272,
+                  "lng" : 115.8556375701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Elizabeth Quay",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 6936,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113976642178983306563\"\u003eMarcel van Rensburg\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY9WWkIWE-ya66g6TtfO_kYjc-kb-3A2BnnO9FfRLS4hokAQOYzvN_IQxwO8TWREK04vxUYbJIMUcieFSzF9nmn2-Q_IVPoNFXIEHYAaMW__lsDAzw-EF51kIAsB3dNfRcVgN14hua8gTc-8K6J9QvfFVI9B2_54vQGjpqhTKRf_i_p",
+               "width" : 9248
+            }
+         ],
+         "place_id" : "ChIJ1WsySSq7MioRjd2qHQepRag",
+         "plus_code" : 
+         {
+            "compound_code" : "2VR4+XQ Perth, Western Australia, Australia",
+            "global_code" : "4PWQ2VR4+XQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ1WsySSq7MioRjd2qHQepRag",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17689
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1202 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJb6BAPCgf1T1AAWGnDaBIeKZyhE9WJLJdOgtg412uEIacf0b1f6zrh0QQ17qjgxWI_IvIYBMl-C31-eMAIIi6JutHu4299b3HSZdrFXCd5AltK0ySKShhttN_7oRQLrwS1DHQ_nC_viANBeT8P1QTl3PiQj6YMkDO5Cl8Iab5htSEkuvnl_ARy7vjHW24eJcTvDB30BFCZKk_w25rBVGIFwfRbYP7N9gD_TN_2uiWe_4AJRBuDzqq__crwwwXeGT07FdSzu18s9bRdLw9pDJWm2pAkC8tOrDtwbNkQfbk9x5BehFQGOG1hxVcnCmuzVL4-Xs3EWdkNdWJFJaNUKAuj87mN3GLl79p37pJVvvyJgZrhhwqxyI5nagJiPvyNt5zCEcdabEfdpknzCqA",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Quai Gustave-Ador, 1207 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2073889,
+               "lng" : 6.1559028
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20873872989272,
+                  "lng" : 6.157252629892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20603907010727,
+                  "lng" : 6.154552970107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Geneva Water Fountain",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110177457617877553796\"\u003e陈迪\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb9bCrFZXmGcQ0WH63jHmrFXDhP_8xNjVJkRYCjSLoTwtBfUuvJ5m-UBdVOl1DC0oYNQGBisFaQwVG08bKVuLdJUHzUvPrDWd2m82GHH18LqzuTWaCAAsjiQPyIHvnMUVXNDB541JfQ_rXPRkoz2ecgCa36o6aDI82oVJsiBMdt7w45",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJxYdJYjpljEcRSJJQjwS5fwM",
+         "plus_code" : 
+         {
+            "compound_code" : "6544+X9 Geneva, Switzerland",
+            "global_code" : "8FR86544+X9"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJxYdJYjpljEcRSJJQjwS5fwM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16174
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. du Bourg-de-Four, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2002544,
+               "lng" : 6.1491858
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20161027989272,
+                  "lng" : 6.150602179892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.19891062010728,
+                  "lng" : 6.147902520107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Place du Bourg-de-Four",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3366,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101724372151442399590\"\u003eEldar Azer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbxU8FmpXfNRq2RNqkYJymafY1QXa7jrwA4_qFv8M79xLznOFFlhlLruMflOeZIRVMpjwZPvW1uM6PnjngMol8UbbgN3qrDtlkeqitXrGn7vGBFMQmgwQ1l1slFcGnZx0GzgVfOX2oBje0LhrSc1w110bG0xecWN_IPvcMbh_85JMNs",
+               "width" : 5984
+            }
+         ],
+         "place_id" : "ChIJT_suri1ljEcRmbXpzVYgU2s",
+         "plus_code" : 
+         {
+            "compound_code" : "642X+4M Geneva, Switzerland",
+            "global_code" : "8FR8642X+4M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJT_suri1ljEcRmbXpzVYgU2s",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1996
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. de la Paix 17, 1202 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2269225,
+               "lng" : 6.137340699999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.22822977989272,
+                  "lng" : 6.138787379892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.22553012010728,
+                  "lng" : 6.136087720107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "International Museum of the Red Cross and Red Crescent",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1335,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117496575438802690881\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaYc4KAPh6tbHlCkKtQ8sgFMu-jjar9BKGD34Vggoc_KD1wR6RUHnpKDFd8Ton0c551Ja9NOguabWQcIs-udYTSRQgC4L_iNkvkOK7Nh3GTWYiUavHOOA2KkF1QnLQjz6HQmzh5_slYTcQ3Ppb4SThxVMgn3QGI78-DL4B4RgtbitZY",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJgcoLz_pkjEcRlE0r8mguJiA",
+         "plus_code" : 
+         {
+            "compound_code" : "64GP+QW Geneva, Switzerland",
+            "global_code" : "8FR864GP+QW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJgcoLz_pkjEcRlE0r8mguJiA",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2178
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Quai du Général-Guisan 28, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.204192,
+               "lng" : 6.1509893
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20543487989272,
+                  "lng" : 6.152256879892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20273522010728,
+                  "lng" : 6.149557220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Flower Clock",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2832,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104077144746310325936\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ-L48GAbu7xRRpY0kB7vdA0SUsWzs6MXc_y4kxkLNg0EMJStYVLHy5drlwKcg3LxH7uX2sCWwsIzE9TuEegW-_PQzrePLmPaf5nLKGwW7qdOQbEux0P1Tu8uCkU59xNk1qE6gIOr2tCC-ZpesdoBYSbq2Ss2L9W4rpVpCdKIUW1Xjz",
+               "width" : 4240
+            }
+         ],
+         "place_id" : "ChIJEQTzry9ljEcRj-ekmNtpurM",
+         "plus_code" : 
+         {
+            "compound_code" : "6532+M9 Geneva, Switzerland",
+            "global_code" : "8FR86532+M9"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJEQTzry9ljEcRj-ekmNtpurM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11349
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cr de Saint-Pierre, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2011267,
+               "lng" : 6.1485159
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20253037989271,
+                  "lng" : 6.150453249999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.19983072010727,
+                  "lng" : 6.14631065
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "St Pierre Cathedral",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114440990538392140865\"\u003eGereon Schroeder\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZWgHLx4DzF2uTIMwBOoeJ7uWUKJda2SzDyv7uITvGHEY8dyBHGP5LJCB4MMwzs1veZO0WL-hTmqx5N30mpVm5Tjz6U95NHo_3_xmVAWLag6E-qh_4otiCOT30jb_RlOo8iJZBLfj11kX9wz1NawlZdQMD47oqn9Yx7eaNZvTZbpKBO",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJjbUkNSxljEcRHZN02UWqxHk",
+         "plus_code" : 
+         {
+            "compound_code" : "642X+FC Geneva, Switzerland",
+            "global_code" : "8FR8642X+FC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJjbUkNSxljEcRHZN02UWqxHk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7262
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jardin des Alpes, Quai du Mont-Blanc, 1201 Geneva, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.208462,
+               "lng" : 6.1489826
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20973897989272,
+                  "lng" : 6.150462079892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20703932010727,
+                  "lng" : 6.147762420107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+         "name" : "Brunswick Monument",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116996003807978070414\"\u003eАлексей Шелудько\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaYv3BIhLZiiPmNKDetnE6Aw9CgivL_6hFwI89wB82Cj5j1oL77ykYMxq_qh7Aa_4DlR_Z93AoPh7vo8bV7p2xKrfgmMb42Jcyu1Kw8-zLXKCY3HtxQ-c4wvpP_kW4mlkfo3j9PIS_ZuZK4M80uk40cTMggZD3C9fs5fLDeigoUsvbM",
+               "width" : 2252
+            }
+         ],
+         "place_id" : "ChIJrU41xyVljEcR_21_bG7Vklo",
+         "plus_code" : 
+         {
+            "compound_code" : "645X+9H Geneva, Switzerland",
+            "global_code" : "8FR8645X+9H"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJrU41xyVljEcR_21_bG7Vklo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3567
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. de la Paix 10, 1202 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2254298,
+               "lng" : 6.138802
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.22702672989272,
+                  "lng" : 6.139653650000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.22432707010728,
+                  "lng" : 6.136247050000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée Ariana",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107003842044816230074\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJab-cNuCjNcHnhJdbFAB94GOqHg24cOkusYKqivEgOePgkqDnIPkZ9ZrksvAi6VW3g7LFFwwsNGKj4ULR_tzbI4vyPXdeWMu8m5XY8SNx7rd-xfDGZWTzksUWJGTc5JOXpTNMomZ0-V5pjUthAV6aT1omI5Qv1diQJyPbD8A0iNsVwo",
+               "width" : 12032
+            }
+         ],
+         "place_id" : "ChIJmxOfleRkjEcRo2g7tuMJaBk",
+         "plus_code" : 
+         {
+            "compound_code" : "64GQ+5G Geneva, Switzerland",
+            "global_code" : "8FR864GQ+5G"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJmxOfleRkjEcRo2g7tuMJaBk",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 638
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue des Vieux-Grenadiers 7, 1205 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.19842970000001,
+               "lng" : 6.1382048
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.19973967989272,
+                  "lng" : 6.139564729892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.19704002010727,
+                  "lng" : 6.136865070107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Patek Philippe Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102535442033306768202\"\u003eJo Poolsawadee\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZt06TZeHb_lCRyktuUGJ0huCuzoLY5yfAp08Y5xJ0PVqZuDplUPwsybf8Rp6nZVp0IWJIJOmnnxm4BGkhEr-c0IZ9BY6YIWZXJvQ694j5adq8GPIGpqNmgvHgmmPDEsMYbHYfolBiJqy62FQPAJIUhqvBEqwlZXc9wyrAvODgXsRoL",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJHVx0N9VkjEcRgFvJTopTApU",
+         "plus_code" : 
+         {
+            "compound_code" : "54XQ+87 Geneva, Switzerland",
+            "global_code" : "8FR854XQ+87"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJHVx0N9VkjEcRgFvJTopTApU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2370
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue Charles-Galland 2, 1206 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.199284,
+               "lng" : 6.1515081
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20072217989272,
+                  "lng" : 6.152982579892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.19802252010727,
+                  "lng" : 6.150282920107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musée d'Art et d'Histoire",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1360,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115242183395463462316\"\u003eMusée d&#39;art et d&#39;histoire\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb4PZs2Dj9cQS9_7cp4X-wMbKkX_cD5U18gP-qXLOOkAKoAkARufnhTvT0OfFAeAd5W04QH6iMxqXsPqtRoUiWzizosRJO6_Z88Ic_i1kqCDVREQOOagtF2t6LT9mjqPx8JO1306hOMtgbToy91PESjk0zyLEULids52zKlHiVlF0_b",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJBThVgTJljEcRjOWvPKrMhUg",
+         "plus_code" : 
+         {
+            "compound_code" : "55X2+PJ Geneva, Switzerland",
+            "global_code" : "8FR855X2+PJ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJBThVgTJljEcRjOWvPKrMhUg",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3185
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8, Av. de la Paix 14, 1211 Geneva, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2265483,
+               "lng" : 6.1404476
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.22806347989272,
+                  "lng" : 6.141323079892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.22536382010728,
+                  "lng" : 6.138623420107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Palais des Nations",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112686722448127506470\"\u003eRebecca Heminway\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbIAiT9FCntKm4MZVjDTLW35H4muiyJfSdiZfJ5yve-JiRYb1ju7SoUAzpiXFAYZeDPe2UMkZGd4I1bnFAks9UDPdSdtsNKkDddNHCdQMbvcOLL9_WP7v-Ff2KGIFOmrPlefuZ2o5tLtlNHrcA3QhWHt0I3E4RQ9IIaWv4oqhIn1HfI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPy7LqvxkjEcRc9ScYZfvq7o",
+         "plus_code" : 
+         {
+            "compound_code" : "64GR+J5 Geneva, Switzerland",
+            "global_code" : "8FR864GR+J5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJPy7LqvxkjEcRc9ScYZfvq7o",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3589
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prom. des Bastions 1, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2002831,
+               "lng" : 6.1459508
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20163292989272,
+                  "lng" : 6.147300629892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.19893327010728,
+                  "lng" : 6.144600970107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Reformation Wall - Paul Landowski",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106621184986402764066\"\u003eErkan Saka\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY8lIPviEvrxgpeS88z0cCWuw_q8aIJJ-GkpTbqFuShV-Gh3VOmaq-34dFSIpyfJUef-PAx4KaRZ4WWcgZoCCTKyAyTgGwh_mXt7Xb-08nRbGUhnS5kx3seV4fqPNwo6366umIDkINl5z6ovPkhdLrP6v8py-TzouKm_EEi0F7epSPE",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJdYaDsytljEcRWMuHnIPwURA",
+         "plus_code" : 
+         {
+            "compound_code" : "642W+49 Geneva, Switzerland",
+            "global_code" : "8FR8642W+49"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJdYaDsytljEcRWMuHnIPwURA",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2868
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Quai du Général-Guisan 34, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2040815,
+               "lng" : 6.151908799999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20523492989272,
+                  "lng" : 6.153178479892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20253527010728,
+                  "lng" : 6.150478820107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Jardin Anglais",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104397145784066770310\"\u003eCarlos Ricardo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbNyCJmdLucrLrz7TaCVWPcddyFC32-eFJgTNB5I8FhdlmUJlxaM6Cj6idex2VTuYbJPsw__CRW5egZtSETBz6pxgPDfYt9HBFiLv_9v1rR_ctdN3DvOqRw34Hd3sKNov-SMhZ4pPKNp1jPG-glvj234Omay5vbkgarjLrZinQBDbQz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJo8di1TFljEcRFU9ttUDPPL0",
+         "plus_code" : 
+         {
+            "compound_code" : "6532+JQ Geneva, Switzerland",
+            "global_code" : "8FR86532+JQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJo8di1TFljEcRFU9ttUDPPL0",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17912
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. de Neuve, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2011438,
+               "lng" : 6.143218999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20257092989272,
+                  "lng" : 6.144514329892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.19987127010728,
+                  "lng" : 6.141814670107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Place de Neuve Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2908,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111574607868500775918\"\u003eStuart Bradshaw\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbgiDe9e8hsVujR3loin3Pee9iyvkTadawnuEVGWOEVOciPkjTMnwVQ9cm-L1pOgSnzs47askqIiUHX4mVx3Qj5Hc5EnyrrfwTT8e3aohaCwyRQSdQOZQVzzaJUBaU71GyapqELr0_hU2gzKSrjz2JpQzL1EFyQMjEGWY26c6vdBywy",
+               "width" : 2660
+            }
+         ],
+         "place_id" : "ChIJB4ArCsRljEcRcFDPV6gF5O0",
+         "plus_code" : 
+         {
+            "compound_code" : "642V+C7 Geneva, Switzerland",
+            "global_code" : "8FR8642V+C7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJB4ArCsRljEcRcFDPV6gF5O0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 69
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Chem. de la Tour-de-Champel 7, 1206 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.1874738,
+               "lng" : 6.152138600000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.18893052989272,
+                  "lng" : 6.153519879892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.18623087010727,
+                  "lng" : 6.150820220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tour de Champel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107731499250561124755\"\u003eMichael Corbat\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGcNoq9lPNCMOPr4m8IeMnHOTzkfdR_zdYxEQ3GxuBWPNwxqHOaEMWe4McB8j1uNtql2gS10wdYo5tftjX2ZcGRj98xoJhGg4oaX2dsgGPwRjdFX3Hptum4y5xfB4gHS84GzvQ01bX8aPlNGIywkFIVaW2_eLmzmYXA0XfDsQhIdWt",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJF7h5iMV6jEcRhW3gV_e7b_Y",
+         "plus_code" : 
+         {
+            "compound_code" : "55P2+XV Geneva, Switzerland",
+            "global_code" : "8FR855P2+XV"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJF7h5iMV6jEcRhW3gV_e7b_Y",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 114
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prom. du Lac 2, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2046702,
+               "lng" : 6.150391
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20617412989272,
+                  "lng" : 6.151494829892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20347447010727,
+                  "lng" : 6.148795170107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+         "name" : "National Monument",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115753277411866282349\"\u003eswapnil jadhav\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbjPUOxIbuG1F3BPquII5GPKiBeuXI1eqI0XmkVxPePNaAYlfTH7KZXP0t-wGHuhOJuGglxn-c3vKlOO86lH6gZ5kVp_t96TGf9F0NmPr7nLbXWz82k2M-emm1CKDaiH4nO8jmsZ0raTBs2fNgIeYDR7u5_olElEKatmVPZoL2tWYfV",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJfaRftC9ljEcRAxAmc9aeNo4",
+         "plus_code" : 
+         {
+            "compound_code" : "6532+V5 Geneva, Switzerland",
+            "global_code" : "8FR86532+V5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJfaRftC9ljEcRAxAmc9aeNo4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 118
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue de la Tour-de-l'Ile 1, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2050483,
+               "lng" : 6.143238999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20629782989271,
+                  "lng" : 6.144623679892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20359817010727,
+                  "lng" : 6.141924020107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tour de l'Île",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112095173990589378554\"\u003eVictor\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYvT8ORyXsiqhFe9Rlw14blnX4DdpIvd2h7WkLMlS2CDK3kftw5_pcUWP83pgSuGRW3JqCQOh7Pu00ZMsjQOkkS-l_xJ4tP8Sjsf4O5ArPsnLQ6Xs5l7u1YXeMbSx3HmKU3ZjgFnWYC1eRqvzuNrif8Wbxm0UOTCKXaVRj6yQs5I8T6",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJAxc7TChljEcRmYzNsQa8O-U",
+         "plus_code" : 
+         {
+            "compound_code" : "644V+27 Geneva, Switzerland",
+            "global_code" : "8FR8644V+27"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJAxc7TChljEcRmYzNsQa8O-U",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 44
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue du Puits-Saint-Pierre 6, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.201403,
+               "lng" : 6.147106
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20273127989272,
+                  "lng" : 6.148492729892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20003162010728,
+                  "lng" : 6.145793070107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Tavel House",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2150,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112580670001796960091\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZiZ5AgHf9cosx1QmG5xpOxpCPmuMxyBwAqglP2fsc-TMYvTCaRJ7Ovqb5oloBUNePC_iMo-3JvpX4WmcGVNel_CBGQe1eOKojY5HlSvBtmhKO4NCN9owHColqH3QMdItjZRGnGxpCduLU2Lhb5-R4lWqPBZuP-Wx2h95PWuYI_QJ6a",
+               "width" : 1209
+            }
+         ],
+         "place_id" : "ChIJLQ5JESxljEcRjxmEA6s2XN8",
+         "plus_code" : 
+         {
+            "compound_code" : "642W+HR Geneva, Switzerland",
+            "global_code" : "8FR8642W+HR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJLQ5JESxljEcRjxmEA6s2XN8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 833
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tour de l'Île, Rue de la Tour-de-l'Ile, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2049816,
+               "lng" : 6.143239599999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20626782989272,
+                  "lng" : 6.144638329892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20356817010728,
+                  "lng" : 6.141938670107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Free Walk Geneva",
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109448749883989123936\"\u003eAnri Erinin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbfkm2IeTa7BHAXaiEIy7FTweTkHKYZ3CGuME9vt61PPNTLU355BKaJ2ar-4C3BVEUgmY-H-F3ELQZgjP-d9NLQtNcoohjoZs_NN9bsPU6GWOgKsYZy08n2Vo0TwbfsveTaVVxtlwmqeHg0PAsIndlA6VaStU8xXtGG-ePQNZFl1qub",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-6_Do8ZljEcR3NH16fPB_1s",
+         "plus_code" : 
+         {
+            "compound_code" : "643V+X7 Geneva, Switzerland",
+            "global_code" : "8FR8643V+X7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ-6_Do8ZljEcR3NH16fPB_1s",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 144
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Quai des Bergues 33, 1201 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2068,
+               "lng" : 6.1473
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20825367989271,
+                  "lng" : 6.148843029892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20555402010727,
+                  "lng" : 6.146143370107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Geneva Lake Deck",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102597795621732295488\"\u003eTobias Wallström\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJj51fuQmet_qMNbe7ke5roYScFuMWSiWJSeCyFEn0rugQssvD2leaUSKx7w05U0bQw8i23epk3ysK9MiZFPM5LPVPEK7Wu43Ey9whDhxXKqkkM8WaUL9nCnJUIta0373HsEBV30Hk9G9TQN70UmSmYLQCu7OEPLDFy_Tr0F0Pbb2o",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJuyImtRhljEcR1gbMzl3QVDo",
+         "plus_code" : 
+         {
+            "compound_code" : "644W+PW Geneva, Switzerland",
+            "global_code" : "8FR8644W+PW"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJuyImtRhljEcR1gbMzl3QVDo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 68
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pl. du Bourg-de-Four, 1204 Genève, Switzerland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 46.2020023,
+               "lng" : 6.149735499999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 46.20335212989272,
+                  "lng" : 6.151085329892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 46.20065247010728,
+                  "lng" : 6.148385670107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fontaine",
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108307185186752758997\"\u003elaconispe06\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbxs6_wEKqCnf6YVoq_yGB9eEaeSFSM8l8vJmnvqFK33mr7ea_MILD3y_WD5iaLUH5N2nExpArCwWngRF9TO2Yap2vH3Cytr_bpcCEMQCsixuaG6JEfP3dhCXZuK-_bn5SzEb39kj26DEENC9IhwgdaZVmT_d3p0aoZfDBd7zq29z8_",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJr_WjgEBljEcRTmJVd9LTVBo",
+         "plus_code" : 
+         {
+            "compound_code" : "642X+RV Geneva, Switzerland",
+            "global_code" : "8FR8642X+RV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJr_WjgEBljEcRTmJVd9LTVBo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      }
+   ],
+   "status" : "OK"
+}

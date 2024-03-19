@@ -1,0 +1,1058 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZ1DoYfCCLYDmSrFLSLeDgan_ar0pwx4quM2X1VVrBDqXJkxeCX_IGsJyHSPgSFSWuJYNvLIsmoUu50_QFXC9Wp5afFzkkHNwk7jhzId9LumFdomlOtuMEirf-FhG2Ikyk-ZCVjhZ4QT-KHgcKSLdKuvGGrIVH1TqpsWFV7uu3UY6eWdMphAMTX66ly9S4uA4pRFlD_U9t-bU_wd876jLUBFk7kEOkfH0xvQmCfAjH8uA6M7uF7KmTYXh4BeibSzCrioZjq3o5FYchcJqoavDf07IgGGC8AO1JQmKwT7Di3RNhA8bWQJ7z1itvBYuLLFGLXarGvSCyYxXrlQKbZYt9pS40ks9EhbKhRZJAZgdlbbGENEQJ_hrCFuTNTblWbUn-ut3BO16GOMPoeZSaUNg",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "228 Tianhe Rd, Tianhe District, Guangzhou, Guangdong Province, China, 510620",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.132126,
+               "lng" : 113.3269063
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.13411077989272,
+                  "lng" : 113.3282760798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.13141112010728,
+                  "lng" : 113.3255764201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou Friendship Store",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116718595625426644502\"\u003eRunsheng He\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJdnQ_UCpIUDzTQ1cNL_4ZzqtAbWTQ3UFoVwfTYqIP5oUdbK7ttl3i8Yq9ZnH41XohfvY2KsemyRW2AmtmDfKdrAUdni_h9ZSKCtBLAJxxhmoc18ZXB-QegM7yzjQh3I2fQvSHL4xHkV96XTpMvHS8EIY7xP1PLpGDaetMKmRXKs32",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJhYoosgP_AjQRAGgRAhJ03d8",
+         "plus_code" : 
+         {
+            "compound_code" : "48JG+VQ Tianhe District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM48JG+VQ"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJhYoosgP_AjQRAGgRAhJ03d8",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "27 Renmin S Rd, 长堤路购物休闲街 Yuexiu District, Guangzhou, Guangdong Province, China, 510123",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.109482,
+               "lng" : 113.253857
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.11083587989272,
+                  "lng" : 113.2552372298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.10813622010728,
+                  "lng" : 113.2525375701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou Liwan Yeji Clothes Shop",
+         "place_id" : "ChIJBYt0Apv4AjQRBtjjA9feUfw",
+         "plus_code" : 
+         {
+            "compound_code" : "4753+QG Yuexiu District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM4753+QG"
+         },
+         "rating" : 0,
+         "reference" : "ChIJBYt0Apv4AjQRBtjjA9feUfw",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Huangpu, Guangzhou, China, 510730",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.1006326,
+               "lng" : 113.5436155
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.10192107989272,
+                  "lng" : 113.5449363798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.09922142010728,
+                  "lng" : 113.5422367201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou International Toys & Gifts Centre",
+         "photos" : 
+         [
+            {
+               "height" : 1920,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108249025791063010034\"\u003eTheyab Mohammed\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa4L6_Ad3ujFvbOOMruULo296ukQRN6g_I3pmx0pJAc2CNykmjFrgWW10OBNAo452Lw_EnmdJTM62vcvP5Wv5Ik3P9MWimdIYICvWFLE0kaKAAihsdFAWwIEruW9_A9fY1lnRq74KmEpkhz1i4HRYL7maFYPJODm99TT4eHuaKA6-po",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ1eRWNEsGAzQRdX1IJWVkhR8",
+         "plus_code" : 
+         {
+            "compound_code" : "4G2V+7F Huangpu, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM4G2V+7F"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJ1eRWNEsGAzQRdX1IJWVkhR8",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "China, Guangdong Province, Guangzhou, Tianhe District, 林和中路63号 邮政编码: 510507",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.146882,
+               "lng" : 113.324158
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.14822877989272,
+                  "lng" : 113.3253476298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.14552912010727,
+                  "lng" : 113.3226479701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Popark Shopping Plaza",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116112847149324631791\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb-OGfpHtM1VLIt_s89f-UPa37iT6Jz9Yi7hjBP19ZLX6xH0r8rLOwWrR_fjRW6kypoBzilsgD8ksSArT_nb_YX1fMKTUcFsoTEbBpXeZz5gJ93KHAdIx7y0t_Hr8xHAewYZ7TUz5YVKIQfHhvA3_YlPmGYKAJm68fl0BC0-83Zvu79",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT-ircvD-AjQRNfdmMTuPpl8",
+         "plus_code" : 
+         {
+            "compound_code" : "48WF+QM Tianhe District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM48WF+QM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJT-ircvD-AjQRNfdmMTuPpl8",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 85
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "228 Tianhe Rd, 天河中心 Tianhe District, Guangzhou, Guangdong Province, China, 510620",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.132146,
+               "lng" : 113.326998
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.13411957989272,
+                  "lng" : 113.3283672298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.13141992010728,
+                  "lng" : 113.3256675701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Grandview Mall",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2976,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103651230734922239540\"\u003eNishan Sembacuttiaratchy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYt-OOj-RvBy5D4tXGaKX9ppINK3ddpWLkv7qSmTUtX7gvYkvlkHbPg1NngDnR6XXwiBq7b9sU2adJyA6MMbjHClHZU2WDDNLefU2OFs8FaAPAAQeyu-zoCr9H550fjcdOrypzbl6kMmLQm-BesYI3hxmiAMsqEY04fVlPQu6-O5eZd",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJAXxdSQL_AjQRHQp6_NIt2jg",
+         "plus_code" : 
+         {
+            "compound_code" : "48JG+VQ Tianhe District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM48JG+VQ"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJAXxdSQL_AjQRHQp6_NIt2jg",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 214
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "16 Gaodi St, 北京路 Yuexiu District, Guangzhou, Guangdong Province, China, 510115",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.117572,
+               "lng" : 113.264713
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.11895002989272,
+                  "lng" : 113.2660495798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.11625037010727,
+                  "lng" : 113.2633499201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou Yuexiu Yawei Department Store",
+         "place_id" : "ChIJMZ9PFb74AjQRTuTMc8_Ifoc",
+         "plus_code" : 
+         {
+            "compound_code" : "4797+2V Yuexiu District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM4797+2V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJMZ9PFb74AjQRTuTMc8_Ifoc",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "33 Zhongshansan Rd, Yuexiu District, Guangzhou, Guangdong Province, China, 510050",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.126614,
+               "lng" : 113.282753
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.12814007989272,
+                  "lng" : 113.2841000298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.12544042010727,
+                  "lng" : 113.2814003701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "China Plaza",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112292541432030644184\"\u003eNg Dilim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZnqollJdh_CrpKMZh1uaRJOXKCHbLgrn1pFCNBdd369F0kcCckJjLYI5uMTfQiDP-LGhpcRgpUfambliCywSK9NdIoU0NIpYg0t9XwyxfUW0ija339_gxkiqQOxP7qs-kh6Nac19SYmkukIZpmqDcve57LtAWl1a9Jw73FCsE1-U_L",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ0c0KQMz4AjQRYUI8FF4jEMs",
+         "plus_code" : 
+         {
+            "compound_code" : "47GM+J4 Yuexiu District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM47GM+J4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ0c0KQMz4AjQRYUI8FF4jEMs",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 48
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "251 Beijing Rd, 北京路 Yuexiu District, Guangzhou, Guangdong Province, China, 510115",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.121848,
+               "lng" : 113.268941
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.12320067989272,
+                  "lng" : 113.2703413298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.12050102010728,
+                  "lng" : 113.2676416701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou Yaoqun Department Store Co., Ltd.",
+         "place_id" : "ChIJP0vzrcD4AjQRIOHoQIXb3Xg",
+         "plus_code" : 
+         {
+            "compound_code" : "47C9+PH Yuexiu District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM47C9+PH"
+         },
+         "rating" : 0,
+         "reference" : "ChIJP0vzrcD4AjQRIOHoQIXb3Xg",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "67C6+7QG, Guanghuayi Rd, Baiyun, Guangzhou, Guangdong Province, China, 510430",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.220685,
+               "lng" : 113.261942
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.22201012989272,
+                  "lng" : 113.2633137298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.21931047010728,
+                  "lng" : 113.2606140701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou Global Village Wholesale Shopping Mall",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2322,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115215527020236034948\"\u003eLionel Pena\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYhix0ut9N86MJ6f1fuMJ4slpNGBNp-rj_NUAPOif5hS91px7QxTe_Bec6BxwEfYweS7EEXuhK5HCroiIgOuV0LQVbPu9xKmDGbcJwyoOFRtrimNkH7lN_HTfnPTqrLOko-FyIq6ymDvcEPAVtoR9K_nwFcSROn093IgMn2JiKEAiUD",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJd4aGdL37AjQRrXDt7z2wa14",
+         "rating" : 4,
+         "reference" : "ChIJd4aGdL37AjQRrXDt7z2wa14",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "40 Nonglinxia Rd, Yuexiu District, Guangzhou, Guangdong Province, China, 510062",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.1296638,
+               "lng" : 113.2981049
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.13104792989272,
+                  "lng" : 113.2993966298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.12834827010727,
+                  "lng" : 113.2966969701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou Wangfujing Department Store Co.,Ltd.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115592801406330059735\"\u003e黃幻\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYaRB4xQ6zFEcUxn-aHCHrYTpLc44E23qnuG2gjG0MEbI-Y3MC_FXIK2g1DO55Sk4wjx_OCQKDHH41eyjcKTsjkvHdNAU7xDdfj3qCT-NSOVCemOVbdMy9b_a_BS-NiXuWqZkadR7fE2sxpue9RFvvjzkNgzh2AFyIpVq19-n7QH6bR",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJy55hji__AjQRBJNVbQKMfZ8",
+         "plus_code" : 
+         {
+            "compound_code" : "47HX+V7 Yuexiu District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM47HX+V7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJy55hji__AjQRBJNVbQKMfZ8",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1399 Airport Rd, Baiyun, Guangzhou, Guangdong Province, China, 510425",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.1936459,
+               "lng" : 113.2622823
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.19495787989272,
+                  "lng" : 113.2637427298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.19225822010728,
+                  "lng" : 113.2610430701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangbai Department Store",
+         "photos" : 
+         [
+            {
+               "height" : 5312,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114358056577702816998\"\u003eLam nam hing\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJadv8lHZtR3b0q-YwV4nnFrPPtz0aDW6Lm9eB-wd_DCp7IwcYyo6E3kjx-YVXpPeuLG5C_3rOLBJzoI59khlIxE43-jomwxL7xd7h8ZoMNJGbbaBWnWdyZ409WauXqiOhKaxYNq-4cG3-ZOXkP-JHXNHu2V3NTpvZHdZyfwp-twQW6w",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJ4YXwPd77AjQRW-6GySMnY00",
+         "plus_code" : 
+         {
+            "compound_code" : "57V6+FW Baiyun, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM57V6+FW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ4YXwPd77AjQRW-6GySMnY00",
+         "types" : 
+         [
+            "department_store",
+            "shopping_mall",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "China, Guangdong Province, Guangzhou, Baiyun, Zhongyi St, 9号之40 邮政编码: 510403",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.173666,
+               "lng" : 113.258755
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.17504472989272,
+                  "lng" : 113.2601091298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.17234507010728,
+                  "lng" : 113.2574094701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou Baiyun Xinshi Taocheng Clothes Shop",
+         "place_id" : "ChIJ2_KNXWn5AjQRdemhye08cbE",
+         "plus_code" : 
+         {
+            "compound_code" : "57F5+FG Baiyun, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM57F5+FG"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ2_KNXWn5AjQRdemhye08cbE",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "China, Guangdong Province, Guangzhou, Tianhe District, 濂泉路15号",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.1528168,
+               "lng" : 113.3093663
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.15419837989272,
+                  "lng" : 113.3107618798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.15149872010727,
+                  "lng" : 113.3080622201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Shahe clothing wholesale market in the third breakout",
+         "place_id" : "ChIJv7BDJ8L-AjQRvWVMRc1nrXs",
+         "plus_code" : 
+         {
+            "compound_code" : "5835+4P Tianhe District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM5835+4P"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJv7BDJ8L-AjQRvWVMRc1nrXs",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "18 Tiyu W Rd, 天河中心 Tianhe District, Guangzhou, Guangdong Province, China, 510620",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.1284337,
+               "lng" : 113.3217181
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.12978772989272,
+                  "lng" : 113.3229463298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.12708807010728,
+                  "lng" : 113.3202466701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou Tianhe Jiayuan Clothes Shop",
+         "place_id" : "ChIJpS5bRxv_AjQR471hUmAroQI",
+         "plus_code" : 
+         {
+            "compound_code" : "48HC+9M Tianhe District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM48HC+9M"
+         },
+         "rating" : 0,
+         "reference" : "ChIJpS5bRxv_AjQR471hUmAroQI",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "China, Guangdong Province, Guangzhou, Conghua District, 东成路新世纪1号 邮政编码: 510900",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.5481301,
+               "lng" : 113.5883433
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.54948517989272,
+                  "lng" : 113.5896917298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.54678552010728,
+                  "lng" : 113.5869920701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou Department Store",
+         "place_id" : "ChIJvRjCyNs6AzQRb6VHJO8RVQ0",
+         "plus_code" : 
+         {
+            "compound_code" : "GHXQ+78 Jiekou Residential District, Conghua District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMMGHXQ+78"
+         },
+         "rating" : 0,
+         "reference" : "ChIJvRjCyNs6AzQRb6VHJO8RVQ0",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "40 Qianjin Rd, Haizhu District, Guangzhou, Guangdong Province, China, 510240",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.102007,
+               "lng" : 113.272993
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.10325962989273,
+                  "lng" : 113.2740658298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.10055997010728,
+                  "lng" : 113.2713661701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Wanguo Outlets",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 460,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115506611130811206380\"\u003eUser Unknown\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZMx6uKBN8gyaU8wO3egxg8Qq_mzFFH4YNm4lcAJLq_-1XxfazoN_HLcT0vevBHnDpqiBzY7VIvq6p6yAoo6DDYamDx0Fkl_kCUlYUpitU6YAWKcw4RJ55dz1phautoWw3gKX3ZmRphpUL2aiyQ_gCAKkakE-63VqKoqLWcDHOqyvhI",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJXaZxRKb4AjQR4N84r3WPBYo",
+         "plus_code" : 
+         {
+            "compound_code" : "472F+R5 Haizhu District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM472F+R5"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJXaZxRKb4AjQR4N84r3WPBYo",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 59
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "252 Beijing Rd, 北京路 Yuexiu District, Guangzhou, Guangdong Province, China, 510115",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.123301,
+               "lng" : 113.269059
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.12464927989272,
+                  "lng" : 113.2703489798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.12194962010728,
+                  "lng" : 113.2676493201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Guangzhou Yuexiu Wanshanhong Department Store",
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109410405203463654817\"\u003eDd tai\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJapjdglddUdggX8xIJ9I_F1d0pbY9ILhg-k8WyBhHoIzq4UOHEgtK8Hmf_C5BLs2bYI_eLOo1M59SaBhb-Pk3OXG-nDFN-DZXl-ACVCHTGeg1bPYnsK74FPbyYa-k33Z8egZ6Bi1KCVYohfC1KhII9vFVYaDf0jJojNeGzd0LDzIdRG",
+               "width" : 2276
+            }
+         ],
+         "place_id" : "ChIJNf-F0sD4AjQRSRFkecdE2v8",
+         "plus_code" : 
+         {
+            "compound_code" : "47F9+8J Yuexiu District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM47F9+8J"
+         },
+         "rating" : 0,
+         "reference" : "ChIJNf-F0sD4AjQRSRFkecdE2v8",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "48FV+JHF, Tianhe District, Guangzhou, Guangdong Province, China, 510627",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.1240706,
+               "lng" : 113.3439163
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.12541927989272,
+                  "lng" : 113.3450579298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.12271962010728,
+                  "lng" : 113.3423582701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Happy Valley",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1284,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115524406512654015033\"\u003eshkh.amir\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYRvHz5m8d43b01H03lTaYb3iGK_QrRjiMjIW0p1qiaMGJDtqQGfrVMm6ZGnFCXCmVSp-6J1MjGDvOsrE7la1WpLB6zMHxHAT5db9149wIAJQM8lQHRkhCdgtcf9zq-b9hpkEgvbhMYkTVdbKw3ckh7sZ0Fzml5rxHwPtplHLu6EEoD",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJxTAZV67_AjQREaeKE4Rhdzg",
+         "rating" : 5,
+         "reference" : "ChIJxTAZV67_AjQREaeKE4Rhdzg",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "China, Guangdong Province, Guangzhou, Yuexiu District, Sanyuanli, 广园西路辅路 邮政编码: 510499",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.149225,
+               "lng" : 113.248923
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.15054562989272,
+                  "lng" : 113.2503704298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.14784597010728,
+                  "lng" : 113.2476707701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Jiaxing International Trade Market",
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118399147380525128103\"\u003eAhmed Lotfy Abou-Okail\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbYrKro_hMTcSCaLAOPhbqoPF7rapP9BjCKBfHAmICh3WfyfkkQtBn6GBzg0qOWPb2LELKqimhlsxe64InoNw3SaAu7sfLKdlMztfmWEBBK2FQJvV2-2JWJaj_kOwVQUeCQ14cUcH1NadbCtE9gLq359OQW_X4JFeT10PTUuNQY0pnV",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJodZj_AL5AjQRqayASLgGAJE",
+         "rating" : 4.2,
+         "reference" : "ChIJodZj_AL5AjQRqayASLgGAJE",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 128
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Guangzhouqiyi Rd, 长堤路购物休闲街 Yuexiu District, Guangzhou, Guangdong Province, China, 510115",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 23.1156248,
+               "lng" : 113.2650992
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 23.11740557989272,
+                  "lng" : 113.2663034298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 23.11470592010728,
+                  "lng" : 113.2636037701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Clothes Shop",
+         "place_id" : "ChIJGd-kwr34AjQRej0NIR3suSw",
+         "plus_code" : 
+         {
+            "compound_code" : "4788+62 Yuexiu District, Guangzhou, Guangdong Province, China",
+            "global_code" : "7PMM4788+62"
+         },
+         "rating" : 3,
+         "reference" : "ChIJGd-kwr34AjQRej0NIR3suSw",
+         "types" : 
+         [
+            "shoe_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      }
+   ],
+   "status" : "OK"
+}

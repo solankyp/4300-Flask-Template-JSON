@@ -1,0 +1,719 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "VJH3+3GC, Chuy Ave, Bishkek, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8776856,
+               "lng" : 74.60376529999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.87852865,
+                  "lng" : 74.60509957989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.87515645,
+                  "lng" : 74.60239992010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "State History Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2304,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115916348584520514863\"\u003eMadan Gopal Madabhushi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZdSuda-H32VVtXWDEwZW5buT-AAPvZq88sQeeu65lnAonWH2tPLVKWSl3ls8tUEsBk3jSK0DNEvgIExfNMQLPv6u1GCWyIzQQ52-SuLalPn0z_mw-86sGpaqAhJNUh1sOcS1tT4Xe0Gg6Ec4tUYkIG9U7oyqs8NzNWZ6QgOAga2byl",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJQ5yLO923njgRVZX9QPbQkms",
+         "rating" : 4.6,
+         "reference" : "ChIJQ5yLO923njgRVZX9QPbQkms",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1349
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "364 Frunze Street, Bishkek, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8804787,
+               "lng" : 74.60533860000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.88190777989271,
+                  "lng" : 74.60668912989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.87920812010727,
+                  "lng" : 74.60398947010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "M.V.Frunze Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105070767605002220775\"\u003eAlisher İmamov\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYuRM7uBF5PkDezRKB2IcSbXKCxTUlccOPzO-BZm4jfqvxow4w7MJmixVNgm92iSuNvadg2w5jMZjAZsvrAZnUYcfBhC4ZRyjSVYs3q6iZUPOtVByngsimvr85QEROxC1DTRN3Mjr4eMiNg_rqe-D3Sl6UloJHSD0HwhliLhQNAa1or",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJpWQNDui3njgRylO9p8AYriU",
+         "plus_code" : 
+         {
+            "compound_code" : "VJJ4+54 Bishkek, Kyrgyzstan",
+            "global_code" : "8JJPVJJ4+54"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJpWQNDui3njgRylO9p8AYriU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 244
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "164 Chuy Ave, Bishkek, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8762157,
+               "lng" : 74.5871023
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.87757537989272,
+                  "lng" : 74.58843012989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.87487572010728,
+                  "lng" : 74.58573047010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Geological Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1356,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108068619150061682088\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYSQH1bTdMzkbltEsFON2TRfe-dQl9D720_0yId1xF-FPi0gUgMSRqkC3aTeIVsvZcX2U1cnFEIwa_9QCO92tCFwUvHgoVWDnE3dpvsmk965ojdZ11X1D4P9Ii4rg3T2jy-kRFjyGDYoeSB68vyBR8sHDf6SfBZ59_V3M3vriUXx4ZK",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJWbiOHSLInjgRomIzEUsRZMw",
+         "plus_code" : 
+         {
+            "compound_code" : "VHGP+FR Bishkek, Kyrgyzstan",
+            "global_code" : "8JJPVHGP+FR"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJWbiOHSLInjgRomIzEUsRZMw",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 96
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "196 улица Юсупа Абдрахманова Бишкек, 720040, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8787306,
+               "lng" : 74.6108646
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.88008042989271,
+                  "lng" : 74.61221442989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.87738077010727,
+                  "lng" : 74.60951477010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Museum of Fine Arts named after Gapar Aitiev",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112813605966866298706\"\u003e3 Jomo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYX_VBBgLokuhH0nH5Z1YhcPJ8S0Txed2UgS_hnrjrwdtDSLVMKoOCkW203xQQukLVExZTI2H-GV5OkrdUmk1mw0pxZCa2dSLzmIjQuqgzAqQKi_eQLOFeNPFig5r-IW92HALBTf75mS4DWuorPzjAb3S83m_GmoI2EWlp4xwT6njJ2",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJD8DCicG3njgR1PYDCN_zqms",
+         "plus_code" : 
+         {
+            "compound_code" : "VJH6+F8 Bishkek, Kyrgyzstan",
+            "global_code" : "8JJPVJH6+F8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJD8DCicG3njgR1PYDCN_zqms",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 808
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "VJF5+8FG, Bishkek, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8732584,
+               "lng" : 74.6087004
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.87458557989272,
+                  "lng" : 74.61004827989274
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.87188592010728,
+                  "lng" : 74.60734862010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "House Museum of Olga Manuilova",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117325752822198671426\"\u003eAnuar T\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYPXU-uUDb5z51lmLKx_SDTC-xKAyYZaxqUcGSp0bYSmWyK-aKQVJSycr5yeyRKPbP08wl0OzH1jf4KAUaFqSm6h8IFYoe6l1exGMEMEFaIrL9eHyZWM4R6wDP9N2HJaMRqK4JyZC7pHYPZ5zHWffgcOj8St38W_Sx8PqJ69bRGMEgx",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJQ3adBj63njgR8QzFpQcp4VQ",
+         "rating" : 5,
+         "reference" : "ChIJQ3adBj63njgR8QzFpQcp4VQ",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "265а, к.322а Chuy Ave, Bishkek, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.877544,
+               "lng" : 74.58023799999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.87867947989272,
+                  "lng" : 74.58147082989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.87597982010728,
+                  "lng" : 74.57877117010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Zoological Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101619917109516434156\"\u003eВадим Маркитанов\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYrikJDrVWhVGnqH2m67YjJLUbpl3t5CcHsI16Spdq9CoPxhim91I5Bdt0RIpeS6YwqL_Sw1I9QD9rASJHioyvTiAV8fTtEnl0Je0S6JMmWxzM-1zqVdGGd_vqxPGy1zSHvQ-U1RK2XrCcZjx3pqR9qYPOMq_gN6W1r1dMbYoQj0Rvj",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ710_lBfInjgRH8lzTCpk46o",
+         "plus_code" : 
+         {
+            "compound_code" : "VHHJ+23 Bishkek, Kyrgyzstan",
+            "global_code" : "8JJPVHHJ+23"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ710_lBfInjgRH8lzTCpk46o",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 166
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "54 Борончиева, Tokmok, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.7463205,
+               "lng" : 75.25015810000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.74789697989273,
+                  "lng" : 75.2533912
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.74519732010729,
+                  "lng" : 75.2490804
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Burana Tower",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4624,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102148268257057737243\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYarL1xvNpjhIlGABzPd_xuRwYTxScDJn5pFg_LNS-epzUXJve8Xk11lVQ-tVMnDw8qMd8jSInybSewfqb4Z9teIriPH4HWxtuYDkJUH9P3XGrfYdg_StStKfiLeBrub2VcmCIS2l1Ez9Es9T6qCi9uBgO-y7yryxoLFN66KcHRB7rY",
+               "width" : 3472
+            }
+         ],
+         "place_id" : "ChIJrTTnTf3zmzgRPmgyx3cO0z8",
+         "plus_code" : 
+         {
+            "compound_code" : "P7W2+G3 Tokmok, Kyrgyzstan",
+            "global_code" : "8JJQP7W2+G3"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJrTTnTf3zmzgRPmgyx3cO0z8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2036
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "109 Toktogul Street, Bishkek, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8724527,
+               "lng" : 74.6018132
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.87371687989272,
+                  "lng" : 74.60315837989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.87101722010728,
+                  "lng" : 74.60045872010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Kyrgyz State Literature and Art Museum of Toktogul Satylganov",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1020,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100184428331627668011\"\u003edrdiablo thevip\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJVSJkmfsAKV8oCKgA_07P8d-ThOISomxH8j8QTEOYRMvShlxLJARn0JG5ULKNvESGABj7L_j8SRhysdiOIX-sEHsVvdPb4rKbtdM7DK1GFk1ipkbGJc9DqGCyZ8jN87sQil5HMxEt3C7RKtp_MVJ9U4GfoRdaYF9sJL0l2KQvPtj0",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJU4DVp9u3njgRxkxKh4wNsF8",
+         "plus_code" : 
+         {
+            "compound_code" : "VJC2+XP Bishkek, Kyrgyzstan",
+            "global_code" : "8JJPVJC2+XP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJU4DVp9u3njgRxkxKh4wNsF8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "31 Ormokoev St, Orto Say, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.8028635,
+               "lng" : 74.59422189999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.80420612989271,
+                  "lng" : 74.59557412989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.80150647010727,
+                  "lng" : 74.59287447010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Great Emptiness Museum",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116149215238915369761\"\u003eДмитрий Колесников\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbQy963b0DXsieNA4dAacmP88CsWl0XgyvWESxH2_wOdTciNAlsThjgmXdc9pCzOIM1uTaKO7FNlONARIMZ3evtKKeGWWQWRwkgtnPaxUUB2S4ecg4ms7Y0-huFIouNfAdhd-Elke6-IHxVWvCx_EB-BfPsmz1qlmmyt3ebsaJam0Tw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJaNSZ_W1njgRMRMriG9qwXA",
+         "plus_code" : 
+         {
+            "compound_code" : "RH3V+5M Orto Say, Kyrgyzstan",
+            "global_code" : "8JJPRH3V+5M"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJJaNSZ_W1njgRMRMriG9qwXA",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 244
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "305 Айтматова, Bishkek, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.7998848,
+               "lng" : 74.5851349
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.80124112989272,
+                  "lng" : 74.58653707989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.79854147010727,
+                  "lng" : 74.58383742010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Dom-Muzey Chingiza Aytmatova",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103582504325165561633\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbRQ8ImolQ-M28g5eZKnzzz6_rKZ_aTQsZ9kal1n7czM4DhDCGbRAr1Uk769Z_qFFf7fzHfrDs256x4BMS8fUZpEkJct0nSom2rgnT2-mz5TvmUTismVGbytFW_D3lG9Kr66daHKhAusKBdtmcdsWl8-so3WHuYp25X7vkv4fK_Vv9l",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJo6utOnPKnjgRjwlpjLKCdGE",
+         "plus_code" : 
+         {
+            "compound_code" : "QHXP+X3 Bishkek, Kyrgyzstan",
+            "global_code" : "8JJPQHXP+X3"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJo6utOnPKnjgRjwlpjLKCdGE",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 188
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "ул. Карагул Акмат б/н, село Кок-Жар 720000, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.7970708,
+               "lng" : 74.6497097
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.79852357989272,
+                  "lng" : 74.65121942989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.79582392010728,
+                  "lng" : 74.64851977010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Этно-комплекс \"Супара\"",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2184,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117392970335182550910\"\u003eKanat Akaev\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaEdDZ2iqJAYHPUrwW_uZAMfi2uZou6Msv7H-4g-PLjVVyHDrg8Ebqw08eH4AeOFjdypeWb7j42R_qLZYaSCXatJteUK6vay62su6Q6WPUHvQ7RTDvUkwXq-0QSAH-X--Ys01Ld-dctv82gFUTNkifJV0o3dBv64828HkTT1z6xpmOW",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJCSbOilC0njgRUH1BnunpWbk",
+         "plus_code" : 
+         {
+            "compound_code" : "QJWX+RV Kok Jar, Kyrgyzstan",
+            "global_code" : "8JJPQJWX+RV"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJCSbOilC0njgRUH1BnunpWbk",
+         "types" : 
+         [
+            "restaurant",
+            "museum",
+            "park",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2658
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "F9QR+PJP, Karakol, Kyrgyzstan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.4893619,
+               "lng" : 78.3915851
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.49062537989272,
+                  "lng" : 78.39280192989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.48792572010728,
+                  "lng" : 78.39010227010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Karakol Historical Museum",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 3472,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103850771512991033116\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJboxPDits42L9uz6F1Ibiapf7R9Q2gJsVqFER6bzvDYIHINZzr2h0gUEN2ja1_Rv2TcTOuVyuxsZVI4SBC53mW4kC6GBiQ87UWvlTx5qXPwbclp8hY8J1DJCbEYE5yxgioMWRoKQmQZDXlam9rp_UVCDGs9U7yfblLOND0hGNR-d10Z",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJix0KDfNbhjgRiXjnmB6cnhQ",
+         "rating" : 4.6,
+         "reference" : "ChIJix0KDfNbhjgRiXjnmB6cnhQ",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 277
+      }
+   ],
+   "status" : "OK"
+}

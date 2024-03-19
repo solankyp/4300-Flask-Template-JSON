@@ -1,0 +1,1251 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZyBMLh0wkmBNor6mUpSzVMwfWOilu7Ko4NXLme1qlfrQbVLMiYhDYhwXy2TQ5j2nrySOyDOcMy8ONpK1oXvBc6eR5bjgquAeGCv4G3HwKm6MKdVnuvp0c-rzfl5eh9JVGsJUo3jlPq4ZuKQ5joH2pDGRLTVdkguhlg0BJzH3exE1piMWOwtUvX6uqoaWuXbrFcMbcjUinYpBT7rLZuEOa_RwHFPc7GgMCvWsvEB4AEfIlK7MUn7UkUkRtVYHI3G1OdvYIY29GX7MUQg7fx4_7aABWHCFiXC0EXF2_0lchDBeJk4kfXLpwwAiDwg_V6qH8B66Qi6GtJcOpRHnxpmK31b0nWIAZky62961B8AaK3ua5FVmLXJGK879WVQzZO8rXbaF3Ap-aTsXfzkx-oz8vy-gJU",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via dei Benci, 3, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7673579,
+               "lng" : 11.2591717
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.76871252989272,
+                  "lng" : 11.26055827989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76601287010728,
+                  "lng" : 11.25785862010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "La Buchetta Food & Wine Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118180886121956292964\"\u003eShirley Zheng\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZS1d4Ue1Eq6f3TpUkmmPRmMhvFDjEXQ1EX4g4i9teyThBjSj8qbqGyTGRqMtkxRYN7NiRmOgW0DucsEECL6iXoxuW20baBCHOfBymY16cNlkMCPeB1PKjY2aYkk1xS3mGHdD5lDAb3g9mzRHzyIsGqY8Gq4hh3wNh03Yiu45_gIz5B",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0fkUXwdUKhMRCqaOlYGPSGU",
+         "plus_code" : 
+         {
+            "compound_code" : "Q785+WM Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ785+WM"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ0fkUXwdUKhMRCqaOlYGPSGU",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2185
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Guelfa, 58/R, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.77749300000001,
+               "lng" : 11.255332
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77882557989272,
+                  "lng" : 11.25671277989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77612592010728,
+                  "lng" : 11.25401312010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Il Vezzo",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114538299028997698516\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYTxj1yOh935seiZPk90-0pv7gs8fa7KYxsYYh8P88g1W2HkTrzjspdAC6bPvEf5jRqRoeIMoS7Q9buHUFMEjs3FVnOGvKZn-XOE1K26ev9kI_n6fLcuFEhBCR-AWbBR2b_CnZNSE_BfYJegul_X-9bYK4XFhJkdeLxb28mO_Zu64oj",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJkzJr1hxUKhMRunUidQoV0mk",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7G4+X4 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7G4+X4"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJkzJr1hxUKhMRunUidQoV0mk",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1256
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via del Canto dei Nelli, 30/r, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7752749,
+               "lng" : 11.2531467
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77660347989272,
+                  "lng" : 11.25452397989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77390382010728,
+                  "lng" : 11.25182432010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Le Cappelle Medicee Restorante",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108590983547496050236\"\u003eNatalja Simina\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZBWI5NDuJzY1ZFXdbYbbpcE6wXcRMukiXGPHEZg_5FymZ6MFju345oyN2x-XHf6QPKdSEdv6qllghi2ECmBVQcR0pbAdGkWZiNUdMz4sfVK9PYTpQjfSSielSgJBToNRjArED00yNLxcm5U0jM2YV52-0v4FcqIdVui5Pafe-UtpND",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJXYp9f0VVKhMRDozRML_0_9Q",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7G3+47 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7G3+47"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJXYp9f0VVKhMRDozRML_0_9Q",
+         "types" : 
+         [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2090
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via delle Terme, 14R, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7697614,
+               "lng" : 11.2529178
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77112942989272,
+                  "lng" : 11.25424557989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76842977010728,
+                  "lng" : 11.25154592010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cantinetta delle Terme",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 12000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108382571215944657720\"\u003eGaia Amante\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYzM3k7CcohwByKKUlrIR7fpkonsiDlqtxhVt-3W22Vkb34RP5r3OizYHdumenjPsJxTdAeH3ZXYrpuc7u6MjQ4eBM6__YCp0iNsPGTZ5tidAx7npu7WmHNUzNQ72p9LvuQCIv7eZg-LyMAfYqYqWBPP1rZ-LTJkM6iJvOb1wjf7-k7",
+               "width" : 9000
+            }
+         ],
+         "place_id" : "ChIJpzc5KgBUKhMRfhas3WzTeYE",
+         "plus_code" : 
+         {
+            "compound_code" : "Q793+W5 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ793+W5"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJpzc5KgBUKhMRfhas3WzTeYE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 673
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via del Corso, 42, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7715313,
+               "lng" : 11.2562742
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77286562989272,
+                  "lng" : 11.25760302989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77016597010728,
+                  "lng" : 11.25490337010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ristorante Romantico il Paiolo",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 5076,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100020636848178426755\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbPsZgekkZn0n7F6ywlOGYNX8iIh4S8g5JSWO3K2y-tnWU9yT3Wn2I0Sjl3inkm4kwhPRPUZrGdmouknXKmdP_KFG8j2m4QMTkiXATZGltNXO35yuL7u3BnqX-qXYx_ZgOJwTOCh19tc8aslIa7Q8sufcyP7VU5RMkfkwF32WL53FqM",
+               "width" : 7536
+            }
+         ],
+         "place_id" : "ChIJb_zWaAFUKhMRgPiXYFGzDR0",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7C4+JG Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7C4+JG"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJb_zWaAFUKhMRgPiXYFGzDR0",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2661
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Guelfa, 138/R, 50129 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7790298,
+               "lng" : 11.2517652
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.78029822989272,
+                  "lng" : 11.25305542989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77759857010727,
+                  "lng" : 11.25035577010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Osteria Vecchio Cancello",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 844,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113748723545560697707\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbib_3AGQ5hsuwnFwp9gYWztnTPlTxC5qlRyPQElbPEF7iY_BNr9ZenPfVt3258EgpRaVe5AZGtPa-34Ll7ZTMwxeWYgjosCrbLGsShbU0rNJJ9bhwfZdpQycfg_lYVhtxDH0JN1p8YTKGQMtopFIuzWI1xdapmI8VQ5W4f4nhbGrFF",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJEe99u6dWKhMRIRa6LD6q-B8",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7H2+JP Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7H2+JP"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJEe99u6dWKhMRIRa6LD6q-B8",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1673
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Santo Spirito, 64r, 50125 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.76903919999999,
+               "lng" : 11.2468281
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77039872989272,
+                  "lng" : 11.24812707989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76769907010727,
+                  "lng" : 11.24542742010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Il Santo Bevitore",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106783906026145455054\"\u003eFilippo Bastianello\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbqNcTbkfp4FrKgUyxksibJXvCI8g04vRTHogeOyVGO1OLMfz9zsudAlk35qbwT3XCwprOQS0dQto-o5rIpTNBLBJf04qdKVihznkTL-Dkv4fVyz1rJIHJnVV2cJ9RoyfmHyTnBE_IiDcga-cWeDqUf7v3xkGa6G8xGZAeeLiItwqhV",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJWdMUV6tWKhMROxsW3gM8GNA",
+         "plus_code" : 
+         {
+            "compound_code" : "Q69W+JP Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ69W+JP"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJWdMUV6tWKhMROxsW3gM8GNA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1718
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via dell' Oriuolo, 53, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7724942,
+               "lng" : 11.2581126
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77387667989272,
+                  "lng" : 11.25946902989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77117702010727,
+                  "lng" : 11.25676937010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Lo Scudo Ristorante Firenze",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107899362436580722604\"\u003ebambi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYq9jAnsAggYyIFKZD8YKjf0Jbphzj_affzTbZjEB6yadFU32ZAMzhOIKEH6dV7shSp_zB3ghhmnWL8LQLbjjh3IdujAun9oUPY9mfxziDtMsKYr9i7EuZSrV-1xI5xrE1ec2SpHRKCiy_DT8i26P87x2uJFq01HjQEXRVEQnBxNOaG",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJHYhoBgRUKhMRI-NwWLZ54Jk",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7C5+X6 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7C5+X6"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJHYhoBgRUKhMRI-NwWLZ54Jk",
+         "types" : 
+         [
+            "restaurant",
+            "meal_takeaway",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1047
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via dei Georgofili, 11R, 50100 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7684462,
+               "lng" : 11.2548416
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.76979947989271,
+                  "lng" : 11.25618082989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76709982010727,
+                  "lng" : 11.25348117010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ora d'Aria",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2756,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106196686108445822779\"\u003eRistorante Ora D&#39;aria\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJazH0YRkY-uBNmD4Bk7807TKEzeog5orGt0KHI94L8_VMBf48N2cMnJ_3-TxnsLlWxFGu4g1XZUFQrc3Mx4VyQVFxa72M_ETtzTvxx5ZvO8_37GcYWQwOszF6Gg8opHUBQmpok9bnPAIewz61PYAdEHxLuwi-mjHtty7wfjcHIIfD5S",
+               "width" : 4134
+            }
+         ],
+         "place_id" : "ChIJ_b9uZABUKhMRJLP3Z3XkJDk",
+         "plus_code" : 
+         {
+            "compound_code" : "Q793+9W Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ793+9W"
+         },
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "ChIJ_b9uZABUKhMRJLP3Z3XkJDk",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 400
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Borgo Pinti, 10/18R, 50121 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.772102,
+               "lng" : 11.26222
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77345662989273,
+                  "lng" : 11.26350597989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77075697010728,
+                  "lng" : 11.26080632010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "La Giostra",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 5411,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100346703496728534172\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ8_vGJC2ojdCOgmQqvyynydhb7xwN6s_UEbcm4d8pqJm5wlBUiQrNZC4qCfRkbAtv_U_B90efYsLNvZu6id1H9A52q_-IB_JSyWdKjSpKNn-hg0sJskDq7SbSLchJKoL_eeMQ4H9oaVCry99uMDE0jdsY6XoXJjDP65qgJRierdLkI",
+               "width" : 8117
+            }
+         ],
+         "place_id" : "ChIJt9Hy2AVUKhMRfaoxnj4MUDA",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7C6+RV Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7C6+RV"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJt9Hy2AVUKhMRfaoxnj4MUDA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1970
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Giuseppe Verdi, 12/R, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7696005,
+               "lng" : 11.2611496
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77096197989272,
+                  "lng" : 11.26246622989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76826232010728,
+                  "lng" : 11.25976657010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Trattoria Verdi Firenze",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107080361176354695818\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbKtpxPlS3FCXBXT1qWorWkHe6wFhHrVCtESOW6iEXJYRp1VjdxAt_fQ9DwRQNKayjTOB1ElRrqN84XQBY0MUuFj8ukkSvjm4fkJbrupfrhdFz0wQz4Oqq3Z6old2bxF9ENfZbdRngxSJvUqJqq9NdgAYxGFoQ-zUpf1LPhlceoOAfO",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQXs4GF5VKhMRuOF4Un05irY",
+         "plus_code" : 
+         {
+            "compound_code" : "Q796+RF Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ796+RF"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJQXs4GF5VKhMRuOF4Un05irY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 806
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lungarno degli Archibusieri, 8, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7682102,
+               "lng" : 11.2543118
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.76952867989272,
+                  "lng" : 11.25569707989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76682902010727,
+                  "lng" : 11.25299742010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Trattoria Ponte Vecchio",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117350262816348655291\"\u003e문경성\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaiEQ_LLqKJNclp65Fe2svR0LDBej-mgiG03-uS8Hc_Wf7ZCt_-ITiBrFKSOAUHbYPjuolN9rAHL4eyw6wBJo_an5YJlgz2sPDGUzo8uzEy4gyHFY3OcZTBj3HY-c91185bE8LMImcaodXq-LYVDTyh2q2_M_rEBEff6xizY2sF_-wy",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJZ7bcoqpWKhMRkmX_O_9rYus",
+         "plus_code" : 
+         {
+            "compound_code" : "Q793+7P Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ793+7P"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJZ7bcoqpWKhMRkmX_O_9rYus",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1357
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via dei Magazzini, 3/r, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7700901,
+               "lng" : 11.2568157
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77146667989273,
+                  "lng" : 11.25814677989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76876702010728,
+                  "lng" : 11.25544712010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Vini e Vecchi Sapori",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100597332068818645454\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJazHE_PdtwZ4fIIh9vq679RSSG5-_TqZm0Lukcwz_8kt6_4_0su3eD8XQ-yas6IYcUQ8vKRNAqE0PZ1v4vrPlL6zmnU1dZsAFXzDACV4-uWVFY3M-jz1Rlm71W_5IQuMENyOzkt1eFzan_43MEr4vekPhvneUNlqd4pJLR8OTIuq0g9",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJAfLFIwFUKhMRmv-jS9sjRb8",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7C4+2P Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7C4+2P"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJAfLFIwFUKhMRmv-jS9sjRb8",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1181
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piazza dell'Olio, 15/r, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7732242,
+               "lng" : 11.254045
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77456792989272,
+                  "lng" : 11.25539017989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77186827010728,
+                  "lng" : 11.25269052010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Osteria Nuvoli",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112686765064288803587\"\u003e冠灝黃\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY2zD7f7F8ouDjyCBCMgwdeHuSBZoaEPhwBD1s58fCzi8KedSGm-4qkyduF6YBedNbHUiPxzkuPeQ4QQH0_mNy497HRAiYxxfRhOTqgsXlUWzhOzapEXXIJm0XkjVvKKLfe7uK_5_tf1WNXLColshpBS8ESXKWd3Eot0F_udVBL3jl4",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJqQPOIwJUKhMRNnGRlsiV-os",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7F3+7J Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7F3+7J"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJqQPOIwJUKhMRNnGRlsiV-os",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1768
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Borgo Pinti, 99, 50121 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7769717,
+               "lng" : 11.2661726
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77833837989272,
+                  "lng" : 11.26768542989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77563872010727,
+                  "lng" : 11.26498577010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Il Palagio",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 822,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114247032184063224295\"\u003eMike Hiwaymann\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbReqC27K8noBI-wbXLaauOew47A1wWHwr5rhSEoUAuH35XYavRPDkCsMFhbgfzaOSPIOxh3JI33Srl1DldV6ZFuCsOWUr-Yn26sYlzbTGLezbLhfaBiyXzrlG7SIU5fnh1aA8jfywPNEcn19OZxz_vOaRwkouQbTqHgZi8VohJn0OK",
+               "width" : 1772
+            }
+         ],
+         "place_id" : "ChIJeQnHJxBUKhMRX5S3veq0ZXw",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7G8+QF Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7G8+QF"
+         },
+         "price_level" : 4,
+         "rating" : 4.5,
+         "reference" : "ChIJeQnHJxBUKhMRX5S3veq0ZXw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 244
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Borgo San Lorenzo, Piazza di San Lorenzo, 53R, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7745535,
+               "lng" : 11.2548257
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77613887989272,
+                  "lng" : 11.25632782989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77343922010728,
+                  "lng" : 11.25362817010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Trattoria San Lorenzo Firenze",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109313034713657787246\"\u003eLee Minett\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYtQkeiGNzZp0C4aYFd3LOk95b1U_94xrQtD-B0TIpyblTC31ZQgPoqTmJmqwyH3dAr4nELaTS7uff4y8z6qEeaF9Pz9QWw0OqICl-38gsfR8S-BfMGg3MfLLz-m0vuHRL1uvzQNwd5uA_0WjrMfhiw39jQiJ7Vim2O_pV4F_htwOzR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJl54VVAJUKhMR8CH77zUGvqs",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7F3+RW Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7F3+RW"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJl54VVAJUKhMR8CH77zUGvqs",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1956
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via delle Terme, 51 / r, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7699692,
+               "lng" : 11.2519533
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77133787989272,
+                  "lng" : 11.25332857989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76863822010728,
+                  "lng" : 11.25062892010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ristorante Oliviero 1962",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 807,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117916196147799746617\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZb8hxmsgmV1HtKuZJbThjhqol_KWyd5-tDd28g5QW4yV7p1STG9Fd6GTW0XhGPjFjnXbm_3sAK0ey7-EMFr602CkSzGLpCKRS1BuDLd8tc5sJniP2LaF03DvWM55oHjb7248h4AFXrXtRvC81FGNQb_Q7QKs0s-1bBNWBh1E0DAS21",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ_w8MhKpWKhMRSA8A-h6cW4c",
+         "plus_code" : 
+         {
+            "compound_code" : "Q792+XQ Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ792+XQ"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJ_w8MhKpWKhMRSA8A-h6cW4c",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1713
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viale Rosselli Fratelli, 50144 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7789535,
+               "lng" : 11.2422811
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.78027752989272,
+                  "lng" : 11.24365942989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.77757787010727,
+                  "lng" : 11.24095977010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ristorante Indiano Haveli Firenze - Indian Restaurant in Florence",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2362,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110652097438721955649\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbHTooYjntjYwuxfQWHV0inKmDJ1n6z2u7g2Cxj9Qp7UyPbzeFuuBdeXxVl3g3c4o7ted00Nl0FfIiZ9Quq6J4fRkwT6_U8T6DsZQKXebvFZXbtaEG2qPBQTlJtXbSVxhirlDac-WmPPGUDMiMu4WafWt8X3kc_f4UGfYQ2WAz6EeOv",
+               "width" : 3544
+            }
+         ],
+         "place_id" : "ChIJU3DWXKVWKhMR0awDP6P-OL8",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6HR+HW Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ6HR+HW"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJU3DWXKVWKhMR0awDP6P-OL8",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1517
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Via Ghibellina, 147/r, 50122 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.770487,
+               "lng" : 11.258963
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77185832989272,
+                  "lng" : 11.26038577989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76915867010727,
+                  "lng" : 11.25768612010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Il Gatto e la Volpe | Florence",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101300541379738162336\"\u003eFabrizio D&#39;Alessandro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZKyUKxw1uaGCEDbgCjPkUpstg5Obj7uKAiwjEqPbs9hLHGoDNC-TBIX05aNCecZXVVdjKjMeXSpFDEADK7gN8uJHvjGsOkXIeYZUUmhnqshL2IOGl36SUFkKrqBZUIhi3tQvAQD1Xi-UTW7xZRVJBvPmloRkeeNArKIiFk2Hh5z6O-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJW0FYzwZUKhMRCt2Lh6PD98c",
+         "plus_code" : 
+         {
+            "compound_code" : "Q7C5+5H Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ7C5+5H"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJW0FYzwZUKhMRCt2Lh6PD98c",
+         "types" : 
+         [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2121
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lungarno Corsini, 2A, 50123 Firenze FI, Italy",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.76974269999999,
+               "lng" : 11.2503177
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.77105522989272,
+                  "lng" : 11.25166502989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.76835557010727,
+                  "lng" : 11.24896537010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Foody Farm Florence",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1335,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100459589534033092430\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbmobSrruJFAJvSrONUu-j1Bq47-mJrTT_tSBfI4GlRD7rywZkiZJSGWe2Z9M4O3R2MiGo1ecthhhA7nM9P5gRr53dfl-dvfhFBjoT1m_jp-TEmqtKJZRLFXJWR31ItNwyGIvwzIX4Hgwr_84EvaLcvIOfBaGnpFEKOhWS1DjQTNbNH",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJpckFfwdUKhMRB2_mjowtXE4",
+         "plus_code" : 
+         {
+            "compound_code" : "Q792+V4 Florence, Metropolitan City of Florence, Italy",
+            "global_code" : "8FMHQ792+V4"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJpckFfwdUKhMRB2_mjowtXE4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2055
+      }
+   ],
+   "status" : "OK"
+}

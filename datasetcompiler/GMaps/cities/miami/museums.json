@@ -1,0 +1,1234 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJadyGGGDcmESnrZkGA5LPy-ypQyvlVa7lKhaEUx0-MEll91pqdFMW0Z-GP-NEpedTwnYW6WZNsvLgRhI4cGqwBkUvMnDm6XGJz0MGGeiC98eiZpTH8ywVevoVCX9HKResXZRB7Tc9pEqfItdW9tSLiC3BciB2L27Y91EKeO3xN1z5ohTAfNATTcW6aEIK53bqNXUvRb-t-_hs2RY9R4GbbZ058Tvflpk82crERedGxxPMwZnC_1da1_zxR72f-Xiybhu7AkezDaEzYq4gEdZ91RNmxY-lawyJ6_lPvKw9bqnhzW1T2UDLuk0yohS8kMkH0sDdsRrl6llVqgj14gz6LNZEDT-26G1icCDZ8gAyv2eNu9R0_oRj985-ggfLbPw4qEHvzU1_MEbAkHpI4",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1103 Biscayne Blvd, Miami, FL 33132, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7859307,
+               "lng" : -80.1861912
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.78713187989272,
+                  "lng" : -80.1854332701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.78443222010728,
+                  "lng" : -80.18813292989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Pérez Art Museum Miami",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106219284965396829113\"\u003eSantiago Jiménez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ4UFa8MESGOyynaid5WD5QLoTLUlMtZlsUQ1YAVzhXNO48c1LZWifQNsFs83RCPbMkfccs-9YaF22T65Quy5exhq5Qlz-JD8UmAB_3AXE7NKkoI6x24V2r0RW6VLjRgdyO4sh-nSDxH-7cxvXKjWxDBN9vTTe5a2XkJ2FWSC2lfHgL",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJAUUpLJq22YgRAU604E8-tsM",
+         "plus_code" : 
+         {
+            "compound_code" : "QRP7+9G Miami, Florida",
+            "global_code" : "76QXQRP7+9G"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJAUUpLJq22YgRAU604E8-tsM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6640
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "101 W Flagler St, Miami, FL 33130, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7746635,
+               "lng" : -80.196383
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.77572582989272,
+                  "lng" : -80.19531957010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.77302617010728,
+                  "lng" : -80.19801922989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "HistoryMiami Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1942,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114743789443397993049\"\u003eErich Herrera\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZZv6Brh81rJJZPS6aJrec8Kegmi4sX2dAdIrasv6wBGax-9-ipPbSfb6QqDooEuCF2KPgP1fH21o_NIVr3ee1qS3f2g-mCbpe-Ue3dt2uePUAggRB39-UxXEkRcaspgWMeULOgaPiIORuYo-ei3_p8yOyrFGTLoBFc269TyBG_2wy8",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJg8qVGJq22YgRgnRfn3-HvOY",
+         "plus_code" : 
+         {
+            "compound_code" : "QRF3+VC Miami, Florida",
+            "global_code" : "76QXQRF3+VC"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJg8qVGJq22YgRgnRfn3-HvOY",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 988
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1101 Biscayne Blvd, Miami, FL 33132, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7852621,
+               "lng" : -80.18788979999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.78661192989272,
+                  "lng" : -80.18653997010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.78391227010727,
+                  "lng" : -80.18923962989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Phillip & Patricia Frost Museum of Science",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1687,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101744019974429472507\"\u003ePatricia and Phillip Frost Museum of Science\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa6avi3mnQp1_513Al4QQ9wSWguaC5K4CCV2h0ee2WIJl1k--G-5hnd-o0ewZWyMlOwh1xf6KpXOC-xVcPZBWXmrKmI_E3InWyUZL5SceJYyOgaeZNsgzJ7HITayAQhinrP0fEiB2cNGuPV5hyaHGhnAGaNtBYXJ6N8fF4j5xpbH5U",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJab3yr6C22YgRdh8TY4oVu_w",
+         "plus_code" : 
+         {
+            "compound_code" : "QRP6+4R Miami, Florida",
+            "global_code" : "76QXQRP6+4R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJab3yr6C22YgRdh8TY4oVu_w",
+         "types" : 
+         [
+            "aquarium",
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7492
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "61 NE 41st St, Miami, FL 33137, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.8143335,
+               "lng" : -80.19425220000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.81559342989272,
+                  "lng" : -80.19285282010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.81289377010728,
+                  "lng" : -80.19555247989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Institute of Contemporary Art, Miami",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1667,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114779199494142472356\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaifzfuSz8tQ7EP47L8L281b65f-QfFIMg9EYon1TfFfn5rQlFigqje0hDoN4dRgHRNnm7UYzokTKXShdAYEL-6Led4BAVpNRS3rQWe45S6uKatGPmWJ6ciCuUlAI1D_vKtQDCsKMkF7rMAV8vd7T42xa_vNZtp5gxhBBdJdcEWOue_",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJP_TMP1ex2YgR4S9TDvJAO2M",
+         "plus_code" : 
+         {
+            "compound_code" : "RR74+P7 Miami, Florida",
+            "global_code" : "76QXRR74+P7"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJP_TMP1ex2YgR4S9TDvJAO2M",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 948
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3251 S Miami Ave, Miami, FL 33129, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7443866,
+               "lng" : -80.21047469999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.7485575,
+                  "lng" : -80.20920892010726
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.7429963,
+                  "lng" : -80.21190857989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Vizcaya Museum & Gardens",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114112078808915325520\"\u003eLawrence Hwang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZlh38lRu8ZKnb1EZBLrmSQ6m5by9zlidiJIXwaxEDpn5ZSRlcjZl91teb55rVA_Kqgd2a1E6pa9BaqMFFGVXPOII0KDAaGE5tV5ibtaflaE3iPIKie8q0Z8JFh3PYZ0rSP03TqNghBOvLd8CeyZVdMNTKdV9m5cXB0jWhKjtve1CtO",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJE5jqT1222YgR4STdDoStYPg",
+         "plus_code" : 
+         {
+            "compound_code" : "PQVQ+QR Miami, Florida",
+            "global_code" : "76QXPQVQ+QR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJE5jqT1222YgR4STdDoStYPg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12538
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "980 MacArthur Cswy, Miami, FL 33132, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7846994,
+               "lng" : -80.1765206
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.78572527989272,
+                  "lng" : -80.17522762010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.78302562010727,
+                  "lng" : -80.17792727989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Miami Children's Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110446230346301521847\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ_nTCUxjPHESPkK36Un8g-Ef8tOPqYewC0C9PJ9u9AdJIMgOS7q0VrV-r9aQCWQqZZYrI5pSnWZV226YxxxCTQymEyOL6_oRuGlehkvMgC8WEfb7uZ4pEj0nbb6HXuqksvXLCwBq37dIs1SOOnLDEGDouBKJRjy6kVWPVwj3AP1s-R",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoVWX_Rm02YgRllHsIZGN16c",
+         "plus_code" : 
+         {
+            "compound_code" : "QRMF+V9 Miami, Florida",
+            "global_code" : "76QXQRMF+V9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJoVWX_Rm02YgRllHsIZGN16c",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3507
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2100 Collins Ave, Miami Beach, FL 33139, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7975668,
+               "lng" : -80.1301297
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.79899167989272,
+                  "lng" : -80.12879067010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.79629202010728,
+                  "lng" : -80.13149032989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Bass",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115849136845003359414\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbJlGK-6C6iHUOyNSSk-rFVp7AvnYFCi_ArlAsjbMfFe8wIi5EW6c5Dl67iz9BBvzqmVC042kPcAA9mZ3_lXKbC-PmCZAFfVM4NP8HX7h9TPG-OF3neXP6fEGAzR259_r3XYs2dVgCI8WtZVCMAP77DV0TnYnNU1NdEflDdHMF1X7l2",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJVUQKVZy02YgRGA6_hGKlCQY",
+         "plus_code" : 
+         {
+            "compound_code" : "QVX9+2W Miami Beach, Florida",
+            "global_code" : "76QXQVX9+2W"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVUQKVZy02YgRGA6_hGKlCQY",
+         "types" : 
+         [
+            "cafe",
+            "tourist_attraction",
+            "book_store",
+            "store",
+            "museum",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 697
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1001 Washington Ave, Miami Beach, FL 33139, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7809378,
+               "lng" : -80.13259560000002
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.78228057989272,
+                  "lng" : -80.13122862010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.77958092010728,
+                  "lng" : -80.13392827989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Wolfsonian-Florida International University",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2988,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107923502653528886029\"\u003eHelios Otero\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY0DTzXMHmbtA-JFVcWMKqIRCjBrvM9iOtuovXbRXAXE6sUkG6cdHEt3TjBMXRcueLHi1YsQYc5bG1U6S8Y2NYc4bGm6cla6bJv1kIyK5TGRATQjWC3YJpKaDhmQ303kLBPK1lXyAxnPkxzREnYQDsLnMr86EEUIEShv4fmIvPGoYY",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJbc2H7Y202YgRVhPBmVBr_bs",
+         "plus_code" : 
+         {
+            "compound_code" : "QVJ9+92 Miami Beach, Florida",
+            "global_code" : "76QXQVJ9+92"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJbc2H7Y202YgRVhPBmVBr_bs",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 649
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "276 NW 26th St, Miami, FL 33127, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.801198,
+               "lng" : -80.200649
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.80228722989272,
+                  "lng" : -80.19947327010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.79958757010728,
+                  "lng" : -80.20217292989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Graffiti",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3025,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100379274590680145485\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZHqcC7n6JgIVJYr9YG9W-8N-jufbC7sJLYlylpLRsX7_wyOpCAc-9ZoJ99m4J8amRLUXic99vfftLBOLur3pbEl9OF0ofM9IcFziCN4RiP0AxUQyis1zhYhZSunrONqcybSp9NeThGkvObCzKUEAJ3TwqvdSfxsmxfYhsCBSSzaTcH",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJLak3qiC32YgRLgUwpvrqlzc",
+         "plus_code" : 
+         {
+            "compound_code" : "RQ2X+FP Miami, Florida",
+            "global_code" : "76QXRQ2X+FP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJLak3qiC32YgRLgUwpvrqlzc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 392
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10975 SW 17th St, Miami, FL 33199, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7537048,
+               "lng" : -80.3730592
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.75490512989272,
+                  "lng" : -80.37161287010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.75220547010728,
+                  "lng" : -80.37431252989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Patricia and Phillip Frost Art Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2927,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112933021553837130569\"\u003eThe Patricia &amp; Phillip Frost Art Museum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaunYvJWSDbxeazMPFRDO0WJhOT84dZvpcM7_av0tQtayGVWlmtfX9D-ebMIuxRltzMu7y__QM5zOJQqbuL8A6fERBXR7onLOPVJnYt-dUdNzQfXPuJhx98dpaLmJ4sPDHRVgO5qX9E9za1kCbH4ZA3ao07ZC2FoQkkpz6Bh4d8ag-x",
+               "width" : 4390
+            }
+         ],
+         "place_id" : "ChIJNbZeEjG_2YgRFD1TjUzJeBY",
+         "plus_code" : 
+         {
+            "compound_code" : "QJ3G+FQ Miami, Florida",
+            "global_code" : "76QXQJ3G+FQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJNbZeEjG_2YgRFD1TjUzJeBY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 656
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1101 NW 23rd St, Miami, FL 33127, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7991925,
+               "lng" : -80.2138844
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.80046007989272,
+                  "lng" : -80.21252082010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.79776042010728,
+                  "lng" : -80.21522047989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Superblue Miami",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104908663986853886005\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYJ5ZbbWw4xNm1mr5vtIruV4y-ustuI2xzbFcy3XTWMj_AeHr0OhjEp5NJNJSvXKtSgAvRIp6OCstM16l8iXiD5uAirgLxssRNrYeVXOIRhd0U6bqsM54OkCBy0GSVmkStUD9fYlDrqM5RvDwf6elr8go7tvIqysg21B_e3_epy74Te",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJqU2oA4m32YgRYwF5JdM4I38",
+         "plus_code" : 
+         {
+            "compound_code" : "QQXP+MC Miami, Florida",
+            "global_code" : "76QXQQXP+MC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJqU2oA4m32YgRYwF5JdM4I38",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2716
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2516 NW 2nd Ave, Miami, FL 33127, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.8010178,
+               "lng" : -80.1993841
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.80247857989272,
+                  "lng" : -80.198346
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.79977892010728,
+                  "lng" : -80.20137759999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Wynwood Walls",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103046580905239758609\"\u003ePABLO MUÑOZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZcROeFSYaQE4YQfuB9b3Xmw8mMBx_-Wn4tW0EowU8zVnCY7HHsnKuRyLINIU-6obErVOKpCWYP25jgsdYh7FV6xOnvI-btm-hqYhYp5VuLM7Z8nhdD09QtKvZlwcngn6J3pIJXKtf1en4xbXnkb1Zv8j3NPVYipVj2_ELpS1Z484T4",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ98BffLK22YgRsymdIvOgjNA",
+         "plus_code" : 
+         {
+            "compound_code" : "RR22+C6 Miami, Florida",
+            "global_code" : "76QXRR22+C6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ98BffLK22YgRsymdIvOgjNA",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 42088
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "770 NE 125th St, North Miami, FL 33161, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.8900078,
+               "lng" : -80.1829918
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.89155217989272,
+                  "lng" : -80.18160867010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.88885252010727,
+                  "lng" : -80.18430832989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Contemporary Art North Miami",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116089954124520833243\"\u003eLuis Gallo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfPqC2BBwSQg1WSgQHeV7w2H4W40WTy36HXGgrcLdmq1B4gRsFd8BmTbxhb2Nyd2s8FklCFzc24-39i2SV3SteCWoqH-nNybxqm9xRa_fzORyXKOhtSf0u5kzWXEqs00DIIe0MXq_xqUazKzddd9Fe4mVO5U3vWELDy8m0ncs0UYr4",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJh-FG6QOy2YgR7rTiNiAFokg",
+         "plus_code" : 
+         {
+            "compound_code" : "VRR8+2R North Miami, Florida",
+            "global_code" : "76QXVRR8+2R"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJh-FG6QOy2YgR7rTiNiAFokg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 541
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "28655 S Dixie Hwy, Homestead, FL 33033, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.5006559,
+               "lng" : -80.44446219999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.50172922989272,
+                  "lng" : -80.44335512010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.49902957010728,
+                  "lng" : -80.44605477989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Coral Castle",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 750,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109166804427733942024\"\u003eKenny M. Pacheco\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbL3br-3B--yhz9ez8IN_XAY2KXT8ZLCgg4qDrOGXDWrp0FfuIM4bx09aNVODQ1vk3x6mP9VgDzP9JmMZu6XA3tmEuPmuiaJvF1yWVwU3W9f5n_p6sUIHtZKUqyNAKp_LOVhtz8PWWo7pXUu59sFdU_EWp9hbJ4Kmox7KlaTIcWA8qD",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJJTjxenrd2YgRmQ9YjR2nXNw",
+         "plus_code" : 
+         {
+            "compound_code" : "GH24+76 Homestead, Florida",
+            "global_code" : "76QXGH24+76"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJJTjxenrd2YgRmQ9YjR2nXNw",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3616
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "301 Washington Ave, Miami Beach, FL 33139, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7725289,
+               "lng" : -80.13439
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.77389287989272,
+                  "lng" : -80.13311657010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.77119322010728,
+                  "lng" : -80.13581622989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Jewish Museum of Florida-FIU",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113349198941278261898\"\u003efrancis leung\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZLzlzspqDFJ-xvjNy2QhYfCHa1T4E8vnfOkCk5PT5kvmYl3eyRG9fWqJqJwXdxzYaNxtIxxJPhTb4uVVyhX36LodiwqPJMWx3QY22MGNcEb0R-azikyBXdB7kwEhjzNsLq8ur3mGUWjhefNTGw981Th5TYX3O9DDwHe7mYrma5Kp7I",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJveywtPO02YgREa3fTMjqsOM",
+         "plus_code" : 
+         {
+            "compound_code" : "QVF8+26 Miami Beach, Florida",
+            "global_code" : "76QXQVF8+26"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJveywtPO02YgREa3fTMjqsOM",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 398
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "12450 SW 152nd St, Miami, FL 33177, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.6170921,
+               "lng" : -80.40063479999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.61836522989272,
+                  "lng" : -80.39884772010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.61566557010727,
+                  "lng" : -80.40154737989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Gold Coast Railroad Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100634015227876341429\"\u003eThiago Russo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbqOrhW7M_WXPRIfE6tc_pLht0vWVMfus_MRSgkSJDooZElJqgU74nHNa0wy_1kq4jh295DsTsT6VTXNgFaVw7SdABbKZfArRTsKX4j1QrWjFuExkmWVfmkat2uaX3mtKV_gHFzkHTitTnc60D3To_0oO4c_mmFg_KPbOMScZXuG60v",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_fPLlNHD2YgRs1uJWWnkfyM",
+         "plus_code" : 
+         {
+            "compound_code" : "JH8X+RP Miami, Florida",
+            "global_code" : "76QXJH8X+RP"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ_fPLlNHD2YgRs1uJWWnkfyM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 998
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4141 NE 2nd Ave #105C, Miami, FL 33137, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.8146082,
+               "lng" : -80.19034359999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.81606907989272,
+                  "lng" : -80.18906467010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.81336942010728,
+                  "lng" : -80.19176432989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Haitian Heritage Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109381385969664775560\"\u003eSergio Gil\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbXrbnszYsQ_w6bcQ3ebtgqsG0CgUqt3skZrp9ebominigFk078UsL1O75IZHLIiWHTc39c9iXyELw-w2hR1UWtbADjHydaJkVBN7aRZP8DT5KL4F8b9K-dHpBg_-XxLT-VASFy2zwOGa09r3tCwWY6MPOWog7SQo9wn-YGYkOtEbjZ",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJG9J9cVex2YgRbeUvDGOUXtk",
+         "plus_code" : 
+         {
+            "compound_code" : "RR75+RV Miami, Florida",
+            "global_code" : "76QXRR75+RV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJG9J9cVex2YgRbeUvDGOUXtk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 73
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "14710 SW 128th St, Miami, FL 33196, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.6502093,
+               "lng" : -80.4337013
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.65150032989272,
+                  "lng" : -80.43242077010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.64880067010728,
+                  "lng" : -80.43512042989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Wings Over Miami Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100102947516171372471\"\u003eAdam Cook\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbFyPZxYU9Q8nPeZ8txaj8l33RYCdD9ZOePisb_hnw1DKUyBRkq3Wxa6Xfk65LYYBu1q1wpxqPfTgkvuYt69GrESJxE5nwpDq9yhcx99LHGpaoCnBASpeSXjJOFL0A2XnVyeAlQ24jKikWt3P-HMEMD3TfCo2jtxtjSRXBh3xUNAXoZ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJDYWoVevB2YgRXaoiHmFZb9Y",
+         "plus_code" : 
+         {
+            "compound_code" : "MH28+2C Miami, Florida",
+            "global_code" : "76QXMH28+2C"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJDYWoVevB2YgRXaoiHmFZb9Y",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 264
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "591 NW 27th St, Miami, FL 33127, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.8020104,
+               "lng" : -80.204942
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.80326037989272,
+                  "lng" : -80.20355062010726
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.80056072010727,
+                  "lng" : -80.20625027989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Margulies Collection at the WAREhOUSE",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115464965499534343712\"\u003eChris Michos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa5d8bZjI288VCj6YlDANIiFcA780-_sAqbVtXWNXinqfgUWmJiTJ6ONl8NLMQGUmkMPxc2V7GSIiSbCdsm5SXAPJST9dT6ux3fs7gHgzfAnwEMcbC6ur0tzh3RabLBnTlQsJi7FB-rPT3e1F2kQZolGdIxckPcRzwIke1zShY9FjwG",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4UbHh7S22YgRtvbEqRsT18I",
+         "plus_code" : 
+         {
+            "compound_code" : "RQ2W+R2 Miami, Florida",
+            "global_code" : "76QXRQ2W+R2"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ4UbHh7S22YgRtvbEqRsT18I",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 139
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "285 Aragon Ave, Coral Gables, FL 33134, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 25.7505393,
+               "lng" : -80.2602801
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 25.75180032989272,
+                  "lng" : -80.25897257010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 25.74910067010727,
+                  "lng" : -80.26167222989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Coral Gables Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 480,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115863675073187512437\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaZkZYt2G5NSuQMbtRCYSvNsY8XXMZfyGtbw0r4IKWM5a1Xmgafaql55noEwaakyp9pXt_wKtThZYW1KGUINWgUceHbUVMhKh1c9ZVVGdtmXHGK5NzNQWy-0VO_AjZL26o5awWts6-0HirFMIJqxKjACaQBPRzXCRpIfhnUXmvMeFBk",
+               "width" : 780
+            }
+         ],
+         "place_id" : "ChIJpfo_G5q32YgRUADWEMdHrZo",
+         "plus_code" : 
+         {
+            "compound_code" : "QP2Q+6V Coral Gables, Florida",
+            "global_code" : "76QXQP2Q+6V"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJpfo_G5q32YgRUADWEMdHrZo",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 352
+      }
+   ],
+   "status" : "OK"
+}

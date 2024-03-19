@@ -1,0 +1,1204 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZCkMhFwTPA33li8uCsbDd_XP0xSXL2t_7NSCAkpSruUzRDceTgak1H2JExFZwU5hy4HKt8PIh-J_U0A4PPkKYQtkHuXKIswOWHQxWKQe4Ubsgf3kGEupnMe1UXpebTzVO5OzKkZm9bM7pox4-1hvZ0TeYBmAPXcSmAPC9zqYLfX20V-hH7Ra0YioHiUDDWkRyNl4t3eLjk-Pz1tHfxFiDJFSL3XeOYsk7cTXmakjNSnlnr1nJ8-KF7hyoYymj91TO_-OS_y0gGcLaap77mijOet86pNKyJpMO_pmGAqOTMCcK9njJzIHjopeKPE07SP8MRhtLIoGNPgPXpKDkYj3-k7J7m7_uyEXfI-PiR50dKLFNmspXaGZlbqprFSZyXFAAnUtXxNucgr6uYjjk",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "43 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1898198,
+               "lng" : 44.5178462
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.19108957989272,
+                  "lng" : 44.51931077989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18838992010728,
+                  "lng" : 44.51661112010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "8 Yerevan",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ_V0pSE85ImgRnoB8OlukcDU",
+         "plus_code" : 
+         {
+            "compound_code" : "5GQ9+W4 Yerevan, Armenia",
+            "global_code" : "8HG65GQ9+W4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_V0pSE85ImgRnoB8OlukcDU",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6/2 Northern Ave, Yerevan 0001, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1827246,
+               "lng" : 44.51473980000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18419792989273,
+                  "lng" : 44.51610787989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18149827010728,
+                  "lng" : 44.51340822010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Tashir Street Shopping Centre",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103735156873526875996\"\u003eVardan Papikyan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbOX-ld8jlLeNDII8jpWlPVeGSGnTUlhqTRUEQFLJ8FRhD5PK39jUKXlEWMCitX8Jr6o88nvn0IzYoTyN2ANslykpgzik-NFksOdFsxjyVJLQXXBslXuPu2U0TlIFOfPdWE9XajY0v8q-ghnduMgmIYcc9gvX-gweJY6YBJskQeGXp0",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJrxiHD-O8akAR6d0EGWykUfw",
+         "plus_code" : 
+         {
+            "compound_code" : "5GM7+3V Yerevan, Armenia",
+            "global_code" : "8HG65GM7+3V"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJrxiHD-O8akAR6d0EGWykUfw",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 226
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Avan, Charenc 10/11, Yerevan 0060, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.2153506,
+               "lng" : 44.5848525
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.21672357989272,
+                  "lng" : 44.58612077989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.21402392010727,
+                  "lng" : 44.58342112010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "StudioOnlyFor",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2047,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116266729738424114968\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaX7vSiGEyd9OIUPAnB8c2HgVZFoihiLXMBO17Sf9g-m4CVTrG4NDE4wqeiX0Qlcgxe7Wh-vj7cCNAhrmjVW0yV31E_byJaDS1m6id85z7Pg-pIDb0J-wJSB0YQY7-ADysVEvClo6UCibVyq1VjgaL0BZtBT5MCt9DFOm-3MNHd_xx3",
+               "width" : 1365
+            }
+         ],
+         "place_id" : "ChIJJwOVbOajakARXXhVCs12VYM",
+         "plus_code" : 
+         {
+            "compound_code" : "6H8M+4W Yerevan, Armenia",
+            "global_code" : "8HG66H8M+4W"
+         },
+         "rating" : 0,
+         "reference" : "ChIJJwOVbOajakARXXhVCs12VYM",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "22, 10 Isahakyan St, Yerevan, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1862068,
+               "lng" : 44.5216354
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18752012989273,
+                  "lng" : 44.52303857989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18482047010728,
+                  "lng" : 44.52033892010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Metronome Shopping Center",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3008,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108029723002289694405\"\u003eGegham Hovhannisyan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYKh7_QSwaeRZx55beKhfY6cJJkgfP59G4SZMB8c9A3tmgHriLVXevUGILRqhCIxFZZrtWs4gor_-t9SZh6zE010lBJOE64haCiSWlyydyqj73DguzYiGb5RRTarUa2Mxqf25QT5LHyplGzmtSUW-TUENLhuoGY1pCf1FKj4QeZL7Iz",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJs6KOYPW8akARm7L2pJgPqbM",
+         "plus_code" : 
+         {
+            "compound_code" : "5GPC+FM Yerevan, Armenia",
+            "global_code" : "8HG65GPC+FM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJs6KOYPW8akARm7L2pJgPqbM",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 199
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5 Sayat-Nova Ave, Yerevan 0001, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1857187,
+               "lng" : 44.51688499999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18702302989272,
+                  "lng" : 44.51814847989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18432337010728,
+                  "lng" : 44.51544882010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "5concept",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 799,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109501635789896388177\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZM7ISlTyhCn7csJrwwUEGtdx-9LsH3B8GouDcCIRT3eh1MRz1EhieeHR3UrDzF-xCCAM71Slps5_Mi46sCKQyuO_S6ak8xRaCFgT8u8RIPjhMN2k6aa5lKCroBu_gCN6GDi_UPzWrTXqIUO5BDTaJOdPBmpOFFFOyUk3CUnv2B-5tL",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ6Y9SeOG8akARGSsEmMmTUQU",
+         "plus_code" : 
+         {
+            "compound_code" : "5GP8+7Q Yerevan, Armenia",
+            "global_code" : "8HG65GP8+7Q"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ6Y9SeOG8akARGSsEmMmTUQU",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Yerevan Province, Yerevan, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1872023,
+               "lng" : 44.515209
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18852917989272,
+                  "lng" : 44.51651392989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18582952010728,
+                  "lng" : 44.51381427010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Online Shop",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1426,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116044073159427947166\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbQuy9pAvvossSx7khRNxnulX2eFhCuxUH2sq2mmihPEztvv-oR7xBQ6u6B896R6RzkIy_oC-phw010Vkdx2lO6J4O_6Gf7JFyGn8Gf4epoQYvVbwz8fxi_5DvGer88LNQHHN8U0u1s7TBsaIUIiFYEEXDYYEOf9GTDUH_EZJpj25yJ",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJ14RSNsS9akARIEWHQ-sw4R8",
+         "plus_code" : 
+         {
+            "compound_code" : "5GP8+V3 Yerevan, Armenia",
+            "global_code" : "8HG65GP8+V3"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ14RSNsS9akARIEWHQ-sw4R8",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "34 Arshakunyats Ave, Yerevan 0026, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1552728,
+               "lng" : 44.4998312
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.15650557989272,
+                  "lng" : 44.50145627989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.15380592010728,
+                  "lng" : 44.49875662010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Yerevan Mall",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113220770513520592999\"\u003eYerevan Mall\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZIJgnB1jm0KGVRPBgcgcCtAns8MTZde4yiWQJKO-N-cfhUaHejoaj0fEWgm_6CegWNjpHdH7VWy9t4nfOoLCWNL489G6rAKxN9mtAi_vjKDoCAoOWlDsiPBC7d5J6ckwfITb23Ru6Yo9etJss9cjZMvDK_UaloPO79cunCDHFXvVR-",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJgxN8TRG8akARV2SSPTrBjPc",
+         "plus_code" : 
+         {
+            "compound_code" : "5F4X+4W Yerevan, Armenia",
+            "global_code" : "8HG65F4X+4W"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJgxN8TRG8akARV2SSPTrBjPc",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1399
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5 Mesrop Mashtots Ave, Yerevan 0015, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1783333,
+               "lng" : 44.5041667
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.17963762989272,
+                  "lng" : 44.50546157989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.17693797010728,
+                  "lng" : 44.50276192010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+         "name" : "Yerevan City",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2250,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117294662101033706542\"\u003eЕвгений С\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYv7M3iF1pL5NA5gLPJU0h2SfSs9tqxVie2xZuAm02ImivjrqnMVY14dnfRvcjWf6NyQhjGBu1uNwpE4vxXOagKEMWW_kkgzoXJbGC8bBQQpdha9s7-mVE4FkI-0dh8NsN0fi_fFD3LHAnonhQ6Ox2Cp-Ti2fELurYHDyVyAvnxm8IL",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJoei5Ef-8akAR8Rb6wKSvDEQ",
+         "plus_code" : 
+         {
+            "compound_code" : "5GH3+8M Yerevan, Armenia",
+            "global_code" : "8HG65GH3+8M"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJoei5Ef-8akAR8Rb6wKSvDEQ",
+         "types" : 
+         [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 667
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5 Northern Ave, Yerevan 0001, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1815012,
+               "lng" : 44.514604
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18276632989273,
+                  "lng" : 44.51598767989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18006667010728,
+                  "lng" : 44.51328802010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Tashir Underground Shopping Mall",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115454006936459025662\"\u003eAtsuki T\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZb9rL90szzChqhQrhflZC2kK1iJhlOzxyxOG6fC8EIK_4L64WnLo1ieRNIW05XdHx3qeSwJrV50LXlDuRlQHkD_KTaF2YA0vS3Qj2NkTl7FdZzCBtTvG7lyA90cyYJnc2TTlBDlo8xvRQGecCFPY3TCjdP8dMkOx53PhflLRi9S_11",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJrYGfVfu8akARnFO2qKPFbFQ",
+         "plus_code" : 
+         {
+            "compound_code" : "5GJ7+JR Yerevan, Armenia",
+            "global_code" : "8HG65GJ7+JR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJrYGfVfu8akARnFO2qKPFbFQ",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3 Northern Ave, Yerevan 0001, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1833401,
+               "lng" : 44.5158369
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18474977989272,
+                  "lng" : 44.51725937989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18205012010728,
+                  "lng" : 44.51455972010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "LaGalleria Luxury Boutiques",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2969,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117936615113093569586\"\u003eS Grigorian\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbpzArpMahM6X7QxkK-ni8hs5Q1_OsI6e43WN6NfbPHpVm_JAg5enQPJCkS2tqpREtGVlAJBDV3ljGyp-kcgYSfGTsdMrLVECZWQR_dreyW7uKbiVDVhkqszr7nWdwzVNMljgqvAssZrVj1L6QMBZb9P-1egE8Nzg9qLuBd88jhLf97",
+               "width" : 3959
+            }
+         ],
+         "place_id" : "ChIJMazPcuO8akARqMR_d-SX0Ik",
+         "plus_code" : 
+         {
+            "compound_code" : "5GM8+88 Yerevan, Armenia",
+            "global_code" : "8HG65GM8+88"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJMazPcuO8akARqMR_d-SX0Ik",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shopping Gallery, Northern avenue 6/2 Tashir Street, Yerevan 0001, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1827917,
+               "lng" : 44.5147441
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18414152989273,
+                  "lng" : 44.51609392989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18144187010729,
+                  "lng" : 44.51339427010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Note Mote gift shop",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105395298303155285370\"\u003eYasik Rukavishnikov\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYPBoIbINrc5t8b9qoP6OJy9P9Uacttoi90DWMOBDqxQ2h-7iGQQgwu9Z8tsNv-gy2Qj2Eu-TaUZmibREjOfTTx0tZgJJ8LTDW37mmWcN0Fznuaf8HWX4YlYuXpFsyw36vRYTxKrH1b4w4nF2gZpSGlonqbNYlEugHrgGOQnuFlSPIh",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJD84zt9i9akARleA3pM_p9yg",
+         "plus_code" : 
+         {
+            "compound_code" : "5GM7+4V Yerevan, Armenia",
+            "global_code" : "8HG65GM7+4V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJD84zt9i9akARleA3pM_p9yg",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 289
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Yervand Kochar St, Yerevan 0014, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1725473,
+               "lng" : 44.5176591
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.17357482989271,
+                  "lng" : 44.51939977989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.17087517010727,
+                  "lng" : 44.51670012010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Skate.am",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114306775316790605493\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbmP0cy1ABy-cujRUOv6SunXJ40F-SBggrv-Om5lWVN_t_uHWUcha5TJTswyHTmDjF9gsiW23hjP__n_yxAHXYq8wdHsX33cP_PfF1rnYwFf2gbBDJUypMY5OfIhSS0d0olBU778YA9MyJppQKWv3oO3RCEwSvotjcC_OVVLaIeuZ4r",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJF2qGT8C9akARcz1UkuKePgE",
+         "plus_code" : 
+         {
+            "compound_code" : "5GF9+23 Yerevan, Armenia",
+            "global_code" : "8HG65GF9+23"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJF2qGT8C9akARcz1UkuKePgE",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "16 Tigran Mets Ave, Yerevan, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1719623,
+               "lng" : 44.5132446
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.17329502989273,
+                  "lng" : 44.51480157989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.17059537010728,
+                  "lng" : 44.51210192010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Real Store",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104614662845010994210\"\u003eReal Store\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb6LTKUs6wVUPGF8wFWR_79T_AAyshZXu5hIWtRo8xihstmcGumZP2pU59guxDPb_mbSnozpg_gTh2IilE0RD4R5JGZwbTcKzA0EJxQbtw4Wdzgqso65ubUxI74tkLBd--d_uZa1m09A7W7SY2cShW5u2WpNbSTI3RtULeGkLalyDOT",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJUylAoli8akARBdYNBzynYWI",
+         "plus_code" : 
+         {
+            "compound_code" : "5GC7+Q7 Yerevan, Armenia",
+            "global_code" : "8HG65GC7+Q7"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJUylAoli8akARBdYNBzynYWI",
+         "types" : 
+         [
+            "clothing_store",
+            "shoe_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "12 Abovyan St, Yerevan 0010, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.18097059999999,
+               "lng" : 44.5159589
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18237072989272,
+                  "lng" : 44.51723317989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.17967107010728,
+                  "lng" : 44.51453352010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Dalan Souvenir Store",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110319926700842597821\"\u003eTanios Hokayem\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZP_V0Yk7LEv2dD9yQwAICmGKXQFvW3YUypkUG7mBgM3dz-eiDA7ZBTBL-zxbRgkOvyAXeXa7OSrLgrcgWiQCwPcbQSvv7dBMlAJHe-w2uBcnJGlC3Wpu6g5IP6ab9TgJ8CjBampV1Se0thgJXytN9yt0w9DN7gjBT-bB0OfIK6MPEC",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJUdd5Nfu8akARuU1wMZEcTqE",
+         "plus_code" : 
+         {
+            "compound_code" : "5GJ8+99 Yerevan, Armenia",
+            "global_code" : "8HG65GJ8+99"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJUdd5Nfu8akARuU1wMZEcTqE",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "16 Tigran Mets Ave, Yerevan 0010, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1717716,
+               "lng" : 44.5132286
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.17310402989272,
+                  "lng" : 44.51464457989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.17040437010728,
+                  "lng" : 44.51194492010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Rossia Mall",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107027372436100240198\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbC4NUR9YFhC3eGaw2JKVHCtEDxIhKYukqvoEauLOLQ4oxHIxiyl7A13B2p9vgfy17MAzMJQWrsw1w25ODGPx3vbmG1nn37P3siBOZ5Y5n4WwCQIRGVyrIRHHWJ8aS6LSQ-sJTvFu68cbwjL0tuIr_vfeYlS5KGr9v3Z7TtQxKHg1ir",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJH_9Voli8akARt9NdG0oj1vw",
+         "plus_code" : 
+         {
+            "compound_code" : "5GC7+P5 Yerevan, Armenia",
+            "global_code" : "8HG65GC7+P5"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJH_9Voli8akARt9NdG0oj1vw",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 909
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "17 Mesrop Mashtots Ave, Yerevan 0002, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1828635,
+               "lng" : 44.5095786
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18413202989272,
+                  "lng" : 44.51104612989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18143237010728,
+                  "lng" : 44.50834647010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Oh lala boutique yerevan",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103799337575729038894\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZprkZ9Cg6uMec5V3oHpGTlJeDj-OI6MYZODn49-UPGkC1uwjN0FM_RWIqd-5NZBWYGuL-x0QR4tTALmt3pXacwAHkW1-_A-3MlW1E_4m4-ksEhY2KXIRJ_xP7r4uPfkhRAIZ9caNvbqM4O6qO2h3SyPFzC4Uw4Ula68DBHSP2LY6tK",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJS85KIZu9akAR7hckax1S20c",
+         "plus_code" : 
+         {
+            "compound_code" : "5GM5+4R Yerevan, Armenia",
+            "global_code" : "8HG65GM5+4R"
+         },
+         "rating" : 5,
+         "reference" : "ChIJS85KIZu9akAR7hckax1S20c",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8 Northern Ave, Yerevan 0001, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.18249429999999,
+               "lng" : 44.5145389
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18407982989272,
+                  "lng" : 44.51600522989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18138017010727,
+                  "lng" : 44.51330557010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Rio Galleria",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112597400415056135263\"\u003eDigital Enforced\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaqIXl-auEOHBwZ6RJljX8PxZanmsnIYribkW6XHE_-MbjYn7pYfvQiEinxHq3qZsupgPS5DqWeAuWUl_ouduVxxWaaDiDxZtAiMtF_ZDt1awq0VNQlwGnKDeuYZg9IYOI1BZarfDWl1ErQIX70yacnF1KTgYZJbhizytaah5N0ckO0",
+               "width" : 5333
+            }
+         ],
+         "place_id" : "ChIJlTm-T-O8akARXVdULBCqphY",
+         "plus_code" : 
+         {
+            "compound_code" : "5GJ7+XR Yerevan, Armenia",
+            "global_code" : "8HG65GJ7+XR"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJlTm-T-O8akARXVdULBCqphY",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4 Pushkin St, Yerevan 0010, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1804882,
+               "lng" : 44.5163647
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18170247989273,
+                  "lng" : 44.51756042989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.17900282010729,
+                  "lng" : 44.51486077010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Bazaar Concept Store",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105877214930523398113\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb395P33DqV35xVPLujff5qrYBa7jXjOzzcy04S2_fWxHEXaUgCKj8n1-z8ZH3NdFzErUIcynwjqLi7md47x4ni5SrSEaVxmRVR9noZq2I_jp7ksp6ZL1joBvIewgCTkfzWcw_ZzQhZ2VY_JVCpV6VHSwuFBZK1K8pjUqJaLnw4MD99",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJockrbKK9akAR5ImXPANXs6I",
+         "plus_code" : 
+         {
+            "compound_code" : "5GJ8+5G Yerevan, Armenia",
+            "global_code" : "8HG65GJ8+5G"
+         },
+         "rating" : 0,
+         "reference" : "ChIJockrbKK9akAR5ImXPANXs6I",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5GH6+9QM, Yerevan, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1784696,
+               "lng" : 44.5119147
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.17981942989272,
+                  "lng" : 44.51326452989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.17711977010728,
+                  "lng" : 44.51056487010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Eraz",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1011,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114715378816551802370\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaOunLQuc__NW4-iH6hxzAqCt0kd8RK2gBGCgRS8Y7uhrkRALJvDrVf-xV6YAq5adgOwfCCrVp-U9nP32TPv2VcLH7lu9P7GVH2BZGeta2wNUjIxSe9_SBMvwTGsmejdsuw4Tt3kRraqNLN0Hi89o-UnvgMYRhx7wvTuy_IbhBhWIe8",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJtQ9k_Qa9akARlwVrrWb1B3s",
+         "rating" : 5,
+         "reference" : "ChIJtQ9k_Qa9akARlwVrrWb1B3s",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "60 Pushkin St, Yerevan 0002, Armenia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.1855242,
+               "lng" : 44.5091628
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.18677082989272,
+                  "lng" : 44.51038672989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.18407117010727,
+                  "lng" : 44.50768707010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Market",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101606631844092469785\"\u003eNarek Shukian\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYRozuTgXpXBHqPXaEcLHrzOo4kMZqBv6A1Qpdz-6y-iRv0JcfdW_2HSTt26aMBNLl1ayQftU_Mq2FCO4IhqjkY0-NfBAosl7Ub7UcsHix-hukmRlsD-nYAEDR0QtAuBU4bPAFpB8T2EWvAxSB7eXdfq-k-YfVyIQ9ZhkHklCUrTuje",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ96_qOB29akARqXZ6KorzaG8",
+         "plus_code" : 
+         {
+            "compound_code" : "5GP5+6M Yerevan, Armenia",
+            "global_code" : "8HG65GP5+6M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ96_qOB29akARqXZ6KorzaG8",
+         "types" : 
+         [
+            "department_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1158 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbNarLb6nv40JHd5IwMhx-i8pfeC4o6MEQf6I_1ZA3WRd59Ii0e_mECpYNbWaTVrOPw_XbdjjVTU-XAv_qjaE1DUQZYZvdLXSgGP_PzhOK4qaLizd0a_OzHp7y-SGiyhGBNdb-A8z5w-y_nakpC12g-bWt_sNuSXJaWHEfGPAwGH-ARgFXZxgaNsXbvAvLHML0Xd2P42F5L15YW8owGRhIrhPVfo3poFRBi1i-Tx0PVUj-6mEiH8xQLwlFRqH6Wo5CS86St1Zkl1bB7eeIKrdMmnh2SEtA-EOVSU51kZ__LEm-jh71YHgdJ5OClORWCB4WvgeaWpchdWUjm8uvcszr442zsw3TMxrD5XOdNjAzxcWt2S-OALLHs_ZvmaZOa_Mg7PfxXIWY414Mo7sY",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5399786,
+               "lng" : -149.5686476
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53871527010728,
+                  "lng" : -149.5675172701073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54141492989272,
+                  "lng" : -149.5702169298928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Vaima Shopping Center",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109901568626459401914\"\u003eAlain Leclaire\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ_7dvYFelz0kWAFIdJks52n8i955ZChej_orXrx8tfwGnFQd8rEccdvXOPhpGh6WKfHhKaUk98XO0ZharExJC8MG1qF_l8aOTPdrzy9975X_u66M3ahfZO6OMvNMdlEKAlK7eMvevfF2EPFfZ_lnUcIlloeS2tyXw7f-BEtj7uvImj",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJf4rKoAM6mnYRAcb1mxV9vRM",
+         "plus_code" : 
+         {
+            "compound_code" : "FC6J+2G Papeete, French Polynesia",
+            "global_code" : "53JGFC6J+2G"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJf4rKoAM6mnYRAcb1mxV9vRM",
+         "types" : 
+         [
+            "shopping_mall",
+            "bowling_alley",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 153
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "41236 centre Vaima Papeete Tahiti, 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5404118,
+               "lng" : -149.5685312
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53906197010728,
+                  "lng" : -149.5671813701072
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54176162989272,
+                  "lng" : -149.5698810298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Fenua Shopping Vaima",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJO2x4lNQ7mnYRRHdbrAvlaBA",
+         "plus_code" : 
+         {
+            "compound_code" : "FC5J+RH Papeete, French Polynesia",
+            "global_code" : "53JGFC5J+RH"
+         },
+         "rating" : 0,
+         "reference" : "ChIJO2x4lNQ7mnYRRHdbrAvlaBA",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "41236 Av. Georges Clémenceau, Papeete 98713, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5369743,
+               "lng" : -149.5611908
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53568372010728,
+                  "lng" : -149.5598050201073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.53838337989272,
+                  "lng" : -149.5625046798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Fenua Shopping Mamao",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2998,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101737752374061091452\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZClzmj_ttALoXwDFFPdJVmvXwQclbYhGViJ_3MNi-gFYpPzIRtl5Jx5-ocG0OXKmjXZL2gGFKIVaO8eWSk-ZzQ_NBcsic2DBB0yOzDJ6RBLLyvs54hMANpao51mWHMC6_R67DVpR_oL7kuEZfetylMUsBoZBRMDg4DVvrHYi0ok7l3",
+               "width" : 3928
+            }
+         ],
+         "place_id" : "ChIJCfmrfIA5mnYR5gUYY5znB0c",
+         "plus_code" : 
+         {
+            "compound_code" : "FC7Q+6G Papeete, French Polynesia",
+            "global_code" : "53JGFC7Q+6G"
+         },
+         "rating" : 5,
+         "reference" : "ChIJCfmrfIA5mnYR5gUYY5znB0c",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "FC6M+573, Rue Edouard Ahnne, Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5396541,
+               "lng" : -149.566852
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53826387010728,
+                  "lng" : -149.5654709201073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54096352989272,
+                  "lng" : -149.5681705798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Happy Tahiti",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114265413882980994937\"\u003epegoustine\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ_ixvc7dTCl-dePdugtYX0hZNIB76t5mqZcNNcbY1u9nWbpolK2pB6qmo_NWlSQ3aJ48b7cSDnOBy__b8QudlA2zWIHJTkF6tDnQp6XDkmmJAuKd9HEZ9omU0_dFL7vLVwgrDstitkayPMHAXR0Uq22VU8fYApx_l7YmTRDKWBLsHw",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJ1aXa_gI6mnYRD-_rd14mZI8",
+         "rating" : 4,
+         "reference" : "ChIJ1aXa_gI6mnYRD-_rd14mZI8",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "17 Place Notre Dame PAPEETE, 98713, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5403292,
+               "lng" : -149.5665326
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53901167010727,
+                  "lng" : -149.5651972701073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54171132989272,
+                  "lng" : -149.5678969298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "BOUTIQUE TARAVANA TAHITI",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJoe0sv8E7mnYR_EMFrX9vnlo",
+         "plus_code" : 
+         {
+            "compound_code" : "FC5M+V9 Papeete, French Polynesia",
+            "global_code" : "53JGFC5M+V9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJoe0sv8E7mnYR_EMFrX9vnlo",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Optimum vision et Optical, 6 rue Yves Martin, Papeete Quartier du commerce, à côté de Tahiti Tourisme, Papeete 98713, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.537242,
+               "lng" : -149.567735
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53592327010728,
+                  "lng" : -149.5663908701073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.53862292989272,
+                  "lng" : -149.5690905298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Natural Shop Tahiti",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1921,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107086286586383750888\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJafX6d-OkAS1C-VHiMP0KtcvNa67ib9OZOX-yLLtmS9ciBld5GgcL-hvkRPaPgtLpsubP4Il00ZUX9ToPgEuvdsrveSUnh7-z5jGvL3FZ_V1RELwctvTOqczBQjo3cjH35209m5KlZh9-Ds4bU9vyKTCFfu8vn6Fmeq-8DdjtMvy5TR",
+               "width" : 4192
+            }
+         ],
+         "place_id" : "ChIJfXHPgfE5mnYRbFYbemdLOPw",
+         "plus_code" : 
+         {
+            "compound_code" : "FC7J+4W Papeete, French Polynesia",
+            "global_code" : "53JGFC7J+4W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJfXHPgfE5mnYRbFYbemdLOPw",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "12 Rue Jeanne d'Arc Papeete Tahiti, 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5399468,
+               "lng" : -149.5678976
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53856612010728,
+                  "lng" : -149.5665338701072
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54126577989272,
+                  "lng" : -149.5692335298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "BATIK TAHITI",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4128,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109112440737193858197\"\u003eAlessandro Aureli\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbfFHnibWY3MiPjaT_eqP-m6QGmBv4WIqSx3buI9Dhv1WspIrjpNvndf4UY8UjZH8ouiSpxSN28c3MFH-lSxLMm4vcTJEumVcW3_3G-kRIdDDNjUJj7YkOc4D_xcrDTF_0i12kjmtngntGvCmJQFu2gYx_9adXoFRy1aWan98BwcmKE",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJd2uxNSY7mnYRWl9wYojz1bU",
+         "plus_code" : 
+         {
+            "compound_code" : "FC6J+2R Papeete, French Polynesia",
+            "global_code" : "53JGFC6J+2R"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJd2uxNSY7mnYRWl9wYojz1bU",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "FC6J+8QH, Rue du 22 Septembre 1914, Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5392058,
+               "lng" : -149.5680045
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53780277010728,
+                  "lng" : -149.5666441201073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54050242989272,
+                  "lng" : -149.5693437798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Shop 2000",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1920,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115702279747626224898\"\u003eJimmy Wilkie POETAI-TOOFA\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZCCD95h2E81iOta8YaUhSs9oHY5iqsp4SbvZgy2efC1fyfo2O9u_6DHTmyZsVFWwE69yY_kxUpRchAkpi6cuxGr3wPLy6zoB1YtRARswYimzkAbxyJpIITHImaJjenonPsuGTMDPSPbSmHv03rxeZco5ACsDPDVwbs51tuyhQtxabh",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJA_RTEAM6mnYRt0gBEzR5Q8s",
+         "rating" : 3.7,
+         "reference" : "ChIJA_RTEAM6mnYRt0gBEzR5Q8s",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5300137,
+               "lng" : -149.5574596
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.52863982010728,
+                  "lng" : -149.5561033701073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.53133947989272,
+                  "lng" : -149.5588030298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Madame Soleil",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105012873594626137532\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYqen1O6mLlGfCBWhUBVwYcSVEwC-tNfdLCt5-HKa7iDgT7TtyvH7YaUC0XV--35_5RG6ZoFnfrUs-5MK6zeQeCKI_21iMafek1bw3cteWR2fhgfQwOJbl9ORdXk1LrZkICeP-ORkExryWwePNN0wZ-mTc98XFe-_fD1cwTCzUk6Chu",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJm0e_FeY5mnYRvS3NIpWl4ZQ",
+         "plus_code" : 
+         {
+            "compound_code" : "FCCV+22 Papeete, French Polynesia",
+            "global_code" : "53JGFCCV+22"
+         },
+         "rating" : 4,
+         "reference" : "ChIJm0e_FeY5mnYRvS3NIpWl4ZQ",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "FC5J+VVC, Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5402976,
+               "lng" : -149.5678792
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53898917010727,
+                  "lng" : -149.5665065701073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54168882989272,
+                  "lng" : -149.5692062298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Les Alizes",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108186395468389708833\"\u003eTino Tischler\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY3f_Cp9qsGCcDI_iM3nw7238YPZXmbMq4-ueSnGJJtsQerSpgRFpKlAcpZrzUi8hfR6Yk1sufwLZQrQ_MWXhYyXtIowOd2UEs5vTFFIitnqRW1B9-4tPZLsnovvR5y5D9JBpry9KJB0_umEXOT2VQnsuyXa0GSOad07VE24ma4wNt3",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJ_3H9pQM6mnYRmwqUdael7X0",
+         "rating" : 2.9,
+         "reference" : "ChIJ_3H9pQM6mnYRmwqUdael7X0",
+         "types" : 
+         [
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5387828,
+               "lng" : -149.5608355
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53749807010728,
+                  "lng" : -149.5595448201072
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54019772989272,
+                  "lng" : -149.5622444798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "TIM PAPEETE",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 842,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102228030262261422428\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbFCuvzd28pjJwzNqvLPtyADyn_k4p-nFNWReRSTmErKAwjSjn5bqdWC-fTKgvS8CH1RW1LBl0DTotg2jR2o3DFxA-895fsgzjJzxfpi97ojIjlWHAQIfe66VnZ3gMy2CmBh7TNFHm_5x0PVhNcGdNy1l8Aq6oHKMaQVzrizbSHo1dW",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJD9CH3h07mnYRqVI8pKONP1Q",
+         "plus_code" : 
+         {
+            "compound_code" : "FC6Q+FM Papeete, French Polynesia",
+            "global_code" : "53JGFC6Q+FM"
+         },
+         "rating" : 0,
+         "reference" : "ChIJD9CH3h07mnYRqVI8pKONP1Q",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "FC5J+QQG, Av. du Général de Gaulle, Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.540568,
+               "lng" : -149.5680411
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53918517010727,
+                  "lng" : -149.5667102701073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54188482989272,
+                  "lng" : -149.5694099298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Enjoy Life Tahiti",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107690801173073748197\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYUv1kqLhVWf_KCFg4vTAa-K5QQJY77TYdhvp39vVsgx3syZVt06_BYhkqaaGG57RIHtmvrxFg12ZL0JYcvQ6l9-eC8Sa93CQGvVFM3hQdoDMHGpfPo06FP2s_bvZIVO5jjrklOId_cYygiSPJMOmUxpJR622J0UIhIIGL25ggTTTO0",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJT7fgpAM6mnYRHiNp2hW1pxI",
+         "rating" : 4.2,
+         "reference" : "ChIJT7fgpAM6mnYRHiNp2hW1pxI",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rue du 22 Septembre 1914, Papeete 98713, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5389432,
+               "lng" : -149.5681964
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53765667010727,
+                  "lng" : -149.5668614201073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54035632989272,
+                  "lng" : -149.5695610798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Tahiti Pearl Market",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1093,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101285815582282336792\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYDAhEcys42_8Oj4FPVexKS4tl35F4MhLYbPP8UfJpb--Q2vVDIm_T_v_WBB_EDt3hLTRzXhGe5xQ8t3szCA4DDGwTYP8CpB3rgEhb3TyB35hcAmvAMF4JAz8gOiMJJVuu4W0hIsfsFd6W77rkTAvrA821jjScvcUNDHTTgL4-u09je",
+               "width" : 856
+            }
+         ],
+         "place_id" : "ChIJaeGoMeg7mnYRG1uWeME645w",
+         "plus_code" : 
+         {
+            "compound_code" : "FC6J+CP Papeete, French Polynesia",
+            "global_code" : "53JGFC6J+CP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJaeGoMeg7mnYRG1uWeME645w",
+         "types" : 
+         [
+            "jewelry_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "FC6J+MQ2, Rue Francois Cardella, Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5383808,
+               "lng" : -149.568113
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53705767010728,
+                  "lng" : -149.5667675201072
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.53975732989272,
+                  "lng" : -149.5694671798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sincere",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJkz4LPAM6mnYRTfCugoY2a3A",
+         "rating" : 4,
+         "reference" : "ChIJkz4LPAM6mnYRTfCugoY2a3A",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5373223,
+               "lng" : -149.5672406
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53596632010727,
+                  "lng" : -149.5659337201073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.53866597989272,
+                  "lng" : -149.5686333798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Mihiarii Pearls (EMP1)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115702279747626224898\"\u003eJimmy Wilkie POETAI-TOOFA\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJack5AfhV9MRGG1ml2WpHKFIfkxx0d3Yw5mxSv5l3yz_u11t10KaK0VzPomXYDNAgtlezF6XIjSWYRle6SUeHiReh-WDFXbhH93E1txiKkglWrgB-FK6AdpLkmyq6mcXPd12WNnNwFUeH15NHVCjQRGcc7oUDkwxywCggen8Q2FBezg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJJ4An1Rw6mnYRlaRqUMtcBJU",
+         "plus_code" : 
+         {
+            "compound_code" : "FC7M+34 Papeete, French Polynesia",
+            "global_code" : "53JGFC7M+34"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJJ4An1Rw6mnYRlaRqUMtcBJU",
+         "types" : 
+         [
+            "jewelry_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "91 Av Pomare V, Papeete 98713, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5374855,
+               "lng" : -149.5680073
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53614507010728,
+                  "lng" : -149.5666487701073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.53884472989272,
+                  "lng" : -149.5693484298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Tahia Pearls",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 576,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117365173419344897612\"\u003eteipoarii marurai\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbZm8-C3KazA5w6uRh2TwJJIgZ3spu4nLa4jt98EkEUsevip7LhHjpViiBNmxu-KEKMnoh2dPquLTngk6ImV3B3AFefG_ZP6LPatzbwrzJ5wllIc1NZvBW_sdrZsro3bpZOzj4ocHEXFdhDvRZ9t-2mxnQIFsJEl3wtk7pFqko2vOoa",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJITnmMwM6mnYRZLpno6ARQ2s",
+         "plus_code" : 
+         {
+            "compound_code" : "FC6J+XQ Papeete, French Polynesia",
+            "global_code" : "53JGFC6J+XQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJITnmMwM6mnYRZLpno6ARQ2s",
+         "types" : 
+         [
+            "jewelry_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "25 Rue du Père Collette, Papeete 98713, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5382479,
+               "lng" : -149.5667985
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53690382010728,
+                  "lng" : -149.5653964701073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.53960347989272,
+                  "lng" : -149.5680961298928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Tahiti Pearl Market",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3264,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115677222313479962726\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZWOuJ3N6firaQKY_6zD6VPGBEyOZqQ23ZeT2jxkh69zhPUEALlX17gJ13p2fxH1rEFazKaS7u_Xk2LFLSy0FTJBfhtEruEXKzAf2PTfTZvGtBVshH2HqmJibeLxLx6HwQRIGoMvTdwaUn7jRcFDJMWPgRajdkv7kZ19Vy8p8ESgCa0",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJSwG-3wI6mnYRcWFzHmedHJs",
+         "plus_code" : 
+         {
+            "compound_code" : "FC6M+P7 Papeete, French Polynesia",
+            "global_code" : "53JGFC6M+P7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJSwG-3wI6mnYRcWFzHmedHJs",
+         "types" : 
+         [
+            "jewelry_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 69
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5380457,
+               "lng" : -149.5669184
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53667377010728,
+                  "lng" : -149.5655691701073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.53937342989272,
+                  "lng" : -149.5682688298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Midori Store (Tahiti)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117064179710770008170\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJayz8VxuGhpshGHU1QGxxquszjRn-BjjLoBUaonHXPeDfDDaf3Mu_PSprhxVM4vmjTIMWjWD40gPw1Feoz_5tZWGkepz3J2kLcnmnHg0xMF9EYSEAkW5aHHnzvZc437SH_51Ygx14h3doCfmfe8zZAjki-TghV6WNjZXajHeyBOyFLf",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_cCQFBI7mnYR84ZJiaEVJLs",
+         "plus_code" : 
+         {
+            "compound_code" : "FC6M+Q6 Papeete, French Polynesia",
+            "global_code" : "53JGFC6M+Q6"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ_cCQFBI7mnYR84ZJiaEVJLs",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "FC5J+VF8, Prom. de Nice, Papeete 98714, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5403445,
+               "lng" : -149.5688007
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53883022010728,
+                  "lng" : -149.5675176701073
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54152987989272,
+                  "lng" : -149.5702173298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Fare Tony Center",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113717764088075471122\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYL2GvllDpLh7bFeqm32TPMas6UkL1aXRY-y98lNdrg9OGzRnVMteyW_1t2AKZ9IEba2Ww_f2ko_Vw4J2eO8jkMGs9mfhCGz69c4wP37ld8yRjkiH-E9t4hOa1UBuxgGI74zieUd1sNi7ijsnA0ANfCQr4Gm8-DVU2dM6lXXt-7AtXc",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJh29_nAM6mnYR4UB8XvvIdUw",
+         "rating" : 4.1,
+         "reference" : "ChIJh29_nAM6mnYR4UB8XvvIdUw",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gound Floor, Immeuble Donald Boulevard de la Reine Pōmare IV, Papeete 98713, French Polynesia",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -17.5394673,
+               "lng" : -149.5684
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -17.53808057010728,
+                  "lng" : -149.5671160701072
+               },
+               "southwest" : 
+               {
+                  "lat" : -17.54078022989272,
+                  "lng" : -149.5698157298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Blue Pearl TAHITI \"tahitian black pearls specialist\"",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4608,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106974212064656035790\"\u003eAmpa Laya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaxEZdCOXk-0hIMb2cqVL70YdAT_jTu0YCkdYFjn3uyEvfh6qbZ9ZrQKi7b4TO0wlEe5-82nuMaERrzMqv9Cw-QO-0IVFinsxTmZaJCq8nG8ceoQJaWqdWw4S6pd5ePPXkY8sha1bUmmvFKqx55ul1_G5ItgQNueaWAk7IasuPwYkJ-",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJtwx0DQM6mnYRUN2J7epHqvk",
+         "plus_code" : 
+         {
+            "compound_code" : "FC6J+6J Papeete, French Polynesia",
+            "global_code" : "53JGFC6J+6J"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJtwx0DQM6mnYRUN2J7epHqvk",
+         "types" : 
+         [
+            "jewelry_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      }
+   ],
+   "status" : "OK"
+}

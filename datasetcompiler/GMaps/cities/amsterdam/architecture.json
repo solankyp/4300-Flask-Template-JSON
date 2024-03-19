@@ -1,0 +1,1157 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJb4dHnT_weoQx9JEHOcnFvyHun4v625XmQ4mzXBZQ1xBkegEvCcei_Iy0pwf35t0xdnKfXj0W_ChLG8C5OtcEENWzRDamPFyU4Z4Kh2uZ4DX_vaq-b_1-KXL6W7hqYfhfuk6O9dljWiek1lc4xdJejZEgisVg-8njtwUTWeNjbHsDhqErAloFmaFQ-Y4zeWWBevvPVuzxXEc5wVCO2Hmaz8PnzmWswSsIYaX32Hg-C1vqnNi-svnScunmX35GFXe2QbmjN5GtRqo8H4O1jwquL8FzS0vhh8-YihfVkJ3RWhS-Xc8ZpZDLOucX3BEUoYjkOsmPfS5qf8JYLBc5hkVgh5-d7_Z9hiU58b_Eqw-kdE5f6tbSWevsIYyLhNFUkSjO-q_-0g8QBD0sqtqWEYdY8zhSa-Nj0",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Warmondstraat, 1058 KT Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3545289,
+               "lng" : 4.849551
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.35587842989272,
+                  "lng" : 4.850865229892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.35317877010728,
+                  "lng" : 4.848165570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "King Architecten",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJQcrlCBvixUcRKi1PGv7OUCU",
+         "plus_code" : 
+         {
+            "compound_code" : "9R3X+RR Amsterdam, Netherlands",
+            "global_code" : "9F469R3X+RR"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJQcrlCBvixUcRKi1PGv7OUCU",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Verrijn Stuartweg 14, 1112 AX Diemen, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3320432,
+               "lng" : 4.964016099999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.33339302989272,
+                  "lng" : 4.965365929892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.33069337010728,
+                  "lng" : 4.962666270107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Benthem Crouwel Architects",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2339,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100425988635760456971\"\u003eBenthem Crouwel Architekten BV\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYc2mj16v1kMOfMmNukqT3wKO7Kj6JE_oIZwOk8hZFFbdS6TQoXaryz65vz1M32eIjpK3bT1j_U16-iVh8KMVn-XZwXvWqaJR8mC1z6ZIFHYRulHFcMYZR-q7YH1pFKKVX3Iw6O8kYlJFYB9JNBVGpPtnN-5mYmOhssFU2ijg2-Bz7J",
+               "width" : 3508
+            }
+         ],
+         "place_id" : "ChIJ8-0dVvbhxUcRYzZD2KP7vpc",
+         "plus_code" : 
+         {
+            "compound_code" : "8XJ7+RJ Diemen, Netherlands",
+            "global_code" : "9F468XJ7+RJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ8-0dVvbhxUcRYzZD2KP7vpc",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prins Hendrikkade 600, 1011 VX Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3714069,
+               "lng" : 4.912627200000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.37268402989272,
+                  "lng" : 4.913897429892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36998437010728,
+                  "lng" : 4.911197770107276
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "ARCAM Architecture Centre Amsterdam",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114703067702918420173\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYYm_0_xS0z0xc2NbNKNFYVteyTheKCMIFn_sZN9om9fD6kGS7VXK2Jfoxm6IIoHhzsdwEhrH7pTlrTACt6-L1QvpGSlRL_Cr3lFQz7pHVefbh_GYyhqx2zPqjR0t-64JK20c60VRRhwctIPDVSDwpNJ8zooenEbfmbyiNGg0_dwVJH",
+               "width" : 2700
+            }
+         ],
+         "place_id" : "ChIJhf9SeKQJxkcR0Q-aYeQbhoc",
+         "plus_code" : 
+         {
+            "compound_code" : "9WC7+H3 Amsterdam, Netherlands",
+            "global_code" : "9F469WC7+H3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJhf9SeKQJxkcR0Q-aYeQbhoc",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 244
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Eerste Oosterparkstraat 63h, 1091 GV Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3561364,
+               "lng" : 4.9094093
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.35743642989272,
+                  "lng" : 4.910792029892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.35473677010728,
+                  "lng" : 4.908092370107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "HOP Architecten",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1518,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106970126022332724502\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfW-pPud0YGzluE6g6RdJ8ZpXYQ6OPxX8esBw6F7vIR6J8HWflCaqwOID5EN3T0ItJrvteAAvkMmpq2MaA0jHyqIUz3CimVl1ZEoiKUVvnTR9RG9ULQ5ygsckXL_Kp6_zsAO8Zs9AjnN-kOjOZDQDRPkKrEIz2VFNVr4-9BOx4LA3B",
+               "width" : 2274
+            }
+         ],
+         "place_id" : "ChIJ7VDC8J8JxkcRpLXUSkGshZA",
+         "plus_code" : 
+         {
+            "compound_code" : "9W45+FQ Amsterdam, Netherlands",
+            "global_code" : "9F469W45+FQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7VDC8J8JxkcRpLXUSkGshZA",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Stadhouderskade 113, 1073 AX Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3575628,
+               "lng" : 4.8976105
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.35893012989272,
+                  "lng" : 4.898999229892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.35623047010728,
+                  "lng" : 4.896299570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "UNStudio Amsterdam",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3552,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101119017818982888123\"\u003ePato Safko\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZxTvVA7GQVZujbZim31-RWF6khrI5jmWw2p5Vf5vnPg2g-gfAPj4NZ60JG84FWTZDt77GZHhNGu4SOP5SIe5QknEUGi61fS8C-0Tkp1iLZiq-IZUuLdYzyG296MxOhmZkZ7UTxJ8D3_r3s7YDO90pQdrAQx44br2zslLZbfgmyntqH",
+               "width" : 5526
+            }
+         ],
+         "place_id" : "ChIJn_ZyQZIJxkcRRVL2hMSyDq0",
+         "plus_code" : 
+         {
+            "compound_code" : "9V5X+22 Amsterdam, Netherlands",
+            "global_code" : "9F469V5X+22"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJn_ZyQZIJxkcRRVL2hMSyDq0",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 45
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Oudezijds Achterburgwal 78-A, 1012 DR Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3732621,
+               "lng" : 4.8984616
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.37458532989272,
+                  "lng" : 4.899875479892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.37188567010728,
+                  "lng" : 4.897175820107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Concrete",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3468,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115433785904338857641\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaTJC05Ku6s4_uL3DJ9JbltVhVPq-XY732K8l5U3eF_rApdd7TvhpbCtM04UWlY6bvypoUAbUfa6A8x7PNKr-9CZbzK3eIyHG9nKv-7IEgf-pqqdxLYmoNAuYwQCLO7ds9lS8t5rquqXXXxMzEF2NJ1E2qt8nTQRcEMqVwzbyGpx3w",
+               "width" : 2601
+            }
+         ],
+         "place_id" : "ChIJ0b9cgNsJxkcRItup3ueFCk0",
+         "plus_code" : 
+         {
+            "compound_code" : "9VFX+89 Amsterdam, Netherlands",
+            "global_code" : "9F469VFX+89"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ0b9cgNsJxkcRItup3ueFCk0",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Van Hallstraat 294, 1051 HM Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3788806,
+               "lng" : 4.8722837
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.38022337989271,
+                  "lng" : 4.873663029892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.37752372010727,
+                  "lng" : 4.870963370107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "NL Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117817572564875687964\"\u003eNL Architects\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbK6bi6-7WYF6hPaqC-iFBe1ukAByrcuQR4BUMBFLpwsiezhjMQHFz4rkvCmsJ46XgG0mV3ts6SXRVPuA8-7vpolwpKDlMiV9kQgPkp1O9rYrE265BSp6W9fIxzrzQvgJ2S_zLTYTb54aumTdSF1cZZpqy8qtDoNN7FnKZvQeREyuAe",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ1Wc_kNcJxkcR7jP6WgBzu1A",
+         "plus_code" : 
+         {
+            "compound_code" : "9VHC+GX Amsterdam, Netherlands",
+            "global_code" : "9F469VHC+GX"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ1Wc_kNcJxkcR7jP6WgBzu1A",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Valschermkade 36-D, 1059 CD Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3406439,
+               "lng" : 4.845507200000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.34194877989272,
+                  "lng" : 4.846992129892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.33924912010728,
+                  "lng" : 4.844292470107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Paul de Ruiter Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1199,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115265971963297027078\"\u003eArchitectenbureau Paul de Ruiter B.V.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaZ7JFu7zYKJEPghQ6HoiL4Lht5sarDobqXxdYMleIrkKbe_D-SF28EFXGnJdXapPjbctABiqdcKjLAJrBfwzQb6j9tderjN3hmOORqE9mcgxTbfqLfYqlJrCIhUlUYxAfRkNJyHZEl9Uos6cUE3-R-ZY__8qp1rKnEivq3RgqyC_GD",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ2zjAPfHhxUcR-Zg8C0cWVi8",
+         "plus_code" : 
+         {
+            "compound_code" : "8RRW+75 Amsterdam, Netherlands",
+            "global_code" : "9F468RRW+75"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ2zjAPfHhxUcR-Zg8C0cWVi8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Westerdoksdijk 40, 1013 AE Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3875879,
+               "lng" : 4.8925852
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.38892057989272,
+                  "lng" : 4.893828029892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.38622092010728,
+                  "lng" : 4.891128370107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "BNLA Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2069,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108553912781666047180\"\u003eBloem en Lemstra Architecten\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbh__fsSzEqSm4WZuPrkuBLFTBp8Y5qQiCUbAvscRIfb5Gj_I3GDbTXBUjLE-P-H-a-ixMiTkKiHRqQQr81uuaYI5oKrhinNADaijaCdEZMIx1ZJHK2cdtKg9fGYV3WpHei-N1Qtg_P6CkiiPKCf1A5mQrj41PbBQ1cl1tcpFuK4sRm",
+               "width" : 3103
+            }
+         ],
+         "place_id" : "ChIJ-TiUmZoJxkcR0ncOv3tPL0A",
+         "plus_code" : 
+         {
+            "compound_code" : "9VQV+22 Amsterdam, Netherlands",
+            "global_code" : "9F469VQV+22"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ-TiUmZoJxkcR0ncOv3tPL0A",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pedro de Medinalaan 7, 1086 XK Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3636116,
+               "lng" : 4.978151599999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36506252989272,
+                  "lng" : 4.979164579892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36236287010727,
+                  "lng" : 4.976464920107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "OZ",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118241167679892454139\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJap58Baz91_4I3-slTP7qDbsWXcNddqOrrYX9HH8xbf0WTn3zySgEd8OKAqVhnGxbE6sB_NYWPxfwBxRh0P8kjahqv9T-ozqK_UqlGtBQ42zRLBq9DB7WJqI6Qi299mQaMdWPQ_cAf0Lm8yIBzhvhF4AZvQYQbUkZmXl_uqHzQfbGOj",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJf-4-dcoOxkcRT-HSB5qOHrk",
+         "plus_code" : 
+         {
+            "compound_code" : "9X7H+C7 Amsterdam, Netherlands",
+            "global_code" : "9F469X7H+C7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJf-4-dcoOxkcRT-HSB5qOHrk",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kerkstraat 204, 1017 GV Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.36306889999999,
+               "lng" : 4.890712199999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36443497989272,
+                  "lng" : 4.892066279892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36173532010728,
+                  "lng" : 4.889366620107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Inarchitects bv",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 826,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113325060516763532000\"\u003eMark Hekkert\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJajxlyOaiFnfmjkU2vZp8J57lPKSmzTMZn5F2L7-3PQXOrbdd3zpnGSh8B7UTDx-b-BX9uHmu-lrI5p7BAgvPeT3FPfr4g-3VNp2Isz5R0Tr9AgCmdgNeBJCGjRzQqOr-7W0aY7kxfjDYC3mQnkPYIufD1EHDv4bAUlzjcH-W1wrvDm",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJ14bpQzMIxkcRdHjoKB1BIuA",
+         "plus_code" : 
+         {
+            "compound_code" : "9V7R+67 Amsterdam, Netherlands",
+            "global_code" : "9F469V7R+67"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ14bpQzMIxkcRdHjoKB1BIuA",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Klaprozenweg 75A, 1033 NN Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4057729,
+               "lng" : 4.8922753
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40718267989271,
+                  "lng" : 4.893703579892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40448302010727,
+                  "lng" : 4.891003920107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "de Architekten Cie.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1701,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106827813660260211981\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa3z547Q3HJKD8HZzGtl-TvGlJ9vUPPE-cS7Ld4LwjnJP8slxWRsQiZqIn0bVZR-zqJHoUtrwKcbGgIJSOUR1Baxb2hatVV8NP2Lvt5lIMZg0lf2-BtHrZj0K-LJbofKPJOY9JC-381_5bjYcUrHkZFH35LIjzgdevJjawY_yuJRPZj",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJUVZ1s_wJxkcRebC73qd-teM",
+         "plus_code" : 
+         {
+            "compound_code" : "CV4R+8W Amsterdam, Netherlands",
+            "global_code" : "9F46CV4R+8W"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJUVZ1s_wJxkcRebC73qd-teM",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Wamberg 35, 1083 CW Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3274555,
+               "lng" : 4.886013999999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.32875062989272,
+                  "lng" : 4.887368079892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.32605097010728,
+                  "lng" : 4.884668420107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "VMX Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1208,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110702552813244461560\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa7WR6IHWi2EWKXjvY8Ay4xtF8kTBRd_nPK5x9rihC74PA1d24x6EMySe7tdtCYkSTlUTpSUCv-_BlRBiq7KHj3piVIwU_r4Gq4s_tZe-N9wUKt7kANtAITD0tHKEevFlHw4uQkYjCxQP2F20QnKq-_wL0rFF4WnMop0rE47waxgWwU",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJdd4A3PjhxUcR9AohgbkqkJI",
+         "plus_code" : 
+         {
+            "compound_code" : "8VGP+XC Amsterdam, Netherlands",
+            "global_code" : "9F468VGP+XC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJdd4A3PjhxUcR9AohgbkqkJI",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prinseneiland 7, 1013 LL Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3858124,
+               "lng" : 4.8877122
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.38716092989272,
+                  "lng" : 4.889073179892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.38446127010728,
+                  "lng" : 4.886373520107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Marlies Rohmer Architects & Urbanists",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103096976804891827187\"\u003eMauro Leal Rios\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYEgHU_cW4tQROLR6PqQlSD9Onx4A2vJ-zaR6MWt1kqDOk1yK8TQKnAt3ihqxZYL3z-Xvokj1UnDL-X3KZ1ybkg9ONCth2C2B578eNC3t8Xo7vEfLId-PYN5sVUagyYgVmEdNme4vwmAFPrZpQbn2FjSL5lUTY9iw3mFyHIkqnckfRs",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJgz47EjwJxkcRtzOuQbedK-k",
+         "plus_code" : 
+         {
+            "compound_code" : "9VPQ+83 Amsterdam, Netherlands",
+            "global_code" : "9F469VPQ+83"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJgz47EjwJxkcRtzOuQbedK-k",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cruquiusweg 94 H, 1019 AJ Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3681442,
+               "lng" : 4.951002799999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36952252989273,
+                  "lng" : 4.952327329892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36682287010728,
+                  "lng" : 4.949627670107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Apto Architects B.V.",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100540680670943699027\"\u003eApto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY6F3yF1in6enrVwZx7_eYnIj9kX-tsguSF_Aa_XQG6tar7NYIJBmNADgY6XZcRtOT3yVdnpGGM1ZEyZucggjjS3J5zlffzuNR7wMENON895CZOMGA1fA727rSZ47tP1ozhecK3GZifPkVUIUrdSK5c20zkPaxqbw7j5xYzFIa7tD5R",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJP14syhIJxkcRauEbZRCQqKM",
+         "plus_code" : 
+         {
+            "compound_code" : "9X92+7C Amsterdam, Netherlands",
+            "global_code" : "9F469X92+7C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJP14syhIJxkcRauEbZRCQqKM",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "IJsbaanpad 66E, 1076 CW Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3421129,
+               "lng" : 4.8492449
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.34343522989272,
+                  "lng" : 4.850588579892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.34073557010728,
+                  "lng" : 4.847888920107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Julius Taminiau Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1605,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103135162807006416499\"\u003eJulius Taminiau Architect\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbSPRblt1bDGDHwUCF0W0us_Gohzit52yBUuGw4IEQq-i0aRXlaQvX9K9vrOJigSvuAaAbSSgUB3vUIGdspcfVxsj8Qn5AxS_Xzn5vpjD8CLiCBJ1vHuwYh3PTOZoSOrP1hbnsVFuQbZ_HH0JPIcSHlPEPiTKNESzatjyo4uy88WnHV",
+               "width" : 2856
+            }
+         ],
+         "place_id" : "ChIJw94HEtoJxkcRP6ukEWRk6E8",
+         "plus_code" : 
+         {
+            "compound_code" : "8RRX+RJ Amsterdam, Netherlands",
+            "global_code" : "9F468RRX+RJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw94HEtoJxkcRP6ukEWRk6E8",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ter Gouwstraat 3, 1093 JX Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.359826,
+               "lng" : 4.9314793
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36118587989272,
+                  "lng" : 4.932760879892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.35848622010727,
+                  "lng" : 4.930061220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dok architecten",
+         "photos" : 
+         [
+            {
+               "height" : 638,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117453499348030905659\"\u003eDok architecten\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZhCMObxrg5XX9Q5jWRj-mWaQLO-C6S15TG1fzmaxsBPhGqLIYPBYLaVOrsobR-HjbRlGtbSjPS80fWuAspndFydHJV4r78hGswc2j977sZP0kydXjLYQ6FyS62mqdvXypLq9l1I64iMy1B7mXz4WLcpUP7mtlUDB6xWLHB-72tj9YF",
+               "width" : 638
+            }
+         ],
+         "place_id" : "ChIJ97elRqAJxkcRnjqlKvvKT3A",
+         "plus_code" : 
+         {
+            "compound_code" : "9W5J+WH Amsterdam, Netherlands",
+            "global_code" : "9F469W5J+WH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ97elRqAJxkcRnjqlKvvKT3A",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Veemarkt 219-223, 1019 CK Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.36822799999999,
+               "lng" : 4.9378511
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36958032989271,
+                  "lng" : 4.939441229892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36688067010727,
+                  "lng" : 4.936741570107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Moke Architecten B.V.",
+         "place_id" : "ChIJQ-5ophMJxkcRX78t2-spQ-k",
+         "plus_code" : 
+         {
+            "compound_code" : "9W9Q+74 Amsterdam, Netherlands",
+            "global_code" : "9F469W9Q+74"
+         },
+         "rating" : 5,
+         "reference" : "ChIJQ-5ophMJxkcRX78t2-spQ-k",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tweede Atjehstraat 2a, 1094 LE Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3616917,
+               "lng" : 4.9324423
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36308317989272,
+                  "lng" : 4.933767929892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36038352010727,
+                  "lng" : 4.931068270107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "M3H Architecten",
+         "photos" : 
+         [
+            {
+               "height" : 2000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114674177757542013047\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYgGXafrZyesFbEJ7zKMAZqo_1kSW2W1WEVUDB2JejwATdugae9Ve1iQpyAyfFutGIFfTYIAfxq2ZL0AEXH1qNC0r8_UTbklSah8IuisAdA76oYI7qCPNP912nNylW07j36ZU8nYZvVIEpG9tTHtPhpLFFghzpEqw5ncT8qDtVuryDk",
+               "width" : 2667
+            }
+         ],
+         "place_id" : "ChIJNZx-y-MJxkcRU35cMFCmqX8",
+         "plus_code" : 
+         {
+            "compound_code" : "9W6J+MX Amsterdam, Netherlands",
+            "global_code" : "9F469W6J+MX"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJNZx-y-MJxkcRU35cMFCmqX8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lijnbaansgracht 58a, 1015 GS Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3781554,
+               "lng" : 4.879792699999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.37952152989272,
+                  "lng" : 4.881076979892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.37682187010728,
+                  "lng" : 4.878377320107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Standard Studio - Architect",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1366,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114953059278481167103\"\u003eMarcel Donker\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJagEq5hQd7-z6o33pysLwuyEZbJeft-NGopLW1c1Lyuez6GypVCO-XJDjLwOMoW-tyQc-TDaD3_qGVkZavfz1vXkmmCux-2y-gPns4tra8uIDN6aXDvdUF9reybt78kmWBFD9nIdmY9raXeJfGu2IYzBVA3hE5UoB4oPH89paGitNKm",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJfxQk5OYJxkcRGXTzuYQzPA8",
+         "plus_code" : 
+         {
+            "compound_code" : "9VHH+7W Amsterdam, Netherlands",
+            "global_code" : "9F469VHH+7W"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJfxQk5OYJxkcRGXTzuYQzPA8",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      }
+   ],
+   "status" : "OK"
+}

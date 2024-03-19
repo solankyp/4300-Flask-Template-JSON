@@ -1,0 +1,980 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Özgürlük, 2655. Sk. 43A, 07090 Kepez/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.9143615,
+               "lng" : 30.6806892
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.91574282989272,
+                  "lng" : 30.68210997989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.91304317010728,
+                  "lng" : 30.67941032010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 480,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106681037480495406244\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaYDa4oT7wTvUhTcRAxL9CRCpWFfdXUvMWGl0oPyEG4pNPfthB82a7nRIQmRjZYU4FkAAHM5l3UJ4shGV6J-Z4GdivNUAPdO8eyKQr_Aft4kKosOgVjXedw1VuZBur8HbfCkyDSk5YiXJjYyUSGFcHm5KAtGsfWn59cOcL2gP1RIeIr",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJuYIJg3KPwxQRPxVC92kJrNw",
+         "plus_code" : 
+         {
+            "compound_code" : "WM7J+P7 Kepez, Antalya, Türkiye",
+            "global_code" : "8G8GWM7J+P7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJuYIJg3KPwxQRPxVC92kJrNw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Şirinyalı, Şimşek Apartmanı, 1510. Sk. No:14/A, 07160 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8562435,
+               "lng" : 30.7441403
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.85760562989272,
+                  "lng" : 30.74549827989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.85490597010727,
+                  "lng" : 30.74279862010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Skull Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118113664809927306334\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYLL9IBd62Cla5m7uK-jgqcBKi_2a8_JWtDRzEY-RY57FJooovgaiZDX3MCk9LseJC124HfG2ZxxBaJ6A6aPVPnlXcGPtRR6BNUZX25hCrzMre3ZWCaNHaRGJu8uciZslLk3VCeSu1gij_EQS64hYIQ8wcSuObRGiPYmC4Z8TKXXTe6",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJtarqhgubwxQRWATbaiEtMX0",
+         "plus_code" : 
+         {
+            "compound_code" : "VP4V+FM Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVP4V+FM"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJtarqhgubwxQRWATbaiEtMX0",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 692
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Yeşilbahçe, Çiçek site, 07000 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8732304,
+               "lng" : 30.7170056
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.87456367989272,
+                  "lng" : 30.71824687989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.87186402010728,
+                  "lng" : 30.71554722010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "OLD STREET",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2976,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117527868845148767958\"\u003eHasan İsik\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYCTdHcvtj3KB762prboUsqmvZONA3JeiJR2_0O0Kihel57CqRlePlkRvwiYN2Me7djlNVxkM2f5_L-FT-maFzROBney3wIF0Xh3h-GNy6RojHPrEApI4LL3IkdkbkjDaRQcPM9ZMSicQiqAVy3LaBmIImIx3ZetY4Gyrqd232kFbRc",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJM_u2b5ibwxQR5OjQdOwsouo",
+         "plus_code" : 
+         {
+            "compound_code" : "VPF8+7R Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVPF8+7R"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJM_u2b5ibwxQR5OjQdOwsouo",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 23
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Çaybaşı, Ali Çetinkaya Cd. 102 B, 07100 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.888585,
+               "lng" : 30.718362
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.88999152989272,
+                  "lng" : 30.71945942989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.88729187010728,
+                  "lng" : 30.71675977010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118363063608963887845\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYm1CztK9bJxV-iCK2JDwTbClta_kZTdZj89xTq3L4ImHT4VceGqcXw67Texmx0HlnhuDvV73kNyUuC8wY1sNwpKcBQpIUEMcxCfzUso0FMYXEekj6v3oQ_zy_3cOonlkBIZAZeQY6K_n1v1EQ3Iqp41rsyld3qvWA-Js3u8dUTtOuk",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJL2vZ8diFwxQR_HYnuzglBhw",
+         "plus_code" : 
+         {
+            "compound_code" : "VPQ9+C8 Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVPQ9+C8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJL2vZ8diFwxQR_HYnuzglBhw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kültür, 3816. Sk. No:16, 07090 Kepez/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.9072615,
+               "lng" : 30.6600373
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.90861757989273,
+                  "lng" : 30.66130442989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.90591792010729,
+                  "lng" : 30.65860477010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "B.K Street Burger",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100441577094531742090\"\u003eEsra Kantarcı\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa8T8IfehfuKARauT00Tc8Ocg_8-4QN1i2hSB6PH4adfYEMTvc0XZgE6zfH8xczry_qcV0U2S7oO85S42RzeRjk1iHZIuxSJg3yzk5gVDyg4ltQWvxUXeLk1q7R4jHPA3ORa0psb2foTBG85QzgqwG6LzieKdo6j_yk8ny0pXCTQvZl",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ24HfmwOPwxQR69RhWVe8CiY",
+         "plus_code" : 
+         {
+            "compound_code" : "WM46+W2 Kepez, Antalya, Türkiye",
+            "global_code" : "8G8GWM46+W2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ24HfmwOPwxQR69RhWVe8CiY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 33
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sinan, 1254. Sk. 11/C, 07100 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8862372,
+               "lng" : 30.7096285
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.88753997989272,
+                  "lng" : 30.71102787989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.88484032010727,
+                  "lng" : 30.70832822010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Chill Out Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJEfQxONyRwxQRAli4OHn5tBQ",
+         "plus_code" : 
+         {
+            "compound_code" : "VPP5+FV Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVPP5+FV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJEfQxONyRwxQRAli4OHn5tBQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Toros, Toroslar Cd. No:9 D:12, 07070 Konyaaltı/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8840298,
+               "lng" : 30.6457884
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.88537897989272,
+                  "lng" : 30.64714917989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.88267932010728,
+                  "lng" : 30.64444952010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "SB Street Burger Toros",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3387,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105879491978148414914\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZKC_PDl2CcvlG2tLbqhszKRvgFW9sIXHfrEpyxfqhe9cgCKzRnJ4cfXgzrMpgsWxXRpvspE_mcnP_ZW0oCFMyN0J1BeV_LD-Pw6_aFTg68kEwn9xpRV5up6Lwu80rvSus4l4rGIfrzUsXwMaH8Lx95IAb9Doziab5pVYDkdwZmuvVc",
+               "width" : 2444
+            }
+         ],
+         "place_id" : "ChIJnR5eUBSRwxQRSB8kolYY8fI",
+         "plus_code" : 
+         {
+            "compound_code" : "VJMW+J8 Konyaaltı, Antalya, Türkiye",
+            "global_code" : "8G8GVJMW+J8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJnR5eUBSRwxQRSB8kolYY8fI",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Haşimişcan, Recep Peker Cd., 07100 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.885245,
+               "lng" : 30.7093808
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.88658542989273,
+                  "lng" : 30.71073602989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.88388577010728,
+                  "lng" : 30.70803637010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Rokka Pizza Falafel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105443317194286355545\"\u003eArtem Belov\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa4fiGmXRMXq7xZLi-BYLtEvfcUecZHuSd33DwjIF5IkLA2q5lioPDlGIXPeorRwT8fV8y_rgoZcWfP71aPl-68kltavU3_2EveXFTW-Z4OQBAlxa1PKyxUmqttWlLIjUp5vk3vmrmKrbU4XrHuc1_K0Xz3e8IiVCM8j0onnXhnLZlO",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJibvgKgeQwxQRhKpvqyuPH5o",
+         "plus_code" : 
+         {
+            "compound_code" : "VPP5+3Q Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVPP5+3Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJibvgKgeQwxQRhKpvqyuPH5o",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3030
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Şirinyalı, Lara Cd. No:173, 07160 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8557066,
+               "lng" : 30.7442082
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.85701052989272,
+                  "lng" : 30.74552692989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.85431087010728,
+                  "lng" : 30.74282727010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mahalle Burger - Eski Lara",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115654544591928306699\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaLvWRK7U0ImfoyP03RyH-kXkLXea5fiBF5GLqIn6gN9lkZJEMUK3l5LR5-myhF3DtPiO36hDpf8-87USCXTGsT8EZLYIzYqISERGqDyA93bazshmNh6eUAnmmBKOyR1GHiZUBBhzNgcfF2Eksk6Nbvs7dCNcDxUHl0RVSeZoj9Cos4",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ53G0gQWbwxQRmLkuZ7zI8W4",
+         "plus_code" : 
+         {
+            "compound_code" : "VP4V+7M Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVP4V+7M"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ53G0gQWbwxQRmLkuZ7zI8W4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 741
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tuzcular, Atatürk Caddesi, 2. İnönü Sokak, 07100 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8871689,
+               "lng" : 30.7075076
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.88851502989272,
+                  "lng" : 30.70885537989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.88581537010727,
+                  "lng" : 30.70615572010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Antalya Dönerciler Çarşısı",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112943193108204993187\"\u003eArmani Lin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYkXHsluMfr3KKDHC63EU90u9jlD4OF43hgA9Ul7-PKwsOLfG-52N_q4uY58XOfS8wxboTsRYyp0IULCAtEraQ_KBT6CCDtHqDhpsew3la106hBms0K-4h95pEttrcJNusbBSIRRMB7yHv-ZPMjwh04vsP_CmZEBhZqi8V9VRMTyBj9",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ05N_QAGQwxQRpr7cS_TdclA",
+         "plus_code" : 
+         {
+            "compound_code" : "VPP4+VX Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVPP4+VX"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ05N_QAGQwxQRpr7cS_TdclA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1019
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Zerdalilik, Balıkçıoğlu Cd. No:12, 07100 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8831692,
+               "lng" : 30.7158852
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.88458147989272,
+                  "lng" : 30.71728432989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.88188182010728,
+                  "lng" : 30.71458467010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Çeşme Kumrucusu Antalya",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102576530397632764113\"\u003eSami Kılıç\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbDjs-xrehrInpprwTnoggNv7rsSqLsoPVmXJCxthili1qRzdF0GpjsY0Ynzfb7oNnVeVRiPDBehfdfs0BKXDpUA7bdHWZfNBHeaJFIN3E4UbC5y-v7G9ZCED4RQUHX0voX-X1ayfni646hRopjpu3y34sJ9SGwkhgIGIXfG2QWr2de",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJIVFTYqmawxQRFAI4CNxA_J4",
+         "plus_code" : 
+         {
+            "compound_code" : "VPM8+79 Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVPM8+79"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJIVFTYqmawxQRFAI4CNxA_J4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 945
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gürsu, Akdeniz Blv. No:182, 07070 Konyaaltı/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8609566,
+               "lng" : 30.6357961
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.86219222989273,
+                  "lng" : 30.63724982989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.85949257010729,
+                  "lng" : 30.63455017010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Food in Box",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101274816823506767835\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbcvV1D4umIJsWlr3WG-SeTKh9ACy0XjV4G4O211YraFXos5edXIUeDRgePd4z1FnzUYpzyjq6h3wEBxTbaz0VVr9lnxjhHZq_dGwuPKhoIN6uSc_Op3QdKVx-uKxfbShBA6bYEqpEvlK3HbvbKu_X0uIDL_GKEoIz-OffVyFYdNYMG",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJqZCiaW6RwxQR8cEwW1c9wYk",
+         "plus_code" : 
+         {
+            "compound_code" : "VJ6P+98 Konyaaltı, Antalya, Türkiye",
+            "global_code" : "8G8GVJ6P+98"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJqZCiaW6RwxQR8cEwW1c9wYk",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4776
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tuzcular, Karanlık Sk. No:9, 07100 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.885602,
+               "lng" : 30.7063206
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.88694362989272,
+                  "lng" : 30.70720247989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.88424397010727,
+                  "lng" : 30.70450282010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pio Gastro Bar & Bistro",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101456223331743698286\"\u003ePio Gastro Bar &amp; Bistro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY9dXD9fnySCL4a8oahIV8vItXKvu638YDzQlEJr5AmJqD1zZa-VOg1UPyLbMmsNcQJLjefZydS3qKk0eBl_xt68XieVmKYv7JxW8c0gL2EDHC9Pb3XACtb7FYbZzz5pDsN0LEsSoXNir1vRhvisBZxlWQdLnezmP35R3lLdbkx-jWs",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJCYDzpwaQwxQRwKCo6xohB40",
+         "plus_code" : 
+         {
+            "compound_code" : "VPP4+6G Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVPP4+6G"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJCYDzpwaQwxQRwKCo6xohB40",
+         "types" : 
+         [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 603
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Haşimişcan, Arık Cd. No: 2A, 07100 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8853805,
+               "lng" : 30.7107609
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.88673947989272,
+                  "lng" : 30.71213727989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.88403982010728,
+                  "lng" : 30.70943762010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Manjoo Burger Üçkapılar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4077,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115305175449814540127\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaHqFK1uyeOD9Cx0V0V3c70vwHB4uxcuZQ-nPyKzz1TbUoMnsmdrBpfyPbVA-7nEk-2Hz9NO0RmI96Pa7g0EalfYSbfpUQXgTbS9M4-Q9hl14U0dLOviw2sqN_U6GZPeAKLHI4o0OC0mf8u66_hISMTneZpdpJiP5irLni9PMPyFETu",
+               "width" : 5883
+            }
+         ],
+         "place_id" : "ChIJIc23twCQwxQRoIPyy4AU9f0",
+         "plus_code" : 
+         {
+            "compound_code" : "VPP6+58 Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVPP6+58"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJIc23twCQwxQRoIPyy4AU9f0",
+         "types" : 
+         [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2432
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Elmalı, Kazım Özalp Cd. No:21, 07035 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8879673,
+               "lng" : 30.7053151
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.88931712989272,
+                  "lng" : 30.70666492989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.88661747010728,
+                  "lng" : 30.70396527010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Topcu Kebap",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104206730523247784679\"\u003e남김용태\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbww_76HNfgKp-Li2iXBaZqY7KEEnPTgz29PhNPf9AO_-nXWTHkqYupFBxYwGLDR7s8r5zffnFJ_j1uOT5y4FnFLkQ_sjhaSpBn0PvCJ5uXe0rk-koSQrGjx1uV5lS4WaI365Zue3JN4NYWFIxM_8fDKBCaKXHo1okL5nrKNpuSpaI6",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJq6qqqtqEwxQRVikFThT2iJQ",
+         "plus_code" : 
+         {
+            "compound_code" : "VPQ4+54 Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVPQ4+54"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJq6qqqtqEwxQRVikFThT2iJQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2130
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "Sinan, 1254. Sk. No:12A, 07100 Muratpaşa/Antalya, Türkiye",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 36.8856411,
+               "lng" : 30.7096277
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 36.88708907989272,
+                  "lng" : 30.71086602989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 36.88438942010728,
+                  "lng" : 30.70816637010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Food Mark Vegan Falafel Gurme",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102923091240644388953\"\u003eمحمد مسعد\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJamvrsXEhfOzcpo0o3GUXZZZXJpONoSWNm13HuEcu1tsVm_64wneBB3OwydFAywHYNVNWumOsLwnV9jFCSqFxRATsBhmi0KJqqkbICjaKwbshBPdZ7XCrG8qV-bfNSsFAs4qBo9NQeieNUkH9VbcwGjOPoe5PWcLy7pc-krfleBlhc6",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJl0bRNVmRwxQRp9PybUO4-JQ",
+         "plus_code" : 
+         {
+            "compound_code" : "VPP5+7V Muratpaşa, Antalya, Türkiye",
+            "global_code" : "8G8GVPP5+7V"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJl0bRNVmRwxQRp9PybUO4-JQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 866
+      }
+   ],
+   "status" : "OK"
+}

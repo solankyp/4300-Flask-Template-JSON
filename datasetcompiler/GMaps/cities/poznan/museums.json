@@ -1,0 +1,1225 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYwMQ2VLnbUK7FImWkeiSUpd12cfBxSUwhS-k3d1xXMkex3bnotmKNNpG76z9RhlgX0CJMcZQiNLV_TBr2K-0Y_NayJp_9yRYoW9La2v1V2TFCD6jaZ891Cwtf7BPMwqQxiVbCTl91PqnoHvic01fqrePLyP0xjrdcZNqxaS2w54R9HTJ6L9TwEMEKlQvOZ-OzJlp2MQIasv4_V5-Bc-uGi-FmfGAMsHdvA-v91z_us2353ilr7IyQ2HbfG1QBp0qcHbjdwTziZtwadm2uil94EXCgrotmj0_-aSgQyc5UTBbB88rWRf1btgyFgglJBfSvbYBszBOVIwjGkS8TdzxTs9ud4Tf2J0FUUAVdYZ-H748VwpvG3QuQ8SwQGjO-1KZzhaMUDONDi-QnLUOoc",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "al. Marcinkowskiego 9, 61-745 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4090067,
+               "lng" : 16.9296664
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.41036007989273,
+                  "lng" : 16.93089057989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40766042010728,
+                  "lng" : 16.92819092010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Muzeum Narodowe w Poznaniu",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3468,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115469935346101863353\"\u003eAndrzej\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaA3NTLGg4iGO9FklQxA-8xPbqF86jOY9hbgg5r25nVHo6MIGmzA63pUfok0pgFlYWQoyGNgykrFg3-1wILKO7d2z1g1BqAJgMeUEf1S8-XXxhfPnO725ppL60yu48DzY1ciQvdtwU2pLRCeg5rDd37IbBC3sKiKzPKaoZ5jJ3Jp3_9",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJ0w69fzhbBEcRw9IlWy1CKd8",
+         "plus_code" : 
+         {
+            "compound_code" : "CW5H+JV Poznań, Poland",
+            "global_code" : "9F4RCW5H+JV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ0w69fzhbBEcRw9IlWy1CKd8",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3600
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Góra Przemysła 1, 61-768 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.409209,
+               "lng" : 16.9311235
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.41051707989272,
+                  "lng" : 16.93253957989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40781742010728,
+                  "lng" : 16.92983992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Applied Arts",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3648,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112615779108932391074\"\u003eHans Ouwens\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbfirE17Sa60VTceuTuAYcWGnOGj_yehXq-okibolHR-2FEmszLUBoFP_5l46FnCzuAcemYrrAoN1Fm8OAdzJ9uaoTawQLcck72coVcW9WdDr7rbC4ukJiIob6JPBsyMKIBivDKA05lHWRes6i0ZF1BwmMUPf6qUumiD7rRJB01kvXf",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJw_7yekdbBEcRiKGhIuzF9PY",
+         "plus_code" : 
+         {
+            "compound_code" : "CW5J+MC Poznań, Poland",
+            "global_code" : "9F4RCW5J+MC"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJw_7yekdbBEcRiKGhIuzF9PY",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 965
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Stary Rynek 45, 61-772 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4080227,
+               "lng" : 16.9347077
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40934242989272,
+                  "lng" : 16.93682255
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40664277010728,
+                  "lng" : 16.93376395
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Musical Instruments",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103944590010997822592\"\u003ePaweł Kwiatkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbZvig9AAtYH9R8rmM-Pn5Whtcus7UHC4v0RDtJkNe4uBsTC_oI5A9gdsn_V0-fRkzo1BZSygEM0_2Bv4fr-D2DDBOPJUfsITYEK1U594a1N02wPs5jJ1e_PlSgOczZxt8YfT4kk28kHF0KYqQy3m3SGAP8EI2e27VSWDLpDK9N0NOW",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJJevhVz9bBEcRHznZRG8onbQ",
+         "plus_code" : 
+         {
+            "compound_code" : "CW5M+6V Poznań, Poland",
+            "global_code" : "9F4RCW5M+6V"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJJevhVz9bBEcRHznZRG8onbQ",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 237
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "ul, 3 Pułku Lotniczego 4, 60-421 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4269927,
+               "lng" : 16.8478586
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.42856967989272,
+                  "lng" : 16.84880352989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.42587002010728,
+                  "lng" : 16.84610387010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Armored Weapons",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110340521701889307740\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYn-AHPA1nTq2yyw4jUJD-7e4D4GQQ3ZEpUP9vCcycHGnIveGyoeb8kzPKX9MA80JiZb6UWGdvI3yXxIhaQtuO5r7dYHOYGyughghp9OlMOyKz1c0lYf9IhI8eBI5sXLVwHVcJTzP4jICE0QUTOft7JHZsXMGD8p8ISNWEnTNVjG7ki",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJR5nmHKJEBEcR906V7NJ2-hY",
+         "plus_code" : 
+         {
+            "compound_code" : "CRGX+Q5 Poznań, Poland",
+            "global_code" : "9F4RCRGX+Q5"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJR5nmHKJEBEcR906V7NJ2-hY",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2869
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Stary Rynek 9, 61-772 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4083443,
+               "lng" : 16.933676
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40969412989271,
+                  "lng" : 16.93502582989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40699447010727,
+                  "lng" : 16.93232617010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Military Museum of Wielkopolska",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115383712349715979819\"\u003eGosia Nowak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJac_hx3sI013jzPTdGjBuIk4z8K3p51OIqZKaM5_kf4oCCasPT9YAAtl-y7TLXWNbj4fax3f-jZvUvDWI1-FQvwNRZtAcARAI3ElitgzVtVOqYQPyxBkDoM560_KVdZqZZuSnIDYh9IWWcCLBq94PfnzW18UhECcg-iqqMfew6Xfoi7",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJzbLLVD9bBEcRLQPO7h75KL8",
+         "plus_code" : 
+         {
+            "compound_code" : "CW5M+8F Poznań, Poland",
+            "global_code" : "9F4RCW5M+8F"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJzbLLVD9bBEcRLQPO7h75KL8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 249
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Polska, 61-001 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.41687899999999,
+               "lng" : 16.8687904
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.41827407989272,
+                  "lng" : 16.87040597989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.41557442010728,
+                  "lng" : 16.86770632010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Muzeum Martyrologii Wielkopolan Fort VII Wielkopolskiego Muzeum Niepodległości",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 6936,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104463130087144104614\"\u003eArkadiusz Bujak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaeL83jc0Jq6ozk0mnmd0Znnh1JorQcjlr6ykOqweX3P7Feb46TVqShhhklKjc2XobHztaRNGedCh2dN7eedDpmkzPaHXfJ0dnljUeTAUmeUflupkz9Bzm78mLkBuF0LQFDRZDxzK2tTOpLSDFnV-ni7ECwZ_fkrDTg5oBXx5h3q-rP",
+               "width" : 9248
+            }
+         ],
+         "place_id" : "ChIJ_SU1Pe1EBEcRkaA0fS5EMAQ",
+         "plus_code" : 
+         {
+            "compound_code" : "CV89+QG Poznań, Poland",
+            "global_code" : "9F4RCV89+QG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ_SU1Pe1EBEcRkaA0fS5EMAQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 892
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Wodna 27, 61-781 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4073889,
+               "lng" : 16.9347225
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40873362989272,
+                  "lng" : 16.93665137989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40603397010727,
+                  "lng" : 16.93395172010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Archaeological Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114151159919266128921\"\u003ekupol666 .\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYdJknghO_40B9D0HdgHRA7xqmfHEwWMsJ2VlPO8iZWIemDglZXFoNylx4hJXskA758-5IWpYpgX45fphPIAuxAu39RoqDitWz-XudTFuMF3sogWOj12Nlm9wGPRXG_FQ1jsfQbt5z30N39udtAGySf_nAUQ39UgQ_0l_3cJEBCSdJg",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJO3MkWz9bBEcRWe4wtWCFIlM",
+         "plus_code" : 
+         {
+            "compound_code" : "CW4M+XV Poznań, Poland",
+            "global_code" : "9F4RCW4M+XV"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJO3MkWz9bBEcRWe4wtWCFIlM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1522
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Stary Rynek 84, 61-772 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4089069,
+               "lng" : 16.9327379
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.41030202989271,
+                  "lng" : 16.93381287989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40760237010727,
+                  "lng" : 16.93111322010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Henryk Sienkiewicz Literary Museum in Poznań",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103467670810902238617\"\u003eMiros Siemieniuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbfFqmQpBqWHONJl4yUYP6bINeDaBemmWfXVApOoLtO_lsHupbDOuyXCrp75AKkxcUTRXX2xyFKtUNO5pd90FJ5nR8-nmxfTIyB2bfYqTvjnFFGtqfAqZcZ5EPU715OmYe8cgCMB3qyhPN0BONVxSn3GpVEAwbfk_nCaLM0KhEEDNU",
+               "width" : 1643
+            }
+         ],
+         "place_id" : "ChIJH9_5XEdbBEcRNlNSQjuSBsc",
+         "plus_code" : 
+         {
+            "compound_code" : "CW5M+H3 Poznań, Poland",
+            "global_code" : "9F4RCW5M+H3"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJH9_5XEdbBEcRNlNSQjuSBsc",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 76
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mostowa 7/9, 61-854 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4049182,
+               "lng" : 16.9400035
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40621937989272,
+                  "lng" : 16.94117532989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40351972010728,
+                  "lng" : 16.93847567010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of the Poznań Bambers",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103944590010997822592\"\u003ePaweł Kwiatkowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaSAt0Eeydne0XVNqOIfdt9Ni5wZKa5Uxe4xveQtR7fga2IhmU5Rc17IWVFFFTwHRdmkyP0R-ZJydBQyUjHad_JAo62QK_RF8D2AeRfTcawyDd31dBGZ5VcAKzKiBE0LBFYBCc4g-FPFLomS70iB0h4GH82-P05PCuSZXW7PA8U_zam",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJB5bGfRVbBEcR5h3OaKaLDMc",
+         "plus_code" : 
+         {
+            "compound_code" : "CW3R+X2 Poznań, Poland",
+            "global_code" : "9F4RCW3R+X2"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJB5bGfRVbBEcR5h3OaKaLDMc",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 96
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "ul. Kwiatowa 14/2 boczna od, Półwiejska, 61-886 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4023997,
+               "lng" : 16.9297495
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40380287989272,
+                  "lng" : 16.93113627989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40110322010727,
+                  "lng" : 16.92843662010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Historical Costume",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1504,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100105680809331024799\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYIsE7C71u5JPr7EgdDm2EmHIpUEFzNb2s-spr3-qc46cMwp8UF_59uJqNMZIZWsOgSeiJydwLEmuZTKcoQRQwRcg9Eo-gZRD44LY67LAZZK5CSb9ahRkBBtvaHPaFXDfFxndyaRmnrRiOw6PTHcXbLtQmO1QP8GtFH3at9_iC9kq8y",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJP_zGUftbBEcRedmmjMgHx1Q",
+         "plus_code" : 
+         {
+            "compound_code" : "CW2H+XV Poznań, Poland",
+            "global_code" : "9F4RCW2H+XV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJP_zGUftbBEcRedmmjMgHx1Q",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 108
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Park Cytadela, 61-663 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4173483,
+               "lng" : 16.9330183
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.41869812989273,
+                  "lng" : 16.93436812989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.41599847010728,
+                  "lng" : 16.93166847010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of the Poznań Army",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102701754379685121989\"\u003eSport Sensem Mojego Życia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfmFUTchfIWphRiDRtmdLlsReFKzKCMPxM3atbdL61TGkdmMue3WKKlYNH80F36pHdql-tEk8aKs-fTqRwcaSePoyf17g4r9WGjdK4hlXAuZzFSs767WmbBTFRJQAe1v5Y3TlCMszgc0sMTFeDp8JBt1GpYIDIMxKnNKGM6pK7NREZ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJjzmdp0RbBEcRVPOfylcty14",
+         "plus_code" : 
+         {
+            "compound_code" : "CW8M+W6 Poznań, Poland",
+            "global_code" : "9F4RCW8M+W6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJjzmdp0RbBEcRVPOfylcty14",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 438
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Wroniecka 18 wejscie od, Mokra, 61-763 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.409915,
+               "lng" : 16.934371
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.41098327989272,
+                  "lng" : 16.93553302989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40828362010728,
+                  "lng" : 16.93283337010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Poznańskie Muzeum Pyry",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100305864525709929537\"\u003eRobert Korga\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYVUHRfAvAYhADDuM_KH_6wuKSQK7Nht5z-7Al59A5tCagmznj-Hk2UjNDNj2ZTNEmBtOJM57ClFknrfLGxGjnmWN1irEJ76Bdo6RJtvUbZIxUbwhga8fBuzdT-4s3Q8RmQJUpvIOFpQdKbCs4p3CYpySCB9vqPC5qXIFMxcNvfNoSq",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJv0Pca2RbBEcRzNDig9mF1FY",
+         "plus_code" : 
+         {
+            "compound_code" : "CW5M+XP Poznań, Poland",
+            "global_code" : "9F4RCW5M+XP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJv0Pca2RbBEcRzNDig9mF1FY",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 851
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Święty Marcin 78, 61-809 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.40752209999999,
+               "lng" : 16.9197676
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40883497989272,
+                  "lng" : 16.92100667989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40613532010728,
+                  "lng" : 16.91830702010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Centrum Szyfrów Enigma",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115810797156556006650\"\u003ePrzemko Stallone\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYgg3mk2328aaed8RjUQTPi1v77UwCV1CGyg2BQ8El1CXmQ5yakp-xixcZ2Detqfug6T0sDdexn1FaJLZRMSIEuH3IWtqfljS1J5JES3q_k6ZkCTqTf5qtRSX_7kSgZISCmnsDfGiS2P1sTZld_OznT7A09od7tY1TQc9NczcXzOgNT",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJbziZJvJbBEcR1oDUMvs_9MI",
+         "plus_code" : 
+         {
+            "compound_code" : "CW59+2W Poznań, Poland",
+            "global_code" : "9F4RCW59+2W"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJbziZJvJbBEcR1oDUMvs_9MI",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 470
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "aleja Armii Poznań, 61-663 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.420081,
+               "lng" : 16.932864
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.42143082989271,
+                  "lng" : 16.93421382989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.41873117010727,
+                  "lng" : 16.93151417010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Armament",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 680,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116434951565779185881\"\u003eTomasz Hejna\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbCUViFidKdTv6wrXBR6o3956QPJ8fFh0jM4MyhUDhIbXZTcPNnSw0Pk1KubV5pbT4NIEnfJvFfrKhwg9cHNT-KlHtdla82Ido05lRW5MO9yNr0v0k6nXwciiKPsFvosMMwU2K9zA-ra1noJBGpyMVN3TDU6reRADWJffY_AbhNAaU5",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJjzmdp0RbBEcRcRaWnpeCu7k",
+         "plus_code" : 
+         {
+            "compound_code" : "CWCM+24 Poznań, Poland",
+            "global_code" : "9F4RCWCM+24"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJjzmdp0RbBEcRcRaWnpeCu7k",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1387
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Księdza Ignacego Posadzego 3, 61-108 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.412675,
+               "lng" : 16.9482163
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.41401277989272,
+                  "lng" : 16.94956782989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.41131312010728,
+                  "lng" : 16.94686817010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Archeological Reserve Genius Loci",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2595,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112158434853170099144\"\u003ePiotr Andrzejewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY99JmQq-Hc2IZIq492_6FogDpDn-DNnoMVauvLhBbOnfa8SHxkZ2o4LtZUYWtLi2N2F2Db3_UJTbE-wCk_KmvJO-nzlDdTXJdI00y61u9nm6Ej1Ky4HS3fLvdfibyC4GVCGIaiGQbYePTlPjKImhcs5gycv5qTiF2g-M8DQ7Zevi22",
+               "width" : 3893
+            }
+         ],
+         "place_id" : "ChIJJZgXmWlbBEcR75EBAmelIEQ",
+         "plus_code" : 
+         {
+            "compound_code" : "CW7X+47 Poznań, Poland",
+            "global_code" : "9F4RCW7X+47"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJJZgXmWlbBEcR75EBAmelIEQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 567
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "MTP ul. Głogowska 14, Hala 3A go 3, 60-734 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4062409,
+               "lng" : 16.9113798
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40768712989273,
+                  "lng" : 16.91279377989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40498747010728,
+                  "lng" : 16.91009412010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "HistoryLand",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118264813415345496841\"\u003eBrat K\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYQerD92gpIUOD5Ox3GnJ2XjnkX7CvhXO-JkCncbbUHxLUdSkJB3QfHPrtp9uhevSrbyo8fbH_0jh5l34088mgRpXaPY3dTbqpywOff73Sc-1_oCmrgxmMBXJe7lzuYbX6z_aSfdzGzb7OFQfHljx-kSYtRMMxdL4Tar-sougPp8TK9",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJd76ZmxBbFkcReXS1iYpTpOI",
+         "plus_code" : 
+         {
+            "compound_code" : "CW46+FH Poznań, Poland",
+            "global_code" : "9F4RCW46+FH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJd76ZmxBbFkcReXS1iYpTpOI",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2158
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "wejście od, Klasztorna 23, 61-779 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4084655,
+               "lng" : 16.93504
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40987842989273,
+                  "lng" : 16.93666382989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40717877010728,
+                  "lng" : 16.93396417010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Croissant Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113546311217645401537\"\u003eMaryJo Radosevich\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY3U80qbl8G6bdwiT0coCCiJCRxV23j16540Oqlh5AsAVHRVTkofaWhYUwGHOEYITrNZTaAwrLdwcdDIyGI-IZnNsPk3njvVt9c66ZkV7iDJRxkCiytsBdlgQspCyP6cIKFxY3OAxN8qewM0smddWVTGWnR-S_xWMUEtKm5kPFEiZ2V",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJp7tWoUBbBEcR1wT1rqMPlgU",
+         "plus_code" : 
+         {
+            "compound_code" : "CW5P+92 Poznań, Poland",
+            "global_code" : "9F4RCW5P+92"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJp7tWoUBbBEcR1wT1rqMPlgU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4471
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Święty Marcin 80/82, 60-995 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4076756,
+               "lng" : 16.9189175
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40887637989272,
+                  "lng" : 16.92024322989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40617672010727,
+                  "lng" : 16.91754357010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Poznań Uprising museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108441848833941050593\"\u003ePaweł Mac\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZrDrICFYvL0wTGO53oWRqMcgtEzZ_Cu5mL9M83CKp-S8UZZM3_UiCxYjhZ3_Oe4Ps1EBnz_VYbGuLoV0tsiwkgpQvo0ZUTv11Lhw2ISL8vIUvryPxYL4Hl1GVbz1nBXwJEQA2nk9sxBOZiqPRmxZChlcScOWe89i3r_oEtIEuRyffd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4cq8YzZbBEcR9ER4aZSjVFw",
+         "plus_code" : 
+         {
+            "compound_code" : "CW59+3H Poznań, Poland",
+            "global_code" : "9F4RCW59+3H"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ4cq8YzZbBEcR9ER4aZSjVFw",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 285
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gdańska 2, 61-123 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.412328,
+               "lng" : 16.9515749
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.41367782989272,
+                  "lng" : 16.95292472989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.41097817010728,
+                  "lng" : 16.95022507010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Brama Poznania",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113726208265184609671\"\u003eMarysia P\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJat32XGpn2f4o4G6IXJl2ULh2talOP3zH9-aMM4zvSf5NQ85YMbJzbtZeuZIvhj3JnGNsDqonXqdOlBxqotZlSrN4HtsF5CHyH7VbElCgT4G2v-Vo9MLHOEXCGfDjgWcoaGgWGXEl4ikWScluOyLr4G7uhiVZyH7I57sOn3kEjEwdDK",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSW5ASGlbBEcR9aAyoa6e1Qg",
+         "plus_code" : 
+         {
+            "compound_code" : "CX62+WJ Poznań, Poland",
+            "global_code" : "9F4RCX62+WJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJSW5ASGlbBEcR9aAyoa6e1Qg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5129
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "al. Marcinkowskiego 11, 61-827 Poznań, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.407472,
+               "lng" : 16.9292772
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40879187989272,
+                  "lng" : 16.93051187989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40609222010728,
+                  "lng" : 16.92781222010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Pharmacy",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109975048090729732619\"\u003ePaweł Kwieciński\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYpd_iomnaugwKtGq1GDCwod00XT3-HRa6c0jEWtz2bacB1VFT3Sg8Y92PVZpBGayUsZFrtcS_7Ja98dcLD2NfM_fYfrnuugVSFw3nQbjNvUiofIl2KqpS0meT4HiAKUBc3Qs3Fpu4dzpspVjy7MuYxVlnSsHnVJRHHHS3mDnolXVkw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJaye7ijhbBEcRo1pIuo_jwX4",
+         "plus_code" : 
+         {
+            "compound_code" : "CW4H+XP Poznań, Poland",
+            "global_code" : "9F4RCW4H+XP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJaye7ijhbBEcRo1pIuo_jwX4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 42
+      }
+   ],
+   "status" : "OK"
+}

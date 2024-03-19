@@ -1,0 +1,341 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kasarmikatu 24, 00130 Helsinki, Finland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 60.1631374,
+               "lng" : 24.9479725
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 60.16448797989272,
+                  "lng" : 24.94929977989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 60.16178832010728,
+                  "lng" : 24.94660012010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Finnish Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4608,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102584173561741289675\"\u003eNikos Gkekas\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJae3ncKPcee2l_EYUmjNvGCfVTg9EnmL2fq6m5rz7QHZ5Nmwt2Ir52bTYr4umEHnQiZYbP5XeBqbzXpZP2xyAtfkVcvr4Qrh3K68cg1lbuTnYJx3nolhD6gvqMlPFjPSBjiYxMQsX63CJXSPBmQoa3WnRHk8WSQpxhiOQq2qzsQaPNA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJPZLCXsgLkkYROQ74iYcafwI",
+         "plus_code" : 
+         {
+            "compound_code" : "5W7X+74 Helsinki, Finland",
+            "global_code" : "9GG65W7X+74"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJPZLCXsgLkkYROQ74iYcafwI",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 385
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Annankatu 31-33, 00100 Helsinki, Finland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 60.16820469999999,
+               "lng" : 24.9354528
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 60.16951482989273,
+                  "lng" : 24.93668572989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 60.16681517010728,
+                  "lng" : 24.93398607010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Anttinen Oiva Arkkitehdit Oy",
+         "photos" : 
+         [
+            {
+               "height" : 3480,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118259681986258433752\"\u003eRisto Tuomarla\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZAwq7Up0hxNYjVX8wLnxqNrAyvC4HR7P3dsXhg42O87jxZ8fhnAbWrrjj1AuEHo_Y16GJ9mwr0oy4rINrWsE1RWnIx26vLqwDw0Rl1297gxZUIDG5QQGHJVn6jvwBPtRsMQEg9A1XTbrxDyrZpaCMFaLc01bSyuV8lS-NQtGe3-NNF",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJ1YqkessLkkYRkx_FUq0WVSc",
+         "plus_code" : 
+         {
+            "compound_code" : "5W9P+75 Helsinki, Finland",
+            "global_code" : "9GG65W9P+75"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ1YqkessLkkYRkx_FUq0WVSc",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lapinrinne 3, 00100 Helsinki, Finland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 60.16764060000001,
+               "lng" : 24.9277988
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 60.16909482989272,
+                  "lng" : 24.92904832989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 60.16639517010728,
+                  "lng" : 24.92634867010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "JKMM Arkkitehdit Oy",
+         "photos" : 
+         [
+            {
+               "height" : 500,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117183326447124122470\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYTOHD3b_8WzVv77ZAUhDWJFxCDG1ovvvAwCCWfTg50yyka12y2tUiCsKJqkZHljdhuT6wFR6Y-2ZZZeW9yQo7K_wED6pT57oLxWaRcl0NlwUwkVmhziYWSLRrx0lijWTgIFBgQ6bMr0dNu42exrQgUlIkiWMZdATQSTSaHmAnPkD0A",
+               "width" : 888
+            }
+         ],
+         "place_id" : "ChIJDSpq_DQKkkYRu8VVhMmdU0o",
+         "plus_code" : 
+         {
+            "compound_code" : "5W9H+34 Helsinki, Finland",
+            "global_code" : "9GG65W9H+34"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJDSpq_DQKkkYRu8VVhMmdU0o",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kalevankatu 31, 00100 Helsinki, Finland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 60.16567039999999,
+               "lng" : 24.9329551
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 60.16698732989272,
+                  "lng" : 24.93435127989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 60.16428767010728,
+                  "lng" : 24.93165162010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Avanto Arkkitehdit Oy",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 533,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103325090554591783405\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb7Vk2OZ3ucG4m-cf1ubEgT_tvSttxEjkBLj8yF8vWcRq-PuYzQur1hjkHTPYoD8hIY14mb93BO8PsieTT-5qHOHvbyr7CYJLwx9rcgGB4tnD6DwXOZ2BVLlhvGMamoZ7omPpSHQGP5qGlfVP6Gs4UJK2Elogrqm0pGpQxwDqWohCnr",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJrzUY3coLkkYRxgih-PFrhOg",
+         "plus_code" : 
+         {
+            "compound_code" : "5W8M+75 Helsinki, Finland",
+            "global_code" : "9GG65W8M+75"
+         },
+         "rating" : 5,
+         "reference" : "ChIJrzUY3coLkkYRxgih-PFrhOg",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Freesenkatu 3, 00100 Helsinki, Finland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 60.1721319,
+               "lng" : 24.9286599
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 60.17344517989272,
+                  "lng" : 24.92991952989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 60.17074552010727,
+                  "lng" : 24.92721987010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Oy Arkkitehtisuunnittelu Arkitekturum Ab Ltd",
+         "place_id" : "ChIJzY1jvzMKkkYRxMru1sjXptc",
+         "plus_code" : 
+         {
+            "compound_code" : "5WCH+RF Helsinki, Finland",
+            "global_code" : "9GG65WCH+RF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJzY1jvzMKkkYRxMru1sjXptc",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tiilimäki 20, 00330 Helsinki, Finland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 60.1982225,
+               "lng" : 24.8696296
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 60.19961137989272,
+                  "lng" : 24.87103762989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 60.19691172010727,
+                  "lng" : 24.86833797010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Studio Aalto | Alvar Aalto's Office",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 734,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109242292860075075638\"\u003eAlvar Aallon Ateljee\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZkK6IK5jF0-ItrlXuhxaWGGtma2ouXCOebF6ez9LIVE45qnV0dK8MFU6K3jwhx9Q7zNqBni84Y_ayRWFmrWY_lzFFipozgxLNMTDwTGogalvxL2GOOzSByk9dM-Sw7VmSQSwTp_AjhZe5pjB1tSCoAoRgeNTLiO33C4X6EKW3uwSIH",
+               "width" : 1100
+            }
+         ],
+         "place_id" : "ChIJGalThf_1jUYR82Tc_wHwfO0",
+         "plus_code" : 
+         {
+            "compound_code" : "5VX9+7V Helsinki, Finland",
+            "global_code" : "9GG65VX9+7V"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJGalThf_1jUYR82Tc_wHwfO0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 213
+      }
+   ],
+   "status" : "OK"
+}

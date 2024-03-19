@@ -1,0 +1,1124 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYIxDJiBh_ZiZ5aF6FpVZHffZGifZjfG_RaY5amM1gWU57sjvJh44ypHoowMuXs-mw7J6TjA6QPyH1usbHu5yc3fiMYUQkdC_KEztvoMe4ifMew_BqIUGqbhQo0lDEPT2hkg4ri0As1okt_2sha4u8K_70WAu0A3qd1ZxogfoYOKDyol4UoDr1ofOypsJBp2ltmvMQ5sMVsjZRezsM9YmarWLSUranLO7KR7Dv8HW4JQ-i8xwR8St3tqIy4CX_fgK99N6cLLBZuHHfUVlAD9DPCPGQPrm07Is0Pb8GRZ7iQpcsCWe-GCST5xb2cVJLl3ZBtCL6uLl95LZSMVOYMrAVSm26kdzl7TvCl6ei6R9QRmATA7MuB5zcbuzbxx9r1VVQxqKphrOUAtpZLuTkefeuxGw",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "119 Sejong-daero, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5668661,
+               "lng" : 126.9766639
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56821592989272,
+                  "lng" : 126.9780137298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56551627010728,
+                  "lng" : 126.9753140701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Seoul Hall Of Urbanism & Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100924413985601093699\"\u003eSeung-yul Vin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbCdRxdnCQkEtCnF4slHnSBmFhs2wcVZvEKs0ihuC4WhJO1Og-FPEC6sWIoMw7UW8_0Y_MtmKjKFkP5TGMbJPpceacunYrm7VtN5ggQapW955Z7FOzTnu8UHHuqVBO4bxowOXHoJ8Vb54Dzix7vNkeBG4hv-9uXgcJYq7rRe5elJjXJ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJk0SQdXqjfDUR4jKyAE_IXs8",
+         "plus_code" : 
+         {
+            "compound_code" : "HX8G+PM Seoul, South Korea",
+            "global_code" : "8Q98HX8G+PM"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJk0SQdXqjfDUR4jKyAE_IXs8",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 437
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "46 Hoenamu-ro 44ga-gil, Yongsan-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5385312,
+               "lng" : 126.9937821
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.53988102989273,
+                  "lng" : 126.9951319298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.53718137010728,
+                  "lng" : 126.9924322701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mass Studies",
+         "place_id" : "ChIJH12Kk66jfDUR2RVhSq5Maq8",
+         "plus_code" : 
+         {
+            "compound_code" : "GXQV+CG Seoul, South Korea",
+            "global_code" : "8Q98GXQV+CG"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJH12Kk66jfDUR2RVhSq5Maq8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "12 Sejong-daero 12-gil, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5616665,
+               "lng" : 126.9768008
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56301632989273,
+                  "lng" : 126.9781506298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56031667010728,
+                  "lng" : 126.9754509701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jeonglim Architects & Engineers",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101196321088017085946\"\u003e(주)정림건축종합건축사사무소\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYIQgZlIUN0Ay3uaDhzpMn0t4Fa51oS2guLa66IcJzLQgpiX_OU3ll8wXIMUTwcIie5qIQwFH1Fk7XoQ4s1aNSKVYRBlH19nsiiiD4Vwx8BwfilRljf70bGJjrV81zFdt8e3MheQXqEvL8e7EoyMyFeNwwPpmupm8cfq8TFpL988zAe",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJt19U_iWjfDURPea-L77sG7w",
+         "plus_code" : 
+         {
+            "compound_code" : "HX6G+MP Seoul, South Korea",
+            "global_code" : "8Q98HX6G+MP"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJt19U_iWjfDURPea-L77sG7w",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 49
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "33 Samseong-ro 122-gil, Gangnam-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5185776,
+               "lng" : 127.0549465
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.51992742989273,
+                  "lng" : 127.0562963298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.51722777010728,
+                  "lng" : 127.0535966701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SKM Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 830,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103960843828600736832\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYzXVpYuSst8CnWG0BFPK6ss1a2hZ_cg_x4MHUyiQ3ujkwMnJmrijX5jelngNCjFcEODxRYmjSNdRLYpjJqolvKx3sk3U1Kk73ZZ92husnEwVm8hFIRsIGwts9ppxxS8zVcyVIgJAUMsdse0EujxFKcUVnO9NAdB1UyIPLH6losBhFS",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJlydePm-kfDURIKFI57F-VRY",
+         "plus_code" : 
+         {
+            "compound_code" : "G393+CX Seoul, South Korea",
+            "global_code" : "8Q99G393+CX"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJlydePm-kfDURIKFI57F-VRY",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "407-27 Sindang-dong, Jung-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5584253,
+               "lng" : 127.0093278
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.55977512989272,
+                  "lng" : 127.0106776298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.55707547010728,
+                  "lng" : 127.0079779701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Gansam",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100924413985601093699\"\u003eSeung-yul Vin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJboqKZ9YZ1jm0mnwYHa7IOm8pugt0TMEqov0MM-hhpIZjXItDG5LwvixlHcxO4MtR3dNMjiTq93DClzT58-w0mIkgZ1bbOwKS3QAvpNIUd6XD1koaV7rUQql4KjW51pywllJVtghe7GrkCNgZ28NadtDpSob98iHyhAnPZNUa_m59xn",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJDTv26hCjfDUR9XL6TyXKjnA",
+         "plus_code" : 
+         {
+            "compound_code" : "H255+9P Seoul, South Korea",
+            "global_code" : "8Q99H255+9P"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJDTv26hCjfDUR9XL6TyXKjnA",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 48
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "210, 4 Seongsui-ro, Seongdong-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5425069,
+               "lng" : 127.0519224
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.54385672989272,
+                  "lng" : 127.0532722298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.54115707010727,
+                  "lng" : 127.0505725701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mai Architects",
+         "photos" : 
+         [
+            {
+               "height" : 454,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110982662287953473531\"\u003eHogun Kang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaij6aJzfqm8CbQ25PCOzTwI7EJmHG0Y2Qf8IL9VcLzqQ1DbX1ZYnA_rK-5DmfMh4W7amXGz_40AOpXqzm5GOjxpeRtjPb-wsj6DlYZOe7aFdeUUv1iejeoXuZVijI3JLA6FEzFca2mowo7dk87iMPtr2u1BRMu938I5PQ7m5wcLB5N",
+               "width" : 642
+            }
+         ],
+         "place_id" : "ChIJr4iwOvejfDURhCGupSyS2Fc",
+         "plus_code" : 
+         {
+            "compound_code" : "G3V2+2Q Seoul, South Korea",
+            "global_code" : "8Q99G3V2+2Q"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJr4iwOvejfDURhCGupSyS2Fc",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Jungnang-gu, Udo Bldg 7F, 214 Manguro, Jungnan-gu, Seoul",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.593725,
+               "lng" : 127.076516
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.59507482989272,
+                  "lng" : 127.0778658298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.59237517010727,
+                  "lng" : 127.0751661701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "NAMELESS Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 8252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103587295488322296973\"\u003eNameless Architecture\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY7E01GXQdXg8lApbO_0CH3Lbzz738-HCpa0m8RnaebrVG3_4BYPHxje414sSBM7O_mLN3fW8k_yKif8id4JFiwXahcsPDJK4fmNwWBCJsOTiPvbpG4QQiCxgFCqL0xBNcckO1jMWxHgvsIbnvOLCGUd3P8XlkZHMBFvudiYe6YLSSX",
+               "width" : 12378
+            }
+         ],
+         "place_id" : "ChIJzajcPge7fDURKrrsXjmdejw",
+         "plus_code" : 
+         {
+            "compound_code" : "H3VG+FJ Seoul, South Korea",
+            "global_code" : "8Q99H3VG+FJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJzajcPge7fDURKrrsXjmdejw",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10 Musumak 18-gil, 금호2.3가동 Seongdong-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5526611,
+               "lng" : 127.0211648
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.55401092989273,
+                  "lng" : 127.0225146298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.55131127010728,
+                  "lng" : 127.0198149701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "WISE Architecture",
+         "photos" : 
+         [
+            {
+               "height" : 3040,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112400336271575754208\"\u003eAram Yoo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbHWY2uzFJdOXryQ2SEaSco3bme0mN74LMpswveTogotibx82iu6Jh-U_w3HmYBIPUFDVsca_Qf5rz2E7ck-slWqglmoZdjCD5ZAovxCgBlU5Xqz_C9UMo66Fz1ittkfeEPwcojmp_pVlGXXvPHNYahv5qGAcFF9or5UG3Pw6jjatq1",
+               "width" : 4056
+            }
+         ],
+         "place_id" : "ChIJnb91B22jfDURVhqsklA01ew",
+         "plus_code" : 
+         {
+            "compound_code" : "H23C+3F Seoul, South Korea",
+            "global_code" : "8Q99H23C+3F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJnb91B22jfDURVhqsklA01ew",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Jung-gu, 75번지 ENA센터빌딩 8F",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5630319,
+               "lng" : 126.9745568
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56438172989272,
+                  "lng" : 126.9759066298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56168207010727,
+                  "lng" : 126.9732069701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "HANLIM ARCHITECTURE GROUP",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103424440022953822860\"\u003e김경화\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbXog4kEjzQtl30Dc_21B25EtqDwLexFRmYq99NfGn2vucfK4Kkk2wYOrOwRbaYfrgAIyNRqWFzXzWC9jEZD0B70huXqG2bfZx1qz2ZvvpuNmeWuD40rL9IUGvekALws6QUTwKYn0DDaKeKFUcfpIYnd_m9SOdBPTIhQwUsRNVRR6OI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0adPX4uifDURhqLoiDRTRro",
+         "plus_code" : 
+         {
+            "compound_code" : "HX7F+6R Seoul, South Korea",
+            "global_code" : "8Q98HX7F+6R"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ0adPX4uifDURhqLoiDRTRro",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "동광로3길 40 2층201, Seocho-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.4927761,
+               "lng" : 126.9844649
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.49412592989272,
+                  "lng" : 126.9858147298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.49142627010728,
+                  "lng" : 126.9831150701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ENA Architects 이엔에이아키텍츠",
+         "place_id" : "ChIJ90jkbruhfDURTs2ISIGsR1A",
+         "plus_code" : 
+         {
+            "compound_code" : "FXVM+4Q Seoul, South Korea",
+            "global_code" : "8Q98FXVM+4Q"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ90jkbruhfDURTs2ISIGsR1A",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "402, 666-9 Irwon-dong, Gangnam-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.4901819,
+               "lng" : 127.0850502
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.49153172989272,
+                  "lng" : 127.0864000298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.48883207010728,
+                  "lng" : 127.0837003701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Yong Ju Lee Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJM0rnBu-lfDUR08yO1P5vL5A",
+         "plus_code" : 
+         {
+            "compound_code" : "F3RP+32 Seoul, South Korea",
+            "global_code" : "8Q99F3RP+32"
+         },
+         "rating" : 4,
+         "reference" : "ChIJM0rnBu-lfDUR08yO1P5vL5A",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "193-8 Yeonhui-ro, Seodaemun-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5743327,
+               "lng" : 126.935034
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.57568252989272,
+                  "lng" : 126.9363838298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.57298287010727,
+                  "lng" : 126.9336841701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ArchiWorkshop (주)건축공방건축사사무소",
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113796615344093700437\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYNGG4NeAUtAwYAKQYBOqO5AmcwIOGX2BgY8GsqjS7slk7uqbYlHZDeSkeA5-FDrHR4-ImjApKNWK5BlzuiKyGzW-3-OU2f_ABiDqL6Yj_8Kub7rdpqFFZHftV0RTTgc9hlQ-dpJK1Yg1m-klxZeInyq4f2kj71pX6yC7OeY8nFuqO6",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJd26Vw1-hfDURY-kiwfU29Cs",
+         "plus_code" : 
+         {
+            "compound_code" : "HWFP+P2 Seoul, South Korea",
+            "global_code" : "8Q98HWFP+P2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJd26Vw1-hfDURY-kiwfU29Cs",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2 Songwol-gil, Jongno-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5684649,
+               "lng" : 126.9687761
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56981472989271,
+                  "lng" : 126.9701259298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56711507010727,
+                  "lng" : 126.9674262701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Seoul Center for Architecture & Urbanism",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115742207319258339788\"\u003eYongjin Seo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbrBHzzA1-hn1yHDHoUBnsvHPRhA8eHIQ9w1uEqdE0sSofh7vhFefh35VItHnbhS7PBxZB7JFfxJi-Cjlm2jVdR4OGamCaKDRZLAeFwHNvnPgsh_GEL7D5TTr-3GegV_VX9mAQ2X3M5WlI2TFA685cxw17PX6AiXVKaulty9IUUeceP",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJWwmqvi_RfDURWtuZtENNeio",
+         "plus_code" : 
+         {
+            "compound_code" : "HX99+9G Seoul, South Korea",
+            "global_code" : "8Q98HX99+9G"
+         },
+         "rating" : 4,
+         "reference" : "ChIJWwmqvi_RfDURWtuZtENNeio",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 39
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "67 Sajik-ro, Sajik-dong, Jongno-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5746004,
+               "lng" : 126.9670076
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.57595022989273,
+                  "lng" : 126.9683574298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.57325057010728,
+                  "lng" : 126.9656577701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "aoa architects",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104186859431807735977\"\u003eJaewon suh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYyCLAAZtIGBoP97_pMIxg9Hxiv1viCBlo8m30A1Myq0qiZeta2bq4NxbiOrgrR-w9_VEnXSR3O6NeLGUhk7BI1KqegFNf-daJKmH11-CIkes8HpONviQ4wRQH8_aLWgvpCkjj3s3B3YlS6pwCV-HetGafA-8FkPvVtmGtiXMemMJIG",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ99Y1GbqifDUReW73bDFvCms",
+         "plus_code" : 
+         {
+            "compound_code" : "HXF8+RR Seoul, South Korea",
+            "global_code" : "8Q98HXF8+RR"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ99Y1GbqifDUReW73bDFvCms",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Seodaemun-gu, Sinchonnyeok-ro, 16 3층",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5580246,
+               "lng" : 126.9432053
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.55937442989272,
+                  "lng" : 126.9445551298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.55667477010727,
+                  "lng" : 126.9418554701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "DRAWING WORKS Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1004,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101070110787923229066\"\u003eyoungbae kim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaI9uEx9zk8qWwa8cI2rPxk5I4cFXpDcyM1Nxp8t-a5MG-KU4hVXEKYMasqlH-TVbh7_RD7tROWHcSjgTYKvjDH_C11zMZYESQzmSis4RqiHw-K98Osifh8qIeY1MEge-NmDZOdKWSOH-aMV8DFi4zsT8LeEFoYHe0tCL1eoXoqiCd-",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJwcaCouijfDURYVJxuVmvjyg",
+         "plus_code" : 
+         {
+            "compound_code" : "HW5V+67 Seoul, South Korea",
+            "global_code" : "8Q98HW5V+67"
+         },
+         "rating" : 5,
+         "reference" : "ChIJwcaCouijfDURYVJxuVmvjyg",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Gangnam-gu, 736 56 제일비전타워",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.4993973,
+               "lng" : 127.0358666
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.50074712989272,
+                  "lng" : 127.0372164298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.49804747010727,
+                  "lng" : 127.0345167701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "(주)무영종합건축사사무소",
+         "photos" : 
+         [
+            {
+               "height" : 398,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110292020172220821582\"\u003eMinha SEO\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbmD3HPgBYdkyNdXL6pLpILAWWLPdmRq50bqNzecFEkX5xMDvsCfdLujur6_OnXr6EJgBm50ymjsUPiRcIoErbBdk5DNgIcL9in35xvx40Zhi0vb22l9Q55SMGuPOi48ZnCTJU3Anx97CnponmCazSMtotYgsY8ZSB5tM-SoZlNwkxE",
+               "width" : 1100
+            }
+         ],
+         "place_id" : "ChIJ______6jfDURcxCnu3vWsM4",
+         "plus_code" : 
+         {
+            "compound_code" : "F2XP+Q8 Seoul, South Korea",
+            "global_code" : "8Q99F2XP+Q8"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ______6jfDURcxCnu3vWsM4",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "230 Teheran road, 10F, Gangnam-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.501853,
+               "lng" : 127.041462
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.50320282989272,
+                  "lng" : 127.0428118298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.50050317010728,
+                  "lng" : 127.0401121701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "KPF Korea",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110284969205776265935\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ6-uh3QSJYC9WnspqnBPBHkYw57UExW_XxNg6NRvyfKf9ja9utty1dm6dmD3da3CeOpINzhSJaAN0rAYnGd8Ou7slPLfA3WF7dauaMGgfX56doRC_PqvwUADErv7tFWymwxotYcwrB4tMdqch8dNQlFUp-iQxA2H4TP9ESnf2M5mi_",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJRY0_NQekfDURyNaShopvb8I",
+         "plus_code" : 
+         {
+            "compound_code" : "G22R+PH Seoul, South Korea",
+            "global_code" : "8Q99G22R+PH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJRY0_NQekfDURyNaShopvb8I",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Jung-gu, Toegye-ro, 292 2층",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5633288,
+               "lng" : 127.0041039
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.56467862989273,
+                  "lng" : 127.0054537298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.56197897010728,
+                  "lng" : 127.0027540701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "건축사사무소공백 : OIOO Architects l Seoul",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 590,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103211955337724594831\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZXyi2K1BjzIZyRpREdboDZF1nt_g41-Ap9aso9JNkghpiGWdAZ6TsuJ3gOfdvYPIKh9ZN-OmuIXQlyJcJPMxaKWKF6Qqw1OS5J1vkueomBPDb9mzh2KPcKpL1x8cFDhL7frvGtGAzJfjVFyz0fQSj5zHDYxWJqqkhU_mwE5iPy4qit",
+               "width" : 590
+            }
+         ],
+         "place_id" : "ChIJ-_9IQh-jfDURgvwA0fOK9Ac",
+         "plus_code" : 
+         {
+            "compound_code" : "H273+8J Seoul, South Korea",
+            "global_code" : "8Q99H273+8J"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ-_9IQh-jfDURgvwA0fOK9Ac",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2층, 232-3 Seogye-dong, Yongsan-gu, Seoul, South Korea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5538387,
+               "lng" : 126.9665023
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.55518852989272,
+                  "lng" : 126.9678521298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.55248887010728,
+                  "lng" : 126.9651524701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "구보건축 GUBO Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3936,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100911462576154484707\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJabHLmG7OBkX5I036KMbeCxgij0OcT7ZpF_YsI6C2sw_jPEccmFzlDwsfrSVeMWa8mMQWVAb5hpPwGiNovxpisvQcS5x_-j4kw-g-M5QUe5P5IH4Ehf8gLlNYT4FoHRCyOo6HApdHgvx9WhyQdqWHCgxf6yirSq5lXoeNlmIkJd7KUH",
+               "width" : 2952
+            }
+         ],
+         "place_id" : "ChIJCcrc42SifDUR7IkZzAozm3c",
+         "plus_code" : 
+         {
+            "compound_code" : "HX38+GJ Seoul, South Korea",
+            "global_code" : "8Q98HX38+GJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJCcrc42SifDUR7IkZzAozm3c",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "South Korea, Seoul, Yongsan-gu, Huam-ro 28ra-gil, 16 따뜻한터",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 37.5498588,
+               "lng" : 126.9801773
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 37.55120862989273,
+                  "lng" : 126.9815271298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 37.54850897010729,
+                  "lng" : 126.9788274701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "(주)온디자인건축사사무소",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4479,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113025162073169436727\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa8Yw8tCjeaxBmu_P2touRXiKjRGnZDw3tEs4WEFqKDjFT3HDlBevypE-kctI8GJsfbyI04gQcwbdPjmazJ2Yd-vHLJ2hAn13S7048b1QbmJsvopsS6WyID5tQ48M1GqTCJS3xXjksafyOo4u7hJpoCbNac13QqrJtKxzhy-Q4roRDy",
+               "width" : 6719
+            }
+         ],
+         "place_id" : "ChIJgUZPwJCjfDURabSA8MPSv_0",
+         "plus_code" : 
+         {
+            "compound_code" : "GXXJ+W3 Seoul, South Korea",
+            "global_code" : "8Q98GXXJ+W3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJgUZPwJCjfDURabSA8MPSv_0",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}

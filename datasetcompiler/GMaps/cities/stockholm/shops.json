@@ -1,0 +1,1164 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYa_zUcHDFXDzE68yHUycLlFp5-QoMrO_W4s7lqNz8vOLXck_YCi-CGxlEtCKgjPmQ5oYvWl21L1cy0CmVo-7vS5JTwemZC2dxwaaZRvyBSuLMSiILWCoPo6C65M32ThhzcQeKauEgCZFfCIGcRz3MDLyNx9Gb4dfTM1sCW81bSJiwwY6d2kPNwq9DTccJg8rjUNKoxl1sxMvMcITjnWITk3lNblriyAoU_kRMlAgEnq7Faj3jpJDnNm2vkfI4ucjtlFMpyJ0sykIsjTeC9cnMqF5Ksfm_2WOvfF-UgIIUlQulJU6wJuRdIrzk_VgmR4qbycB_yxtqLUpVed3Dr0fpcMaRiEPPGRDfJDCkHR6laGK_tsvRzUw_N_RbK4Yw2SR-1WHPyqJssbVzmBhO7DA",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Drottninggatan 60, 111 21 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.33330549999999,
+               "lng" : 18.0621663
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33447327989272,
+                  "lng" : 18.06353022989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33177362010728,
+                  "lng" : 18.06083057010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Hötorgspassagen",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104093751128657483809\"\u003ePetr Vlček\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZFvoIIvclVl1-D3616zNwsi8A7LCBL80wZrWuxPoHV7UH-TL798uJy54hz53appQAAV0XHn8mXankqcW-C80ucmiy0NfCKZDTGUqYJeOvJjPKHElRY7pcTPLlDaHJkNznYYh4FvLvT5IwlkUVqWXGOMkvG2FaFUN_vCdCkhHXIvYHd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJHaEc_l2dX0YRKd0sMAzVD3A",
+         "plus_code" : 
+         {
+            "compound_code" : "83M6+8V Stockholm, Sweden",
+            "global_code" : "9FFW83M6+8V"
+         },
+         "rating" : 4,
+         "reference" : "ChIJHaEc_l2dX0YRKd0sMAzVD3A",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 468
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Drottninggatan 12, 111 51 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3297006,
+               "lng" : 18.0656855
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33094932989272,
+                  "lng" : 18.06703842989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32824967010727,
+                  "lng" : 18.06433877010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "J-Shops Stockholm AB",
+         "place_id" : "ChIJkZMKHV-dX0YRiRsUq6gEnBY",
+         "plus_code" : 
+         {
+            "compound_code" : "83H8+V7 Stockholm, Sweden",
+            "global_code" : "9FFW83H8+V7"
+         },
+         "rating" : 3,
+         "reference" : "ChIJkZMKHV-dX0YRiRsUq6gEnBY",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Upplandsgatan 39, 113 29 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3405137,
+               "lng" : 18.0503828
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.34186662989272,
+                  "lng" : 18.05173357989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33916697010728,
+                  "lng" : 18.04903392010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Shop Stockholm",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJFR80Y2WdX0YRBEHj5qmt7Rk",
+         "plus_code" : 
+         {
+            "compound_code" : "83R2+64 Stockholm, Sweden",
+            "global_code" : "9FFW83R2+64"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJFR80Y2WdX0YRBEHj5qmt7Rk",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sergels Torg 13, 111 57 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3331382,
+               "lng" : 18.0637953
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33424732989273,
+                  "lng" : 18.06531127989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33154767010728,
+                  "lng" : 18.06261162010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Punkt Shop",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116392708698450170540\"\u003eJanis Rokjans\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZG7zphiZUNm73cRNMxbH5GqcY-QAtY1DMZS9n77L9Sx37jOp46z6ouZywvntoSN43jcYUg3HETNxQ3NuOAdnwdKtzYngE3X8_rN3Unmw-qSX8FnVQyOFIfzhdfStVf2eP4yDWvxANol5-GFFSC1Bw059rzcF-S5bMKqiVw34Ayw1g1",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJhRAt-O53X0YREa95H0QFDpo",
+         "plus_code" : 
+         {
+            "compound_code" : "83M7+7G Stockholm, Sweden",
+            "global_code" : "9FFW83M7+7G"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJhRAt-O53X0YREa95H0QFDpo",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 353
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Regeringsgatan 48, 111 44 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3341832,
+               "lng" : 18.0680607
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33548702989273,
+                  "lng" : 18.06954517989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33278737010728,
+                  "lng" : 18.06684552010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "MOOD",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2832,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111647360880239992736\"\u003eMOOD Stockholm\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa6kDX6aFHcQfSKEZ0Adu9t7lYiWoe41aSBipu42wY3IY7QOGFgs4aQSo57ooxNtmkGfV_YwlcHJ0nBRmUcLy4GLfOQuNfsLQ5IQQgUJFl5V3r6-v0m3Fdt-8YYyjJHkhv2kFXzNJVrKikA5IeugC_33hGr3Mannb5X3W5knSWQSJf3",
+               "width" : 4256
+            }
+         ],
+         "place_id" : "ChIJmV9pYVydX0YRwxUw5RQCrNE",
+         "plus_code" : 
+         {
+            "compound_code" : "83M9+M6 Stockholm, Sweden",
+            "global_code" : "9FFW83M9+M6"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJmV9pYVydX0YRwxUw5RQCrNE",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3432
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Västerlånggatan 58, 111 29 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3236176,
+               "lng" : 18.0713311
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32497742989271,
+                  "lng" : 18.07270497989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32227777010727,
+                  "lng" : 18.07000532010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Made in stockholm",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104370664268692325588\"\u003eMade in Stockholm\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbrhjVTc-t8E17Y5aXhSMRvMHVV9OEN0wETg5sRIpfLzSU88sNCukjnPB0RX0-PLf262mutY8qCnPYifuQwWSyOOEGKh-PNiEKpGti__d8LV6xdpZ026rxGzNbX5P3Vl-Q3X35bQIKp0hoA0Sy8Zp4_syJOQkLuFAoqwSjX5p-HC12v",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJWScf5eJ3X0YRWNeRL2Zg0rY",
+         "plus_code" : 
+         {
+            "compound_code" : "83FC+CG Stockholm, Sweden",
+            "global_code" : "9FFW83FC+CG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJWScf5eJ3X0YRWNeRL2Zg0rY",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Klarabergsgatan 50, 111 21 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.33226989999999,
+               "lng" : 18.0614198
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33366537989273,
+                  "lng" : 18.0642465
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33096572010729,
+                  "lng" : 18.0587313
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Åhléns City",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3472,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114381338392914726322\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZCtPWElMhye6RoorCyJdzN4x1Byy_fHCsLAprgzTCiAanQyGziuqBpK4zjJHxAOLVq8LoDu1w_JEKqhWEWFnD7EHT4tr8nDT_WJBOKcLCkvdkGqlIEZCjz4PwX050MeJzf94FB0qb7hGljHbeOPPxjwrZ8q_03uQhYjia8DJuvZaS8",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJ27zoEF6dX0YRcI5Nned0McU",
+         "plus_code" : 
+         {
+            "compound_code" : "83J6+WH Stockholm, Sweden",
+            "global_code" : "9FFW83J6+WH"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ27zoEF6dX0YRcI5Nned0McU",
+         "types" : 
+         [
+            "department_store",
+            "laundry",
+            "beauty_salon",
+            "hair_care",
+            "clothing_store",
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16213
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Västerlånggatan 15, 111 29 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.32587639999999,
+               "lng" : 18.0688705
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32715497989271,
+                  "lng" : 18.07023417989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32445532010726,
+                  "lng" : 18.06753452010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Old Town Souvenir",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103610787507872061227\"\u003eCzakó István\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb-dLyslBoi_8WHd_iUW7dTUlfGz2MzT_TCes4m2gJNnojGcf-b2AqqV6qpHR5FeWBJMk7hySCwE7I62zNxHxATyArPcVLyiuIXWarxJrGqoXuFCY1LNwKXRbU2EibEiyp35LPHEt9firndztd2YhRpxKSqjzApaihlwlwTIAupA8Nb",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0wnDDOJ3X0YRaEnUZY_IQdo",
+         "plus_code" : 
+         {
+            "compound_code" : "83G9+9G Stockholm, Sweden",
+            "global_code" : "9FFW83G9+9G"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ0wnDDOJ3X0YRaEnUZY_IQdo",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 94
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Drottninggatan 77, 111 60 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3375645,
+               "lng" : 18.0574724
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33907972989272,
+                  "lng" : 18.05884057989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33638007010727,
+                  "lng" : 18.05614092010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Beyond Retro Drottninggatan",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111099113296619416956\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYxhz_085ZKYu3r7uJ_6r_eZyTE4MZECtMkDaIFoCEKN27qBwrvosbIw8T0Ds-jVX39O3nDuaVjRVAaj_g7MkFgZZtnYj-0G2gY4Cg7dd6KnUqqlQXTD14sQspm6vQoEYst2_rP2Qk9yojjK5at2Fdpqt_4rOvViTDYAex78FrmxwLv",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJXa65XGadX0YRKiAuqzS5tMg",
+         "plus_code" : 
+         {
+            "compound_code" : "83Q4+2X Stockholm, Sweden",
+            "global_code" : "9FFW83Q4+2X"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJXa65XGadX0YRKiAuqzS5tMg",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 497
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Västerlånggatan 34, 111 29 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.32472809999999,
+               "lng" : 18.0695936
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32614817989272,
+                  "lng" : 18.07133097989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32344852010727,
+                  "lng" : 18.06863132010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Indus The Gift Shop",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2048,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100863989486108754675\"\u003eINDUS The Gift Shop\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYsJSU0BbAASN4sesxgW-xhfZiCoNXPnyj10BMqRD9xJ4T7VUJfGFLhPewSUzKR_RA-u16hNv6k4_08KAbW5vsB4VRlwyizUg-Z5dSu2yTSdVUhlqD3Le1CqxP2NldDDnq4-lrtDEuq-5mwzfiN7UNRvVKqBcW6fI1AdKmF-ns_Ozl9",
+               "width" : 1146
+            }
+         ],
+         "place_id" : "ChIJ0Q1tXeJ3X0YRDMkICWvGCmE",
+         "plus_code" : 
+         {
+            "compound_code" : "83F9+VR Stockholm, Sweden",
+            "global_code" : "9FFW83F9+VR"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ0Q1tXeJ3X0YRDMkICWvGCmE",
+         "types" : 
+         [
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 66
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Drottninggatan 53, 111 57 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3329294,
+               "lng" : 18.0621723
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33440397989272,
+                  "lng" : 18.06347922989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33170432010728,
+                  "lng" : 18.06077957010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "ARKET Store",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115783705853595018040\"\u003eJoakim Troëng\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbdnze0DtMKodEsK6UR8Bb__gN3ZHyqdCGA6mM35f1_UjXIp9cA5NItWlO9e4_JzZ0QNdVJd2Lnk--9oMMCoar5f4mHmOUDLoz6SCmr5P8vKnIDLst8wCzYr1V2kNpE2hB7qyhnBwqlGtLW7lTTWH_axF-gjQfvJhbkMdMruysoVIJo",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJsTBpY_udX0YR7F7HlFC5tX0",
+         "plus_code" : 
+         {
+            "compound_code" : "83M6+5V Stockholm, Sweden",
+            "global_code" : "9FFW83M6+5V"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJsTBpY_udX0YR7F7HlFC5tX0",
+         "types" : 
+         [
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 227
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Götgatan 36, 118 26 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.31710469999999,
+               "lng" : 18.0717466
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.31842437989273,
+                  "lng" : 18.07310147989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.31572472010728,
+                  "lng" : 18.07040182010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "APLACE - Stockholm",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3036,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109564899497660788428\"\u003esampo savolainen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJncGV1D1rvfUJub-JxG5E9Gf4VR4sysUpM6u2kg119dT3p--z5GSS7jP_Td37kcyI_mfqxeQGsiDokVx6ozzq1QkFkD_bdgw0UndqOcqhSMhZODqhhfPr3ddXvf5LbAwK_jDd-KbUYo4SbvEedLuxyHa5JELdVBkrI1Mbdljjpu3g",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJBcxiJft3X0YRYWJeb_ioRGM",
+         "plus_code" : 
+         {
+            "compound_code" : "838C+RM Stockholm, Sweden",
+            "global_code" : "9FFW838C+RM"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJBcxiJft3X0YRYWJeb_ioRGM",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 41
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hamngatan 18, 20, 2 floor, 111 47 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.332953,
+               "lng" : 18.0687783
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33418557989272,
+                  "lng" : 18.06992752989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33148592010728,
+                  "lng" : 18.06722787010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Collage the Shop Stockholm",
+         "place_id" : "ChIJ6bsaU0KdX0YRMS7MFkQCwpM",
+         "plus_code" : 
+         {
+            "compound_code" : "83M9+5G Stockholm, Sweden",
+            "global_code" : "9FFW83M9+5G"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ6bsaU0KdX0YRMS7MFkQCwpM",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Västerlånggatan 42, 111 29 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3242357,
+               "lng" : 18.0702466
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32544472989272,
+                  "lng" : 18.07192017989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32274507010727,
+                  "lng" : 18.06922052010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Nordic Designs Stockholm",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109994300918707784133\"\u003eSilvana Pomo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZYNoe-k64kuGm37h6dQf9lc_I8nlksPNDSjtth273s47C7x0LEI5Wa07rdMzW0t1nmQPCBkajCdysVZQV7-XyJafoH6XuSGGPdNwnPcIc59S9MzV63ryGlumZhh8kByO93hDFF7E4Mcee6UiJb3aaTD2k__Dxe3lUCrnvt_uWVu5VT",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJTf04-Rt3X0YRFueNmB9YkeA",
+         "plus_code" : 
+         {
+            "compound_code" : "83FC+M3 Stockholm, Sweden",
+            "global_code" : "9FFW83FC+M3"
+         },
+         "rating" : 4,
+         "reference" : "ChIJTf04-Rt3X0YRFueNmB9YkeA",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grev Turegatan 1, 114 34 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.33513869999999,
+               "lng" : 18.0740446
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33640717989272,
+                  "lng" : 18.07564277989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33370752010728,
+                  "lng" : 18.07294312010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "xNomad Östermalm Pop up Store",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3712,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115793463945479124702\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb5UbHIHX9Rr-8oSUX1oVCAzebf6b55V-8qa6v_M5x2iSddzjBdFLjzS8gzSkg9tqlCGDvudm1jyk0mpGbzIcGfLR9Np1uhgbrlYIAzP9XCEsGDJqHMcROwOywOTKgT0RyEEBnnjSUjj_a0w2JmaWA4NEWRveP7cQDRRYOsu31i-qpq",
+               "width" : 5568
+            }
+         ],
+         "place_id" : "ChIJjdaQBGqdX0YRIpArGDdC6R0",
+         "plus_code" : 
+         {
+            "compound_code" : "83PF+3J Stockholm, Sweden",
+            "global_code" : "9FFW83PF+3J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJjdaQBGqdX0YRIpArGDdC6R0",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hamngatan 18-20, 111 47 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3331523,
+               "lng" : 18.0691707
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33429337989273,
+                  "lng" : 18.06994267989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33159372010729,
+                  "lng" : 18.06724302010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "NK Stockholm",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115705819540078491898\"\u003e118agent\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZckvYKd2M-ClloZIwPhyGRRkuU2lvi_FJ9GK_VGNgTXxPRfJe8e3VYolS8_XRbJZ-HXfn9mdaBLI5BTKpZ9tyhhv1aH-wUvSHMwGit_-5qHuOIua8mcc4y5N_hHQLpcH3YyXJ2Sb6_hCXLl533jut46mVVCGM7FpZMJMMqM8OCTac",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJUfytGVydX0YR3hz6VSLi13E",
+         "plus_code" : 
+         {
+            "compound_code" : "83M9+7M Stockholm, Sweden",
+            "global_code" : "9FFW83M9+7M"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJUfytGVydX0YR3hz6VSLi13E",
+         "types" : 
+         [
+            "department_store",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9265
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sergelgången 10, 111 57 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3325213,
+               "lng" : 18.0676877
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33386277989272,
+                  "lng" : 18.06903832989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33116312010728,
+                  "lng" : 18.06633867010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Movon",
+         "place_id" : "ChIJZXOiD4KdX0YRU6-6NRykT-o",
+         "plus_code" : 
+         {
+            "compound_code" : "83M9+23 Stockholm, Sweden",
+            "global_code" : "9FFW83M9+23"
+         },
+         "rating" : 3,
+         "reference" : "ChIJZXOiD4KdX0YRU6-6NRykT-o",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Drottninggatan 11, 111 51 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.32934729999999,
+               "lng" : 18.0657926
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33076882989273,
+                  "lng" : 18.06718707989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32806917010728,
+                  "lng" : 18.06448742010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Style Council Souvenir Shop",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103995669981009398115\"\u003eArjumand Bonhomme\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaZfQon5VN3SO2LCaAiUofh-dxIbNSEiukmSllubbBpUReumfYA9TZe7Kgvjf1lqy_sHe903p_8Q-_1MapRqkniVyTlQoSBD0HMNa8PZbmJ6Ep9fKafGQx2uQTAZwcypjEvb48FDmVgi3bpjIPbg6q82AyIv0LccqZ1OcKAxyt8tfuG",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJg5rsuC6dX0YRsr80opZ9JBA",
+         "plus_code" : 
+         {
+            "compound_code" : "83H8+P8 Stockholm, Sweden",
+            "global_code" : "9FFW83H8+P8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJg5rsuC6dX0YRsr80opZ9JBA",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 105
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prästgatan 9-5, 111 29 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3256934,
+               "lng" : 18.0693474
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32706822989272,
+                  "lng" : 18.07068197989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32436857010727,
+                  "lng" : 18.06798232010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Gamla Stan Shops",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3648,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116497793936149484472\"\u003eRaed Abu Mohammad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaG1E20D9AFYAejIoWEahjgn2GuMBu0Uly9yOt9J4OAqWiQBhIP0XcupQfn5L0L3wvVYqXBd9I5SYa-9CWF_Mdzo026uOFziFzc5EJ_KkGJlGa0jH-T5oQ9FDm-vhtCtOtK7cIIu5-IeTsbPsXoPRS1Nmrl-v2alvleezal_DGOxEP5",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJO2Mk9-x3X0YRFivU6gZiCCM",
+         "plus_code" : 
+         {
+            "compound_code" : "83G9+7P Stockholm, Sweden",
+            "global_code" : "9FFW83G9+7P"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJO2Mk9-x3X0YRFivU6gZiCCM",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hamngatan 37, 111 53 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.330618,
+               "lng" : 18.0678262
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33189232989272,
+                  "lng" : 18.06945367989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32919267010728,
+                  "lng" : 18.06675402010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Dedicated Stockholm",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1333,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118242840448166852566\"\u003eTshirt Store\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZZpBjw7xTbhpzvPV9jUcgcLdiCOjDE4zJJqtTJalLBqVnnJ5JoakiVmr3dqH0SQBmG92Izp3pIwL3GybFuQIezw8P0lTLuGgaf7JIFwdISz1KU0EVKNB1xRIApjm-2rXnntCWpcZabUHeW0cK-BKWSXlFlwIdw4j0tIU3VtyL5tLXf",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJ3eJEwV6dX0YRV98YAH1eSvY",
+         "plus_code" : 
+         {
+            "compound_code" : "83J9+64 Stockholm, Sweden",
+            "global_code" : "9FFW83J9+64"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ3eJEwV6dX0YRV98YAH1eSvY",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 44
+      }
+   ],
+   "status" : "OK"
+}

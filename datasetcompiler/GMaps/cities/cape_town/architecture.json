@@ -1,0 +1,1154 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZ2mueEMC12JA59F96PzG00Drl_NKj9FZGd-UstP9PMecge5cURpTRgA5OWLvDu7Ky34zldXWr1oCpvgDl3sfphhEox_UyetUsSXCJZD-8nPS53tjRSjsbsBFab5QdR1Iru6gMJEWyrbNoGrjxYWOsmdM5dQaSKcv1UnoJ7iEBhQDEhzBhWQZNBRkSAkV7C_vWNQuGvGfDuX22PdpjweB4862rnAy1tlkMqGLJYkHl_zVAYbB5ccpv8Q0wnfiTJfIUTfyDrYL99fkz_xj2tNZTwObJOJjTf6pZ4jLFrbjwO9Ovx4nAetGRPKXkSLoEM8br6aUR48G7MDiiugAcXlKNEFE4ky8orwrPJ0AOKlqBBI0HvwpsSmsWXmvr46pwBHUkaKejQmErePWcqOvxlmSc98lVdTtM",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "116 Loop St, Cape Town City Centre, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9226575,
+               "lng" : 18.4174985
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92136397010727,
+                  "lng" : 18.41892127989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92406362989271,
+                  "lng" : 18.41622162010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "K M H Architects",
+         "place_id" : "ChIJ8b2gw2VnzB0RvOQ73104CRk",
+         "plus_code" : 
+         {
+            "compound_code" : "3CG9+W2 De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CG9+W2"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ8b2gw2VnzB0RvOQ73104CRk",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 22
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Old Cape Quarter, 66 Waterkant St, De Waterkant, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9166886,
+               "lng" : 18.4176711
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.91526297010729,
+                  "lng" : 18.41888557989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.91796262989273,
+                  "lng" : 18.41618592010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "dhk Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111190671503459848590\"\u003edhk Architects\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY1QFw4PzvC7j78oH1hp0R5KFm3-PNhDWJKZE8byonEQtWtLlcU_LWYwDKEEIanD3t62EgBOWlneLckjq-m0U2bofXSnytaxlwhnsKs_gK3Im51K2wr1iByvgANexPseUDfHmG2Oyk6F7T_dla-nZI9Ce97AJ747vxW1IXYyPUZI1QS",
+               "width" : 1618
+            }
+         ],
+         "place_id" : "ChIJmZe1SF1nzB0R80Yb925QARQ",
+         "plus_code" : 
+         {
+            "compound_code" : "3CM9+83 De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CM9+83"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJmZe1SF1nzB0R80Yb925QARQ",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 48
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "109 Hatfield St, Gardens, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9313438,
+               "lng" : 18.4160858
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92995132010727,
+                  "lng" : 18.41736957989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.93265097989272,
+                  "lng" : 18.41466992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SAOTA",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2109,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104983404401907325740\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbnZJpIN_Hjpj6J7lCBFf6_uceMgeNlckvvAQWkyeQVqKzJOfO-hDL-gbIrhrez1FkSxhIKMQf3qS7oYK5VHV-hczL9efRiIbU59Wb94Wt_W91L4bREo92vqYDeB68lHvu_CKnxcNsIQxyXlhDe4cANrqcGcNjKU5Q2KvimIh48HLbt",
+               "width" : 3163
+            }
+         ],
+         "place_id" : "ChIJhxKTdHpnzB0RJy7EZvcJcQc",
+         "plus_code" : 
+         {
+            "compound_code" : "3C98+FC De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3C98+FC"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJhxKTdHpnzB0RJy7EZvcJcQc",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 111
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Unit 403 (4th Floor De Oude Schuur, 120 Bree St, Cape Town City Centre, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.922102,
+               "lng" : 18.416808
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92079272010728,
+                  "lng" : 18.41820637989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92349237989272,
+                  "lng" : 18.41550672010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jenny Mills Architecture and Interior Design",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 768,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107087349218204513273\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ50kHAgX0FJ55jya2rzX8Cu_M2CawB5f1ezp1Z_rhM_uCXpuLurLru9YDpdgyEf_nb7a74ah-0UOKn4FJWDZ7OqE0SSnLJHU7jgE6MoXVP3kaTvpvRHC_iIFQQne0rOatX3NfIyBVRdk61LH8L83_qab9Kk9-tysxcY15cOJ-rfWxl",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJeSlh4WVnzB0ROF7uftP6abA",
+         "plus_code" : 
+         {
+            "compound_code" : "3CH8+5P De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CH8+5P"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJeSlh4WVnzB0ROF7uftP6abA",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Studio 304, 3rd floor The Armoury Buchanan Square, 160 Sir Lowry Rd, Woodstock, Cape Town, 7925, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9283563,
+               "lng" : 18.4364563
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92702447010728,
+                  "lng" : 18.43780472989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92972412989272,
+                  "lng" : 18.43510507010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "GAPP ARCHITECTS AND URBAN DESIGNERS",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 768,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110763477194217114639\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJab67nCCcFulMF9e16XypKc9XQ-mfi-cHyaleBwj1zkrI5DhXpdXEENiUH61eS6EmSzncMwsAz5v4Syvo4h-HGNDzgW5StM_ASAfNc1kqoGClYgIKV3TVx0TcBZedgay-1dJ-g54huAbl5eQSLq_ke_ytmGyjy1r7bZVIYnTNbJYc6x",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJO7wKMmRnzB0R_IhmftGqr0s",
+         "plus_code" : 
+         {
+            "compound_code" : "3CCP+MH De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CCP+MH"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJO7wKMmRnzB0R_IhmftGqr0s",
+         "types" : 
+         [
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "75 Morningside St, Ndabeni, Cape Town, 7405, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9276819,
+               "lng" : 18.4984929
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92624962010727,
+                  "lng" : 18.49991007989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92894927989272,
+                  "lng" : 18.49721042010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "RENNIE SCURR ADENDORFF - Architecture, Interior Design, Heritage",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 475,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105798894087951845217\"\u003eRennie Scurr Adendorff\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbh0bzyKWr90zBGqR--IhUfVn88YkBdhFVfns1f1vsqbaAUSAt1eZ9XUoFpZ4ySSkqYmartdzE-24y9OJeQap3qHQQkodYDRJFjpna4O1HLqf8wHY3gA8qBXshuJCU-NGjo40kiD4dG7_ppYdG4-3sypbLqgEBBNhQis1IgWhO9k5xQ",
+               "width" : 634
+            }
+         ],
+         "place_id" : "ChIJvzUXamRnzB0RExq8aewQ7UQ",
+         "plus_code" : 
+         {
+            "compound_code" : "3FCX+WC Goodwood, Cape Town, South Africa",
+            "global_code" : "4FRW3FCX+WC"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJvzUXamRnzB0RExq8aewQ7UQ",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "16 Mill St, Gardens, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9341582,
+               "lng" : 18.4159676
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.93268762010729,
+                  "lng" : 18.41732997989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.93538727989273,
+                  "lng" : 18.41463032010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Peerutin Karol",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110911713220267519595\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJairbVN2aZZ9c2_BrxoJQVMbNOz0i8pkebuuJkyX6HACnl9eG2RAWo2P4PhstHjUCD2CzmS11Y4wokE6wKPbP1sHnf4H0pEmqLCRDN_WGhlmn3MnqX2IL2aCyshAND1n8YI6-uCmIzMdhAiK6laNyDJQqmGzL0lUH7JJHSRW4kBkuhN",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJo3ajlHFnzB0RcqDsjEmPBmA",
+         "plus_code" : 
+         {
+            "compound_code" : "3C88+89 De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3C88+89"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJo3ajlHFnzB0RcqDsjEmPBmA",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "99 Buitenkant St, Gardens, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9310275,
+               "lng" : 18.4205885
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92965847010728,
+                  "lng" : 18.42187477989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.93235812989272,
+                  "lng" : 18.41917512010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jakupa Architects and Urban Designers",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3060,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113079750459927811469\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbwsH_pR9JS0HC3Rjwx8OEHCU-upY-pm9vPULzbblIoEJnCNGimSlluAFO7sr1zjaVa-ZKsnl5OlYc0jq9MGBjs9RCgnWHgjio2ySQ1fI3pOsORSgRgub_nb2Uop6VWi0DpN5-GhgkPJSlMUXLuYIPp5T66x-_vHnf1hfzzuvTCTzA5",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJzxwe7HtnzB0RiM9Q8l2YOqw",
+         "plus_code" : 
+         {
+            "compound_code" : "3C9C+H7 De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3C9C+H7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJzxwe7HtnzB0RiM9Q8l2YOqw",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "50 Harrington St, District Six, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.928223,
+               "lng" : 18.4239564
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92690537010728,
+                  "lng" : 18.42534807989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92960502989272,
+                  "lng" : 18.42264842010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Connect Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1695,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112989797148925369136\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGfQYfodYuE-pFPzaOf_o1YSa9HPoBKiasav-FKrO9ENVoUNuVpaBKCs72zL4nInjP62OZuQDBTWEhEAjf2NbXEO_tsBYhnxge3cWzF_oYX8E8tHJjzhz34IoeIC7T99u_cCGKMUhZf9BWS8sSr4x1-kMLEKJFFqJQ44uyPHqsB0kH",
+               "width" : 2421
+            }
+         ],
+         "place_id" : "ChIJ4XSTCeRnzB0R6hm-30lKPHc",
+         "plus_code" : 
+         {
+            "compound_code" : "3CCF+PH De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CCF+PH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ4XSTCeRnzB0R6hm-30lKPHc",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "398 Albert Rd, Salt River, Cape Town, 7925, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9288243,
+               "lng" : 18.4603281
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92747277010727,
+                  "lng" : 18.46163082989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.93017242989271,
+                  "lng" : 18.45893117010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ACG Architects & Development Planners",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111145395245720015371\"\u003eMbimbi Qotyana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY4r2VVwpa2hVg9LUdj3kEudMWPwQzGaVOsuUXs7jfjstz85hg4uPppQpoNjc--8V2G47Q_-0-aJtUWpQM-Ox-N2pcrtsnaw2St1HzUuzBWYAccpa8hwmn70GLnAzyXEdB9NHPJCrsWNhbZSK4YwqXrxDn7LFNYQaAzlwxS8iN3mvvo",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJw89nqqddzB0RGbPVc7Gz920",
+         "plus_code" : 
+         {
+            "compound_code" : "3FC6+F4 Bloubergstrand, Cape Town, South Africa",
+            "global_code" : "4FRW3FC6+F4"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJw89nqqddzB0RGbPVc7Gz920",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Office F14 First Floor, Willowbridge Shopping Centre, 39 Carl Cronje Drive, Tygervalley, Bellville, 7530, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.8707896,
+               "lng" : 18.6312499
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.86944837010727,
+                  "lng" : 18.63238612989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.87214802989271,
+                  "lng" : 18.62968647010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "BPAS Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 630,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113598712734811221043\"\u003eBPAS Architecture\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYAUGchzBzcEwzOoRujBnlqIFDpqv1ZeJEysx0fqt7ozWmC6cJknF_TdiRkbbdkSftVk5Ydh-JE08EbHQ7hOf9uENbJkjuO5JmcYc0L07mzdPzfMobtDbopTwbA8jTkvtCp6pvTlbnQgcpqex7vWU_xeTs-1vaAEudnDgTdEAqqxuAL",
+               "width" : 1895
+            }
+         ],
+         "place_id" : "ChIJuVzSVbtQzB0RFnshhPXwKR0",
+         "plus_code" : 
+         {
+            "compound_code" : "4JHJ+MG Bellville, Cape Town, South Africa",
+            "global_code" : "4FRW4JHJ+MG"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJuVzSVbtQzB0RFnshhPXwKR0",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 31
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Units 9 & 10, Canal Plaza, Battery Park, Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9132218,
+               "lng" : 18.4221582
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.91175417010728,
+                  "lng" : 18.42397957989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.91445382989272,
+                  "lng" : 18.42127992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Greg Wright Architects Pty Ltd",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102075529051616181787\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb5ihap0jGD9oH_4A9DZDyWKhodDDkJLL_UZQuTApdj4p-TYYchE9maslAKD8DLyuX_lzOzFrRw4s9uwbCnUVXBROdK9cWM436aicwUrkZumxrgt76LMrbSAFFuPaJGITJgt4y5K3ID7utvC-BdAoV7Bj3bh7kzURrB57ymYQZgo_zX",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJP6AMh3tnzB0RiA638ws_BFY",
+         "plus_code" : 
+         {
+            "compound_code" : "3CPC+PV De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CPC+PV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJP6AMh3tnzB0RiA638ws_BFY",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5 Waterford Mews, Century City, Cape Town, 7441, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.8888898,
+               "lng" : 18.5203579
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.88752242010727,
+                  "lng" : 18.52162397989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.89022207989272,
+                  "lng" : 18.51892432010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SLT Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 675,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109697103462453144254\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbFoPbqefJiZ5tjPpIqGWzBpp9z5SUni6RMx9NiF_VrlnfAxufum1WzHa9xF-B-0mMMnHEw_4LgftFKPqSIVSJ8o76SIMyN48HJ590c6ysnM81NakpuN3phk3BcbWHtX_MAUWuYTcy4kr9JEugbkv-n5mJHWpd5WK9gMXvE6UMaFp39",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ7yNt0gdczB0RMnhAMIkEb8A",
+         "plus_code" : 
+         {
+            "compound_code" : "4G6C+C4 Milnerton, Cape Town, South Africa",
+            "global_code" : "4FRW4G6C+C4"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ7yNt0gdczB0RMnhAMIkEb8A",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1st Floor, 236 Buitengracht St, Schotsche Kloof, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9258916,
+               "lng" : 18.4113157
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92457102010728,
+                  "lng" : 18.41270467989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92727067989272,
+                  "lng" : 18.41000502010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "suzaan de kock | architecture + interior design",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1044,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101234622258414942006\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYKvpNOzoVAvrs263dupn3r50IcJHdiYlcft_Qh6kDN7Z4dDE8bSIvnttUmkQMwQkEkeaOU2GvorwLEMBPBnPzSnOkM8zte399WEbfS2E3gvGc31zC0RA5GCGFPMa1Qo-c-0UCrMldnC4JF5NYfpV9p_9LWYqVWEkdNPuqNbrD-doqe",
+               "width" : 1044
+            }
+         ],
+         "place_id" : "ChIJ_Tz_dipnzB0RfCf-VY7jFso",
+         "plus_code" : 
+         {
+            "compound_code" : "3CF6+JG De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CF6+JG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_Tz_dipnzB0RfCf-VY7jFso",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 36
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "7 Ravenscraig Rd, Woodstock, Cape Town, 7925, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9299056,
+               "lng" : 18.4435153
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92855577010729,
+                  "lng" : 18.44486512989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.93125542989273,
+                  "lng" : 18.44216547010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Two Five Five Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110061529572098766144\"\u003eTwo Five Five Architects\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZn8Z8cYk7IUts-AIicRq9Atm_FNuFgFGB4OqKqK58e0FI-uZ-klVRw3IEkaLJbxjIH8KX1hlSa9zlwkiN0sOYxYRfD1xnMTfsX9dAamkgkLbw0sWYxqCPiX8wJZhFDSsCsxYkhVrnRApa8ddnFZDV8u85k4rakqHq64AxDlmabc81X",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJlXCfhAddzB0RRJd4A_4HR1A",
+         "plus_code" : 
+         {
+            "compound_code" : "3CCV+2C De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CCV+2C"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJlXCfhAddzB0RRJd4A_4HR1A",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3rd Floor Office 33 Martin Hammerschlag Way Corner Jack Craig Street, Martin Hammerschlag Way, Foreshore, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9205692,
+               "lng" : 18.4316306
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.91919657010728,
+                  "lng" : 18.43294872989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92189622989272,
+                  "lng" : 18.43024907010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "MLB Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 822,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103110360908207309921\"\u003eMLB Architects\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJabEgP0IRhL464hDslU-8k5lml5Gxt3jDvyKq4pdaFION92WCVTXc5wgLhyb-sNMLttYqzth6He0qbqQdcv11UzihyN-ohJ5oHqNVzA3TBZmWQIuTBPzB0I6iRxdmMq5Fa_juCCI6KTvYo4_XYvShmvwQOL2QnB-CeX5qMDXXE6OggO",
+               "width" : 656
+            }
+         ],
+         "place_id" : "ChIJ28QGbIldzB0RfQJ5JVkzq8o",
+         "plus_code" : 
+         {
+            "compound_code" : "3CHJ+QM De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CHJ+QM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ28QGbIldzB0RfQJ5JVkzq8o",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "136 Buitengracht St, Cape Town City Centre, Cape Town, 8000, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9218106,
+               "lng" : 18.4152007
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92056587010727,
+                  "lng" : 18.41671747989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92326552989272,
+                  "lng" : 18.41401782010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Wolff Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJNZpZq2hnzB0R4joBXVDhJsk",
+         "plus_code" : 
+         {
+            "compound_code" : "3CH8+73 De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CH8+73"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJNZpZq2hnzB0R4joBXVDhJsk",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "57 Buitenkant St, Cape Town City Centre, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9296399,
+               "lng" : 18.4215605
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92826217010728,
+                  "lng" : 18.42285987989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.93096182989272,
+                  "lng" : 18.42016022010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "R&L Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 636,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105640468393566368563\"\u003eR&amp;L Architects\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb2IkTBnv4hNF-BUsTTeQRHaF1ojTZ0EfSiAu5woSpfvXWhXZESFkv1mqUlP3HtDLV67aVt7C-iTH2zqh1KN7dd8hV1XaTaDjzb-LZrJYJ1MfBikMZes-pp5QZ636d108Gk7ySJydDAoXN7OB-WsRYziTEnCks0G2JO9HW7Dut5a2E",
+               "width" : 1370
+            }
+         ],
+         "place_id" : "ChIJWyMUh3tnzB0RcdOodMwApwE",
+         "plus_code" : 
+         {
+            "compound_code" : "3CCC+4J De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CCC+4J"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJWyMUh3tnzB0RcdOodMwApwE",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "161 Longmarket St, Cape Town City Centre, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9223194,
+               "lng" : 18.4189122
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92094847010728,
+                  "lng" : 18.42028352989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92364812989273,
+                  "lng" : 18.41758387010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Van der Merwe Miszewski Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 446,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109898159766469966186\"\u003eVan der Merwe Miszewski Architects\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbYRE_hpuyQuJkDQ5HXDpcKCK-Fn7bCSxHvD1WnLO9lNimEH_rKqOeOz844AYXHXRR1gMOeM7HnhdRINK5pUMjlzm1sqRCyYv7T5mtSIRdq_LcRNyyoVnpu9xym6TiBYaOKfh0QlFQMCThif1x9tZxmJJ0M7PQtqwSwdOe3lCs1wXZp",
+               "width" : 669
+            }
+         ],
+         "place_id" : "ChIJL7SHYW9nzB0RbrmzqpmXXg8",
+         "plus_code" : 
+         {
+            "compound_code" : "3CH9+3H De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CH9+3H"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJL7SHYW9nzB0RbrmzqpmXXg8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8th Floor, Protea North Wharf Hotel, No.1 Lower Bree Street, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9164608,
+               "lng" : 18.4239512
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.91511097010727,
+                  "lng" : 18.42530102989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.91781062989271,
+                  "lng" : 18.42260137010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "FABIAN ARCHITECTS",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJLfBgdW9nzB0Ryj8Y0l5cyc0",
+         "plus_code" : 
+         {
+            "compound_code" : "3CMF+CH De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CMF+CH"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJLfBgdW9nzB0Ryj8Y0l5cyc0",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      }
+   ],
+   "status" : "OK"
+}

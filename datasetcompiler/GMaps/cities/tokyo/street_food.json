@@ -1,0 +1,380 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Japan, 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1 Chome−9−1 東京駅一番街 B1",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 35.6802935,
+               "lng" : 139.7679568
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.68171992989272,
+                  "lng" : 139.7698392798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 35.67902027010728,
+                  "lng" : 139.7671396201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tokyo Ramen Street",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118105094419765876786\"\u003eおるふぇのくん\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZAj3PtWUVqBW7D-Lg7mTcikuli7QqEJgIGp6doqmIMX_Ks3Rxg702DpDsSkrNjf1BRKNjB0DrXXNgUbapl2BPlesL9B7ITxq9lwoKAQAcQVrv9Xcb_ifHmly1h1bxyt5WVhz_Ulf3Y-3fCj6eDo4I35Ev9GrgIqHqyyhqEWX0ci-uC",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJGeYlX_mLGGARwsJahMe-XZg",
+         "plus_code" : 
+         {
+            "compound_code" : "MQJ9+45 Chiyoda City, Tokyo, Japan",
+            "global_code" : "8Q7XMQJ9+45"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJGeYlX_mLGGARwsJahMe-XZg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4601
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "512 W State St, Ithaca, NY 14850, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 42.439495,
+               "lng" : -76.506798
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 42.44074842989272,
+                  "lng" : -76.50545767010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 42.43804877010728,
+                  "lng" : -76.50815732989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Maru Ramen",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113792236576729789116\"\u003eRishabh Auti\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaPjAgdO8Usq8qyklz-t-hApcKgQI1ricKEPJwa0lzfpP1Bztii4flmetFiT6bDzzSctF48sCUbR1h8I_brbF6C5CPqOXueb8nj64RyYjyCB_Srs1or3kK1Ry2Vls4teQEHwBkTBofD5Kd_OmAGhHVQY0SUk9nEGrI4DmdnoyK0nUAC",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJlYR7IGiB0IkRbvPxgZHICPE",
+         "plus_code" : 
+         {
+            "compound_code" : "CFQV+Q7 Ithaca, New York",
+            "global_code" : "87J5CFQV+Q7"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJlYR7IGiB0IkRbvPxgZHICPE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 814
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Chome-1-25 Nishiikebukuro, Toshima City, Tokyo 171-8512, Japan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 35.7309273,
+               "lng" : 139.7104197
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.73241717989273,
+                  "lng" : 139.7117239798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 35.72971752010728,
+                  "lng" : 139.7090243201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "THAI STREET FOOD",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110506772874729971818\"\u003eTomoki Ariyama\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZsXeZ0SZhfVIQxgdjDrcZ144Pu7RSMiJQU8EJy1fb5tn0BV2nPDvUHgEkDoWODa4f9HjwO5wK3qgx-jzzDv1IDLpnEet9WQewQGJGh-l853henlQYQD6A0lJ5SLNRgpSeAGOVA35pE45Wqclg55kqOB929g0cZiKH09cyOHz4u9npo",
+               "width" : 5333
+            }
+         ],
+         "place_id" : "ChIJteJvnl2NGGAR5ffwH6q3ntA",
+         "plus_code" : 
+         {
+            "compound_code" : "PPJ6+95 Toshima City, Tokyo, Japan",
+            "global_code" : "8Q7XPPJ6+95"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJteJvnl2NGGAR5ffwH6q3ntA",
+         "types" : 
+         [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 340
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Japan, 〒160-0022 Tokyo, Shinjuku City, Shinjuku, 3 Chome−36−12 杉忠ビル B1&1F",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 35.6906414,
+               "lng" : 139.7020365
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.69204767989272,
+                  "lng" : 139.7033794298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 35.68934802010728,
+                  "lng" : 139.7006797701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ryu no Miyako Inshokugai (Shinjuku)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109318001997650672294\"\u003e善久山道\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZEsXO_PbdYz7Zlfs6WYG97ScHb4CNmLZtLL_e4RarVEcns8e7BSMN9pd3xLkvNJeRKR9J-Y70aK3Q6LmvLKLMrUyppcJsMtr4u2066fKLo-yWOhJhGkcpJ2f_cckJkk3YcbiI5xyhBlsRqiNnPvYtKw6pbV9ofIy6-F2eYnYM5dqPi",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJo3aTTv6NGGAR52gWuI2ZwZ4",
+         "plus_code" : 
+         {
+            "compound_code" : "MPR2+7R Shinjuku City, Tokyo, Japan",
+            "global_code" : "8Q7XMPR2+7R"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJo3aTTv6NGGAR52gWuI2ZwZ4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 372
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3 Chome-13-1 Yoyogi, Shibuya City, Tokyo 151-0053, Japan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 35.6840274,
+               "lng" : 139.6950281
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.68533227989272,
+                  "lng" : 139.6963507798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 35.68263262010728,
+                  "lng" : 139.6936511201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Food Company",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2633,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109968853537249008801\"\u003eMatt\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ83B0ScPe6Z6SDswswaE87UwmS0kcmMpA9tQmyZGe0MiZRNoPSNnXzcc7jFAyA1ZBFIANd4Eg6f_n3Q3WVSPd2SqrI5MYCfxK_PPPkAFg31UBl9G8W-nXbR6r9a-vQ3PA4_sK9HSZeBjMYB9d0foAgjQxxdQ7XDk6G-RV1nrakHk5k",
+               "width" : 3023
+            }
+         ],
+         "place_id" : "ChIJp17dBa6NGGARms8zTwATlv4",
+         "plus_code" : 
+         {
+            "compound_code" : "MMMV+JX Shibuya City, Tokyo, Japan",
+            "global_code" : "8Q7XMMMV+JX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJp17dBa6NGGARms8zTwATlv4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 6 Chome−2−31, Roppongi Hills North Tower, B1",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 35.6618282,
+               "lng" : 139.7300114
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 35.66312692989273,
+                  "lng" : 139.7315211298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 35.66042727010728,
+                  "lng" : 139.7288214701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Thai Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116507104300407017311\"\u003e田辺幹雄\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaDWsBbmJyEryJMFaOIgp-0dOToy7u8NLI2HwcioznS6Tp_V3s5xkeBykLKhDlVISf8gVhmgnl1Mq0K3r-Y8dJWppmhQI1ufW9BdBF24qJvGa-zS46pmLcZvbjdlI8zgYzR9ejhHjMhjtgh5unIS1hreBaglBno6Rn6ngorqEotFw_h",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJKQ3dckiLGGARmF614IaLbWs",
+         "plus_code" : 
+         {
+            "compound_code" : "MP6J+P2 Minato City, Tokyo, Japan",
+            "global_code" : "8Q7XMP6J+P2"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJKQ3dckiLGGARmF614IaLbWs",
+         "types" : 
+         [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 112
+      }
+   ],
+   "status" : "OK"
+}

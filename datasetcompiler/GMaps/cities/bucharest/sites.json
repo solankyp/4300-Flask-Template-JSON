@@ -1,0 +1,1197 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYvjlzYsQJwujeJGwiRjBIE-enxRD362G-WYehEPRC2NhZ0z1-141dht7iLeaW40qLcfAVz22YtZkpHan3plYKfKCbzp_WW22_qYxwM1tNMgHkSJ0H5HrcAkPwSGOHpT-A_CaNhATh5wr06NIga0sFglvg6to7L67kZL-W0ONSCLHKlpSRR3kC8wc7qmIpBIed8utOldel95VX2RQ0JQxTxpNmL3uNROyn0VvG4lt2Ru8D_JRIIhCjP40zFnYcll-wneUi63jm1Z46MSTzonNvLQ65j4soxqR30BPirDi_hD5t3M9LKP7I96uhsZKKLMLOPiZTj6cCp8Es87xP5wpUHnUo8iBNjZq9PBlj3BIixDXmlyWW7GHTP0F9WMJuR0jh8Bt-ZFxn81rEWxNThyQ",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bulevardul Regina Elisabeta, București 030167, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4373441,
+               "lng" : 26.0910803
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.43869392989272,
+                  "lng" : 26.09243012989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.43599427010728,
+                  "lng" : 26.08973047010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Grădina Cișmigiu",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 750,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113482343908983147932\"\u003eRandolfo Santos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZYcL9zTjvErAch5T_KePthYq6Oyf1lnRcb7669imcGZp0YtJaX7jOuNFv5mQ_1GLijIDxumJv3uvPNXxGT6hZKJnMOh9ucblwCN4aXk2AVWCuZ0wWJwcVROlykLY1URHIUA9TMOb-QhTX1AgfjfiVV5llZe7NyIhK-xv68v_N2djJo",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJz29-j0P_sUARO0JmUSermD4",
+         "plus_code" : 
+         {
+            "compound_code" : "C3PR+WC Bucharest, Romania",
+            "global_code" : "8GP8C3PR+WC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJz29-j0P_sUARO0JmUSermD4",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 36623
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Strada Stavropoleos 4, București 030167, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4317929,
+               "lng" : 26.0988593
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.43322117989273,
+                  "lng" : 26.0997571
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.43052152010728,
+                  "lng" : 26.0962047
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Church of the \"Stavropoleos\" Monastery",
+         "photos" : 
+         [
+            {
+               "height" : 2992,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110574835738998497495\"\u003eChristina Chrisikou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZkJQhWRtvARYKhw6om5XOEg9eQIpewCz_yYIDO_th6nr3ZR_Qs5wTYL7Kacb-iV8DAuCg74SqK_Vchy6KeHjb5NjlCtSRgynrS5xUdlKNiwtM09DKb5fls3cQX-nPcpGMeK5WWnzLAe8tnv4RromzeJMc38_271-vxmmukHbWtPh6N",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJEZe8dkD_sUARM-n4qdjze5c",
+         "plus_code" : 
+         {
+            "compound_code" : "C3JX+PG Bucharest, Romania",
+            "global_code" : "8GP8C3JX+PG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJEZe8dkD_sUARM-n4qdjze5c",
+         "types" : 
+         [
+            "tourist_attraction",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3737
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Strada Izvor 2-4, București, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4275035,
+               "lng" : 26.0873506
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.43335075,
+                  "lng" : 26.08822552989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.42190895,
+                  "lng" : 26.08552587010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Palace of Parliament",
+         "photos" : 
+         [
+            {
+               "height" : 3648,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105244717289952920056\"\u003emathieu roy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbeME6rqyH_C47VLCjhSjntqgJ7dbXsH42FswNYRS_2yUxDFwGZP6YJgbXkidciqqMJ-11gWQBMeQdjkjo1WmUFAzGzRbKcGJzaR43zTPu3EQcIsLStYsgoNhAgACjkf73TLc7KStSunYmwBGL2MpNFwfazUrcgi3BmeQwrcNkYm2N6",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJwSjue0L_sUAR3K2rAviJECs",
+         "plus_code" : 
+         {
+            "compound_code" : "C3HP+2W Bucharest, Romania",
+            "global_code" : "8GP8C3HP+2W"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJwSjue0L_sUAR3K2rAviJECs",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4304
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calea Victoriei 12, București 030026, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4315252,
+               "lng" : 26.0971741
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.43288357989272,
+                  "lng" : 26.09845767989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.43018392010727,
+                  "lng" : 26.09575802010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Museum of Romanian History",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2316,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100295689033636135556\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaB78ZJ2_cdVxgXG2oLc5XT439KVMTUjrkJWDFVCf9jw2CSzfe5W3MM0EZMPZO9jfSiahu1c-_mJOq07bDGpgq6MNnn4JkTJmr8vtJ---4ywcjMnZKgZQbB21eWma4dSVrCYizP6sgN3s6huqLXWWa4LAZNTJ91IrKawu9vxC_BBTa_",
+               "width" : 3211
+            }
+         ],
+         "place_id" : "ChIJkftvFkD_sUAR6YfKX4VPk1A",
+         "plus_code" : 
+         {
+            "compound_code" : "C3JW+JV Bucharest, Romania",
+            "global_code" : "8GP8C3JW+JV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJkftvFkD_sUAR6YfKX4VPk1A",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6302
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1, Strada Benjamin Franklin 1-3, București 030167, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4413623,
+               "lng" : 26.0973046
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.44254522989272,
+                  "lng" : 26.09870497989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.43984557010728,
+                  "lng" : 26.09600532010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Romanian Athenaeum",
+         "photos" : 
+         [
+            {
+               "height" : 8855,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104957039265906235166\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaEXsgS7Ht34mhOrtpfNYNZRDDQnYjsShuWb70eQUaonJcbOsb2hSOivDdNycuLRSYLQO8tVonSTgVLKrn2bHzZBCAYX56zYyGoHmOMRTlbzJwfHQf1ih6Of1bV98_QfCuT3q8UQzjTheAzoU8YSSFYNOO8abHcZc5S9EVsdeLfSzGC",
+               "width" : 11818
+            }
+         ],
+         "place_id" : "ChIJl3ltbk__sUAR8nZ44F-vc1o",
+         "plus_code" : 
+         {
+            "compound_code" : "C3RW+GW Bucharest, Romania",
+            "global_code" : "8GP8C3RW+GW"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJl3ltbk__sUAR8nZ44F-vc1o",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13650
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Şoseaua Pavel D. Kiseleff 1, București 011341, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4531131,
+               "lng" : 26.0846382
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.45454457989272,
+                  "lng" : 26.08631492989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.45184492010727,
+                  "lng" : 26.08361527010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "\"Grigore Antipa\" National Museum of Natural History",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 8160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110313419471463913960\"\u003eMiltiadis Piskopos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbRym2qIdS3osV7KhJTDnac5O6GV8W8OIbJL_Nm3MHAeSUtr8N1eIIFf2itPmp424jzxXTOXbrCuoIgG5prPLLTqxKdO8b3UUT8oqDVvhdQWGUPxIDff6hYa5GisiOx9a0PP1lvG1dGm49LDUjPMnrJl5zZrnlxxv4oveKHccN3A9x6",
+               "width" : 6120
+            }
+         ],
+         "place_id" : "ChIJ5e62fv8BskARHchO5C-RCxI",
+         "plus_code" : 
+         {
+            "compound_code" : "F33M+6V Bucharest, Romania",
+            "global_code" : "8GP8F33M+6V"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ5e62fv8BskARHchO5C-RCxI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 17737
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bucharest, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.47020149999999,
+               "lng" : 26.0827527
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.47184054999998,
+                  "lng" : 26.0879496
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.46528435,
+                  "lng" : 26.0810204
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "King Mihai I Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110547346629612043723\"\u003eNicu Necula\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY_fS-u4w77Xhu8eDb4QEtiTmEJ5tx9VHMdxnKt5G-SSgxnyHc5Fyg6jegu471r9P8-2-g4c9C2WW1HzQ_7H8pGDAOpP5U8cpDypsMwhbrFNMwkCLP9VR4_niG3RKox1dbKOHXjE1fK7NaFLL6vFdL74t65212q_--Q0LnMwkyJyPMt",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJkZAHuxMCskARJlXBnqgO9lc",
+         "plus_code" : 
+         {
+            "compound_code" : "F3CM+34 Bucharest, Romania",
+            "global_code" : "8GP8F3CM+34"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJkZAHuxMCskARJlXBnqgO9lc",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 59754
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Strada Izvor 2-4, București 041037, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4285659,
+               "lng" : 26.0874784
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.42996247989272,
+                  "lng" : 26.08883167989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.42726282010727,
+                  "lng" : 26.08613202010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of the Palace of the Parliament",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100269749117420024130\"\u003eLorenzo Toccaceli\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZXrP161C_hsk-X7erI_mh2hxwAHw80_hboxE5zv_o2C147IiHL2fDZxiHPqcxemDtuKuWVGVNRnR2V8HFpMpgaxDRgTyhbvJAqhORGkt3L0_1NONE_lHRsZEFmxF1s1l5nZWizt4PdSc4HUjUAKW0YmZc-xFiUXTvZO-T-NfcDGCE",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJxRcUUGn_sUAR3Y7bqaTVubg",
+         "plus_code" : 
+         {
+            "compound_code" : "C3HP+CX Bucharest, Romania",
+            "global_code" : "8GP8C3HP+CX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJxRcUUGn_sUAR3Y7bqaTVubg",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1665
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pasajul Macca, București 030167, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4331824,
+               "lng" : 26.0979049
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.43467237989272,
+                  "lng" : 26.09931417989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.43197272010728,
+                  "lng" : 26.09661452010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Macca-Vilacrosse Passage",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106466263794811189883\"\u003esteve.medina\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZkdZAqbzAjRy-ZH1syV8kA9lkmtNISgJQsX3wS74vwxyQ2bPEgSKypvYR-OVutOdqU2-C_89fZ_dNwX5iEzijwRPKF3rBD6f1dXZJ_s7rl0ioea0TkgZ7V_jOlsuTEJ1SpfIn-kzFdsm9m8F_PikbCWcVjrZEl1yrFg83dLVYD602a",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJRb-UjED_sUARSwcOL0dioRI",
+         "plus_code" : 
+         {
+            "compound_code" : "C3MX+75 Bucharest, Romania",
+            "global_code" : "8GP8C3MX+75"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJRb-UjED_sUARSwcOL0dioRI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2224
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bulevardul Ion C. Brătianu 2, București 030167, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4348333,
+               "lng" : 26.1023963
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.43622507989272,
+                  "lng" : 26.10375947989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.43352542010728,
+                  "lng" : 26.10105982010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Museum of Bucharest",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1500,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105604892509296249822\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGJA1CHzByEnMJbVA7U86Pr1hWW8-2ItJrRX2kfi-XCLBjfFOWjCWEFZNlQA1owffbs7ZWO9PiKxTlMbcPu5lC5D5Bdi1ODSkBvt3wg89ToiXkG7X_oWFJP239KocZLlAdq5zgu0tzG-SYPG73CWcOH6hW7NQ_gQC_gc0E_QXkSK7Y",
+               "width" : 2102
+            }
+         ],
+         "place_id" : "ChIJh2jRqTj_sUARuSyctHHUe0Y",
+         "plus_code" : 
+         {
+            "compound_code" : "C4M2+WV Bucharest, Romania",
+            "global_code" : "8GP8C4M2+WV"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJh2jRqTj_sUARuSyctHHUe0Y",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1566
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bulevardul Primăverii 50, București 014192, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4691706,
+               "lng" : 26.0925299
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.47060077989273,
+                  "lng" : 26.09379297989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.46790112010729,
+                  "lng" : 26.09109332010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The House of Ceaușescu",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117992203101331966548\"\u003eJacob Leibovich\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbYcOIMUBRTAxSKmmCIoe2xZ945rzyqKKnW53c0B9N8zy2rO80lettIvyFnYJELUVRbSVipUjipDBIPpqCDf-ojDSU6QST0cLXwWL-8FIzbiPxlIajFPNT3rpJKZ3oUa8Xn9ldYwNnGVhejmBuk9S-zTrL5bii04eIslZjOaZgcdbdS",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJZQxcBA0CskAR4rmqoqIHINs",
+         "plus_code" : 
+         {
+            "compound_code" : "F39V+M2 Bucharest, Romania",
+            "global_code" : "8GP8F39V+M2"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJZQxcBA0CskAR4rmqoqIHINs",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5866
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bucharest, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4394786,
+               "lng" : 26.0984871
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.44085757989272,
+                  "lng" : 26.09982157989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.43815792010727,
+                  "lng" : 26.09712192010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The New & Old Building",
+         "photos" : 
+         [
+            {
+               "height" : 5632,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108216894520409780810\"\u003eMarek Endel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJabypsPlt5Qa7plbGIbI-x08H2oXbnZ2r-9iNrWFjE__bNjxcrC8IF-8Soc8OpugvzXC6cOLP5iOJPr9sF836IK1LGqmRlktjQVzOKuW2TUDM8qp4Wc0g08NRpYb86KeEMTcH30_zWAtAsRgvaDcPSqDcfbqlpGLkh2TAAB2efC6Q21",
+               "width" : 3168
+            }
+         ],
+         "place_id" : "ChIJ_QVuLLn_sUARyY6W5EzNZlU",
+         "plus_code" : 
+         {
+            "compound_code" : "C3QX+QC Bucharest, Romania",
+            "global_code" : "8GP8C3QX+QC"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ_QVuLLn_sUARyY6W5EzNZlU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bucharest, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4272828,
+               "lng" : 26.0915333
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.42864632989272,
+                  "lng" : 26.09258612989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.42594667010728,
+                  "lng" : 26.08988647010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Constitution Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107250195287918050756\"\u003eAsaf Oz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZkoij2jwj0RF-o6gqyUDdkFNIB1BLcJ22DN1CfJV42D7FhjqvU1SW6hhve0GoD-zjbq0rd8anYEamV_1N1MR-XEnCxDSPi5rwkeIj4pyef1amlT_IlfPLu0tivIVRyGxbHUvfv-pgN_i4T7MakxDXX9JGqOkTdQbmEPcB46DDDWIxY",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJwSPGZWv_sUARa0QeK9pjU3o",
+         "plus_code" : 
+         {
+            "compound_code" : "C3GR+WJ Bucharest, Romania",
+            "global_code" : "8GP8C3GR+WJ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJwSPGZWv_sUARa0QeK9pjU3o",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19237
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Şoseaua Pavel D. Kiseleff 30, București 011347, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4723586,
+               "lng" : 26.0765852
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.47366992989271,
+                  "lng" : 26.07776672989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.47097027010727,
+                  "lng" : 26.07506707010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "\"Dimitrie Gusti\" National Village Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101830408934683588291\"\u003eMarina Trencheva\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZsdjATYDh1UtCXfI5AJJnxR-fgD6kPPMkrx_Rxi7Jw4OHU-avABJzEzQc01n4ILzIRXb-Xo6PDP2HMrSRrsIoE18Vcs-ssk9l0aw9zS5fKNcMn9WYb_l5rZu6zC43KbMj95B6wvKQarkPu2ZLAkQubQ9tRWrtK_fF7HtPdmNz2742v",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJczdhfAMCskARo0Gnp5Fw34I",
+         "plus_code" : 
+         {
+            "compound_code" : "F3CG+WJ Bucharest, Romania",
+            "global_code" : "8GP8F3CG+WJ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJczdhfAMCskARo0Gnp5Fw34I",
+         "types" : 
+         [
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10289
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piața George Enescu, București 030167, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4397554,
+               "lng" : 26.0970468
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.44110522989271,
+                  "lng" : 26.09839662989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.43840557010727,
+                  "lng" : 26.09569697010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "George Enescu Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1440,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112866405839695955191\"\u003eなかむらあつし\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYUe_ePNK0hu52XEtlmxNLmtksOkjYCi0pzCxMztVP8fL6lG0_C504Q6F0e4u_zoiZsPTB4c9Tfb3-H9uqHarVAYGisb7JfG4Xi0Cr6CyXGuMsu7mbLyphR0mtpJbYMnIvOoX1yd9ucZQ774pnT8Qif3s8C7xgbYjRxfUwENSWjNpls",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJvVvKg0X_sUARWazw_Vg7Ibs",
+         "plus_code" : 
+         {
+            "compound_code" : "C3QW+WR Bucharest, Romania",
+            "global_code" : "8GP8C3QW+WR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJvVvKg0X_sUARWazw_Vg7Ibs",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 137
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Strada Smârdan 15, București 030167, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.431796,
+               "lng" : 26.0999651
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.43355792989272,
+                  "lng" : 26.10133602989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.43085827010728,
+                  "lng" : 26.09863637010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Interesting Times Bureau",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 696,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115099169959923454841\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZKXEEcpe-XQpEUyFE1pXep9K_a2DasZtTuknIQTTJWZ_OKDHCwIxHaHdf9-IlBGKrO09Dp77DAHiLNLzxSgA1abJRMswJcG85tFE0esn_u5_uUgzdZMd07baiYaHaQv7NrgCAUYxCu0c7n9_cQI3WZIxK55rPIMIl6hS4KXr1G63xd",
+               "width" : 696
+            }
+         ],
+         "place_id" : "ChIJ-_tqRWv_sUARqzvEHd_x7bc",
+         "plus_code" : 
+         {
+            "compound_code" : "C3JX+PX Bucharest, Romania",
+            "global_code" : "8GP8C3JX+PX"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ-_tqRWv_sUARqzvEHd_x7bc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 92
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Calea Floreasca 246, București 077190, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.477172,
+               "lng" : 26.103215
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.47847512989272,
+                  "lng" : 26.10440857989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.47577547010728,
+                  "lng" : 26.10170892010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "HotRodFun Bucharest",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116923590004728506415\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYILRB0qcUafuXTSJMLx3dETFo4ZkRv4ctz-qx5SeYdT6xhfAqMFnI1O96kmhl5yoMebAxhJZd3tNesrdOVS5T1UulI33aa6vVYYQBWFWd5i181R7c51MNpK5u85N75EqtGXUMGnrWIyFFrkeVJVMmq9yNNhYszPkJYXWSZ1DWPrvbX",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJx2iHaYQDskARWPqsMyoL0A0",
+         "plus_code" : 
+         {
+            "compound_code" : "F4G3+V7 Bucharest, Romania",
+            "global_code" : "8GP8F4G3+V7"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJx2iHaYQDskARWPqsMyoL0A0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 97
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "C4G3+X2, București, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4274915,
+               "lng" : 26.1025192
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.42884132989272,
+                  "lng" : 26.10386902989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.42614167010727,
+                  "lng" : 26.10116937010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Monument cu Ceas - Piața Unirii",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3968,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107374018992207061368\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa_P9n0-VIQJ1X_C0dqUg4Wkysrsr-miQ1ADfXsSkKUt7isGyNgQ180d1VztAt80CMMA-I1udPX6QoH7cxAHCRitMAjEG1TzYZm2-_jFFIRSFqr9NPPx4WklxUNdyrabh4-npwXJseThIpQtM1l1hYRP-o7HWFJmSPAMYUGBDiaWOwc",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJr7LivOD_sUAR9kyKK-J0AaM",
+         "rating" : 4.7,
+         "reference" : "ChIJr7LivOD_sUAR9kyKK-J0AaM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Str. Franceză 25, București 030167, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.430062,
+               "lng" : 26.1012842
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.43113022989272,
+                  "lng" : 26.10208357989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.42843057010727,
+                  "lng" : 26.09938392010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "\"The Old Court\" Voivodal Palace",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3648,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107387391095979143839\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYAmfeH3ouwpMFwAnzl5Fqpx7JflGjwGzjMW8DzeOoacRrKhjSjeEqpNU5LzxXiWNBdmoOfToVQX6VDs79YH5GU--czD7WTrGUQ1KypQhZwCUUL7fmN0lpbxmjWX7vScW00_HvvY7wbb0FOvgTFAN10MiR3Zlac40JYljoP8yuxaJkF",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJ7a4F0z__sUARZtvyHI6QP9U",
+         "plus_code" : 
+         {
+            "compound_code" : "C4J2+2G Bucharest, Romania",
+            "global_code" : "8GP8C4J2+2G"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ7a4F0z__sUARZtvyHI6QP9U",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1004
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Piața Revoluției, București 030167, Romania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 44.4388938,
+               "lng" : 26.0974533
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 44.44033602989272,
+                  "lng" : 26.09880112989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 44.43763637010728,
+                  "lng" : 26.09610147010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+         "name" : "Memorial of Rebirth",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113882201226462424714\"\u003eDaniël van Leeuwen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbtcrS22Jh5NL2nptqTlH-Kh-_BGHgN_dLq3KgcSbAQCZMsoBrBsJ-zXXnnWDTov2--D1yrmvblW7T2D6FSD48jUAgjx6FqGtXFsfCcrqgY4XvFJNlMJFOmhUAVT7B-0HM3un19BKnDqSBxIQr9wxrvOJdJelED_xQJIQ48QLjEyVwz",
+               "width" : 1834
+            }
+         ],
+         "place_id" : "ChIJGQaz3EX_sUARd2FFx6Cb7NI",
+         "plus_code" : 
+         {
+            "compound_code" : "C3QW+HX Bucharest, Romania",
+            "global_code" : "8GP8C3QW+HX"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJGQaz3EX_sUARd2FFx6Cb7NI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1902
+      }
+   ],
+   "status" : "OK"
+}

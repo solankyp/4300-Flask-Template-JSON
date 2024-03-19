@@ -1,0 +1,1234 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZk5i1bsVPMoksQ7AHdZrh3vFy-Zbvi2bau3wCk_gMfgObky_AdPwpE5JQF1u5da7dqWidFqPjqDH1o1uNg1DwwDdYw-0S0YaOlE0Pnty18CFMHk8CERYyu0hlVW1rrGtauU6MWKWAPqsFE3--msCqiH6Ox9ZO_VzKfQ6OzaxyCMntjqDGG99K_uKqnaT3n1HWzKx1l0xhtCuNcNDPHL5qTD7a7h3npX1jacofHXdEz6ofZ2nbbg_dsTVSNr7kMMY_Dk0ErTOE_U9Gjy2mRVI3JqQMj2PqLV9vWJaWmSx5fdbiD17r8BSL9gePFAokXctGfq99claH3OXOPy3hX6UQulbUGACMyqKMu08lc8R_dg-cFgqpyW2XtIH-yXyjqORxuOoEVXFUt0smP6_woPMs5",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Galärvarvsvägen 14, 115 21 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3280233,
+               "lng" : 18.0913964
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32976107989273,
+                  "lng" : 18.09361175
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32706142010728,
+                  "lng" : 18.09065795
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Vasa Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100306770860519680581\"\u003eMcAugustino\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJax1pNrjCj-5b-Tg_KzC5No7byzNdPAJ5S9A011b65kHNf9B2DcN8-K-t3ru2qBMxI7ry0SkxxihNeMpc164-n_CcFu5KNiqRezCkeystMjOgNmHnDpG9I5MxV7MHH4gXeNXXykUtB6UkFD1whrStIm74dOfPmLkaS7ZPzR94l9l24X",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJrymDbVSdX0YRQTLBtPGa8M8",
+         "plus_code" : 
+         {
+            "compound_code" : "83HR+6H Stockholm, Sweden",
+            "global_code" : "9FFW83HR+6H"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJrymDbVSdX0YRQTLBtPGa8M8",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 52462
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Djurgårdsslätten 49-51, 115 21 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3263227,
+               "lng" : 18.1058582
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32896564999999,
+                  "lng" : 18.1094418
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32266385,
+                  "lng" : 18.095585
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Skansen",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115953166142925844009\"\u003eZu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZL2CIBrU3g9En5vkE5BX1Yu6c2FclrHDJVgXN-m4KffLNyn98BZfbcPfUJGdNUmzoaqWh6crScEaGrPbagCqWtoOxs0j8lgTjt5wULHY-16mg4v75QsnEApP9FCgy13wWIB3QeXkzoRPgyufmQ46Utu2JEbTLU1rJMZJAY1rEUZJq_",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJN5Ta_qqCX0YRMYVG1s-2NSw",
+         "plus_code" : 
+         {
+            "compound_code" : "84G4+G8 Stockholm, Sweden",
+            "global_code" : "9FFW84G4+G8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJN5Ta_qqCX0YRMYVG1s-2NSw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "zoo",
+            "museum",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 29326
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Exercisplan 4, 111 49 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3260466,
+               "lng" : 18.0846878
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32713052989273,
+                  "lng" : 18.08560692989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32443087010728,
+                  "lng" : 18.08290727010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Moderna Museet",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112301613606175586094\"\u003eBaptiste Wolff\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY__4snmQ41qAHwHiIvka_Pa3Z5VvEnpxKxano9a1qo4g5NCDD4by75nuvjYblXvYHYBOzaC4NsBEX1OBc-B17KLcN03G18KKhtnCkPTfsRBstjGnfohnaln0vzhzXzQPRlzdcM6n8-6hoKH4MhIfMzq4EXOGCS4YiJEDFQXT3LJvRT",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPwiCaFadX0YRl-bnHBqiGbI",
+         "plus_code" : 
+         {
+            "compound_code" : "83GM+CV Stockholm, Sweden",
+            "global_code" : "9FFW83GM+CV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJPwiCaFadX0YRl-bnHBqiGbI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "art_gallery",
+            "museum",
+            "library",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1839
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Djurgårdsvägen 68, 115 21 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.324957,
+               "lng" : 18.0969694
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32631897989273,
+                  "lng" : 18.09837082989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32361932010728,
+                  "lng" : 18.09567117010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "ABBA The Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3468,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102174678096418507423\"\u003eTrick Filmed\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbP7JUgOEg92j72Lv4TQPpg1uBbzWDlQD-0clKDk6SwQDHj1Vk-A855W4XKa7lBa9FCylIoUZAK_rUY3-YfeRG3IQo6J_glByufzxCsKHF6HnVjIcPZopAEwWRJd2BO3rlPvPFL6QVZxgPD8MlVAfKXflcaXqy_5PRSaFO0Lh0AKUGZ",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJBf9B06qCX0YRR46XNXjwFUo",
+         "plus_code" : 
+         {
+            "compound_code" : "83FW+XQ Stockholm, Sweden",
+            "global_code" : "9FFW83FW+XQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJBf9B06qCX0YRR46XNXjwFUo",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14418
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Stadsgårdshamnen 22, 116 45 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.31796189999999,
+               "lng" : 18.0848269
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.31941467989272,
+                  "lng" : 18.08602612989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.31671502010727,
+                  "lng" : 18.08332647010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Fotografiska",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107934119253398472545\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbCyOEGLygdysWzW_AKimW-QXyOd6kv4Z9dBsmpYvlpJXDqwf7hUrVPkVl2H3mZZaTNhSxGzCiwDDBOWFDvKmoUzW7SbNB95_fXNZ9M0Wn8KN0Pv5DzfT-MnEKHxJSIvyb6cnh0J3ZzUfceCDpU0zZ4C2R48sBJjzEjyM-l6YQtmB97",
+               "width" : 3680
+            }
+         ],
+         "place_id" : "ChIJhaN0M_l3X0YRpOq8uRb_RcA",
+         "plus_code" : 
+         {
+            "compound_code" : "839M+5W Stockholm, Sweden",
+            "global_code" : "9FFW839M+5W"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJhaN0M_l3X0YRpOq8uRb_RcA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "art_gallery",
+            "cafe",
+            "museum",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16656
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Narvavägen 13-17, 114 84 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.334772,
+               "lng" : 18.0909615
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33610177989272,
+                  "lng" : 18.09255142989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33340212010728,
+                  "lng" : 18.08985177010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Swedish History Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117009968864872359137\"\u003emehrdad.rg\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbBqM51ha-_swkvnUWeyEzmJrqG3VxrQ7Te0C77JpL1_jpQVQNd5Vom04IQ7vXiT9RV9Wdb5udVdSEeO-9ENiqG-u0D36Mv67SbBW9D3khQ46bTU8Fsk3yNS_0XjyU48ioBGWdHaR54EvEk_ItJEP3igLDQwHvh8COWCkxF9z8As6hg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6d_NxlGdX0YR1VYMTmdoPl0",
+         "plus_code" : 
+         {
+            "compound_code" : "83MR+W9 Stockholm, Sweden",
+            "global_code" : "9FFW83MR+W9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ6d_NxlGdX0YR1VYMTmdoPl0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6012
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Djurgårdsvägen 6-16, 115 93 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.32900799999999,
+               "lng" : 18.094268
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33057222989273,
+                  "lng" : 18.09551697989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32787257010728,
+                  "lng" : 18.09281732010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Nordiska museet",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 478,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113868787392308899163\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJazv-oEJjke3V1UlsgYlW0BWqdEFTNkFcKaueFcaiSg5YtYMFYpgC5t-V9W4M_IeQPHOMKdshFNVQJ76uKVmGcV82JXJJO19JvFjzqLvwo37pzVHkHhMlgP_cmeZHCH_x2EFe7W7OUmJ2rzAIi0HzYwrYAjvrnoZ1KxaIvUh5XhAlwR",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJxagZg1OdX0YRGKnPhRyci9c",
+         "plus_code" : 
+         {
+            "compound_code" : "83HV+JP Stockholm, Sweden",
+            "global_code" : "9FFW83HV+JP"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJxagZg1OdX0YRGKnPhRyci9c",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9264
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Museivägen 7, 115 27 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3324444,
+               "lng" : 18.1188409
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33381137989272,
+                  "lng" : 18.12048557989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33111172010727,
+                  "lng" : 18.11778592010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Technology",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117791551474757607716\"\u003eАнтон Витязь\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ87vfb7PErdlFCFcaqI0P4WrmCkfQRqNCELWC0WO5X2p-fkmbMFT07s-jHSgDFcblM0Fp4RhG16-YJgzau0voFI67eubQYHKkcy6TBpl7Y6nF6WynI6x9HAri_dMH3aF3XnIWffJx9CLJkyrCYIZFcTTNpDAOkhQW8QwZ0lpYZ5GAZ",
+               "width" : 5120
+            }
+         ],
+         "place_id" : "ChIJsUX0N7CCX0YRQAeUrKac-jU",
+         "plus_code" : 
+         {
+            "compound_code" : "84J9+XG Stockholm, Sweden",
+            "global_code" : "9FFW84J9+XG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJsUX0N7CCX0YRQAeUrKac-jU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7759
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Södra Blasieholmshamnen 2, 111 48 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.32849849999999,
+               "lng" : 18.0781954
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32972462989272,
+                  "lng" : 18.07925072989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32702497010728,
+                  "lng" : 18.07655107010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Nationalmuseum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2429,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104035088307995519683\"\u003eLars Ling\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaLiQopmD38CuC0LzSWS4i5fBX5tF3lfZ6I1dVBDC1NU721drmkZwSTUtS4gLNqlplZDBX1kcakBTKHfgw20_bb2Sc7Ri5sLx6dGeqJD600XMk_f6agFz3p-LDUMg5EvbpzR5BF70IRcu7hqodXCoxlbAE8AMxn508CNHoJShGWDiG5",
+               "width" : 3999
+            }
+         ],
+         "place_id" : "ChIJ272T01mdX0YRTHM5RptBXaY",
+         "plus_code" : 
+         {
+            "compound_code" : "83HH+97 Stockholm, Sweden",
+            "global_code" : "9FFW83HH+97"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ272T01mdX0YRTHM5RptBXaY",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6331
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Djurgårdsvägen 48, Djurgårdsstrand 15, 115 21 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.32659940000001,
+               "lng" : 18.0951402
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32793212989272,
+                  "lng" : 18.09623882989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32523247010728,
+                  "lng" : 18.09353917010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Viking Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107536637941952215186\"\u003eMaya An\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbEAGeUQQUcPFvev11ZZC1v3Wl0ez7z-wm6IOaPu28jWzjTK6wjFJWL3jetZcwLbNU9XHB8qL1iv3hPjKDmgUBFtVIXkgNUGSi3lxgC_MRxNT3C06Er9xxKLcXSceE0aSfsnsqTpT4mH9AImnkhhdsTr96iCX8TvIlZ3q9G3j6Ec319",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJnd3epESdX0YRo-AGQwgCTYk",
+         "plus_code" : 
+         {
+            "compound_code" : "83GW+J3 Stockholm, Sweden",
+            "global_code" : "9FFW83GW+J3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJnd3epESdX0YRo-AGQwgCTYk",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5184
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Prins Eugens Väg 6, 115 21 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.31994700000001,
+               "lng" : 18.113673
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32139132989273,
+                  "lng" : 18.11504007989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.31869167010729,
+                  "lng" : 18.11234042010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Prins Eugens Waldemarsudde",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112504875504929656172\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbLZmDejgfCwCU4e7tRVGTeaezwOLoU6JVxczRwUCdA2kCHxwRGVyrdQm7bDgcLp8b6DmvJTwpXhEeU4MwNgwe57bQZxj5iQMw8IvQwPmO0pGaPMp9IIE3dvxsfUxPOJxFPuCkQubj3O_vP_kuwP_TGpkMz2Y6mrEkcRhUAS8RT0bKK",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJh6za_6eCX0YRVGLFyIsd5fk",
+         "plus_code" : 
+         {
+            "compound_code" : "8497+XF Stockholm, Sweden",
+            "global_code" : "9FFW8497+XF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJh6za_6eCX0YRVGLFyIsd5fk",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2072
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Slottsbacken 3, 111 30 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.32665319999999,
+               "lng" : 18.0730363
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32794527989272,
+                  "lng" : 18.07445172989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32524562010727,
+                  "lng" : 18.07175207010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Royal Armoury",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103979826620433756303\"\u003eshiva kkumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ6roI4FXJtWSvad5B2ZaJ5---nLbBxEChjfsU1umOqDkjKFbybXQSlCJF0QSA7oTPLQlQO15hDbfNtCMgi1NyfwgVAtyAmRz4KAJuGykWUovycSy6qAZ0REu841JKWMh7-rLmoJFuvfk5BFoUuiq710pv_FL6wut1UrylnhOFKJxEW",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7Xc7cVidX0YRmKMY9kED3Mk",
+         "plus_code" : 
+         {
+            "compound_code" : "83GF+M6 Stockholm, Sweden",
+            "global_code" : "9FFW83GF+M6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ7Xc7cVidX0YRmKMY9kED3Mk",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3336
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Svensksundsvägen 5, 111 49 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.32650400000001,
+               "lng" : 18.0813355
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32775117989272,
+                  "lng" : 18.08246722989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32505152010727,
+                  "lng" : 18.07976757010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Stockholm Toy Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106338260907943684541\"\u003eMark Cheer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYxgM5rYPeX-vLrb15K5EY3kMccy5aKICTvXCb2mbKn1bhpSDvcacEwB423z854JzbyxIpX3kRTkI2aLo7qUoYsVA1w_mPGkC1NqeCMTC4eJBa441q2VKyylDBLcPhjUXTakPD-iDL3ftJG0azXkNDKZtVNOqnz6phw4P9TNXE1dqqs",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJh6rasFedX0YRQAIoPlIxojc",
+         "plus_code" : 
+         {
+            "compound_code" : "83GJ+JG Stockholm, Sweden",
+            "global_code" : "9FFW83GJ+JG"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJh6rasFedX0YRQAIoPlIxojc",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 926
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hamngatan 4, 111 47 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3330803,
+               "lng" : 18.0745466
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33440327989272,
+                  "lng" : 18.07589822989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33170362010728,
+                  "lng" : 18.07319857010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The Hallwyl Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103760307840025005665\"\u003eankit yadav\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZURf6AlMq1_oFoXUctiIjDeh4LUV-K2frhy0PnIi8_8cV6B5Z3cdneGm81W7ns9rmCj9QqWID8NO_z84P41P6HGle3N2AAbwIsD3Vz7zVgLU38X2lOnAaXMsjAQyHKgBK8Vh0Tb8pLHILLs5VGhEF2GCkcX4YTdHecOY-apEJatrIR",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJeXFzlVudX0YRDCj0AiVlB0E",
+         "plus_code" : 
+         {
+            "compound_code" : "83MF+7R Stockholm, Sweden",
+            "global_code" : "9FFW83MF+7R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJeXFzlVudX0YRDCj0AiVlB0E",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2723
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Riddargatan 13, 114 51 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.33391700000001,
+               "lng" : 18.0799486
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33565922989271,
+                  "lng" : 18.08144817989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.33295957010727,
+                  "lng" : 18.07874852010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Army Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3468,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109700045149596878410\"\u003eczarrna od kuchni\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbySDVzDqYeLNNcglKm-1iKRBD-FnlaqxPzh-7UOmQdL18ykPBLvvTYaZ9ZbB9fXNJASTIzv_9QAjiSVYO_Pgykqjp-eMX5yULpBnkG_m_A8J5xQbSPWQnLmy5rUpuYpB6DqRUpvVlzXNKtbytia5iCjQGS8XA9NQseNQP4kVhQ0ifX",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJKREq9FqdX0YRF-gHbVK_QXc",
+         "plus_code" : 
+         {
+            "compound_code" : "83MH+HX Stockholm, Sweden",
+            "global_code" : "9FFW83MH+HX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJKREq9FqdX0YRF-gHbVK_QXc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4285
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Stortorget 2, 103 16 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3253309,
+               "lng" : 18.0708245
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32658552989272,
+                  "lng" : 18.07222337989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32388587010728,
+                  "lng" : 18.06952372010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Nobel Prize Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113260286269821212806\"\u003eNobelmuseet\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaV-ZtUWVO7fWfTYIvyTIVAgIx3oq7AO6mUqVBY_1IHCSUoXHcXxrthh3MPiTleeEFG1Jo1xnUu4LmUhyF-uiLDj1cA05wr0g6DrFdukZFui4nZF-qodvQZl7CHHJeQdIfTTTQH3MA7DAwGwoizsfZY-l9GuSsiR24ihsM5FHi-au33",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJdXEWYuJ3X0YRbNDHjPig9V4",
+         "plus_code" : 
+         {
+            "compound_code" : "83GC+48 Stockholm, Sweden",
+            "global_code" : "9FFW83GC+48"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJdXEWYuJ3X0YRbNDHjPig9V4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6234
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sjötullsbacken 8, 115 25 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.32248999999999,
+               "lng" : 18.1484091
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32377762989272,
+                  "lng" : 18.15003677989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32107797010728,
+                  "lng" : 18.14733712010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Thielska Galleriet",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111953691813761436738\"\u003ePatrik Sundberg\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYX87ptwkbZQj9_YhZbCgHAT7FoXJk6TlSpogy3rR9cSP-SmZGDmLacyFVbouooCPkP_RCj1PsmeqS-B3En-A1YPfZT8rz-J1E7Mc38q3y555-vGRY1AF1Ug5C6Ods1iIVBQzuvKJdVzdTa9AgB0Hy8mqgXPFCnh6Stes-0p-c2RKmv",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJO63qwZuCX0YRdpohBra7reI",
+         "plus_code" : 
+         {
+            "compound_code" : "84CX+X9 Stockholm, Sweden",
+            "global_code" : "9FFW84CX+X9"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJO63qwZuCX0YRdpohBra7reI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 964
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ryssgården, 116 46 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.319695,
+               "lng" : 18.070904
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32106912989271,
+                  "lng" : 18.07241867989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.31836947010726,
+                  "lng" : 18.06971902010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Stockholm City Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3770,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103725052189959969567\"\u003ejoakim gustafson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaN3lBYqRkvgxOnMAcQbh5h8fbkfNKn8Td7NHSoGXCw2Lykr515-QW3f0flNrHSgh-jZOPZ-e0ZaM9Af-CQGP4dFopblscvxiPwRha9oqRn9j5xwjumTlK6kEQ4kI9788fv7a_2r6CzFhixo6Vkeai5tWrKGSnlzvvgJD_LZiur_Y4V",
+               "width" : 5708
+            }
+         ],
+         "place_id" : "ChIJyZcRpuR3X0YRPWjtOoiNZGg",
+         "plus_code" : 
+         {
+            "compound_code" : "839C+V9 Stockholm, Sweden",
+            "global_code" : "9FFW839C+V9"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJyZcRpuR3X0YRPWjtOoiNZGg",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1186
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Fredsgatan 2, 111 52 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.32939119999999,
+               "lng" : 18.067367
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.33065877989272,
+                  "lng" : 18.06913827989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32795912010728,
+                  "lng" : 18.06643862010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Medelhavsmuseet",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110828589696231070934\"\u003eBaruch Maier\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZKK-ZC2obaE7b033834vZpaxng_hyniqXxPcqSZWDkWE2eJMPZMeA7fEtLFwxcOLoId37hK5c-BvZgTEpYMWHjOJDtzyLxvhYOxR_7ibW0cTdPtRV8NW8uIk1tkGbpCyjSrC1We9ipk4uxv1ROVJWP8OE9F1b_pimJnMoRJ7JTO5j1",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ77EGJ1-dX0YRa3zx4WKOYpo",
+         "plus_code" : 
+         {
+            "compound_code" : "83H8+QW Stockholm, Sweden",
+            "global_code" : "9FFW83H8+QW"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ77EGJ1-dX0YRa3zx4WKOYpo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2527
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kungliga slottet, 107 70 Stockholm, Sweden",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 59.3268215,
+               "lng" : 18.0717194
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 59.32813642989272,
+                  "lng" : 18.07535224999999
+               },
+               "southwest" : 
+               {
+                  "lat" : 59.32543677010728,
+                  "lng" : 18.06778485
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Royal Palace",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117076487582872155443\"\u003eJason Ma\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYCQujsB5FFuwWIUpdA24g8prDM4ZbcILxVI7ZOK4t3zQ184hQatyAmA7Fc-rA6gdw4gxWjq7go5mHFoFD9cFs69Ph86bJvXyF3HNJUKBO_DG8l3Dr2Vf6Fn89jfTc6OnBZPTqvOLxY49qEbwkA1apzFYWqTsunLfleL9MfdI2ia1gA",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJAUpMflidX0YRNj52SJZ6-b0",
+         "plus_code" : 
+         {
+            "compound_code" : "83GC+PM Stockholm, Sweden",
+            "global_code" : "9FFW83GC+PM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJAUpMflidX0YRNj52SJZ6-b0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 38572
+      }
+   ],
+   "status" : "OK"
+}

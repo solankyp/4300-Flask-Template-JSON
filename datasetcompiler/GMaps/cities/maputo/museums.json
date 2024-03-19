@@ -1,0 +1,786 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2HH7+W6H, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9701884,
+               "lng" : 32.5631035
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.96875162010728,
+                  "lng" : 32.5638322
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.97145127989272,
+                  "lng" : 32.56091739999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu dos CFM",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114601156841653640333\"\u003eLindy van Rooyen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ2wkS0Wxy2AZ4-7R6h9aOxLH5XM0IryxD8XBxbND35qDu_euTOV0IEIFIsQVZBdBVqEbkyYAH5y5jxpGN_GcoJezfe5Ud6HMGwpbueFDtgXOhBxLpRhiMlyVMnOgTKE9aEAM6z6RY8aZrEfkehNiMXY4ELZNzA4lfiStEExj8cnN_m",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJi_ax0B6b5h4RdraMDzkYUkw",
+         "rating" : 4.5,
+         "reference" : "ChIJi_ax0B6b5h4RdraMDzkYUkw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 158
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Fortaleza de localiza-se junto ao porto de Pesca na praca 25 de Junho, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9749079,
+               "lng" : 32.5704924
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.97348362010728,
+                  "lng" : 32.57168747989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.97618327989272,
+                  "lng" : 32.56898782010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Fortress of Maputo",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3472,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101320928699784462244\"\u003eГалина Волкова\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ6QbRxephdqGLTT-aHlVyXWpdlnlU0tbmn45id3SDSfPXrJBgej9aFOij_0RkLvBY3FphB7KTRiv2MdmsjQzd6RRKn9EfuVM7hUitf7GYOwRFlU1-0FTtQ33yBnQw7017E8QSuvNY9hFPpE2ja-fhXFELftefvEsCVrpsNIOd_zM0o",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJ5XhqBRCb5h4RmDha5S48YD4",
+         "plus_code" : 
+         {
+            "compound_code" : "2HGC+25 Maputo, Mozambique",
+            "global_code" : "5G6J2HGC+25"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ5XhqBRCb5h4RmDha5S48YD4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1060
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2HF9+QGW, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9755229,
+               "lng" : 32.5688405
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.97409427010728,
+                  "lng" : 32.57006282989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.97679392989272,
+                  "lng" : 32.56736317010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Fisheries Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108880688804512689638\"\u003epau doncel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYN3h6iomn-M3zbWx9SFsiRJ-pmDwd3LR33sObpuIfIzwXoFTYNPBd-FvkOzvGDrPnVEsUhlXY23wXwu2WE7WGa3Py0Nej6GmkGvNZzr9kWHE1K5lFQvUlT1pXg4kXH8ac8dQA0oW5NorXEFz020SES1_rrpx8KSdWxFZlaOvdnB70G",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJM_0zchCb5h4RpqtMYa99a6Y",
+         "rating" : 3.7,
+         "reference" : "ChIJM_0zchCb5h4RpqtMYa99a6Y",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 87
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2HFQ+QWP, Av. dos Mártires da Machava, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9755469,
+               "lng" : 32.5898145
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.97424237010728,
+                  "lng" : 32.59130412989271
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.97694202989272,
+                  "lng" : 32.58860447010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Geology",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117301222251354592044\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYmIo_nWIxdMznHsMmU7-0yTOsQSxBFvA2ZjGCqMpYBquwmh9s7RzO3g5cE1wVfJEBjDxyy7uEvQQC-j_dltBPqCy1qbXfd9QTuTQwej-_8F_UxiBQgZTgAbUGIK1_ltpe-dfSYbktPFqMh9wdVg9q3Ls70S4ZF4kIyjdwKSfNqxJ8W",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ08qIk6Ob5h4RhXfu7_ppWxU",
+         "rating" : 4.2,
+         "reference" : "ChIJ08qIk6Ob5h4RhXfu7_ppWxU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 222
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "25 9319514, 32.5529181, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9320103,
+               "lng" : 32.5529776
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.93067097010728,
+                  "lng" : 32.55432127989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.93337062989272,
+                  "lng" : 32.55162162010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Maputo Street Art",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 541,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112782201502132916615\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZT_m4GDRMdBesclz4LKBzBbH6jN6JODqXeWTmm83L1o7Ql1p57WGiQKoRQn3k6debmtFEw0mxirvj6Q4fMK3PHeTZnpP9pNIQP9PfVYX3mrdF1nYDcELMj6oLemYc8PDAQOJ-eG7mbbZfpzhkP1xsmRkkpMLPMECoHasDN7AHPUUYa",
+               "width" : 814
+            }
+         ],
+         "place_id" : "ChIJCwy6dmyb5h4RH4yZJhNm7O4",
+         "plus_code" : 
+         {
+            "compound_code" : "3H93+55 Maputo, Mozambique",
+            "global_code" : "5G6J3H93+55"
+         },
+         "rating" : 0,
+         "reference" : "ChIJCwy6dmyb5h4RH4yZJhNm7O4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2HMC+7PV, Av. Ho Chi Min, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9666284,
+               "lng" : 32.5718909
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.96532437010728,
+                  "lng" : 32.57320297989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.96802402989272,
+                  "lng" : 32.57050332010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu Nacional de Arte",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111033623172772981536\"\u003eAxel Delasoie\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJatv1b46GJpQ72dZmfWvd1-9x3XebWOC3iynz-if_xBhSYCRNyjVZGf4GsMWt7JUB_-ef9ieMoQorMyWBIH5N811qUFI0vQFTfI6RegLtu95ofUvkXYm4SSj5Mh2KEKqzewXZUc4Wn8cmeijrvEdNRymk-RkuvfYSgXUyu8uQs-kvdz",
+               "width" : 4592
+            }
+         ],
+         "place_id" : "ChIJCZZHMAOb5h4Rwwx0yb9bxOM",
+         "rating" : 3.9,
+         "reference" : "ChIJCZZHMAOb5h4Rwwx0yb9bxOM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 499
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. 3051, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9518575,
+               "lng" : 32.5717678
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.95050972010728,
+                  "lng" : 32.57312332989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.95320937989273,
+                  "lng" : 32.57042367010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu Mafalala",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 853,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107286612942887811286\"\u003ejaime samuel zunguze\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaU16x1Z2G83GIT5_ah-mfOROLbDcy_Ktjl4spDdGwK9QkvogKzScS0abpluwZ8PbUoNizw4FMOtYEYuVhZhHUcfU4c3HveOf5ci49bEsDMEHc_5o4gyS_lYWLcFRbxkZfx1tc0JepFJL9CYwyHaLiPRuWVOuzvMvtIvbjJFYq9tONZ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJZeYYTNab5h4RaSLniOJESPs",
+         "plus_code" : 
+         {
+            "compound_code" : "2HXC+7M Maputo, Mozambique",
+            "global_code" : "5G6J2HXC+7M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZeYYTNab5h4RaSLniOJESPs",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 157
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2HG9+MV9, Rua Consiglieri Pedroso, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9733595,
+               "lng" : 32.56971
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.97192832010727,
+                  "lng" : 32.57110877989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.97462797989272,
+                  "lng" : 32.56840912010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu da Moeda",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114103025727186948421\"\u003eJose Carlos Novais\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb6DSd7YplPDh-r4Hcrcj1mDLkc_8lNXQ-_4FjsJK1j5m3vRu5LfSuOJAJ3ofV-xhgJQImdZCfE-R15_u5x3KX0ssUWYSmpy4bB_LpumtF5gbH3kJL-4tFhVX-wp2wf5fns2ZR-GboO7zDsDH_UytOuyZwrYW9v-V_DAiNerib4c18r",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJa5WilBqb5h4RadITp1M1Q6M",
+         "rating" : 4.1,
+         "reference" : "ChIJa5WilBqb5h4RadITp1M1Q6M",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 389
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2HJF+GCV, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.968627,
+               "lng" : 32.5735514
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.96724237010728,
+                  "lng" : 32.57492147989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.96994202989272,
+                  "lng" : 32.57222182010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Camara Municipal, Maputo",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3640,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111719967408013782313\"\u003eLuis Filipe Rodrigues\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZuu7iJCGABOJkPfpBax5UxoK_PzdZHIYZ8pkNhV0psvizxlLs_lm4idoKIL8gykONM6zPsWiYXFpKqM6A47of4qiCAnnYIgRcwfizLccjYyXLX26CZp-_a9cwX5X2n5-BpqfJYtRuoXYXcIsJYdRsS8_EQ-PxwGK8yoVYVPU7zDgm0",
+               "width" : 5464
+            }
+         ],
+         "place_id" : "ChIJ_0I-kgSb5h4RF6uLe2F0pXM",
+         "rating" : 4.3,
+         "reference" : "ChIJ_0I-kgSb5h4RF6uLe2F0pXM",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 23
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2HFV+W8H, A\",, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9753131,
+               "lng" : 32.5933082
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.97387747010728,
+                  "lng" : 32.59441122989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.97657712989272,
+                  "lng" : 32.59171157010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Palace of Marriages",
+         "photos" : 
+         [
+            {
+               "height" : 1774,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103925939613529901430\"\u003eDavid7 Almeida\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZEEM8yOJs7fjuJPa0BbnRfqIJpui7FW2GJbLkYzjc8lmQHvp_mNst2zWeoyqogH4HQWKGAVDmCVqL4_djYjKnuGViYNtmTWgeTHeDbU0aPAYchyqmZJ7zMHOFs9bpr07THO_IfvWFst9f5PCyUfQ-TL6IZ63y_8TKXfdXaq27e7g-8",
+               "width" : 3146
+            }
+         ],
+         "place_id" : "ChIJLSfxNqOb5h4R0wZE6Pz-xpU",
+         "rating" : 4.3,
+         "reference" : "ChIJLSfxNqOb5h4R0wZE6Pz-xpU",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 309
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "V7J8+PGQ, Rua Francisco Matanga, Nampula, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -15.1181691,
+               "lng" : 39.266363
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -15.11691192010728,
+                  "lng" : 39.26766777989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -15.11961157989272,
+                  "lng" : 39.26496812010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu Nacional de Etnografia",
+         "photos" : 
+         [
+            {
+               "height" : 1840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103925939613529901430\"\u003eDavid7 Almeida\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZSpYwl2wTzfLMAiKBqX9tB_3t8C1sygdhnv6muV_N_jpLZJWe7na-mV8BdNoDG1ZgbesDspZnt3KtzJLNVw5C3_QhiCY_HYx_-8qFIPWJu2qrtH1M8D_76a7-VFXywYUgb0e95jyMsmndBiynL-asWRQQWszF0m8zMd1i_siX54EDJ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJAcAZJk00xhgR4FzXQss_TZ4",
+         "rating" : 4,
+         "reference" : "ChIJAcAZJk00xhgR4FzXQss_TZ4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 472
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "2HFP+4Q7, Travessia de Zambeze, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9771693,
+               "lng" : 32.5868929
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.97573717010728,
+                  "lng" : 32.58817967989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.97843682989272,
+                  "lng" : 32.58548002010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museu de Historia Natural",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 1344,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100226105182224718877\"\u003eJosé Carlos Simões\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ3973nQmXqpBuyNmRyEy97m7IzDgOFUqlVTq-k61aT1bmS6Q9tal4knaY7b858FJVf5wkM43FiGdNWx6d3COZln0hCiI1yDJmy6NUJwUdE_Uv671GeprVrXxYO1TgbTa20Zrm5YDnSVcsbtbmfwdtflk-UaBH6WYE16tDRANsszrU",
+               "width" : 1136
+            }
+         ],
+         "place_id" : "ChIJJ_jPbaGb5h4RPMtTKRhqXPQ",
+         "rating" : 4.1,
+         "reference" : "ChIJJ_jPbaGb5h4RPMtTKRhqXPQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1087
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "2HP9+X3G, Av. Alberto Luthuli, Maputo, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9625552,
+               "lng" : 32.5676953
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.96112937010728,
+                  "lng" : 32.56910167989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.96382902989272,
+                  "lng" : 32.56640202010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of the Revolution",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109773079914182249382\"\u003eConstantin Kladis\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYEinVsZHe14pbasb47czOkX113HKl4bCpNSGDVQZ0Qg2Z1YXOkWVRMC8cToXtU08cHEPHkIfdScQzSRCeSEj2IEKcxX3PU0QtsIhZkPDoLSN7AsyCrJGsR4z2hsTXphi78N9oToEpL1ezPN2xXU1h7nQOBOreDPl8wjSh5VPSxs77X",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJMVCuROKa5h4RB7ifCCOwo60",
+         "rating" : 3.5,
+         "reference" : "ChIJMVCuROKa5h4RB7ifCCOwo60",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 119
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "3FCM+W3M, Matola, Mozambique",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -25.9276709,
+               "lng" : 32.482669
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -25.92638027010728,
+                  "lng" : 32.48396277989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -25.92907992989272,
+                  "lng" : 32.48126312010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Comando Provincia da PRM Maputo _Fumento",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113444438526773218371\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ_kMWwVtkoIVFCjm3m3WT0pi3mP4AoC3QDbG1sGfIpquCWyax4GooQWMguIJK4g5uCyf0VJT6xvXUu-xS8kOoczO4GNch97GD8HvqOpWm3WikZT-ACZIuNn4vrCRgM02O2Jydo4E6dR5ymh5zJcBnmNpbLtqD2Id6YxOVCn3UsGFyQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJCd2cS2eP5h4RhQv4JuWkZbY",
+         "rating" : 3.8,
+         "reference" : "ChIJCd2cS2eP5h4RhQv4JuWkZbY",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 153
+      }
+   ],
+   "status" : "OK"
+}

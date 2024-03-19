@@ -1,0 +1,124 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "F5JX+38Q, Vaiaku, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.519739599999999,
+               "lng" : 179.1983969
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.518382620107277,
+                  "lng" : 179.1997506298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.52108227989272,
+                  "lng" : 179.1970509701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Blue Ocean Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105515456375112804951\"\u003eTodd Geist\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYh_yPW9qsEQnc6O6aMpEhs6KHCtAn3YxiOARPwf7Rx8oVNUG3DkiU2K7Zj-gQ1GWCjHZKQ-8wA3Qq2XDxLJqaUKmlgOxa_GWSHX4jKviUrbV7SbEMcCLSNlMyMz77eFuIT8Pr_HocP6QmyAptkIXjSEybjuLg63XfsA-J7DUAXp4QE",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJAWEENVDi1m8RymQSWWzMzzM",
+         "rating" : 4.1,
+         "reference" : "ChIJAWEENVDi1m8RymQSWWzMzzM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 36
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Vailele Alapi Funafuti, Tuvalu",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -8.520808599999999,
+               "lng" : 179.1962218
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -8.519484520107277,
+                  "lng" : 179.1976099298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -8.52218417989272,
+                  "lng" : 179.1949102701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Sue's Kitchen",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115224508993063920599\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa22NUiuCcyGPBPq8q4eqXARROnaY3Un-mJ027fDw6_ugAAnfVGTLWjNh0ryJfV9d1_UpU5K7ePmQRdBnUELctFEvy4FBR7CDEm09_0ioTn42RjhjYMWEwXbhlX-hizoIIQTmVESQUyx7LJRlel7at1SJy93wP3Dhi5bASAw0WsrpP9",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJXy_JViTj1m8RXFgq44xnQNM",
+         "plus_code" : 
+         {
+            "compound_code" : "F5HW+MF Vaiaku, Tuvalu",
+            "global_code" : "6V3XF5HW+MF"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJXy_JViTj1m8RXFgq44xnQNM",
+         "types" : 
+         [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      }
+   ],
+   "status" : "OK"
+}

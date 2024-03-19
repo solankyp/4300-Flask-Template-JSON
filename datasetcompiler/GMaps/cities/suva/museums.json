@@ -1,0 +1,102 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "VC2G+48R, Cakobau Road, Suva, Fiji",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -18.149666,
+               "lng" : 178.425735
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -18.14768937010728,
+                  "lng" : 178.4272052798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -18.15038902989272,
+                  "lng" : 178.4245056201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Fiji Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2988,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104460671920990630247\"\u003eJacqui Handran\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbIQhQnyy7Zo2lsiBOEoVIVluDwpFda2O-z1TzKzIFM9GSupODkgEvopUbCRqa-bdUSB6CuF-ZuplRQk7uSIu-dpYekK4dYTgXQlo95GCPzNPiU2kBGTUcITdys8OJKOm9nRlUSFbD1dK5bXqb8qrjTnoj0MPgmsR1DYf8eRwiP1O3_",
+               "width" : 4042
+            }
+         ],
+         "place_id" : "ChIJG1pWoDzcG24RGEAQwJbT1g0",
+         "rating" : 4.1,
+         "reference" : "ChIJG1pWoDzcG24RGEAQwJbT1g0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 671
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "VCQW+2JM, Vunakece Road, Suva, Fiji",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -18.1124309,
+               "lng" : 178.4464514
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -18.11109102010727,
+                  "lng" : 178.4477534298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -18.11379067989272,
+                  "lng" : 178.4450537701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "VASUTURAGA FAMILY",
+         "place_id" : "ChIJXQRR_W7fG24RnnKccIMGMZA",
+         "rating" : 0,
+         "reference" : "ChIJXQRR_W7fG24RnnKccIMGMZA",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

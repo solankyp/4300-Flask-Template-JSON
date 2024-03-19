@@ -1,0 +1,1229 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJbD7zDkAUPdrMxooYJxGRH0ZUgVNG08osBN7RnROnbzduBofPpMwlT7mUrQRNUWAnCqhn36aEMluQxZ1YJFQYke7EUbPK5JHRW5I7plc-Tccpx1jeqjrQ6xP6BMvrJYJM_amNB33Mi7g4jHvMpvvS121ewUcIVCm_hg5vSA78NSHPjJjnRHjL1Jxy6-qcy2nJIG5L0NdOHRw5NXw1x5OKXTl3BGNXcPg-KYKgHWokcVRPY3-IpTXHEA4vnnNZ9yPun-ArzwtgaIYWQYQ70d8IlTObLCqr-7WGpJcZpsevX89NipS4JZtmTUSSXx750g_5Rl44nwOc5acXID9k0yMFMgBQaex1c_2wGkKM0YV-KLUOX4GkM-yS6gUSX79cMC3-aUkgXlMPw1Cy243bMC",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Parnell, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.8607177,
+               "lng" : 174.7777538
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.85935902010728,
+                  "lng" : 174.7797402298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.86205867989272,
+                  "lng" : 174.7770405701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Auckland War Memorial Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2778,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101170702024721005089\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaay3r9ILZ7WcdcsAlRtyvs1bxS0QPxpM3UmuwWRcAzlxchLqRuX39GesdJe_V5uzm4fTFQE81T1PM9CAFHbOdDgaPd5FMDV4w3pdcu7nkOUMLgVefCGt6pHFx56xVgShmBS0zh5Ah9Pv6l74iKs55mlAH4hPDQ1ytaqpZHmuE0uNDc",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJA4X9SwtIDW0RwINaKgfZebg",
+         "plus_code" : 
+         {
+            "compound_code" : "4QQH+P4 Auckland, New Zealand",
+            "global_code" : "4VMP4QQH+P4"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJA4X9SwtIDW0RwINaKgfZebg",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11653
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Victoria Street West, Auckland CBD, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.848448,
+               "lng" : 174.762191
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.84696802010728,
+                  "lng" : 174.7636555298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.84966767989273,
+                  "lng" : 174.7609558701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sky Tower",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 5712,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118355039452842505810\"\u003eEdward\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZj-bk5YX4p8t8SqasRv_e6iLAD-XrmS9twc-FgQUe9HA1bsQdJgZJObggxddzXCQK_kfhQtKfyQAnjybmx4tY5euQp7spp66kfeCWRmM1mk047kdHZWBkEnMoy2fnykeiSEBwuuER76fS_55IbKEAlqngqTpJzQq-8GzCHbxKhWHHj",
+               "width" : 4284
+            }
+         ],
+         "place_id" : "ChIJJdxLbfBHDW0Rh5OtgMO10QI",
+         "plus_code" : 
+         {
+            "compound_code" : "5Q26+JV Auckland, New Zealand",
+            "global_code" : "4VMP5Q26+JV"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJJdxLbfBHDW0Rh5OtgMO10QI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16890
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "23 Tamaki Drive, Orakei, Auckland 1071, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.8469604,
+               "lng" : 174.8174321
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.84562497010727,
+                  "lng" : 174.8186908798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.84832462989272,
+                  "lng" : 174.8159912201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SEA LIFE Kelly Tarlton's Aquarium",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103789162575754703576\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZtYG8FVBBZAyo6pkhCG_MP4fZNyl1Io2QA2r_Ff_mavG6vdu1hkX2RaAwARdzm6HkU6VlTeYi8tLGeNBhmfzqQs51uDVt4PKt8Nh6TPRqGJPV07WWOfyfAFmHubXoJL6TOlcaFHnHg05AauUMIL1IxDm4BHzLpeiB-hMAm66jl_Eis",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJc15kjNRJDW0RDbcAjDa6gvM",
+         "plus_code" : 
+         {
+            "compound_code" : "5R38+6X Auckland, New Zealand",
+            "global_code" : "4VMP5R38+6X"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJc15kjNRJDW0RDbcAjDa6gvM",
+         "types" : 
+         [
+            "aquarium",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6660
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Wellesley Street East, Auckland CBD, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.851354,
+               "lng" : 174.766237
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.847888,
+                  "lng" : 174.7677784798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.8528144,
+                  "lng" : 174.7650788201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Auckland Art Gallery",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2605,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117094334462211945886\"\u003ePhilip Kemsley\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa5FyfhYD-qhLq-sTy1OWekOHfwrSfTJFIhr_0RJ42VxreLyHIcmaw_7PrbefWjQTy4z_YME_GM428rCAPA2JFRUJWSLrer2G7PCdBEukgFZcrTVqqwDJQs4pzMva8g51UmeMSvSngyH3S1XDEDntbU7ii-fU0h5CO-mQOofGdSq18m",
+               "width" : 3709
+            }
+         ],
+         "place_id" : "ChIJbUgSLvtHDW0RFXKLUva-kD4",
+         "plus_code" : 
+         {
+            "compound_code" : "4QX8+FF Auckland, New Zealand",
+            "global_code" : "4VMP4QX8+FF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJbUgSLvtHDW0RFXKLUva-kD4",
+         "types" : 
+         [
+            "art_gallery",
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5152
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Motions Rd, Western Springs, Auckland 1022, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.864113,
+               "lng" : 174.719685
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.86283872010727,
+                  "lng" : 174.7210536298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.86553837989271,
+                  "lng" : 174.7183539701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Auckland Zoo",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3688,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106241667211515025255\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbd4RmSNa1J_MmfZJ1u_CKgWv7iNDK_X8_agjkjRo4caDRim5gSvxTNaZNh8yPC529FY3NqDvHwlXZAnxOsoFAMaFG4OMOlwCEwOiceyxoo7cXQbcutg6JFvsclQB3oLkME6E8dpBHn_-Pf79t0TlY0sSy3U-4D-eCfNtXx1EKzUF3F",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJQ3KyMxJHDW0R7ug-g7xeklY",
+         "plus_code" : 
+         {
+            "compound_code" : "4PP9+9V Auckland, New Zealand",
+            "global_code" : "4VMP4PP9+9V"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJQ3KyMxJHDW0R7ug-g7xeklY",
+         "types" : 
+         [
+            "zoo",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13989
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "33-43 Princes Street, Auckland CBD, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.8506426,
+               "lng" : 174.7678881
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.8464748,
+                  "lng" : 174.770277
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.8547088,
+                  "lng" : 174.765009
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Albert Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117658709436824463629\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZwYxWhhDSgdDeUB_92TpBT5Lal2quqy6IqfEcq4RcGoN9YAWsWPdsdEpaFErbLPLqo6-72c1OTTgvcJsH1_XjtXbOVIzljPlGmQKGeixnNiN-57F6iubxjHmejo3-UI64EYwXWYcAOdstya-L26Yf-LAQ_DFhGSIQCFx97ocrfkVbi",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJoQT0pfxHDW0REvz7PfHIBhE",
+         "plus_code" : 
+         {
+            "compound_code" : "4QX9+P5 Auckland, New Zealand",
+            "global_code" : "4VMP4QX9+P5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJoQT0pfxHDW0REvz7PfHIBhE",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4168
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Park Road, Parnell, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.858931,
+               "lng" : 174.7754857
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.84959385,
+                  "lng" : 174.7852454999999
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.86944525,
+                  "lng" : 174.7661319
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Auckland Domain",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109174151007872319257\"\u003eSivaswamy Mohanakrishnan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbgFlv5x5smrpp4UH1hsl_tEKIKz_qyOUxS7jZ0HvYr-4Pzbgr5zFoVrKuAs50lE8WcRCkPhtgyMfp8IulP_Hzz9clz2WHJO9e91PyJNm4kU8E9PpgYVlrX1KN2KcOq_9f7BozeSfQBDCN7OxtTg74IY_V1cmSgsEloOjf2SFIfn7ti",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJgakB8ApIDW0R8MKcJGLvAA8",
+         "plus_code" : 
+         {
+            "compound_code" : "4QRG+C5 Auckland, New Zealand",
+            "global_code" : "4VMP4QRG+C5"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJgakB8ApIDW0R8MKcJGLvAA8",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11589
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Green Lane West, Epsom, Auckland 1051, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.8974467,
+               "lng" : 174.7843076
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.87762564999998,
+                  "lng" : 174.8000521
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.91880825,
+                  "lng" : 174.7687953
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Cornwall Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101102526090789011461\"\u003eisuri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbCiejZO1QAj_6IXG8ctXgz5gVNcuk-2M29gxSXnj0WBmorUW1MTtXWPz-rCtxWouE97jODzZkNKBiHysu0axa5-Bkf1IATU5gq45F7nsR2X8YarKQGN0Nf00Q6Ud8yzvtwjesvI4JM2gwYIXkGuxKChy4kSl-pArsbPfwbGJ4PdXQH",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7d-YpZBIDW0R0NKcJGLvAA8",
+         "plus_code" : 
+         {
+            "compound_code" : "4Q3M+2P Auckland, New Zealand",
+            "global_code" : "4VMP4Q3M+2P"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ7d-YpZBIDW0R0NKcJGLvAA8",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9269
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "805 Great North Road, Western Springs, Auckland 1022, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.867818,
+               "lng" : 174.7269355
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.86578845,
+                  "lng" : 174.7287807298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.86897945,
+                  "lng" : 174.7260810701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "MOTAT Museum of Transport and Technology",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110599676694291214211\"\u003eShannon Farnell\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaLzEdhahsk_IfKLrPOWzG1AMoHf8ecf2y9OUdV7jLsz5AqLcEo_4P9AgoAguEJZCI1IdajtnaKlFB0tWBHR-tCmtGABLbM01UggG8cp4iWYf_opSS81uXmj7Yn4vGqgK6KdXp11xv6JxJaMfHsPG7OLxbRcKUZVlPl9rPrQcKELrwc",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ0zMb3ghHDW0RrhPFWmZLZcU",
+         "plus_code" : 
+         {
+            "compound_code" : "4PJG+VQ Auckland, New Zealand",
+            "global_code" : "4VMP4PJG+VQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ0zMb3ghHDW0RrhPFWmZLZcU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3849
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Corner Beaumont Street and Jellicoe, Jellicoe Street, Auckland CBD, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.8403392,
+               "lng" : 174.7554946
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.83907027010728,
+                  "lng" : 174.7568101798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.84176992989272,
+                  "lng" : 174.7541105201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Silo Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3891,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102660710540052002905\"\u003eAnthony Schubert\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZh_1zB-XYN4W_4efJn9ZES8JwDjniiJX53-5EwNbRIeDSLMSc1gjb2gzX3JIFJiQrLmIw28nk4px-KwRB1xij4khTvQNVKHskjnX88GKEyjFN73D59vI0KuDnATus0J1akXccZhak7Dso8BI2ACn6Rh-5K9T8SbhFcc3VQ8MIiJLgE",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJxzNHDfVHDW0RZOK5Uhd2cEA",
+         "plus_code" : 
+         {
+            "compound_code" : "5Q54+V5 Auckland, New Zealand",
+            "global_code" : "4VMP5Q54+V5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJxzNHDfVHDW0RZOK5Uhd2cEA",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2890
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lloyd Elsmore Park, Bells Road, Pakuranga, Auckland 2010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.9073974,
+               "lng" : 174.9032889
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.90566647010728,
+                  "lng" : 174.9040647298928
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.90836612989273,
+                  "lng" : 174.9013650701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Howick Historical Village",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3333,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107881773077337790492\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbjQaYxJ9JzkOMDKq4jHxUe8gsYbn7DpUyqgvGH27lQ0edFRechRcPPMEGb8AD8Qup-tIXpPzZSzIpWXD5VlI2IwMcTIMkHlTw7ALgsWIJ82OeFWGhBYflUxxaPNmXfl4swgwRoZ5L1s7egiAuIxWt5--h05EvZ74bJqO7JUq8Wqwdw",
+               "width" : 5000
+            }
+         ],
+         "place_id" : "ChIJE__9bQtLDW0RMNdIKDnR-HU",
+         "plus_code" : 
+         {
+            "compound_code" : "3WV3+28 Auckland, New Zealand",
+            "global_code" : "4VMP3WV3+28"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJE__9bQtLDW0RMNdIKDnR-HU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "store",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 456
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "72 Victoria Street West, Auckland CBD, Auckland 1141, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.8484743,
+               "lng" : 174.7623761
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.84699787010727,
+                  "lng" : 174.7637825798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.84969752989272,
+                  "lng" : 174.7610829201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "AJ Hackett Auckland SkyJump & SkyWalk",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 680,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104924373159744111794\"\u003eSkyJump Ltd\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbuVuAB0Zrlk-8BJK1sy78bjWnIkwlQIUaGjpbISiP1eH11BToBvzBUEXP8LDauu9IQMDonEJzUg8QXv4rrJcQ3fTPL5R_NFzziEraT5psMDWBwrpnUh23fG4dQFdlbey2vC4AjLVVcqivctUGXn6P4wF6d3yNqR6i55o91GKs53WaT",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJDZSXbvBHDW0RTfnJNyKiMJI",
+         "plus_code" : 
+         {
+            "compound_code" : "5Q26+JX Auckland, New Zealand",
+            "global_code" : "4VMP5Q26+JX"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJDZSXbvBHDW0RTfnJNyKiMJI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 550
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "670 Manukau Road, Royal Oak, Auckland 1023, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.9060083,
+               "lng" : 174.7770694
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.90471057010728,
+                  "lng" : 174.7782653298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.90741022989272,
+                  "lng" : 174.7755656701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Stardome Observatory & Planetarium",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1277,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108078761757710925354\"\u003eChamika Lakmal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbC3pBgJ4uQh3zFWPDYk-3JLu2vo300og3oA9IhmH8LIdysIXqxzNr6NnIbQK5rWC9coVdlL2oSqobTNEut-15T1JkOxUph5cxs7-BBG4Sx-Qb5FO8y2jSaOTgQDPym8Xe8Vg4Yx7vFT7Ql7PnvERZEskJSDfaM4ZvnCbaESBBPVAL5",
+               "width" : 1921
+            }
+         ],
+         "place_id" : "ChIJX80yWKBIDW0RIo64FCHSDlQ",
+         "plus_code" : 
+         {
+            "compound_code" : "3QVG+HR Auckland, New Zealand",
+            "global_code" : "4VMP3QVG+HR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJX80yWKBIDW0RIo64FCHSDlQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "movie_theater",
+            "museum",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 411
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "19 Hapimana Street, Orakei, Auckland 1071, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.8483964,
+               "lng" : 174.8263074
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.84494125,
+                  "lng" : 174.8314826
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.85184185000001,
+                  "lng" : 174.8208026
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Michael Joseph Savage Memorial Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112884631816038603187\"\u003eWilliam Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ9v1jssGAj02zRV3Zy8NCoShY5BKDEA5pz6PRjNR6TeT0jNEUhlxUozsCgjJIbRymzC1ogRg2DCPulb4tyWSgrVlGq0zSTb22ur0WJc5GNt7AGeqeA6q5EUPAHm1AKPfrqNY-5m1rwkRgDbXLZlQ7Jz6UY9juhA9mx4I4-KZFylX9O",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJN8KgBdpJDW0RIL-cJGLvAA8",
+         "plus_code" : 
+         {
+            "compound_code" : "5R2G+JG Auckland, New Zealand",
+            "global_code" : "4VMP5R2G+JG"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJN8KgBdpJDW0RIL-cJGLvAA8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1910
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Wintergarden Road, Parnell, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.86024030000001,
+               "lng" : 174.7740933
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.85892377010728,
+                  "lng" : 174.7756908298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.86162342989272,
+                  "lng" : 174.7729911701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Domain Wintergardens",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115577171866703014097\"\u003eJason Croll\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ9KSIS4q3Vew0XkiS9Sj9fT6b_NKRZ74jEvypP0NrWq6PKlcgZbsLr_FGJyId_vEZXqU_10HjMycFs4Z-j4wPkcEyIKs0L411CS7c5xLSVeW5NWnMZSwUjONy9bkwI2zd-QlXT2idDV4m0qSrElmghGE6XI0ZKx3v0-4nxDcvzUUz1",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJCQ6TugpIDW0RU_XfsaBVC0E",
+         "plus_code" : 
+         {
+            "compound_code" : "4QQF+WJ Auckland, New Zealand",
+            "global_code" : "4VMP4QQF+WJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJCQ6TugpIDW0RU_XfsaBVC0E",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3128
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "291-297 Queen Street, Auckland CBD, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.8523442,
+               "lng" : 174.7631465
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.85107262010728,
+                  "lng" : 174.76474265
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.85377227989272,
+                  "lng" : 174.76157285
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Aotea Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 6000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111573368545119634406\"\u003eVictor Yen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbiqOPQ3YhKwQ4SVe7Dfyq2t9ITkj8gl5XAc_5NFxf1g5gdp-0715E-afpnEfC7aX1d72bREKsROvPc2lh7fdj9mc9FOxyIqRpRbHci-2f-R28-pUSEGS_xC4CFZ3PeRDgOwRi-ecKtO_H0c3B-QrMh_3vonGN_CO-JbGRL1ZfYiaQ",
+               "width" : 8000
+            }
+         ],
+         "place_id" : "ChIJn0svh-9HDW0RMIBTBUuDdjg",
+         "plus_code" : 
+         {
+            "compound_code" : "4QX7+37 Auckland, New Zealand",
+            "global_code" : "4VMP4QX7+37"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJn0svh-9HDW0RMIBTBUuDdjg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5914
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lower Basement Metro Centre 291/297 Queen Street, Auckland CBD, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.85156,
+               "lng" : 174.763906
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.85052237010728,
+                  "lng" : 174.7652595798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.85322202989272,
+                  "lng" : 174.7625599201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Odyssey Sensory Maze Auckland",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1575,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103974904122406678122\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb2C0pR14A9q67jCw5I9ztGNXPpPJi6aD5ioUiWJ55v_aYB4J4ebqUhYwFLDOeWeHD_-1rjnkJVrRKEzOWsZbukaVDH2fcH8kwcBLK7mkXJlyn0e7ZodKEIy-RTszNYTt6mhQPMdtvKwLwAiZ-aN_MRcNHXuS-X91xbwMMveyacSyQT",
+               "width" : 2362
+            }
+         ],
+         "place_id" : "ChIJ9WEub-VHDW0RQ1VRwQTaNOg",
+         "plus_code" : 
+         {
+            "compound_code" : "4QX7+9H Auckland, New Zealand",
+            "global_code" : "4VMP4QX7+9H"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ9WEub-VHDW0RQ1VRwQTaNOg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 515
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Corner Victoria and, Federal Street, Auckland CBD, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.8489952,
+               "lng" : 174.7620186
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.84774737010728,
+                  "lng" : 174.7634574798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.85044702989272,
+                  "lng" : 174.7607578201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "SkyCity Auckland",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118197953919674454708\"\u003eSKYCITY Grand Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbtjr8qs7as0davZrBd9AV30N5xDoisoEz8TLk1xlU-UntaRqzWkIpqxp5V2Am4vb8zerEZ1ENazsFtBVX6kkgKIJhvAtoUtB9fyK9jIcbYe28SRlS8suBoYPK6sXHzm2OkU_yKcewBOXsDT_1ZM9pesuhivLC5C_NzclggaH9cCVWY",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJY2BKE_BHDW0R9g9dYJsRaN4",
+         "plus_code" : 
+         {
+            "compound_code" : "5Q26+CR Auckland, New Zealand",
+            "global_code" : "4VMP5Q26+CR"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJY2BKE_BHDW0R9g9dYJsRaN4",
+         "types" : 
+         [
+            "casino",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3813
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1520 Great North Road, Waterview, Auckland 1026, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.8821602,
+               "lng" : 174.7031555
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.88051502010728,
+                  "lng" : 174.7049019798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.88321467989272,
+                  "lng" : 174.7022023201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Oakley Creek Waterfall",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2591,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112799483342611650262\"\u003eHardip Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaS9F96EMqYCbsXm5LK4CwtM7aBlvSxTDvr-yFXumkrJwDzTe2Qi3Fe9M-hfsQNamymHuwOH4vPzsiyYxYl1pE4e3vzL0bEU7vqvdf0Ps-9cB_rrxw9kZrgAOKsajbFMJcMCeS1PKADS83Q_mN0SXCtXqms0QW5V4P3_s7EgS2uYpRs",
+               "width" : 2747
+            }
+         ],
+         "place_id" : "ChIJny3VA9lGDW0R6ujpzkOKNvc",
+         "plus_code" : 
+         {
+            "compound_code" : "4P93+47 Auckland, New Zealand",
+            "global_code" : "4VMP4P93+47"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJny3VA9lGDW0R6ujpzkOKNvc",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 894
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "203-271 Victoria Street West, Auckland CBD, Auckland 1010, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -36.84691979999999,
+               "lng" : 174.754178
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -36.84378955,
+                  "lng" : 174.759185
+               },
+               "southwest" : 
+               {
+                  "lat" : -36.84959615,
+                  "lng" : 174.7485326
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Victoria Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112469896261367196368\"\u003eDmitriy Dubrovskiy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYOTA1ZlCzR3aPkfQ4-2LKrTgwLMPprrKLg0E3qb_sYmrF99du1VXnXDQ6ZsOqfCyQ9GbbELIo3s5LkT524XgMi_N1f6Nhh7BTl6DWW1YcqBf5NPT2WV5X_36SUqhqO-z6bk1KksuYW-uJnoHIlsHZMPRY7Q_8ES5qF9WR1bSWYCJcU",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8fLvH_NHDW0RgL-cJGLvAA8",
+         "plus_code" : 
+         {
+            "compound_code" : "5Q33+6M Auckland, New Zealand",
+            "global_code" : "4VMP5Q33+6M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ8fLvH_NHDW0RgL-cJGLvAA8",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3846
+      }
+   ],
+   "status" : "OK"
+}

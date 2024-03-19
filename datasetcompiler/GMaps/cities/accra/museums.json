@@ -1,0 +1,924 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "HQ5V+MC5, Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.560408499999999,
+               "lng" : -0.2061187
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.561788079892722,
+                  "lng" : -0.2047727701072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.559088420107278,
+                  "lng" : -0.2074724298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Museum of Ghana",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113854124385595136120\"\u003eGeorge Frimpong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbYWWS5bMk0NoDeJDAq9gJaNFOP9X5gIkmzAihULYD6nsyMXR98YDEy3s0QTkxtZBYDiDbe-gQm_LTMUg1_TPqqRYPrbPocoQ2q6t2LIqE76eh4K92OGBVeYAfWaQPEHolo8TLHqMBu--oBu5SVrEmrDIbLrni99xnJb7UH7HUbSEbZ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJf57ag6GQ3w8Rg6fuDEiaSvo",
+         "rating" : 4,
+         "reference" : "ChIJf57ag6GQ3w8Rg6fuDEiaSvo",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 995
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "GQVV+9M8, Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.5448327,
+               "lng" : -0.2030479
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.546182529892722,
+                  "lng" : -0.2016980701072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.543482870107278,
+                  "lng" : -0.2043977298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Kwame Nkrumah Memorial Park & Mausoleum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2794,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118267411757001592506\"\u003eChristopher Sheehan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZbDvAAUbiw0Jr0apnSscuBoi9koAuNDYbBUGlqBH2mT0p5Aeg5dfygZxfh06LeCP4L1As-0oM3jDVaRgPTLuSS6PA7kHfBAmyfYJ1CuvpkUZHbm3rErYWBJ4r_LtG38nmPAgHkk3Wo5SCPtWzez3BzVfiuVMirqnUn--jGY6eM50YB",
+               "width" : 2363
+            }
+         ],
+         "place_id" : "ChIJ-2XVMpSQ3w8R7gL9-Ap6S8U",
+         "rating" : 4.4,
+         "reference" : "ChIJ-2XVMpSQ3w8R7gL9-Ap6S8U",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2804
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "33 Prof.Atta Mills High St, Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.5384878,
+               "lng" : -0.2083565
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.539957529892722,
+                  "lng" : -0.2071276701072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.537257870107278,
+                  "lng" : -0.2098273298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Ussher Fort",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1980,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112397964549684882434\"\u003eStanley Ativor\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaNSKybZtvffzSTRIl5tZL8uioTbhCpSNB4YM3pF0LLg8h9KxVBVEJmEGVk8Udn47qkyxF3gWFq1XCz4QUCbexDPLIb-QSZ0DZ0GHgqIxDDQ7qPzvXZaN5GH_rV52d5TgsPnUjGb1asFA13LXjuq2nLtWZQRloJuf9B89ui6Np121Q",
+               "width" : 3520
+            }
+         ],
+         "place_id" : "ChIJ3aIa-MCQ3w8ROH5mWlb8C-I",
+         "plus_code" : 
+         {
+            "compound_code" : "GQQR+9M Accra, Ghana",
+            "global_code" : "6CQXGQQR+9M"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ3aIa-MCQ3w8ROH5mWlb8C-I",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 517
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Second Circular Rd, Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.5819962,
+               "lng" : -0.1709516
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.583157779892721,
+                  "lng" : -0.1697472201072777
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.580458120107277,
+                  "lng" : -0.1724468798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "W.E.B. DuBois Centre in Accra",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107212013136005763369\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaGuuDuiI1gPvCBtLRSAkDqkpZDNGOn4x3tYwZ1suA5MiQlIFuTa1pG8Ef_kIpcUwJbOz9uGq4l2q4HesEU3Rk72K77b6zEhgsLl6GFxXFEYXjT4kehKYANrKoHvHvyJk9E6zlppNL8ouWfVU6L9ZtG1JXsKG5PcxE_6JNfVYuqgkZ2",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJYdun85Sa3w8RdyM8883nyGM",
+         "plus_code" : 
+         {
+            "compound_code" : "HRJH+QJ Accra, Ghana",
+            "global_code" : "6CQXHRJH+QJ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJYdun85Sa3w8RdyM8883nyGM",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1007
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nuhalenya, Ada Foah, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.9132342,
+               "lng" : 0.4742538
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.914578529892721,
+                  "lng" : 0.4755940798927223
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.911878870107278,
+                  "lng" : 0.4728944201072778
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "NKYINKYIM MUSEUM",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111912859990311327216\"\u003eLorraine Carroll\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZMEaea2HQqEACWSaud3txStiRhk3Vf4tYZfH-P6j-m_1RdPwgfdOKLDYKgI3VfA0sHWLdIa3kT79MLG53qNEvc7qytwKOLVlskZVW5I0qiCxSN0h2z1gJDsHk0Aec_bFvXh0gomSXxPjaFg770R_z4zqrUmuVbClitcSAbYOet9Ky8",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJfXvWE0LlIBARGfinccGx_4Y",
+         "plus_code" : 
+         {
+            "compound_code" : "WF7F+7P Ada Foah, Ghana",
+            "global_code" : "6FQ2WF7F+7P"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJfXvWE0LlIBARGfinccGx_4Y",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 139
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "HQ4V+PH3, Barnes Rd, Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.5567693,
+               "lng" : -0.206062
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.558153229892722,
+                  "lng" : -0.2046806701072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.555453570107278,
+                  "lng" : -0.2073803298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum for Science and Technology",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108633472150879841375\"\u003eAraba Dawson-Amoah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYGOwL3TTNMPn0KhlbxS62_Y1-4GRb1tIsWg3RVyF-cnD0OFKfwIXexTm7QJ2ZTfiusdYqIqUYWGZW40jA0IZz4fVgwxyNQP0bBPbYKvyRfHddWh2M6TMzo8TcZks-daRxsW76kxmVGZrHdNqnXcwosxX-rUNiw_sfVzSLD56L_wbeB",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJYbJg-aGQ3w8RhOgRDb3Zt54",
+         "rating" : 3.8,
+         "reference" : "ChIJYbJg-aGQ3w8RhOgRDb3Zt54",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 436
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.546715300000001,
+               "lng" : -0.1827215
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.548248729892722,
+                  "lng" : -0.1813850201072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.545549070107278,
+                  "lng" : -0.1840846798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Osu Castle",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102964831522882998410\"\u003eDavid William Daniels\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYdaSfktzcd-tLeuPdcb1-ARRvTwgftE_K-IAEKvuHbKXr1wyIlPZZApn0w7gPq6cA-a02NH6AGzSuBxUBswnE15zjQ7DuxiHr6X6sheADAnUczzrHHjVu8BPHu21GAfipi3TGRFS9wf2XfWFBeYG9dT0VA6ZtXnI69ZIRhm3Cz52Qs",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJvaVkXeib3w8RSW3d79Yroz4",
+         "plus_code" : 
+         {
+            "compound_code" : "GRW8+JW Accra, Ghana",
+            "global_code" : "6CQXGRW8+JW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJvaVkXeib3w8RSW3d79Yroz4",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 405
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.5377884,
+               "lng" : -0.2093037
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.539144079892723,
+                  "lng" : -0.2079524201072777
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.536444420107279,
+                  "lng" : -0.2106520798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Brazil House",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105181759443217041956\"\u003eManu Mc.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ0wSvik3PXhazsiCKVb5yBH7_Mei-9kI5fws2j1R5WWEXVHLl8pHi7HkCIEgTQG3jthkQ4S0BoJqJRcEvZEoe0JGxwqHHF3gD0WjzvCFwkrR5XCFEmSBEHyvydjjBMdTTHUVcyZ3fxS6HKmysjkRukTOkVTWiFAol30MheVzEVDBE8",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ10R7RcGQ3w8RfLQp4uqfCng",
+         "plus_code" : 
+         {
+            "compound_code" : "GQQR+47 Accra, Ghana",
+            "global_code" : "6CQXGQQR+47"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ10R7RcGQ3w8RfLQp4uqfCng",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 264
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "HRCC+MR3, Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.5716281,
+               "lng" : -0.1779636
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.572922879892722,
+                  "lng" : -0.1766287701072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.570223220107278,
+                  "lng" : -0.1793284298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Mastahand Art Service",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102946755835033661401\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYUtepMM2Y2RVED7tTxRwOTlN-Tax5caXHOmbjLQg3uPoWEu22zw7jvd0V5cqqvIFEsDfjvvatXdXH3-vPabxTCENIeZNlEvzQnT39_xw46pNiaM3DWJOnqoruW76fyFkTtukkKAHjwIgti7y4vsXXNAWTdh68VjimEWKdRrhOmHlvP",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJpwnAUYWa3w8RY7_mJkuMOrY",
+         "rating" : 3,
+         "reference" : "ChIJpwnAUYWa3w8RY7_mJkuMOrY",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viktry Towers Ltd Near SIC Shopping Mall, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.544439,
+               "lng" : -0.2061879
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.545719379892723,
+                  "lng" : -0.2048437701072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.543019720107279,
+                  "lng" : -0.2075434298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "GOLDEN AGE HALL OF FAME",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2866,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109850221452145449623\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGzdRP4rvhKCFuYy0mbyJZpzbT6IGRqB6p0FlcMGUK8zt529UBb4PzJMXZwVAYQ-LV3pGjEcU0wiFNo2tK0lOfZB75XtcR0HfPZQ4_FRWEHAcTx2Df3KcjjlIneFj7yu_eI9JeleQ55a7H-OTNZlMwwkvIvBQgEpo4rgf1le02yXdg",
+               "width" : 4122
+            }
+         ],
+         "place_id" : "ChIJIQndGgKb3w8RCjLCqe5D5cM",
+         "plus_code" : 
+         {
+            "compound_code" : "GQVV+QG Accra, Ghana",
+            "global_code" : "6CQXGQVV+QG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJIQndGgKb3w8RCjLCqe5D5cM",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Spintex to Legon Underpass, Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.629529199999999,
+               "lng" : -0.1575114
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.63087602989272,
+                  "lng" : -0.1560467701072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.628176370107276,
+                  "lng" : -0.1587464298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Spintex, East-Legon Tunnel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103433744491037566728\"\u003eFRANCIS AKWESI ANI ADJEI\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGAuwYx0AUEBKPzjPQ5kLBHUR77hJ4jrBFlHGDhd6wEcDnza56eRtK0IDV_EjXcHwyaRmGKB4GWJRRWr7XjPRahgI7LLFp56FHjKVH0IUrJ0AvqNAuFnyuX_VZjR41-0wN-wlxMidF4hBZQQ4Vui8TL0j63Y7afqVUi9jpSCI2WzOM",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJexY2wEib3w8RReIW3S6F0oY",
+         "plus_code" : 
+         {
+            "compound_code" : "JRHR+RX Accra, Ghana",
+            "global_code" : "6CQXJRHR+RX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJexY2wEib3w8RReIW3S6F0oY",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 351
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.599291099999999,
+               "lng" : -0.0727165
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.600672929892721,
+                  "lng" : -0.07139597010727776
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.597973270107278,
+                  "lng" : -0.0740956298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Nungua Mantse Palace",
+         "photos" : 
+         [
+            {
+               "height" : 4160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109732584342194861051\"\u003eJOSEPH LANDZO\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY1RSJmM8ghQbVesGFE_Y94Q2mWH1jtlzVpYVt0N2E46pC-6lFIfTGD-Lju4kBJKu1amP26N5aBeTa3SV7g_9SWlbr-OIU_jUQhm7nvFUaJvueH72EqGutlls6wq--1BkSGgwtPJZJTOr9DoM_xKpFt16WSL7sWPIA7m5w6pddgiNrm",
+               "width" : 2080
+            }
+         ],
+         "place_id" : "ChIJP6eUSemH3w8R4yMPM1Ixbik",
+         "plus_code" : 
+         {
+            "compound_code" : "HWXG+PW Accra, Ghana",
+            "global_code" : "6CQXHWXG+PW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJP6eUSemH3w8R4yMPM1Ixbik",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 60
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P929+HXX, Kumasi, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.7014786,
+               "lng" : -1.6300097
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.702766479892722,
+                  "lng" : -1.628770670107278
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.700066820107278,
+                  "lng" : -1.631470329892722
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Prempeh II Jubilee Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2988,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105744643301934268267\"\u003eAkhila Kovvuri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZeZgmLyXWZKwuNzqVa-QI1WkCfWlIYwFKusDdPlXV3PBAGswMz-Eg-AdaSWSbjExWP4f8LcBRhhzRyg--9BqUWOThMxHLgYezqt0evyqaj794pdrqZislfJtvrT9gk1jzyby6yKtSHygx0zG4cj0oS5X_wXnXkZRM0cHBZEqsNP9gB",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJDZV1__iW2w8RFLo-sHf25Vk",
+         "rating" : 4.2,
+         "reference" : "ChIJDZV1__iW2w8RFLo-sHf25Vk",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 79
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "9GP6+X2Q, Senya Beraku, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.3874001,
+               "lng" : -0.4898804
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.38869357989272,
+                  "lng" : -0.4884484701072777
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.385993920107277,
+                  "lng" : -0.4911481298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Fort Good Hope",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106565400355995967351\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaVjJlrjhsPeDlHGfWGrM4QNeITWTee95-N6GoAmzNmOfMY3tTVSEyCN_5i-Vp3DO7cG71UhGvsoxDfi1n_jLpwnyMvXLX4qf0elwmJFQsXWlOzj044MN8KTP1iO5CEQJzryMbpN85_w2YU4cHKgAqHQGTXQ4yDQ2hw2fw4Y3pz_4iK",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJR8bhbNPJ3w8Rhr7OtJde03k",
+         "rating" : 4,
+         "reference" : "ChIJR8bhbNPJ3w8Rhr7OtJde03k",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 101
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "Lokko Rd, Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.5524815,
+               "lng" : -0.1886306
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.553952029892722,
+                  "lng" : -0.1872570701072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.551252370107278,
+                  "lng" : -0.1899567298927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "ANO Institute of Arts and Knowledge",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105718049931206116235\"\u003eANO Centre for Cultural Research Centre\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaPA-cOUgjGoDDr3obU-Y4ROPDjfFN3UathQ7IBVOqRKNHxyERt8PdywdfTGrctpUYib2kSSJKfJWkgBl6iWfVX-Dl2oXQAAmDQlIFVhdwnULWKN6dDp4JqKon34lFeMlIKq0lTr67rRafPECZQl-FaoTVXRERvTJRi0yzARTOIXuk9",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJfa7sy86b3w8RzpTGGufM-UM",
+         "plus_code" : 
+         {
+            "compound_code" : "HR26+XG Accra, Ghana",
+            "global_code" : "6CQXHR26+XG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJfa7sy86b3w8RzpTGGufM-UM",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 47
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "HQHC+3VP, Palace St, Accra, Ghana",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 5.5777145,
+               "lng" : -0.2277831
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 5.579062279892723,
+                  "lng" : -0.2263831201072778
+               },
+               "southwest" : 
+               {
+                  "lat" : 5.576362620107279,
+                  "lng" : -0.2290827798927222
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Mantse Ankrah Royal Palace",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 3968,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101026271541501668767\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaY0XQQAxtZDkieGZVySyW6NDdEXrq8fi4dKBay4JFMTDKkX0Wf1wa2qjaJW0w6F57cMy5U9mJ8sgfGi4uX8n1GBXg6qnvHV3fA6U-CPhmxZZWrr8lVruNCt3HfMQ8JgW5dGV6qpgVuYQEwG0eGb-Z1hK4kgVF3kFpL5jiAzLthOlBx",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJV65NvkuZ3w8R7saJCL5Xuss",
+         "rating" : 4,
+         "reference" : "ChIJV65NvkuZ3w8R7saJCL5Xuss",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1235 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJa7JE2VZv21wOdqFKnq47KdmRjW-XTCNqyWeskLUavUxGZUhS3s5jsTp0OJh69GW4vAMFVdG3JnxT3AzCQcz5-DFiOQnF38QOE5e8d9rxS1gdZSLQCn5stCiWjnPKq8wQdiExmFvsJTFjfEK7mI_ljuZnaxH2d4Vz2-T3O7I5MjQqJZ9frYQxxL6HeZrWZx53VYe5HBZi2Jqnr3mGh8Fr4xLAyLYtfoX7_5TUy1Ji60FBSxFFVmDMRykoL3_Ed7XbFJOVQ_-4i845GI7uAmODi1_zpdJOdRROJxEqY8uax8MMLV3I4HacSl8f1Wo8d_pFBiLvwh1QajZ5zZxBx63pAvX9W3xnAgmX3nVohKsK0t-V1md7rammxsIgHtKUIB63nx4c8XYyhJPetIrckUB09MibpxAw",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ben Yehuda St 15, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.781416,
+               "lng" : 35.217472
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78263137989272,
+                  "lng" : 35.21881877989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.77993172010727,
+                  "lng" : 35.21611912010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Moshiko Falafel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110534920385031635341\"\u003eMagdalena Omyla\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYWsdAQTZ7Gw8Qxel1JFV7de7NbXVsYgVj-9jo2Wft5x6D_oYmmpptP_-kuKle7TQPwlTEDoLmTIKCvqpoMAvCz38rYsOQk8-Emw6cWFOy2XOh_2dKcqbsy-QOnca5EIUI_nXmsRCArdwsAz_sAkh2ioel391DY11MoUOWTTjOzwOoG",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJfadDF9YpAxURltRbcgq8IfM",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6J8+HX Jerusalem, Israel",
+            "global_code" : "8G3QQ6J8+HX"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJfadDF9YpAxURltRbcgq8IfM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1161
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ha-Shikma St 1, Jerusalem, 9432301, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.785113,
+               "lng" : 35.211642
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78645437989273,
+                  "lng" : 35.21297492989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78375472010729,
+                  "lng" : 35.21027527010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Crave Gourmet Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107914640688547871455\"\u003eChaim Gottheil\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbiLnpR-BNGx6byk0-guQIB98fc6vcrySKBJEuKvxb8mGn9czo55LwEloFTG47WLztbWBbR6TMTLa8x2dQgbAGGjt8X4rtNZ57DT3XLiil0CT2WXDRYwsB72WeYfBQdUOsPPpHexFWzFXFnS9hrA__QMXrllAQXpGSKonwOtBTHXY1U",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ09CU8ijWAhUR5-QjaXy-18s",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6P6+2M Jerusalem, Israel",
+            "global_code" : "8G3QQ6P6+2M"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ09CU8ijWAhUR5-QjaXy-18s",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2470
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Salah Ad-din St 42, Jerusalem",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7879882,
+               "lng" : 35.2294663
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78930942989272,
+                  "lng" : 35.23078797989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78660977010728,
+                  "lng" : 35.22808832010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sarwa Street Kitchen",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115444352980798377741\"\u003ealicia sornson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZX0ZyjGfvyeweneHAVNM7soeG-sXGkqS10aISG_lFCw7Rzb7E4Ju8SnENqeTnacWPDai5IQwRTosphlypqdiKQs0gwFN6H3x1fzyjvhjgq2dBKN3hwPHU2xPiXKpgXtu8JnEDm2AkWvZ2QK5S0WnEzvJt2xVO96S37EFxiyr8NIFSm",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJR38Ts8MpAxURoFu4FFjav-E",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6QH+5Q Jerusalem, Israel",
+            "global_code" : "8G3QQ6QH+5Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJR38Ts8MpAxURoFu4FFjav-E",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 406
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "latin patriarchate St. 33, Latin Patriarchate St, Jerusalem",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7773246,
+               "lng" : 35.2273063
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.77868197989272,
+                  "lng" : 35.22866297989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.77598232010727,
+                  "lng" : 35.22596332010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tala Hummus and Falafel",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106914855601648863417\"\u003ePaweł Maciąg\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYKI_-PoKIug6hDgGOn3HekEwmcS6BLgUboaYiaN7Jovb89HRZrUPi2DHfiuvC_AXpeHkog4fKWdnZDrIewIHbz_QPzMdXNWFT2f6977qgK0B482Nuy952oir7bQpI56CHXTuIUQrwnDGwwBSxSnSFIVNM90XZolTx6HkTs2LrjDZv_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJu9ASE84pAxURZnvavi88IO4",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6GG+WW Jerusalem, Israel",
+            "global_code" : "8G3QQ6GG+WW"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJu9ASE84pAxURZnvavi88IO4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 641
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Agripas St 117, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7843654,
+               "lng" : 35.2114411
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78566767989272,
+                  "lng" : 35.21289007989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78296802010728,
+                  "lng" : 35.21019042010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pepito's",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117478465992072136303\"\u003eRonen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbEO1vckMXPDLTam2IlB9Yf-_hnA7f3L8CNFXveRKTb6o5BFirtfjS_Dj2MOVqsE5MuN_1GoRjAQHeMm3gjyeUCqHUaowpvQxqiWOmU0a__bgvzS4tdqNpliNqPgVXbWFsb0TS_G7QXpBg9C9KCE5rAesblDWeauf_1-ZO0eKb7g6Zm",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJfQaTnrPXAhURaR9B_-Ju-SI",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6M6+PH Jerusalem, Israel",
+            "global_code" : "8G3QQ6M6+PH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJfQaTnrPXAhURaR9B_-Ju-SI",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 612
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ben Yehuda St 2, Jerusalem, 9462201, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7818907,
+               "lng" : 35.2190026
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78319492989272,
+                  "lng" : 35.22056672989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78049527010728,
+                  "lng" : 35.21786707010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ניודלי Newdeli",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110959431699921176442\"\u003eSimi Blau\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaiBX4YCMrdX03bNVDr0ZFfu1keFRawnKCXgUiRdUE_EFdVo95VpeAAGf_7NHLdvi4rx4EjQ3lhQ-s0Vzn9s9FC5FH3tzmO6kufyrvUSzjVjRUxu_mVYbA5jmWr8ehbcgoUzX0I2E77FnMz81GPf1ALQgewFyp7dJexfskN9Pyre4-A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJHYSP34YpAxURnEjTi6SrB28",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6J9+QJ Jerusalem, Israel",
+            "global_code" : "8G3QQ6J9+QJ"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJHYSP34YpAxURnEjTi6SrB28",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1049
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Agripas St 74, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.78463199999999,
+               "lng" : 35.211271
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78593622989272,
+                  "lng" : 35.21259167989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78323657010727,
+                  "lng" : 35.20989202010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Jacko Street",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108533489499562691453\"\u003eyaroni michaeli\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaY_zarVf_lVcl1Alr-w8xJ8Vp_aJIsyxuVqP_QLON313cRbqzlBqef9uIArAnRaRttRD-ckHi1xkeRaRAfQ7htir4R3FF1izc42Ft1NVMaeMDyvqVOuySweEch9fCuwKHQTOZ5mlaPg0DWTb2Kzo_xyYQYKopk0E-DWVo5HiL8R7AY",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJqaqqqinWAhURABhx0T1LoGU",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6M6+VG Jerusalem, Israel",
+            "global_code" : "8G3QQ6M6+VG"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJqaqqqinWAhURABhx0T1LoGU",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2002
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ben Yehuda St 2, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7818907,
+               "lng" : 35.2190026
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78319492989272,
+                  "lng" : 35.22056672989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78049527010728,
+                  "lng" : 35.21786707010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Famous pita",
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102098546955644759693\"\u003eJohn Kim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZJJUY7ASFb-FNIMZArYUCEMp4jE2dYTzITKGZPoyccHsCgkO2tw0BoD454xLNOzgLLUAUMoLwiB8xwGgNSA5xLyz7JRMftYvMS6ly6ACOMUkAWvJ0anreg5IdAAkOrG2ZmeTCbvNsPkzZdjzu9KCYuhX9hS3ulUnfj36R5Sgm6TOD3",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ3Zzp2_IpAxURxMi74nVLsaI",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6J9+QJ Jerusalem, Israel",
+            "global_code" : "8G3QQ6J9+QJ"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ3Zzp2_IpAxURxMi74nVLsaI",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kiryat Moshe St 11, Jerusalem, 9610213, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7855622,
+               "lng" : 35.1952252
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78690077989272,
+                  "lng" : 35.19668582989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78420112010728,
+                  "lng" : 35.19398617010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Niro Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102787314912886789359\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb35H6YxnC35RH9_g9Hcls7Ukjm2N-htDOI46PpenVePyVgkgR9hTNZUWDBftGwvIJTGGk2E13BS_sNkFFa3A3Duj9lvvNQG-sYKH-dQkqYLk9j4tx0AgC89OKiYf5qB5j_nIGbJ4n3smmWgaohdPNzh_KeyepkUVY2ql14hrg4wSI7",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJrzhMghXXAhUR8lSODl6Nt1s",
+         "plus_code" : 
+         {
+            "compound_code" : "Q5PW+63 Jerusalem, Israel",
+            "global_code" : "8G3QQ5PW+63"
+         },
+         "rating" : 5,
+         "reference" : "ChIJrzhMghXXAhUR8lSODl6Nt1s",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Natan Strauss St 3, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7836659,
+               "lng" : 35.2180745
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78499227989273,
+                  "lng" : 35.21946472989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78229262010728,
+                  "lng" : 35.21676507010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Chipsland",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100935197753707300738\"\u003eOscar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY1kFWUI-DY5Alyi4GEx38i7RuxqLeupi5dupC5pK4eRQFGPtImuB220EhEOvvCe8FPPYKKpo1tlxHpVgFVS5zCOmtBFZkT-Ly5bbjsX1Ok6DiYuVxVXaLcGY3m2Um82t23DGMigjpkw3wxKJNtk3rp5HAEPcheTu8bTaTlLcV-vE_u",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJQzPqlAkpAxURC4Eyy2pY6Gw",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6M9+F6 Jerusalem, Israel",
+            "global_code" : "8G3QQ6M9+F6"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJQzPqlAkpAxURC4Eyy2pY6Gw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 69
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jaffa St 193-183, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7888573,
+               "lng" : 35.2037917
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.79014252989272,
+                  "lng" : 35.20515597989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78744287010728,
+                  "lng" : 35.20245632010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "התסביח",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114781527767492074179\"\u003eNoam\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZckn7LXkdgiHo2TKY-HN0_Z9HyNDZYZL3cpzDpuca8zg8sbZhnRCTJDdui1XNglYn3gBkIdtw_EAy66wydrvN5v0cti_yr7XGWfRuOHA6SXTt1Vv3jykjxm--P4JNXFx-pxjdKFSmX7r7XV6WOG_zy-rBNj2A1JmNITsGcjSFjItds",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJR8Ty7DrXAhURSTgkYLGzMcc",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6Q3+GG Jerusalem, Israel",
+            "global_code" : "8G3QQ6Q3+GG"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJR8Ty7DrXAhURSTgkYLGzMcc",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 62
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jaffa St 31, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7812659,
+               "lng" : 35.220514
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78268362989272,
+                  "lng" : 35.22192522989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.77998397010728,
+                  "lng" : 35.21922557010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "פסגת הפלאפל",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108473478756284899923\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYOIS006THUltVg6u1yEIojwoTUSWwPDBFNdRIhkYt075nbFiMmHyM1wEVXwmc08RnsWXw3QD97PbsG7E2I4Jvdi5-L0wfBe4UG5772VR2oGPSYUjfSWESmhOZ2gfc30c89KTxYTxPEz07x5pD_St-7g9xXHyECSuC1Q-uoYsuPL2SN",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ-bwQLJQpAxURqUSVQaKXxes",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6JC+G6 Jerusalem, Israel",
+            "global_code" : "8G3QQ6JC+G6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ-bwQLJQpAxURqUSVQaKXxes",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 37
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jaffa St 222-224, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.78894739999999,
+               "lng" : 35.2034726
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.79016432989272,
+                  "lng" : 35.20484917989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78746467010727,
+                  "lng" : 35.20214952010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "New Deli",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115608545591682053047\"\u003eLau Hin Sing\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZNd8FqfDZi1O3DnZbgZy3wwUWavHIfUrvwKfYcQPNIXzqQJ9KDdckG03qJxe2V_raPpcjxzUnMtKW3qaoPLGPGBd-GVGKVEJWtqfWOpIbSrjDwKs3heAwPGpVb8L5V8E-Elkn1KOcFj96bSY6qcTpaLAJ2wvMdedlfjp3HdvP-fTzR",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJkbn6qTrWAhURVPTW1eNIG14",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6Q3+H9 Jerusalem, Israel",
+            "global_code" : "8G3QQ6Q3+H9"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJkbn6qTrWAhURVPTW1eNIG14",
+         "types" : 
+         [
+            "restaurant",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 100
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shop number 3, Christian Quarter St, Jerusalem",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.77893589999999,
+               "lng" : 35.2293117
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78009097989272,
+                  "lng" : 35.23045757989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.77739132010728,
+                  "lng" : 35.22775792010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Snacks Old Town",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118344278461110565522\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJatdURKFWWtwV1zB46dsiKpArI5zgyvE0vKGjkOgL4qVih7yQk-zZiSCefhJ07NBG1GmWpqR7V_KR6HQV5pv7P22v9ycqkJS52YtoFPevngE-LHuSQ4ByZOG0p6BzZ10PCoQpUrp0WBLTluH4mwJ24nGJJnWG6NS7evpUqGfPa6vjgs",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJTwvLg6cpAxUREVOQRw_wZ48",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6HH+HP Jerusalem, Israel",
+            "global_code" : "8G3QQ6HH+HP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJTwvLg6cpAxUREVOQRw_wZ48",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Beit Ya'akov St 6, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7854219,
+               "lng" : 35.2115639
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78674347989272,
+                  "lng" : 35.21293377989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78404382010728,
+                  "lng" : 35.21023412010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "דוויני פיתה בר Dwiny Pita Bar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112408378155093363056\"\u003eJim Knoxville\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb4v5dVVDb-kz4M0gScbRHSw-xR3EYMF9EqZQBidqx7-GpyCZNvBtYEMW5PLxgOq7sI7d7cplWqosusS5a8IfIDymv8xfeuqZ_pz5UUcTzmZ4ygB5r0oc62C-bkml0LscyGtEyvzhJCIHmfDyL8IjjQ62JvAaJhyahm30DT5GqEBihY",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJGVd5jSjWAhUR43iTgaA9tjo",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6P6+5J Jerusalem, Israel",
+            "global_code" : "8G3QQ6P6+5J"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJGVd5jSjWAhUR43iTgaA9tjo",
+         "types" : 
+         [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1394
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ben Yehuda St 23-21, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7812302,
+               "lng" : 35.2166568
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78264982989272,
+                  "lng" : 35.21818037989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.77995017010728,
+                  "lng" : 35.21548072010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pisgat Hafalafel",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109745994222999361848\"\u003eSteven Hatton-Pocklington\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYF2rFM2OJW9gaW7Sg-n6V3xJKcGI9Hwmru_ImRg7gP36pVlsXKETjLMsFEtxOGzo-KN-lE60ZXMO5qwJeTLhX2WlC_vIzJ0LW64Z7khdAzaR0-EH4fwSokHjPk0DFa_YThKdsWjlEJaPHaYYMPeZxSvYhnt59VKNiUX6wrZydHJylb",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJNXbqHAcpAxURis_Ow4GxHO4",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6J8+FM Jerusalem, Israel",
+            "global_code" : "8G3QQ6J8+FM"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJNXbqHAcpAxURis_Ow4GxHO4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 175
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "King George St 7, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7825564,
+               "lng" : 35.2173249
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78389752989272,
+                  "lng" : 35.21869027989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78119787010727,
+                  "lng" : 35.21599062010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "King of Fries",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112961201785622163122\"\u003eTobi Bowen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYiFlUYexmfwewxv2D7tvg-SkHd_ps2pTHvr1N8dm5CERzFvVFSlxjxoJVLqyu3ImLXVjOBnyedeYyvBDg0_w0veglhgRNMpJuETgqY4nT1AzDZWkhTzklr00qeNHqcDhG3W4Xk2eqeVbSrPu2vK5aNAEtqRrWvX9ZSokssY16bEk9y",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJuYsjXHQpAxURZwN1fYvPRy4",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6M8+2W Jerusalem, Israel",
+            "global_code" : "8G3QQ6M8+2W"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJuYsjXHQpAxURZwN1fYvPRy4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 44
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Luis Brandeis St 3, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7920317,
+               "lng" : 35.2099847
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.79338297989272,
+                  "lng" : 35.21135122989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.79068332010727,
+                  "lng" : 35.20865157010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "זלמנס רוממה",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102954230436044459187\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ3G0Eyy8E80UVamG1eEWgSmsSsfxT0BugJoyBhr67Btz6wLQTFPReNYfsE8HwwAY1PYoYSzXWockuhZT6MHwKVxt56KdeJmS19BgOkzmnC3nVFOzYtZssbq5TylBmRHyHuIzTQQhmY4uz29iIot9QCC1Zti_iaQy8uxP6mqyIsKQXe",
+               "width" : 1246
+            }
+         ],
+         "place_id" : "ChIJaSoJQsjXAhURBlNR2O8uweM",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6R5+RX Jerusalem, Israel",
+            "global_code" : "8G3QQ6R5+RX"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJaSoJQsjXAhURBlNR2O8uweM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 100
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hashaked 21 Shuk, Jerusalem, 9000000, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.78445859999999,
+               "lng" : 35.2128413
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78580842989273,
+                  "lng" : 35.21419112989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78310877010728,
+                  "lng" : 35.21149147010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "PATATA",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4910,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114898021864290597069\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb1ssdG-k5WaRZ86w-ByWKety8zAFrYSi1jon0MgDHellaX3Enc3TbpfdVfwrRTHulDu8xfC1iIcgU84S8PJYjH05hVAlNwgSTPSpeEJNh1kuOXlKfCUROy_kM8B9WHJ4E1WmSnRzd4jdQJ5zbnH5tuVQY2ey2rl3h7NixXEn0pRTus",
+               "width" : 7361
+            }
+         ],
+         "place_id" : "ChIJow8RwfDXAhUROxGgJ0cESIY",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6M7+Q4 Jerusalem, Israel",
+            "global_code" : "8G3QQ6M7+Q4"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJow8RwfDXAhUROxGgJ0cESIY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 50
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "HaEgoz St 15, Jerusalem, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 31.7843087,
+               "lng" : 35.2127363
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 31.78544842989272,
+                  "lng" : 35.21410987989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 31.78274877010728,
+                  "lng" : 35.21141022010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Knaf",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4608,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115724476804922175538\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZHsamZi4RHfCPq_dQsOajFGTppHUsGud5TN_Oe6MpJFgZ4SMfafRwrH8to1T94WOQVwNPAH2X9gFuo8DpHZoAr__CtmCGpuN4m_glnELKUNPsA8NLJo6gKcHBATEezQ4LW6aoxV-VvcnthoNUL4eCCINA8gTjOcQ7dS14PhKV5F9Fw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJp8wR1yXXAhURr_oOU794SZU",
+         "plus_code" : 
+         {
+            "compound_code" : "Q6M7+P3 Jerusalem, Israel",
+            "global_code" : "8G3QQ6M7+P3"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJp8wR1yXXAhURr_oOU794SZU",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 300
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1197 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJalI8X9P9qLfMpO6MJUMij-QhWdP-jLhInJ21qyTl4ribrbxTIrtwuw7oQKgrN254N77nW_iMDWh8Rnngqsc2iwLiBAWnIdyHN9hhMb_cq2DcCh8a6rvf2PUS7Yuj4-aMFfzfDrfZgeNsl3bQzfo2-ReGFQ9YRT1Uq9xQuJLtxLiuMB15vUp5Ry0puyoiTNH4eA3buKokWdIfUtO4OA1uuoVahsTzxLQMvwmFo9lGn6xX_ChvrjZJ4PUfmj6xTJGkPJHtHyVu3lLaugFrvkyKAqMCSWmbFL1rOvHNqZQzSf7EPtd1Ug2YHCYkchF-vUpocB4yZfg4GygooL2YIaq09Z2SlskYN0dxGIGjefS-5VfpxUjyvkIoGTNQ0yLdlg7FOyZM9jWL_-JGShC2NU",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Hősök tere, 1146 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5151893,
+               "lng" : 19.0781513
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51668772989272,
+                  "lng" : 19.07972487989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.51398807010727,
+                  "lng" : 19.07702522010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Millennium Monument",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117710242953600358224\"\u003eNemanja Pantovic\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYHJVnO2QkzmbD8mkS-kECgBe9wk0_nduTtzwPBPkcnjf8LPTaMq1O_jnKJ8RiRXL15WWlVbNIAqM2br8cWy_m9-HnTdLvCyTCni3rhK65Z_xf2rkNRQ1RppS4RBRVa1Pn2oCzlJVrv1hBNP4WvFqHtX8Z_8IJ-ba8PVG0yGxxEGBBg",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJaSHx-YfbQUcR3eG-W818wVw",
+         "plus_code" : 
+         {
+            "compound_code" : "G38H+37 Budapest, Hungary",
+            "global_code" : "8FVXG38H+37"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJaSHx-YfbQUcR3eG-W818wVw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2280
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Szentháromság tér, 1014 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5021827,
+               "lng" : 19.0347812
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.50316557989272,
+                  "lng" : 19.03659715
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50046592010728,
+                  "lng" : 19.03269295
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fisherman's Bastion",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 6936,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100350652401804293646\"\u003estefan.kraus\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbp8NW7FJsVAgaA4b9y3eYf4jcKC1KqLJztBz3evj_dxOeJihN5yyNI_A7VDX-5ucacbCPsN0Ir_OH7axnlV-2axwtUZjfQPpAGkUks8G3g9SUsWK0IGiDcZY26sA78RWrGxSe1qQ8ExRfJCBNn8j5JlsEK6FF2Ca2SuymS7zrQ7zoI",
+               "width" : 9248
+            }
+         ],
+         "place_id" : "ChIJnam0fyLcQUcRRl4jRKg8Ji8",
+         "plus_code" : 
+         {
+            "compound_code" : "G22M+VW Budapest, Hungary",
+            "global_code" : "8FVXG22M+VW"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJnam0fyLcQUcRRl4jRKg8Ji8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 87969
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Szent György tér 2, 1014 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4962048,
+               "lng" : 19.0395666
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49885410000001,
+                  "lng" : 19.04129035
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.4953217,
+                  "lng" : 19.03643455
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Buda Castle",
+         "photos" : 
+         [
+            {
+               "height" : 2241,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106176517327378002042\"\u003eRobi.Babiak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaqaB72XyVd4da06GPeZLubxM4mSgqhkTj5REFgyuNDwCWPedtgYaPejtwPi0L82L18xrzq3awzmVMh_uF1yz5JNYgNQKj2NzFSJO1J7iMznXqRKvSvQdiBBoicj2IXmMXE0Uvk3xGLpbh_dQ7t388Uie7q2Ki4xaItrVoLlgxaWLcD",
+               "width" : 3590
+            }
+         ],
+         "place_id" : "ChIJDw826jzcQUcRdiUBqV86zj0",
+         "plus_code" : 
+         {
+            "compound_code" : "F2WQ+FR Budapest, Hungary",
+            "global_code" : "8FVXF2WQ+FR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJDw826jzcQUcRdiUBqV86zj0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 49406
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Vajdahunyad stny., 1146 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5148896,
+               "lng" : 19.0830593
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51790175,
+                  "lng" : 19.08399882989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.51388554999999,
+                  "lng" : 19.08129917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Vajdahunyad Castle",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104625922625648452031\"\u003eRafał Sobierański\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbIBu15KTuwgt3JJ1zMBTzJPE1PPOiabXTtZHCCftvqZQYeIBuJFIow-Gqc3uTJgyKIxyZQqbc-aURBO5ijqNADAXM3ZMoSwR-Lod9Fvg41TYNTQH2rj4vxPErVqL5G9dTrAsnflgUVEFlyyaay2-fpaQUnskK1BWtAlgV4sGQNcnu-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoaLtEYfbQUcRjp9d1Wfk97w",
+         "plus_code" : 
+         {
+            "compound_code" : "G37M+X6 Budapest, Hungary",
+            "global_code" : "8FVXG37M+X6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJoaLtEYfbQUcRjp9d1Wfk97w",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18665
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Széchenyi Lánchíd, 1051 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4989928,
+               "lng" : 19.0436994
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.50036452989271,
+                  "lng" : 19.04897455
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49766487010727,
+                  "lng" : 19.03880995000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Széchenyi Chain Bridge",
+         "photos" : 
+         [
+            {
+               "height" : 3064,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100318108084357983894\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYKAFGk9EXaeTqSaslI_nhJj-nrNkP7Jukvh4kxUvRh4YHJMvLxG15mICVIY4eZN2_sp9RO0Zl5MPCvHIC1uqpfLnb73Wj-YS8sZjGowMeYkedXBUGbwztjY8rTMZf_5PVOTmtu63wbfD9sp5VmTbsnr0EZHNK2te7gwmL2TpFRnzzX",
+               "width" : 5456
+            }
+         ],
+         "place_id" : "ChIJKRqatz_cQUcRpMnQhdf-QB4",
+         "plus_code" : 
+         {
+            "compound_code" : "F2XV+HF Budapest, Hungary",
+            "global_code" : "8FVXF2XV+HF"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJKRqatz_cQUcRpMnQhdf-QB4",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 54018
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Erzsébet tér, 1051 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4981503,
+               "lng" : 19.0520441
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49948067989273,
+                  "lng" : 19.05316577989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49678102010728,
+                  "lng" : 19.05046612010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ferris Wheel of Budapest",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112763989169858055993\"\u003eMed Ali Sellami\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbR_GJTGfPK6ZlNRoG12yy40hZ3XxFrbWBzBRKTMVZKv53Ne129yAjPGD8gbjHKbfOwW7M3tb3WEc3x1xA20tttPTJJOREqc9sDbjCJLv06AoCCJHh19piv-h3xo3-mH73ktq6hQJobyxPXHJDDZukPkAMRvA6TTzT9SB3VWrmKov-q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJYcmPF0DcQUcRJdXsdSjPbIc",
+         "plus_code" : 
+         {
+            "compound_code" : "F3X2+7R Budapest, Hungary",
+            "global_code" : "8FVXF3X2+7R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJYcmPF0DcQUcRJdXsdSjPbIc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21846
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Hősök tere, 1146 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5149429,
+               "lng" : 19.0778626
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51646069999999,
+                  "lng" : 19.0797923
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.51357590000001,
+                  "lng" : 19.0767443
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Heroes' Square",
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106406766130007082380\"\u003eLóránt Orbán\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZXFpzrhOyyP5uOwzT1FPoz2zN5IIepT9yl54gfRIYAORsLZBIzrRcXbpGIZk3hvdkFS0CmwR_Wzi_sn8zN9RTWcNftrKngXd5Mbxor5MIxdOahuD2f3-PhfbZTduXLGZ97y8XkgcglCpXmIO_YBgzwBGGMAQ04vojqbkXMeAGKGaW-",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJaSHx-YfbQUcRPylIurx8QTQ",
+         "plus_code" : 
+         {
+            "compound_code" : "G37H+X4 Budapest, Hungary",
+            "global_code" : "8FVXG37H+X4"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJaSHx-YfbQUcRPylIurx8QTQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 73699
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Országház u. 2, 1014 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5018283,
+               "lng" : 19.0333458
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51080675000001,
+                  "lng" : 19.04187855
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.48993094999999,
+                  "lng" : 19.02617074999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Castle District",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2604,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113636350571764537447\"\u003eErdos Andras\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaoUT6bxEeLhEP3ZE8KiwwAkvdWTO0IkwsnzyW358xilmMvlAAgDhHkwdAiGYGDv-jZm0MYZK8KNktKWMHrio0_B-svaAquzCyE8GNrCru3wecTI3BLYXA7bJTC4bmkIrjqhh8lEzmcxEJhLsufuHZtdF8mdN1NwaiXJKKMdQqKev9G",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJucJucCLcQUcR0qGKXhXCgEk",
+         "plus_code" : 
+         {
+            "compound_code" : "G22M+P8 Budapest, Hungary",
+            "global_code" : "8FVXG22M+P8"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJucJucCLcQUcR0qGKXhXCgEk",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 105977
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Szentháromság tér 2, 1014 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5019537,
+               "lng" : 19.0341617
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.50320217989272,
+                  "lng" : 19.03528382989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50050252010728,
+                  "lng" : 19.03258417010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Matthias Church",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2992,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105072879242900093016\"\u003eJulianna Böjte\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaUpliYqWa-xKc_v5qijTVM2s0lkKUL1BB7w9F4IhJ2uDFF6B9-smKk1Ioj3lHOGdgbHJt37OnnaYpcnv78Pdo8p6p_WfQsbYOwib6fg5A28t-9iS_ZS4zGLvvSv-LCyxOnikWY71wShMv-IwGkwZhFluyAYLinBwIEC0HIu5c8PGFi",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ1yuefiLcQUcR1Uppb4xy0GI",
+         "plus_code" : 
+         {
+            "compound_code" : "G22M+QM Budapest, Hungary",
+            "global_code" : "8FVXG22M+QM"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ1yuefiLcQUcR1Uppb4xy0GI",
+         "types" : 
+         [
+            "church",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 22721
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Kossuth Lajos tér 1-3, 1055 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.507121,
+               "lng" : 19.045669
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51039825,
+                  "lng" : 19.04973445000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50296805,
+                  "lng" : 19.04431384999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Hungarian Parliament Building",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110487138548595423579\"\u003eLorant Orban\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa2esLMNPCXhh-vAaRwotfc3S4MkmMsBe-0IRG8Udm8bgsXYTegc3DmzVDmdi8DXg9mCge8uWeGz1XmT-5wbyNQIwJcdLpSicl7idTRA-fAEWnGSOX1RMrQ4pxQKW3DrrFItXFjvWRnIWfkGB0PWMGPw3gUIgRLhBrvvX1et3-jEKQd",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJPaPURhDcQUcRbg-P_7giITQ",
+         "plus_code" : 
+         {
+            "compound_code" : "G24W+R7 Budapest, Hungary",
+            "global_code" : "8FVXG24W+R7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJPaPURhDcQUcRbg-P_7giITQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 20217
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Úri u. 9, 1014 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5001434,
+               "lng" : 19.0341984
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.50145467989273,
+                  "lng" : 19.03548382989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49875502010729,
+                  "lng" : 19.03278417010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Labyrinth",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 575,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104519225865656016608\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbbEYldtWHfSvtLfUc2hmlVBQSt3ZbaORfb8qd0HVVZkgGeEcwSVvYseADz681tptqYfhmTgpBlJfOMEY79un3NBF1DOye1058wXT0ObMQeiLHv0MHT6cY4iW_UURZutl6LQ-2-VuWAv8ImMLWmc0UJva15IkP4dclgOaE0nOmHi9IO",
+               "width" : 1022
+            }
+         ],
+         "place_id" : "ChIJWYjR8CLcQUcRE3oO60E2KSw",
+         "plus_code" : 
+         {
+            "compound_code" : "G22M+3M Budapest, Hungary",
+            "global_code" : "8FVXG22M+3M"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJWYjR8CLcQUcRE3oO60E2KSw",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4149
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Vörösmarty tér 3, 1051 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4965005,
+               "lng" : 19.0506668
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49751572989272,
+                  "lng" : 19.05176457989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49481607010728,
+                  "lng" : 19.04906492010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Vörösmarty tér",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107941550675028410871\"\u003eZsuzsanna Cseresnyésné Bécsy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaiVDjRSbLXqNwQn8cK0mWGo_WVelTi4eSfbTLXJAqoLVQkOB2DxQFE9o16JF96EBGPP5PCjclxAZ_86JGdd49iZ43cm1WTOrdq0TsqE00vbpWbh4BJ_mTRB39Wdm3etRX8kEYVvBDoApAcL7_MK-vB-bffgs4_2Br1hsVwltms81RO",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ00o8iEDcQUcRBpbJv_s8n0w",
+         "plus_code" : 
+         {
+            "compound_code" : "F3W2+J7 Budapest, Hungary",
+            "global_code" : "8FVXF3W2+J7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ00o8iEDcQUcRBpbJv_s8n0w",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12665
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Citadella stny. 1, 1118 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4868089,
+               "lng" : 19.0462617
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.48813737989272,
+                  "lng" : 19.04760842989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.48543772010728,
+                  "lng" : 19.04490877010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Citadella",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 12000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115384562971950919139\"\u003ePaul Wilhelmsen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZH99-ObgjqQIS-D1PV1TDNCNnouXz6p9H2HYrGFMbQ_EljoK_MexjYgEwr5DaJc7RW9qgyUpGVf8t4ETgs_XJmxkcJ_l1NKmhSfuy5h9wtKfWc1PRCFrGHfADCW1uEFve5mf_7H_fTkpfJfHoIPts98qEpG9rY3acfGkAjg8zeKxpa",
+               "width" : 9000
+            }
+         ],
+         "place_id" : "ChIJWxyWHkncQUcRqc0s9KKGkeQ",
+         "plus_code" : 
+         {
+            "compound_code" : "F2PW+PG Budapest, Hungary",
+            "global_code" : "8FVXF2PW+PG"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJWxyWHkncQUcRqc0s9KKGkeQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 18945
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Andrássy út 60, 1062 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5068935,
+               "lng" : 19.0651261
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.50818157989271,
+                  "lng" : 19.06656537989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50548192010726,
+                  "lng" : 19.06386572010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "House of Terror",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107003976242379154540\"\u003eMargiori Domvrou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ0WOAzJMRlJfeuIvfsMlR8EMb3lyTRtMvqfOszhH-wH_3236ubdh43GZyhU8RCiJMWKzp1x5KlSG7enmtv7ZjqpwBXcf_0X_FRUd4XOa-SXQ2lL2-d5ddzuhS3j7WhtQL5FS2SgLYkLLkzcKtrzjukk_90U7xsa9BN6XMtclmRPfcN",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJGbRBHW7cQUcR3db-N5BF4a0",
+         "plus_code" : 
+         {
+            "compound_code" : "G348+Q3 Budapest, Hungary",
+            "global_code" : "8FVXG348+Q3"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJGbRBHW7cQUcR3db-N5BF4a0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19200
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Kós Károly stny., 1146 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.514292,
+               "lng" : 19.085244
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51564182989272,
+                  "lng" : 19.08659382989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.51294217010727,
+                  "lng" : 19.08389417010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "City Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115187352001167339484\"\u003eRaja Ramakrishnan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYx3PJfLZIFL3__eAQoUujOtIlA5h7O5pPn3NMlFVipLi9X_kbHl1WZ48WdDeVyjhoI_tVM6PWX0Yp-eq6HnlVJsRgot6LxuOofh1Iazd-1_joci3B5DBuBfhyT-bMZXSia72ie0tWsnAAGrY7FkKA4YZq1SKK2l8sdJEZJ3WWInwDF",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJsenYr4DbQUcRl-orSA-5fXU",
+         "plus_code" : 
+         {
+            "compound_code" : "G37P+P3 Budapest, Hungary",
+            "global_code" : "8FVXG37P+P3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJsenYr4DbQUcRl-orSA-5fXU",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 71340
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, 1027 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5089497,
+               "lng" : 19.0382249
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51029952989271,
+                  "lng" : 19.03957472989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50759987010727,
+                  "lng" : 19.03687507010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bear Fountain",
+         "photos" : 
+         [
+            {
+               "height" : 4080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116597109374672115429\"\u003eМарин Колев\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbdSttQcwB0z0znHn3Ve7iBmArao0U7g79c5pffyUd5iF6j-pSNWPvRCS5XhtgnjFrI1HjlDylteKq9-KwqJggCcrmRm0J1Eob7YitxGKFNagKxPI6D_UKxputaRhjyzgoT-MsB2OwMCttjw4GzhtzSm7q8P7qP-ZsK8vOBwVtIO4g_",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJ5-N7eZzdQUcR_cN9H9nsFps",
+         "plus_code" : 
+         {
+            "compound_code" : "G25Q+H7 Budapest, Hungary",
+            "global_code" : "8FVXG25Q+H7"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ5-N7eZzdQUcR_cN9H9nsFps",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Szent György u., 1013 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.4961897,
+               "lng" : 19.0391028
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.49772847989271,
+                  "lng" : 19.04007247989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.49502882010727,
+                  "lng" : 19.03737282010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fountain of King Matthias",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2442,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107116668599168036978\"\u003eDanago\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY8S9pP33Z3a1oYYYRP84ji2pAn12qiAD2iLCl_YzilVi9Ycrbu7Z68bIvJr1R2gSDBtVkLLlPWrOqY7yLpWot7rVVj_l828StQ0WhibAK-wMbIgpT1ooz_osyjGUdTxw-SHZWR99KM8dePCi0ARAlVgXyDW96nkY3qWGOsvQCluLZp",
+               "width" : 3256
+            }
+         ],
+         "place_id" : "ChIJi0AgeDzcQUcRxQls2xxjXFo",
+         "plus_code" : 
+         {
+            "compound_code" : "F2WQ+FJ Budapest, Hungary",
+            "global_code" : "8FVXF2WQ+FJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJi0AgeDzcQUcRxQls2xxjXFo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 516
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Id. Antall József rkp., 1054 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.50392739999999,
+               "lng" : 19.0448015
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.50528662989272,
+                  "lng" : 19.04623997989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50258697010727,
+                  "lng" : 19.04354032010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Shoes on the Danube Bank",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107949826367329347204\"\u003ennamemaggietw@yahoo.com.tw\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJby26sPkoMGyqGH2CWs0imoyAjGYSA__o6oMN6Yx5R_jJx7pYXqbIy1sVvSsP9L1T1aFdrYvPQDO66hGf9_gtDZlqIywnSfT2U5UmuUcOBWRDIDhAEH1ntkeoMeX5uZs2m2QyWMBA9lIEsuA8PpyVHXQz4WrUoHVikayNoJx80mSjmk",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ32QtdBbcQUcR1mrLvmwZjvY",
+         "plus_code" : 
+         {
+            "compound_code" : "G23V+HW Budapest, Hungary",
+            "global_code" : "8FVXG23V+HW"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ32QtdBbcQUcR1mrLvmwZjvY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 20858
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, Kossuth Lajos tér, 1055 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.507062,
+               "lng" : 19.0471715
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.51018520000001,
+                  "lng" : 19.04805147989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.50402079999999,
+                  "lng" : 19.04535182010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kossuth Lajos Square",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111034201159497905075\"\u003ePatrizia Ferraris\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbbQcf5hhNItxtZzihkKof1a_i3N3tVg_JgcDe8oRdz7nLC4Cmw337i6AVQnPU51HEBweIVHNZ22rP1kC5csij4mrFOpuiE3h_ORZHXr0TdmRJzlDQ9CTaEL3ZbvZjD-9t-cMpE94Rw_XwZdH-b9P9eDEsqvjcTjA2lECLVMdoOBV_L",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJh6FdDBHcQUcR1UYBPcXz1Tg",
+         "plus_code" : 
+         {
+            "compound_code" : "G24W+RV Budapest, Hungary",
+            "global_code" : "8FVXG24W+RV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJh6FdDBHcQUcR1UYBPcXz1Tg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11008
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Budapest, 1138 Hungary",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 47.5198411,
+               "lng" : 19.0462908
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 47.52121087989272,
+                  "lng" : 19.04758017989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 47.51851122010728,
+                  "lng" : 19.04488052010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Budapest Sign",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4624,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109601344906155901933\"\u003eEku Vaikla\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYkti7XxAV14Y6IEViJYnp4k5zREtTea18kpR3b-zunL6gvUYlDZglOAtqTXkoOhHFxsIDps5mZB26WcO1JejicsJPbEShYlA6h_gqSZqJPT7hVX1dY98nivbb1CyE_9XWL7SIXd6VkPUgtlmxqMXgRUM6IdrAzVZYs-4mkKFkMMOyR",
+               "width" : 3468
+            }
+         ],
+         "place_id" : "ChIJU2_fQWndQUcR8Z7DMQeIz6w",
+         "plus_code" : 
+         {
+            "compound_code" : "G29W+WG Budapest, Hungary",
+            "global_code" : "8FVXG29W+WG"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJU2_fQWndQUcR8Z7DMQeIz6w",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 122
+      }
+   ],
+   "status" : "OK"
+}

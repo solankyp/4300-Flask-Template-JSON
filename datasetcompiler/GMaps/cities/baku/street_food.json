@@ -1,0 +1,1193 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZdAC8PLVqQSE4yUGN6PBkwRxammeT1DpQ3ge6SZDEVPqkF8vkhnCi5aRNn4QZgnABsPfVCCs4-Zc4i0Trk2oAw8uB2F3r9XuovkcoX-ZPZS2ntXLMCQutr4wjizQl4lYHH4nkvX8aJ5vlbg7ahjAzkEgTNDlFotNewXilGIHILr6whBLR_14bdQQCiIm5RUdr2p55vAwcPSqS9acai5wVGFiT8r0EJH5nNujXPzwQ6-ZKyyanYL7gHuHMuzaPz5rF-8LyWcLC2D4NiefVJvL7Fi46cPfDfWd47MJTXd_nM2scTWXGHew1hwswF68iaC0vD3lhUi2eGWLkCZkYfSkGYIe6l8J2DYO6qDNSSIwTbVzfssDJLtGk4B9lW0572Wjk1UljV1aVeMQ54KE7FIe0",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Haji Zeynalabdin Taghiyev St, Baku 1005, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3705578,
+               "lng" : 49.8384229
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37193622989272,
+                  "lng" : 49.83981957989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.36923657010728,
+                  "lng" : 49.83711992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Slice Street",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJMUsgYXl9MEAR_aCozrWwvyE",
+         "plus_code" : 
+         {
+            "compound_code" : "9RCQ+69 Baku, Azerbaijan",
+            "global_code" : "8HGF9RCQ+69"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJMUsgYXl9MEAR_aCozrWwvyE",
+         "types" : 
+         [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5 Abdulkarim Ali-Zadeh St, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3690802,
+               "lng" : 49.8382565
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37037977989272,
+                  "lng" : 49.83965852989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.36768012010727,
+                  "lng" : 49.83695887010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Asian Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111378485763817999044\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYCmkkTfC9Iz6FHsIojGDWCc6-k-QXUSeuiSnIwbCbq9D9chNTTDa1CBnZOj3SNdWtWL0-hKpkHOvnIrr3KMD79_Cx5vp0t--Ru5HCWRlcnXBvjJJ6q6HAUTSNegkzTNPqdbYBpX5UHWdVZzkZOSmVW-aEkh7KkFT2Xleg3UojKSM_D",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ138LXDp9MEARL41SXjsS4q4",
+         "plus_code" : 
+         {
+            "compound_code" : "9R9Q+J8 Baku, Azerbaijan",
+            "global_code" : "8HGF9R9Q+J8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ138LXDp9MEARL41SXjsS4q4",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 60
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "133, 1007 Azadliq Ave, Baku 1007, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3989536,
+               "lng" : 49.8382812
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.40034077989273,
+                  "lng" : 49.83981127989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.39764112010728,
+                  "lng" : 49.83711162010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Fashion Street Az ( Restaurant )",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102744500428533278477\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJac6yREOZ1Dr9lAAh0cGunRUeEKuHu16nPTrAkWx_qFOyHmcgy_q9rmtdIfRYXaCklTVFdBMiIFcHWLKoDQwCvAINBxikDBaucP_-eRHkBuQFnAsRVo_Lm9-zEEPIOf69vYwN24fBmN50u6bZsRbEp00syq2jsOkbJA7zCrbzZBlGOg",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJCTTD6Hd9MEARQOyqQwOklVY",
+         "plus_code" : 
+         {
+            "compound_code" : "9RXQ+H8 Baku, Azerbaijan",
+            "global_code" : "8HGF9RXQ+H8"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJCTTD6Hd9MEARQOyqQwOklVY",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6 Said Rustamov, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3687492,
+               "lng" : 49.8292733
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37009507989272,
+                  "lng" : 49.83061607989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.36739542010728,
+                  "lng" : 49.82791642010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Baku Food Square",
+         "photos" : 
+         [
+            {
+               "height" : 720,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109560764218311227857\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYNJMZYoV82zfso3nRrYZfAAkeNpwAQLaloUzr7GsuMWqlEmNar9rZ87x5xFnsdka3tA-Q3nGsrl3vYINSi1ATFtPeLUDFkVRRKuzX-QIoEKFXwP-zpjgeZsNQDH6xtLZ_EYRLOKjVze-HvudXVMzUHSMtzwRbic0hxsTinNyXUE204",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJDTq8SdZ9MEARSbb0tjZhaIA",
+         "plus_code" : 
+         {
+            "compound_code" : "9R9H+GP Baku, Azerbaijan",
+            "global_code" : "8HGF9R9H+GP"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJDTq8SdZ9MEARSbb0tjZhaIA",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "86 Nizami St, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.37543790000001,
+               "lng" : 49.84875539999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37679417989271,
+                  "lng" : 49.85010172989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37409452010727,
+                  "lng" : 49.84740207010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Station Baku Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 857,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103848100136631877459\"\u003eNaida Samedova\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaI55tvo5oENlj4Bj1mDiXsp2qVlkayszFbRCIO6eM-X18EUJgK6vIIW0R3d5Ybzoh2AAhJegVZgLV5gzzF0UskvVhcjoG6bI_44SPvLMJrEBqQ62XtQyPf_5cd5kZIsuRmKTVvXuj73wW5ZFMcDQB0B-q8-He0WiBM-6UAqSxsUsJE",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJjVDwZTx9MEARqyR75uy3XvU",
+         "plus_code" : 
+         {
+            "compound_code" : "9RGX+5G Baku, Azerbaijan",
+            "global_code" : "8HGF9RGX+5G"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJjVDwZTx9MEARqyR75uy3XvU",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 43
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nizami küçəsi 60 Bakı, şəhəri 1005, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3731562,
+               "lng" : 49.841587
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37450602989271,
+                  "lng" : 49.84293682989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37180637010727,
+                  "lng" : 49.84023717010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Food Zone Baku",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 639,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108017277730278883460\"\u003eВячеслав Гращенков\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZOkmBSHsxn4eX77dAyajovQ4zlYCTR2AUfA8JZXfOEcYCBDVpTpI7Nymd2LuBlwKmrM0B8xc1mWtOjEHp4KyTsyTwC0EFPNDRBZ4mvLYm-6HxE5dHPiiI45qhAR6BmIlJHfrGVuRQqzYHqWQJarek0jfDPlMG-WirkzPGLeeaXM7A",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJq3-e6Bx9MEARzFQdWiYx7gs",
+         "plus_code" : 
+         {
+            "compound_code" : "9RFR+7J Baku, Azerbaijan",
+            "global_code" : "8HGF9RFR+7J"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJq3-e6Bx9MEARzFQdWiYx7gs",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 71
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "62 Nizami St, Baku 1000, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3724065,
+               "lng" : 49.8374919
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37363882989272,
+                  "lng" : 49.83889102989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37093917010728,
+                  "lng" : 49.83619137010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "St.Nizami 62 Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112620572716195645098\"\u003eAF-Baki\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYgLxDAOoZzVxyAdrrPYXp2GRwvs0zLWnClRK9RbR5YgKADhL2Vy2BcPjsWI2Jjr1Z4iRl_ormB8d_xO9ssaBDcwWgDnAe5Go1f7x16w7Mx6tPadio4Du5O-Y9kHKe3B8Ca27fMgYLdEG6HfeDZK28cdOV4uVOptL0wUey1b-5J9j9P",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ3-oTkn99MEARah-qF8nNpXk",
+         "plus_code" : 
+         {
+            "compound_code" : "9RCP+XX Baku, Azerbaijan",
+            "global_code" : "8HGF9RCP+XX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ3-oTkn99MEARah-qF8nNpXk",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 63
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nizami St, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3733623,
+               "lng" : 49.841013
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37472292989272,
+                  "lng" : 49.84240132989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37202327010728,
+                  "lng" : 49.83970167010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Namak Restaurant Baku",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107155332813582230055\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYA3wRELi5OM5j5E2emPeaaiknt1b5j66le9YOXbp_207WWonKyADZpGQKW5CXfCLwZLbT-2QekVa0LJh0mjdhaIR1_7uV3_9csGYq3eqCCkk2MIoWhs7u5bA5xO0u2hlO1qhirGQvyaPqhowofqDu76QRs1dAhBqtwZARqKuFS6d8d",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJlafXTQ99MEARUYtYfs9dVP0",
+         "plus_code" : 
+         {
+            "compound_code" : "9RFR+8C Baku, Azerbaijan",
+            "global_code" : "8HGF9RFR+8C"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJlafXTQ99MEARUYtYfs9dVP0",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 79
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "81 Nizami St, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3730275,
+               "lng" : 49.84031909999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37457842989272,
+                  "lng" : 49.84156937989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37187877010727,
+                  "lng" : 49.83886972010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Shaurma N1",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113870840436345019121\"\u003eShaurma #1\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbmNDQVJz6kdqHwFgHEGDosNEXhMPGBVZzpI6gbcqUV34WxpangwILcl5SjCeptj1qB_kq0DjcjzQ-w6cJmdpb3R-r8i22jma9nJKFWOTJGSA0l4D_Y82j5ku82Ga-iUnEJYYARdAodfbJAEuBZqcty2mWzbbN9_r4BCR6Ad3bySkw7",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJT5-Pw699MEARU6Rh2Jjx8TM",
+         "plus_code" : 
+         {
+            "compound_code" : "9RFR+64 Baku, Azerbaijan",
+            "global_code" : "8HGF9RFR+64"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJT5-Pw699MEARU6Rh2Jjx8TM",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 486
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "108 Kichik Qala, Bakı, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3682484,
+               "lng" : 49.8347337
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.36962492989272,
+                  "lng" : 49.83606907989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.36692527010727,
+                  "lng" : 49.83336942010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kamsamasa - street food",
+         "place_id" : "ChIJs8DHCd59MEARn45QQ0_MHBo",
+         "plus_code" : 
+         {
+            "compound_code" : "9R9M+7V Baku, Azerbaijan",
+            "global_code" : "8HGF9R9M+7V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJs8DHCd59MEARn45QQ0_MHBo",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "96e Nizami St, Baku 1010, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3755066,
+               "lng" : 49.8505832
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37674577989272,
+                  "lng" : 49.85198897989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37404612010728,
+                  "lng" : 49.84928932010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Shin Shin Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102129442684369220298\"\u003eCY Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa4TtB9AOzB0ifM8en4F4RtdjMv93_vgFOpL9IvWUenf07H09szgzxwjVFP7MMXAD6pRUblV3ApnF1dT6UWwqYjL_eaNNYO03rI7q63hlUg9cdHoheoFb4R8KrR8MIbsBv6zYvcA5wP_NYUc560inN5wRqNDUeMus5-zlrpEx2IkPCI",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ_VIMkrB9MEAR8GrLo4-LmWA",
+         "plus_code" : 
+         {
+            "compound_code" : "9VG2+66 Baku, Azerbaijan",
+            "global_code" : "8HGF9VG2+66"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ_VIMkrB9MEAR8GrLo4-LmWA",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "CR69+GHC, Huseynbala Aliyev, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.4113161,
+               "lng" : 49.8189006
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.41269637989273,
+                  "lng" : 49.82023992989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.40999672010728,
+                  "lng" : 49.81754027010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "StreetFood Minimal",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 768,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108946180295446559446\"\u003eUlvi Mzade\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYpRtUvXaoKb7OHn4Ng_p7mH6MrGPVWf2sHMDxoDb4zszsgFdeg1h4M3gTL1RYOtgvMXze9nt2_fnxYSq2f2LyYGk8CdLMI25y5L64pHHXVMH2gf4vkbf1t-jLOknylrBzLhcJ_vqD15_3B-VOtdnPu0dlBvMsW7Tra4NOnriDxOL4R",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ-f9PBuyHMEARI7niHn7y7VM",
+         "rating" : 5,
+         "reference" : "ChIJ-f9PBuyHMEARI7niHn7y7VM",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "54 Nizami St, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3727279,
+               "lng" : 49.8397936
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37400917989272,
+                  "lng" : 49.84062297989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37130952010727,
+                  "lng" : 49.83792332010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "East Town",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102823796272477746047\"\u003eAyman Fayez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb4eoBzI3oG-xvWf3Ddesq3smffVUuodLyT1KsUYjWdi0dFqoZZFqFftpFbi3O7RjhxpM2lGT87REPlakCB5grG08sY5am63U9649HtyhXLdJt44G-kxop8G89G8sz64oE1Tk6Do7P-RItvAPSuRKZLaZaCZJv0vGXq9VLhQjcEwkQE",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJBZMsYXV9MEARWSI2Baq6r8E",
+         "plus_code" : 
+         {
+            "compound_code" : "9RFQ+3W Baku, Azerbaijan",
+            "global_code" : "8HGF9RFQ+3W"
+         },
+         "rating" : 4,
+         "reference" : "ChIJBZMsYXV9MEARWSI2Baq6r8E",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 153
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "63 Nizami St, Baku 1005, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3715038,
+               "lng" : 49.8360289
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37297252989272,
+                  "lng" : 49.83732602989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37027287010728,
+                  "lng" : 49.83462637010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Fisincan Cafe & Restaurant",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101815518502089155443\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa7NUbOv2_4v_tF4SlsrY1UbPC78IrJTvGZWIm6ayg9R8WkLkPayR8h98nEEC3Mnh33Zk7NWmlCJGs19K0Lwv83mNCrtoK7tvXt1MHmQt1V7qGPgMZEtzIMhpozLh9pS3Ha7A1RwDQ71XJFpF_sa8sMroaajlA8yY6PZfDg-B6h55yG",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFco-t7B9MEAR5ERLMvAz4qU",
+         "plus_code" : 
+         {
+            "compound_code" : "9RCP+JC Baku, Azerbaijan",
+            "global_code" : "8HGF9RCP+JC"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJFco-t7B9MEAR5ERLMvAz4qU",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 973
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6 Haji Zeynalabdin Taghiyev St, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3698165,
+               "lng" : 49.8394168
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37117292989272,
+                  "lng" : 49.84077652989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.36847327010728,
+                  "lng" : 49.83807687010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Meatadore",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105684623353578622723\"\u003eMy Phone\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYLC4ivWfweUICBnmFjj6v6pFT_1HXMAHsbRPMcQZiNh3ZJrgEzHZ_mruMxcFcV5Ulw8YEZ8scJUBvVa1lTK86nePQHELdWCWFv_wcWqUX0UnMihdRp6TrpsnGhwp6rz7SVWSyYw6ttmo2S35Hypu5U6_tkSFCv0R5xGl6CNAzM0lKy",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6Vnz2iR9MEARWWeHHZKD2kw",
+         "plus_code" : 
+         {
+            "compound_code" : "9R9Q+WQ Baku, Azerbaijan",
+            "global_code" : "8HGF9R9Q+WQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ6Vnz2iR9MEARWWeHHZKD2kw",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 456
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "79 Nizami St, Baku 1000, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3730274,
+               "lng" : 49.840068
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37455007989272,
+                  "lng" : 49.84144987989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37185042010727,
+                  "lng" : 49.83875022010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Caravan Baku",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4429,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108413425243740580273\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbvPqZMlhzG2IYf11RzYjFPas4drdQF88RuodmC9AxOxoFG1ThfzR2j1fketomvp-yLq5f3PxfE-R0eD755p3_pwnqBXOJpFcPMGzkM84wvs5uai07rLv56v7Zue9j2C8V4nPH_SQGCGweunVV6yRBNdwxFL8VUkaGf6lbP0U2ag7aO",
+               "width" : 2953
+            }
+         ],
+         "place_id" : "ChIJHwwaYdB9MEAROApr1tpHl6Y",
+         "plus_code" : 
+         {
+            "compound_code" : "9RFR+62 Baku, Azerbaijan",
+            "global_code" : "8HGF9RFR+62"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJHwwaYdB9MEAROApr1tpHl6Y",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 415
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "58 Nizami St, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3728972,
+               "lng" : 49.8406738
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37438057989272,
+                  "lng" : 49.84226242989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37168092010727,
+                  "lng" : 49.83956277010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mama Jan",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2156,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104833820525362869012\"\u003eВадим Николаенко\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbEDi-616jnCCwA7Q96cSBcRAbwA7oqqUWil1gNAjf8T8h7MCVEtmttmWmnhBJF5J00SPIBm1VgqKTTlOqoqZv-79dhxCEEmmMFVY-LSiWIHbMZGmXR1CcApy8-_1lG_mOqv70KqTfbk_H1ueQq4dF1EC1oksatXZvlNctbPquRZDfO",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJmWtOsKZ9MEAR2jVj5QS9eu8",
+         "plus_code" : 
+         {
+            "compound_code" : "9RFR+57 Baku, Azerbaijan",
+            "global_code" : "8HGF9RFR+57"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJmWtOsKZ9MEAR2jVj5QS9eu8",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 61
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1005 Rasul Rza, Baku 1005, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3727324,
+               "lng" : 49.8384536
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37410607989273,
+                  "lng" : 49.83985682989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37140642010728,
+                  "lng" : 49.83715717010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sardar ji Indian Restaurant baku",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106269187201020455495\"\u003eItx Ali\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbMnV8XRvmiHxnsGR_VMYHUSa2fp-Tb2ojvTN-OFqN5t7JFS8OtlfUfsa7nxXkVOtOgQE-jwtKI3G6DwjH2OXvlyIiOGcbiCGUqcV4Y15pYEPVe1FdnIym_6AAtXz9oFYj8llybJ06HtfokGj-m09-dIBCvzNb-V-wkkXiXWTF3KDba",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJdxhnKfR9MEARYIuu5hrInTI",
+         "plus_code" : 
+         {
+            "compound_code" : "9RFQ+39 Baku, Azerbaijan",
+            "global_code" : "8HGF9RFQ+39"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJdxhnKfR9MEARYIuu5hrInTI",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 58
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "26 Bulbul Ave, Near kontinental market., 112 Nizami St, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3737691,
+               "lng" : 49.844197
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.37519512989272,
+                  "lng" : 49.84535812989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.37249547010728,
+                  "lng" : 49.84265847010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Biryani Restaurant Baku Azerbaijan",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107301871360675563733\"\u003eJaya Thadishetty\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY6-Q25-w6lcPEVEDRaabXVZYzYCqDbsC9rmVA_jt-N0Y0niXmV6RtRlXAn0yqrrSerc8mUO-7-aGy0NP6P_b7CJDOUXe2usHexAIBBu5wlk9d5rAlFkBd3Nux__L9W4WHJAKZgE5sBt_I9JbdgG8X5K0VZoi7rp5bKhL9vmsLh-QnB",
+               "width" : 1840
+            }
+         ],
+         "place_id" : "ChIJ7_8gsq99MEARUJh0EeMzAwA",
+         "plus_code" : 
+         {
+            "compound_code" : "9RFV+GM Baku, Azerbaijan",
+            "global_code" : "8HGF9RFV+GM"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ7_8gsq99MEARUJh0EeMzAwA",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 19
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3 Hasan Salmani St, Baku, Azerbaijan",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.3813576,
+               "lng" : 49.8624208
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.38272617989271,
+                  "lng" : 49.86384652989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.38002652010727,
+                  "lng" : 49.86114687010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Food Land Baku",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 720,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112896807811673992693\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJag_kyeeFEMJS9Ivy23n2r_engdtA9WqotJ3lU5X2XdrocTZMFw5Iamr8tF0_J_2PRXbyVHVATAnZdn7TilimWbSzjCi-_1Ib0M7d_xJ_GJbu8xWus8KhhcC1nKE39dJB4MsOwYlOEj6Ks-_46szNvgT4DvCTst1-jucaxgv_tQvule",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJEzuh26N9MEARa3CeXQEAmO8",
+         "plus_code" : 
+         {
+            "compound_code" : "9VJ6+GW Baku, Azerbaijan",
+            "global_code" : "8HGF9VJ6+GW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJEzuh26N9MEARa3CeXQEAmO8",
+         "types" : 
+         [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}

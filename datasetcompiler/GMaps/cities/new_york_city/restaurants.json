@@ -1,0 +1,1261 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJY_COtNKb8XzcRT8tufQTcT5YxtevL1Lz8ZhYcyHbvbDACegrKlcKXRJnIXDPi_nH9iAaQi2nqxRqfR1f3sbAAsL6-qrVbTdJn76KeaNU_rzGSG2Ly3HLtbrfyocTvg2ApuGBRvrx2_bBByWMdnvBLzuFLUaTqCKy-aGSSGWm7X4letkFDRTMkLJWdLuj0tuZlMnEDYibMUqzTmqLwYx6RNPtCx8pH8Ao8NNeUHIsXGJ5nGEfGXMikAbYwhfcs9ZpFWWgDEjR7w60zYJSL7-giHn6BYmPHcT5LtHRdqZidk8xnDJLlnf_ak5fJhjj4Fqopqfo4ZQFnV4IBO_MAn_-CNWfXpc7wxTd7efbB4xO8R37rVHP7m6sOt199kekPOf94KAacMnsr-EShCZ9v7_BwzDRo7qtKwMZY",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "9 W 53rd St, New York, NY 10019, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.761081,
+               "lng" : -73.976753
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.76236597989273,
+                  "lng" : -73.97548587010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75966632010728,
+                  "lng" : -73.97818552989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Modern",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3744,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100489217038255503401\"\u003eThe Modern\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYJVC4jFbfeE77fXNiBiVUi7rSu8TKtUYQ_6GW9ZS1wl_wGqPEbqRwTgWZPjSha041iF_R-W360cAxB1V-zOrBD9nectHxIiUNchoOur7lV4ft63qCMGSdMLK2uWAiYwL4IB1YXblzBjmv4YKOMXlZp6vQTBRPllhNbg_R17VS0waLh",
+               "width" : 5616
+            }
+         ],
+         "place_id" : "ChIJMW-gxPtYwokRzDlnsRgq9rA",
+         "plus_code" : 
+         {
+            "compound_code" : "Q26F+C7 New York",
+            "global_code" : "87G8Q26F+C7"
+         },
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "ChIJMW-gxPtYwokRzDlnsRgq9rA",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2129
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "42 E 20th St, New York, NY 10003, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7384555,
+               "lng" : -73.98850639999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.73988127989272,
+                  "lng" : -73.98709987010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.73718162010728,
+                  "lng" : -73.98979952989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Gramercy Tavern",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1666,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118226372896311947705\"\u003eFrancisco Matheus Velloso\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbwvyQmi0v8ZgGGzN7QOIeGX4rTqizp4dz6p26wSXNJ9ibxrvMNU0sOj_Mc-_w2Nsqk6-QO8ddkzdSzQoPR4jsA40waKFgrfHfIOXLpiqmeO2v9uqiCSxW0MpKisqVq22tZCQMLcSk3XT_U09WXWlyhlw3XcKCeYAZS8ESHtIyecgHr",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJvSQIgqFZwokRFYQbJdzceSs",
+         "plus_code" : 
+         {
+            "compound_code" : "P2Q6+9H New York",
+            "global_code" : "87G8P2Q6+9H"
+         },
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "ChIJvSQIgqFZwokRFYQbJdzceSs",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3750
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "115 Broadway, New York, NY 10006, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.708882,
+               "lng" : -74.01143259999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.71031242989272,
+                  "lng" : -74.01002722010726
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.70761277010727,
+                  "lng" : -74.01272687989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Trinity Place",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102000847281539535497\"\u003eTrinity Place bar &amp; Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbhowHrcPB6b_rcI9O1w1dbbL8nWJh88nHQ05XMioilGGZBPjLOhXIi9sL4xAgtNtdhDtxngJTNvs8uCYSl09RSdRsvMDGQ9OfoPun5009S_MYdKQpa7RyvGCFwRPADywr8xGjL4Ye4GYASX3_hL1LfIrEpPH4ux6oM85hOM2FHZ3NA",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJ4_AAQhdawokRzbYlVLyzKlk",
+         "plus_code" : 
+         {
+            "compound_code" : "PX5Q+HC New York",
+            "global_code" : "87G7PX5Q+HC"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ4_AAQhdawokRzbYlVLyzKlk",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1320
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "82 Reade St, New York, NY 10007, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7154539,
+               "lng" : -74.00733009999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.71675852989272,
+                  "lng" : -74.00600892010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71405887010728,
+                  "lng" : -74.00870857989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "1803 NYC",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106885631932935660948\"\u003eMichael Drake\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbnBRn8K6wcgHDKky-uX3WeXz1yMyFvo3FQJqpZpAXXW3XbNcJEBbNtDs8rKw8PbZwztKmBFCLqjaVQ0Q1W3cWL_zSjdqCmTKmlc8wD10uNkrSg4a0YaO8XIjt-KUIlAicU1cHfIqIvTRfkEoYQmcyeh4oi5LEnuh4dLsRvC0j8JZpy",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJ0yKXaB9awokR6WFqdEE9aBY",
+         "plus_code" : 
+         {
+            "compound_code" : "PX8V+53 New York",
+            "global_code" : "87G7PX8V+53"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJ0yKXaB9awokR6WFqdEE9aBY",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1540
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "28 Liberty St 60th floor, New York, NY 10005, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7079974,
+               "lng" : -74.00888259999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.70937187989271,
+                  "lng" : -74.00742877010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.70667222010727,
+                  "lng" : -74.01012842989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Manhatta",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1318,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100843555729741380380\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZhPOmXWY4VO_M9yYF4tpvi95Uzw7Et8ejB-hX82HLNuP8IREaZ4rKFINP7h_EyPZSSqPV0GCcKWH8ULTCpcurcWgpnnnY9M0PRaUnaJCOZus1yH21VEcAwt8mZ5q7pO-lgb1JU0VuudUqEontsk4FIAIrTTRxGUYGL8knzE1Rw6ty3",
+               "width" : 1974
+            }
+         ],
+         "place_id" : "ChIJoTXWl8dbwokRpKA2BJFVsGA",
+         "plus_code" : 
+         {
+            "compound_code" : "PX5R+5C New York",
+            "global_code" : "87G7PX5R+5C"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJoTXWl8dbwokRpKA2BJFVsGA",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1914
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "225 Park Ave S, New York, NY 10003, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7372552,
+               "lng" : -73.9882246
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.73868762989272,
+                  "lng" : -73.98695647010729
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.73598797010727,
+                  "lng" : -73.98965612989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Boucherie Union Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 510,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106361323819048959749\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZlTdrb5OhXQadWp08lwwuj748PkMztmgNR_b1_mOYwxr-DjGeHbpk_zcUtUH83ujaKDm8lvjGD0lZpxeWJjiD6iU8sGQdxxwFt-HrMqz0YTQHML8PDAlerKd1ewAmiSS8weC2yLr8-cU7jmNpM5sLVp6YjArPz0w221R52EHMtjdBW",
+               "width" : 382
+            }
+         ],
+         "place_id" : "ChIJc1Vf7KFZwokR1YL2Rn9oxi8",
+         "plus_code" : 
+         {
+            "compound_code" : "P2P6+WP New York",
+            "global_code" : "87G8P2P6+WP"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJc1Vf7KFZwokR1YL2Rn9oxi8",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2835
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "51 Grove St, New York, NY 10014, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7331437,
+               "lng" : -74.0036671
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.73442837989272,
+                  "lng" : -74.00227557010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.73172872010727,
+                  "lng" : -74.00497522989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Via Carota",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3265,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104111246635874032234\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZANHYCrQxYZZQ1lYMhpygbixEPi_X4zY3bOfF6AZt9bKK0q5Zd9l6B7L4KExRpME3zjcimct1cF51rIVN5eyCfrfgsB76w6XDlyunKH1tpK9ggzZzkMNe3s2imELVVYgpqbpEsHjGEOMCm7h5waPXoQ1S_s022hOURcghY_Sh5CTHg",
+               "width" : 4898
+            }
+         ],
+         "place_id" : "ChIJr7FOf5NZwokRu3CDYtzVmuQ",
+         "plus_code" : 
+         {
+            "compound_code" : "PXMW+7G New York",
+            "global_code" : "87G7PXMW+7G"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJr7FOf5NZwokRu3CDYtzVmuQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2274
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "241 W Broadway, New York, NY 10013, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7196527,
+               "lng" : -74.00577819999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72101687989272,
+                  "lng" : -74.00446107010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71831722010727,
+                  "lng" : -74.00716072989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Frenchette",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108688046477368311620\"\u003eStefan De Clercq\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZqPgF2eGTQmV1DH_P-PFYhrV8gLj8Eo6m7ORbVFFFP7xwmbXnoZWWTkiLOcq52bSab0WXvhgx0CRgN5OWbP1lQUFPtWHJo0FywS1n-CiZGT2GTRyCOQ0TGqD_iX04nndB-KPZeSiGPjpadms3H4JB4-kROpaZXqEMM7QTyH8dZVIhX",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJu7pIuopZwokRvIsndYhPg4U",
+         "plus_code" : 
+         {
+            "compound_code" : "PX9V+RP New York",
+            "global_code" : "87G7PX9V+RP"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJu7pIuopZwokRvIsndYhPg4U",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 984
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "229 W 43rd St, New York, NY 10036, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7573214,
+               "lng" : -73.98765399999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.75858687989271,
+                  "lng" : -73.98621917010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.75588722010727,
+                  "lng" : -73.98891882989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "LOS TACOS No.1",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101475423275360348082\"\u003eChantelle Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZgvz9KYrnVvoVjqZevRhFAM9oYLzzcwNR-WSw3DXm7nAgq6_LL89qeGryTvac2nhmdfc1EYBIW1FEQkz4oCGXDjyZ-y2goK-hLvoGHGa-EOdWAFJEqdL2MtZLQQQqz6Y237gtRuvZM2sB8R--SuVnB4B6Pv3aCfUjNVLiI5JT7npNt",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6WooklRYwokR3qd-J59t-k0",
+         "plus_code" : 
+         {
+            "compound_code" : "Q246+WW New York",
+            "global_code" : "87G8Q246+WW"
+         },
+         "price_level" : 1,
+         "rating" : 4.8,
+         "reference" : "ChIJ6WooklRYwokR3qd-J59t-k0",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10300
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "99 7th Ave S, New York, NY 10014, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.733047,
+               "lng" : -74.0028772
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.73447872989272,
+                  "lng" : -74.00164652010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.73177907010728,
+                  "lng" : -74.00434617989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Boucherie West Village",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115822553205670316790\"\u003eDaniel Johnson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbIAdNAgipRfm_SUZWz3liP_HcSUn8crpM6CcA-rEwiqCAxP_QftltP9Jxr9_DAi60ZqQNvBlTtarkIhnRI3RIofleJnQfWnh6WCZdFZYo44zK-iz7A3VTIUl0vps1mNdTQ4tgKj0q_JeLAnEad_onpPAzvw-Osd-oa9Pfy4lRgN7RF",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJq58thpNZwokRcsvqjnNzYcc",
+         "plus_code" : 
+         {
+            "compound_code" : "PXMW+6R New York",
+            "global_code" : "87G7PXMW+6R"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJq58thpNZwokRcsvqjnNzYcc",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4088
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3 Greenwich Ave, New York, NY 10014, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7338794,
+               "lng" : -73.99994079999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.73519817989273,
+                  "lng" : -73.99842112010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.73249852010728,
+                  "lng" : -74.00112077989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "OLIO E PIÙ",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 698,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114247032184063224295\"\u003eMike Hiwaymann\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZlMBiB8cTrC1_KbeKf7dBqr4GR08VTqrV5Z1ryP-pc7p8MSCca8fk0lMuupMJjKT3c3fAnvoAcr25sw-NeCC1UBDj_aoeK16j6T6f1RRRx44Yv6cMKsl474VHOscCI1B9p6eLMEk1LJ0IdjfUGYYVhAgAIR55dpS5UHkGQk9WfZFXB",
+               "width" : 1056
+            }
+         ],
+         "place_id" : "ChIJ_RUJvZZZwokRNUEv3K4nSik",
+         "plus_code" : 
+         {
+            "compound_code" : "P2M2+H2 New York",
+            "global_code" : "87G8P2M2+H2"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ_RUJvZZZwokRNUEv3K4nSik",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6020
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "| First Floor, 14 Christopher St, New York, NY 10014, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7338736,
+               "lng" : -74.00041159999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.73524437989273,
+                  "lng" : -73.99906752010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.73254472010728,
+                  "lng" : -74.00176717989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Petite Boucherie",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4310,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110098407799199850762\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbZFGmGvC8Spjtlao_iDzXjLpCahHpEhHDIS4KIcOu9rksMJFB1_Jke4xN1Qv65FBoPlc5It8YWFyDP32VLnGwizNZW2820njlVwIXm4HgK3bgizV_StBp_hj_kVC3n3w4LCl0eh7FxR4l_6Sv9-4XdEVQeevKEY8AQEk5MNcOBrdOy",
+               "width" : 6473
+            }
+         ],
+         "place_id" : "ChIJye1nGZRZwokRpt8fmbCxNLE",
+         "plus_code" : 
+         {
+            "compound_code" : "PXMX+GR New York",
+            "global_code" : "87G7PXMX+GR"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJye1nGZRZwokRpt8fmbCxNLE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1399
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "15 Gold St, New York, NY 10038, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7078509,
+               "lng" : -74.007046
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.70916952989272,
+                  "lng" : -74.00561867010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.70646987010728,
+                  "lng" : -74.00831832989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Felice 15 Gold",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107140309854045839068\"\u003eTodd Cohen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZCBM1XtSLio72LjwuQfondps3-TPTQ3WxAqnB-8KEvhHG-9UDvqCqNVGDyyWRPCDbDcnPD07wY0k67dYh7nQpHYiwx3RQdIraZCxKawrxHtfcn_SaLnxxRCgNtF_vKVVzINLMTsuya-f9j4bj91ob2oDp86mkxFi5X1Jf67CnrUqk1",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJtb0E3RdawokRqLP-FNIxvf8",
+         "plus_code" : 
+         {
+            "compound_code" : "PX5V+45 New York",
+            "global_code" : "87G7PX5V+45"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJtb0E3RdawokRqLP-FNIxvf8",
+         "types" : 
+         [
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 896
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "345 Park Ave S, New York, NY 10010, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7419313,
+               "lng" : -73.984644
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.74325892989272,
+                  "lng" : -73.98332607010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.74055927010728,
+                  "lng" : -73.98602572989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Upland",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 550,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118337853419564287359\"\u003eSaiful Islam\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbChHCSKnd1u_kXSh20XwmyU2Pz9fXP2HPWRn0XxR-aRBKZ83Xn__huSpM4cGTLl_FTaVttUcuSdQz1wEju4UEAnu0oi58phGFVfACOsAk3M6prR94-WV--BxK7ABko5IcDf_rIhKJJDS4-A8tXU0zh7YO0La4ptSH-sMT7y9ZogQvq",
+               "width" : 860
+            }
+         ],
+         "place_id" : "ChIJWVD7FadZwokRs_pS6XY7VOU",
+         "plus_code" : 
+         {
+            "compound_code" : "P2R8+Q4 New York",
+            "global_code" : "87G8P2R8+Q4"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJWVD7FadZwokRs_pS6XY7VOU",
+         "types" : 
+         [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2009
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "376 W Broadway, New York, NY 10012, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7235595,
+               "lng" : -74.00295559999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72495367989272,
+                  "lng" : -74.00149507010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.72225402010727,
+                  "lng" : -74.00419472989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cipriani Downtown (New York City)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2787,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111444671146808251214\"\u003eEric Finkelstein\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZYd0x5sQuRcXEMOM7FzGkQHy9SCfMwZJT4M-Fs8HG9f8JohMFk_pzKPJkRWZdhClAp46PPHzcbhv4jBrJsM-ZvzbQ70fvf_baccU9elL8Cna4p52wVRPiSLz5Hndz_qn3zTHy5CUdvaYgxA-1tT14v209KPEurN3pmDjbvBnpGvhvB",
+               "width" : 3695
+            }
+         ],
+         "place_id" : "ChIJ71HLcIxZwokRXymDgawloWI",
+         "plus_code" : 
+         {
+            "compound_code" : "PXFW+CR New York",
+            "global_code" : "87G7PXFW+CR"
+         },
+         "price_level" : 4,
+         "rating" : 4.1,
+         "reference" : "ChIJ71HLcIxZwokRXymDgawloWI",
+         "types" : 
+         [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1107
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "99 Church St, New York, NY 10007, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7128554,
+               "lng" : -74.0093466
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.71402962989272,
+                  "lng" : -74.00790197010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.71132997010727,
+                  "lng" : -74.01060162989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "CUT by Wolfgang Puck",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114112078808915325520\"\u003eLawrence Hwang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaJlLPhoIuXdkItQh-njW0-p_aQvtIqc6aPwgmDsLZHIJqitdZHFs8Ea_kfy6A4j5LFZ8SHvILqAecTudtQgONCF8NWk5K2BDXPxGjAgbw6kKtmCkqHFamSeBguw8kY6JJkdIi_Lw9hjY7aD-ci82-wrhTZ4T-Wp4Ld2WjahwSSKxwt",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJ87qt5hhawokRfDHmVxCxPJY",
+         "plus_code" : 
+         {
+            "compound_code" : "PX7R+47 New York",
+            "global_code" : "87G7PX7R+47"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJ87qt5hhawokRfDHmVxCxPJY",
+         "types" : 
+         [
+            "restaurant",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 617
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2 Renwick St, New York, NY 10013, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7245348,
+               "lng" : -74.0084684
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72587682989273,
+                  "lng" : -74.00718207010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.72317717010728,
+                  "lng" : -74.00988172989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Lindens",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1291,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100145390572731703841\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZiX7ZZ-ia9MB1ih4iv-PXzq011p1Bgg0NV7GnkvOydENDfIuaLaBXYZ0xa6J6bWeV_at3vzkVDeBL608ckb4MG9aaA_S9K30_D7zG1FgYMfFx-4raknbqNCuclK84cl-sMru66wKLYEzZ6ZyxRKHu2oDa2CxvWBO3AH2_L6oeOeQA",
+               "width" : 1937
+            }
+         ],
+         "place_id" : "ChIJh-oPySxZwokRBTfrxwTdRo4",
+         "plus_code" : 
+         {
+            "compound_code" : "PXFR+RJ New York",
+            "global_code" : "87G7PXFR+RJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJh-oPySxZwokRBTfrxwTdRo4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 343
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Hanover Square, New York, NY 10004, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7046763,
+               "lng" : -74.0097371
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.70605337989272,
+                  "lng" : -74.00835952010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.70335372010728,
+                  "lng" : -74.01105917989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Harry's",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3587,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112015490673510260198\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZEVEy4tIyMi04d4JjBU-TTIXyhrSjO7yu_rNM4kRvpy4Zt_HYKa7MtA7jSTcMecaKBOcYO4BfuDuc-C4wf6KJt723pr_0MggyAvDMwPPMAJ7-WRricimenrFIzJQcFP3VSuh1ZfQAhyHT9Qc8JOR7ZgLdzpXQ3QfmVZhdooFqvk-Ti",
+               "width" : 5380
+            }
+         ],
+         "place_id" : "ChIJoSqkgRZawokR_ZAqr3pOMO8",
+         "plus_code" : 
+         {
+            "compound_code" : "PX3R+V4 New York",
+            "global_code" : "87G7PX3R+V4"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJoSqkgRZawokR_ZAqr3pOMO8",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1464
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "75 Thompson St, New York, NY 10012, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7246842,
+               "lng" : -74.00318179999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.72597837989272,
+                  "lng" : -74.00168817010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.72327872010727,
+                  "lng" : -74.00438782989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Piccola Cucina Estiatorio",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105948911535019050634\"\u003eShail Lakhani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZCnUlVbtEH-a4AVsbXYgm3sTF2_WBd7I1NXWOU05KGF_QOV44AfnZJp-KZ0rG0G2FV32PWSUUvTgHA5uUd3zp2BPPbOSkDbdLvLa6V_jD6jVaj2mW8nmz4G68VSm5FNkafsQxRAguNa1nrVwn77AfEZVhPE4jR-GWfC_-unR1Vk2Ur",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlQbeXYxZwokRnKjjqj-xmxM",
+         "plus_code" : 
+         {
+            "compound_code" : "PXFW+VP New York",
+            "global_code" : "87G7PXFW+VP"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJlQbeXYxZwokRnKjjqj-xmxM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1190
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "101 Liberty St, New York, NY 10007, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7103713,
+               "lng" : -74.0117875
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.71163847989272,
+                  "lng" : -74.01022202010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.70893882010728,
+                  "lng" : -74.01292167989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Eataly NYC Downtown",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 429,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113645631602178610012\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYtG7N2lmMbE0WRI895_svQbagv6ZFijWfMOBVm04v6wby6RTiNWwiIwNA2LnKrcP3oRVZQQylF9w53Qq7iIH6V0HUqODx-2pfI3X7YqO8bBO03W7tp5A6FoJY4Qv5DDao2vMpFjU3U6Gl0GchowN8ls7uYp-ros_GwpQivrimoxw7-",
+               "width" : 643
+            }
+         ],
+         "place_id" : "ChIJvx7i_BlawokRidb5WfdvqRM",
+         "plus_code" : 
+         {
+            "compound_code" : "PX6Q+47 New York",
+            "global_code" : "87G7PX6Q+47"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJvx7i_BlawokRidb5WfdvqRM",
+         "types" : 
+         [
+            "cafe",
+            "grocery_or_supermarket",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5420
+      }
+   ],
+   "status" : "OK"
+}

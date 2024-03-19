@@ -1,0 +1,976 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJaBwbKo2cJ9UgE-j02pyBfo0VlX_zPUwz5Ir9SDSKcSB2nvrOLvv3cMbp6xZZqSgMd4fLbJGsXw8j3iUugpMmkaFeIssWuHrpYrI_P25KyE_vFHPfFLCrzZniAe5yOCJZu8PWzJtCUoWhtTB0FteR15pSmw2mFbMR43RbtJzj4tKAya-ceyExoZZIRUpj3aTGG-4H7CPbMgplCU1VbnQpzq8vEVOEHytAyVAdpxraPfeF1oS8VQnNdXvu3uyLKh6TtrRYSXyXFGmV4iqbnkaV1FVwqqvZwKsA9yLlMqwFONRO-NyBNXnq2-GZoBWz6XPhaZM7gZME1mnIgxybHkya5NOXE74QI10GLVg4N9dhP_ihy3esnpnEcOu7mBIIPGoLCkNZcBc0vcNsNomc2nifJqGw",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H53P+H2C, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4460198,
+               "lng" : 147.185001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.444642370107276,
+                  "lng" : 147.1863429298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.44734202989272,
+                  "lng" : 147.1836432701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Unity Mall & Supermarket",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100839336924101176020\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZo15IEAz1kKwk8puXaL1DniA-FeKCucSOTlIEJutQliY262MTQwmIHxpXDGAhrbPSg2GfygD9m7bgV_mblLCuk5SxjlYqIJZs2Gg5prvwHizqyYz-O7NqL9KJ0gyY6j_8QYJTysRoU3_5D5H1hTf84C6QvCMGqoh6kw3fi3p6D8N90",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJAw9IszgxAmkRpmIyYCm1E-8",
+         "rating" : 4.2,
+         "reference" : "ChIJAw9IszgxAmkRpmIyYCm1E-8",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 101
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H56V+C87, Dotterel St, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.438966300000001,
+               "lng" : 147.1932894
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.437548320107277,
+                  "lng" : 147.1946335298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.440247979892721,
+                  "lng" : 147.1919338701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Trendy You",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJxy3c0yo3AmkRg6nSYiQfQZE",
+         "rating" : 2,
+         "reference" : "ChIJxy3c0yo3AmkRg6nSYiQfQZE",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H5V6+XGH NCD, Gerehu Rainbow, Port Moresby 131, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4050525,
+               "lng" : 147.1613564
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.403752570107278,
+                  "lng" : 147.1626439798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.406452229892722,
+                  "lng" : 147.1599443201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Trendy Boutique",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110482895548801905427\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJawnaBpSK90i2MacGYqUA7gNZm--qDCd_RqKvZnEt6PBHWie1TBPGNXNhaL5SjpyhWg5BqY3ZesqFCCnkUNXJlJcyKLEkoW3sxUfskIcEz4Ko6QHi11haMSbbp3QcTwY3zjZ7t0y3Evgv-A5MHu8No1oxI6NchEg1yc0pzkqiVUSby7",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSbOAUCo7AmkR8oLpmXijZeU",
+         "rating" : 5,
+         "reference" : "ChIJSbOAUCo7AmkR8oLpmXijZeU",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5WG+73J CBD, Mango St, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4542786,
+               "lng" : 147.1751409
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.452984670107279,
+                  "lng" : 147.1764671798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.455684329892723,
+                  "lng" : 147.1737675201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "EDDIES CLOTHING- Quality Used Cloths",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJeTf4twoxAmkRP3YFp2HCBR8",
+         "rating" : 0,
+         "reference" : "ChIJeTf4twoxAmkRP3YFp2HCBR8",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Unit 9 Nonu Ave, Port Moresby 121 National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.469700699999999,
+               "lng" : 147.1898306
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.468331220107276,
+                  "lng" : 147.1912779298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.471030879892719,
+                  "lng" : 147.1885782701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "MIYAH",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1028,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109501580034214335020\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZjLR5rsuuOQoDRYOLY3Mzmx0RSx51dcQddwf1SPXjCbIJP026F62c3DzdQERDLYmr8MhMpuxrma4lUYjnaFMJ5VSoSk1eLobxuxe2ZD09oOTPuniDvx38LJTxAJ8r1v8Rp9GYofeZ3_igLyZK_i0h_B4xLcB_uK_jZL2wiBIJTLkW6",
+               "width" : 1028
+            }
+         ],
+         "place_id" : "ChIJXSeqji0xAmkRMUB0P1qsFNo",
+         "plus_code" : 
+         {
+            "compound_code" : "G5JQ+4W Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G5JQ+4W"
+         },
+         "rating" : 0,
+         "reference" : "ChIJXSeqji0xAmkRMUB0P1qsFNo",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H53M+9VV, Waigani Dr, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4465007,
+               "lng" : 147.1846694
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.445317170107279,
+                  "lng" : 147.1856026298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.448016829892723,
+                  "lng" : 147.1829029701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Pacifika Women Network Trade Center",
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112659716722243576473\"\u003eGraham Somboba\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYjITRv2bIwI0IWCo-yZn3DFT1YxknrSEAKdPWrkJlKzuncoMR5fIjNV7BFVAYBD80fQk8xzSBBp-RxMO5v02nRSFxWvjNdgVfbdD2BOYZU3qJoq_Q0tJjrN8NfN82lCbgAErETjitnFUfHxg6xEjAOuiron-TaGKhRX6hQjzwT8id8",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ2wmhs6QxAmkRyvFWH837A-M",
+         "rating" : 4.2,
+         "reference" : "ChIJ2wmhs6QxAmkRyvFWH837A-M",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "NA, Spring Garden Rd, Port Moresby 111 National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4519281,
+               "lng" : 147.1949426
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.450432970107281,
+                  "lng" : 147.1962901298928
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.453132629892725,
+                  "lng" : 147.1935904701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The GoodShop",
+         "place_id" : "ChIJ4bGi0k83AmkR0uFaqNRzGbw",
+         "plus_code" : 
+         {
+            "compound_code" : "G5XV+6X Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G5XV+6X"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ4bGi0k83AmkR0uFaqNRzGbw",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lot 7, 8 & 9, Section 429, 131 National Capital District, Waigani Dr, Port Moresby, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.438402300000002,
+               "lng" : 147.1810598
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.437142470107279,
+                  "lng" : 147.1820612298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.439842129892723,
+                  "lng" : 147.1793615701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Vision City Mega Mall",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2988,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108811465589048113389\"\u003eBenjamin Liliura\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa-ALHLMmNHST2OTO0T7QF8IJTDD0Je9LbJDrXx8HPQzvtWs6djvFQHGFR5S5t_YM5zEAC4zcJVnQp4XONjhEqm9nnwapMMtiAZQiMJTtu2bgilb3XS6tVkr4Qlk8BpIUOozipSc97A6NVmCOIWNqmE5IxyUU4hgS6ekeHV6Q8VU0PP",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ4zA1vsgwAmkRpzsHnlVWYGs",
+         "plus_code" : 
+         {
+            "compound_code" : "H56J+JC Port Moresby, Papua New Guinea",
+            "global_code" : "6R29H56J+JC"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ4zA1vsgwAmkRpzsHnlVWYGs",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2976
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5WP+9QJ, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4540349,
+               "lng" : 147.1869037
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.453018570107279,
+                  "lng" : 147.1880921798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.455718229892723,
+                  "lng" : 147.1853925201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Stop N Shop",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114508548932605175927\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbcImzNCXJUtCW_rn3ABiIjGMZxz6c-UAMQyT-P8u0_Di0_XLWIPtipSOGM3UXvYB6IFidiNDrdgeRC2Mn6_FieEs3OfDV0_QN_qfsoftRN1UKQkqMjB5ZImiBUQdCJ6KuSPs4py5UGVYKxmS-Y2zWU3NBfq3Esl660lEzB3VM_PDSK",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJzcMR6tUwAmkRNJhKd1SDQXY",
+         "rating" : 3.9,
+         "reference" : "ChIJzcMR6tUwAmkRNJhKd1SDQXY",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 577
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5QM+J6G NCD, Galip street, Port Moresby 675 National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4609454,
+               "lng" : 147.1830878
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.459761670107277,
+                  "lng" : 147.1840020798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.46246132989272,
+                  "lng" : 147.1813024201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Unique Sales PNG",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJB3nQ6zkxAmkRkLeufjrIgxc",
+         "rating" : 0,
+         "reference" : "ChIJB3nQ6zkxAmkRkLeufjrIgxc",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5MV+5F3, Reke St, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4670699,
+               "lng" : 147.1936747
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.465796270107276,
+                  "lng" : 147.1950255298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.46849592989272,
+                  "lng" : 147.1923258701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "TABARI CRAFT MARKET, PORT MORESBY",
+         "place_id" : "ChIJlXP-w0c3AmkRE15IxEITrgw",
+         "rating" : 0,
+         "reference" : "ChIJlXP-w0c3AmkRE15IxEITrgw",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Waigani Road Allotment 33, Section 38, Building 13, Shop No. 10 Port Moresby Papua New Guinea, 111, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4463127,
+               "lng" : 147.1848126
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.444798920107278,
+                  "lng" : 147.1861148798928
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.447498579892722,
+                  "lng" : 147.1834152201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sanage",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116845007549598638988\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaW-oUbALyYa7yBlpA_X0sF4RUXw9Yr3k1FV4YRahxdB3a_TDl8JI3NunpwUkUoy4E1UJVIAs2z7_xumJTRYyTmW_1ljARC7srFn50tYkbaWmCuR2mHdMe2UfQhjQYh7wB1f_rW9XDsk0U1knzLlJzWxEOy-U9d7PA5mHMhlTh_Osdf",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJGexNfeYxAmkRMH-W8kCo88w",
+         "plus_code" : 
+         {
+            "compound_code" : "H53M+FW Port Moresby, Papua New Guinea",
+            "global_code" : "6R29H53M+FW"
+         },
+         "rating" : 2,
+         "reference" : "ChIJGexNfeYxAmkRMH-W8kCo88w",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sec 23, Lot 58 Hekaroka St, Hohola 3 Port Moresby Papua New Guinea, 121, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4610466,
+               "lng" : 147.1809701
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.459673120107277,
+                  "lng" : 147.1825098798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.462372779892721,
+                  "lng" : 147.1798102201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Ava Kays Shop",
+         "place_id" : "ChIJD4MTj2MxAmkRevD_ZqQjqik",
+         "plus_code" : 
+         {
+            "compound_code" : "G5QJ+H9 Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G5QJ+H9"
+         },
+         "rating" : 0,
+         "reference" : "ChIJD4MTj2MxAmkRevD_ZqQjqik",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5PG+52H, Casuarina Pl, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4645689,
+               "lng" : 147.1751056
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.463236520107277,
+                  "lng" : 147.1765003298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.46593617989272,
+                  "lng" : 147.1738006701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Andy's Trade Store",
+         "place_id" : "ChIJD-_0DwAxAmkRCO04rxEOjUA",
+         "rating" : 0,
+         "reference" : "ChIJD-_0DwAxAmkRCO04rxEOjUA",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Gunina Clan, Boe Vagi Rd, Hanuabada Village National Capital District Port Moresby, 125, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4565401,
+               "lng" : 147.1534113
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.455164370107276,
+                  "lng" : 147.1551115798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.45786402989272,
+                  "lng" : 147.1524119201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "GNM Mighty Women Abundance Cooperative Society",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ1cXM7CkxAmkRWnr4gb4u9Zo",
+         "plus_code" : 
+         {
+            "compound_code" : "G5V3+99 Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G5V3+99"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ1cXM7CkxAmkRWnr4gb4u9Zo",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Morata Port Moresby -9.399506, 147.186796, Port Moresby 121, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.408586999999999,
+               "lng" : 147.1887295
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.407040570107279,
+                  "lng" : 147.1898610798928
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.409740229892723,
+                  "lng" : 147.1871614201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+         "name" : "Jonica Place",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJiSe-5Eo7AmkRj6nywWt9Ib8",
+         "plus_code" : 
+         {
+            "compound_code" : "H5RQ+HF Port Moresby, Papua New Guinea",
+            "global_code" : "6R29H5RQ+HF"
+         },
+         "rating" : 0,
+         "reference" : "ChIJiSe-5Eo7AmkRj6nywWt9Ib8",
+         "types" : 
+         [
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Section 81 Lot 12 Henao Drive Port Moresby NCD Central Province, 111, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.453673900000002,
+               "lng" : 147.1983369
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.452379520107279,
+                  "lng" : 147.1996053298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.455079179892723,
+                  "lng" : 147.1969056701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Tamrons Thrift",
+         "place_id" : "ChIJJ2YoizU3AmkRos7Pzy1lC_I",
+         "plus_code" : 
+         {
+            "compound_code" : "G5WX+G8 Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G5WX+G8"
+         },
+         "rating" : 0,
+         "reference" : "ChIJJ2YoizU3AmkRos7Pzy1lC_I",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kaput St, Port Moresby 121 National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.378292099999999,
+               "lng" : 147.1658905
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.37694227010728,
+                  "lng" : 147.1672403298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.379641929892724,
+                  "lng" : 147.1645406701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Mua Place Store",
+         "place_id" : "ChIJUQtuo3A7AmkR1Gkvi2MvglY",
+         "plus_code" : 
+         {
+            "compound_code" : "J5C8+M9 Port Moresby, Papua New Guinea",
+            "global_code" : "6R29J5C8+M9"
+         },
+         "rating" : 0,
+         "reference" : "ChIJUQtuo3A7AmkR1Gkvi2MvglY",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Airvos Avenue, Lot 9 Section 51, Port Moresby 121 National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4732468,
+               "lng" : 147.1549345
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.471899070107279,
+                  "lng" : 147.1562498798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.474598729892723,
+                  "lng" : 147.1535502201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Kundu Retail",
+         "place_id" : "ChIJi-kSPQ4xAmkRWUanNVHOEWE",
+         "plus_code" : 
+         {
+            "compound_code" : "G5G3+PX Port Moresby, Papua New Guinea",
+            "global_code" : "6R29G5G3+PX"
+         },
+         "rating" : 0,
+         "reference" : "ChIJi-kSPQ4xAmkRWUanNVHOEWE",
+         "types" : 
+         [
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "G5FF+J84, Port Moresby National Capital District, Papua New Guinea",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -9.4760382,
+               "lng" : 147.1734183
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -9.474713520107279,
+                  "lng" : 147.1748138298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -9.477413179892723,
+                  "lng" : 147.1721141701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Badili Second Hand Clothing",
+         "place_id" : "ChIJu8JrCaIxAmkRQ9wYfkI-Nck",
+         "rating" : 3,
+         "reference" : "ChIJu8JrCaIxAmkRQ9wYfkI-Nck",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      }
+   ],
+   "status" : "OK"
+}

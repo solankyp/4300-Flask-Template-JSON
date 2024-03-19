@@ -1,0 +1,1087 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJaYD7PODecT1c4dmA7RvklOKY0_PuDfPFTg0S6Elauu4mhJtYdzaebrkQadZzryaxGwYVmtJKewa_fzz4SXxWCtz5WswPPvfIeaTGfLpVeme-FE09rbpG--J33HuMLaB-4ECVjHOEAt-89yFuh3ermBvpoXDPGTMKUArDxsfQlM-7k39A-GUo78oqNIF4NHXzgI7EWj36SEfZu9jugREPzdBp6RHKErSSWKP9kaO79ddJoWiCuOhR-9tFr4MUNm7FP-BmeDQgTboL7ovBxc2KsbH4EtimOP0Z8GugLYmXydjGtkc_FufaX5GXQxV1hFDjHjcFcakKgkS2OhkodcIVeg1u8FFwI6Nim8mdniMk37MXcvBCi2Sqyqj28hDCUST0_tfGxnQY7iiE86W9jvgD5kb9A",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Trubetskaya Ulitsa, 28 строение 18, Moscow, Russia, 119048",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7265534,
+               "lng" : 37.5752135
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.72796907989272,
+                  "lng" : 37.57639652989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.72526942010728,
+                  "lng" : 37.57369687010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sergey Skuratov Architects",
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113994744546587608727\"\u003eEugene Pestraev\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbh7CK0U8y9LzYUNSqB4fe3-964Qd6tZ3byUBusAsN1u25FndWulc6M6nXVgSAYr6a6AbwRdDkZCqJ-MtDmHB4IaMdpwDCAnIchFRDxfXLWj-QqH3cNksFR8sug0Sq4qYXIb4I4irC7IHRlUKSzSQ730bRj3xOFkTSiCQihRFCgPAG3",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJIUq8iPtKtUYRwnOrOz-6zpU",
+         "plus_code" : 
+         {
+            "compound_code" : "PHGG+J3 Khamovniki District, Moscow, Russia",
+            "global_code" : "9G7VPHGG+J3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJIUq8iPtKtUYRwnOrOz-6zpU",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Turchaninov Pereulok, 6,cтр. 2, Moscow, Russia, 119034",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.737056,
+               "lng" : 37.596998
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.73830392989272,
+                  "lng" : 37.59827862989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.73560427010727,
+                  "lng" : 37.59557897010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Architectural Bureau Ostozhenka",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ5brGm6hLtUYRfy8zCDJMxDk",
+         "plus_code" : 
+         {
+            "compound_code" : "PHPW+RQ Khamovniki District, Moscow, Russia",
+            "global_code" : "9G7VPHPW+RQ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ5brGm6hLtUYRfy8zCDJMxDk",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3, Stolyarnyy Pereulok, 3, стр. 13, Moscow, Russia, 123022",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7644426,
+               "lng" : 37.5684679
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.76579657989272,
+                  "lng" : 37.56967772989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.76309692010728,
+                  "lng" : 37.56697807010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Atrium, Arkhitekturnaya Masterskaya",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1010,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105522067528291471583\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ6C8nbp5pe6w2iYPCuNMIXv73C9Hb69XFIMnVBqT-mww-MOYmwFuK43rLKALlryHZvbQ_cuNdXOBOafVBzbGH0WxHjuHxh_TDsoPEj8_FVhan8D_VIDR7T8s6cuuJr0HOEKHqqyxUS9x5QR6D9NXrczy3m75UuIofV-ZrHpnBQUD6e",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJVVVVVW5KtUYR0arnBZy_Y0Y",
+         "plus_code" : 
+         {
+            "compound_code" : "QH79+Q9 Presnensky District, Moscow, Russia",
+            "global_code" : "9G7VQH79+Q9"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJVVVVVW5KtUYR0arnBZy_Y0Y",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bol'shaya Nikitskaya Ulitsa, 22/2, Moscow, Russia, 125009",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7572633,
+               "lng" : 37.6025365
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.75849242989272,
+                  "lng" : 37.60383592989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.75579277010727,
+                  "lng" : 37.60113627010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Architectural Studio Mel",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJPS51J09KtUYRmPBlua_ZJ3g",
+         "plus_code" : 
+         {
+            "compound_code" : "QJ43+W2 Presnensky District, Moscow, Russia",
+            "global_code" : "9G7VQJ43+W2"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJPS51J09KtUYRmPBlua_ZJ3g",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ulitsa Il'inka, 4, Moscow, Russia, 109012",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.75384630000001,
+               "lng" : 37.6265978
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.75564967989272,
+                  "lng" : 37.62733632989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.75295002010728,
+                  "lng" : 37.62463667010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tsimailo Lyashenko and Partners",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113072197668066696484\"\u003eБиблиотека ГЛМ\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaPtwouhG-yTxyQcCxtUH_U2HXsMIEmuDfQ7Q7bvNpQtY8W3pr3VNr92JuRmygwlbUqXH-8of7_vSPyWuTc8IbTvqE130EW5cM6pwcsjy-icGQx7JVEqiJfC4i0IGh9IgZG3bCkjwjMNgjJf05m9ua5CSZys57u9ahT-R5MhlbIC0D9",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJHYqBJBVKtUYRBAB9wmUZJfo",
+         "plus_code" : 
+         {
+            "compound_code" : "QJ3G+GJ Tverskoy District, Moscow, Russia",
+            "global_code" : "9G7VQJ3G+GJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJHYqBJBVKtUYRBAB9wmUZJfo",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ulitsa Rozhdestvenka, д.11, стр. 2, Moscow, Russia, 107031",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.763013,
+               "lng" : 37.62261609999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.76435922989272,
+                  "lng" : 37.62418362989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.76165957010728,
+                  "lng" : 37.62148397010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Moscow Architectural Institute (State Academy)",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113301543733808952212\"\u003eМакс Харьков\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa_HP2ffCHz3PXtIu_K51NhYrV-OGLB8tYdv_Qg_hQ7rvdfq0LWCIm9a5J3p42w8S-DpvWEB5COdjI-DSZdPI4MrfOuI5W69mw2PZcLm75re9928PpKFVuyI-9DzfuWyAaLFcFdmbB0cO0w6RRBqYwnFO9YtxMN9_OBDMtZyuWbZYWA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJy1p51UJKtUYRdRnXwC2g7xg",
+         "plus_code" : 
+         {
+            "compound_code" : "QJ7F+62 Meshchansky District, Moscow, Russia",
+            "global_code" : "9G7VQJ7F+62"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJy1p51UJKtUYRdRnXwC2g7xg",
+         "types" : 
+         [
+            "university",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 167
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Malyy Drovyanoy Pereulok, 5с1, Moscow, Russia, 109004",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7462591,
+               "lng" : 37.6574394
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.74760367989272,
+                  "lng" : 37.65882272989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.74490402010728,
+                  "lng" : 37.65612307010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Masterskaya Arkhitektora V.m. Ginzburga",
+         "place_id" : "ChIJiUzVKfZJtUYR_H1jO5vpH8g",
+         "plus_code" : 
+         {
+            "compound_code" : "PMW4+GW Tagansky District, Moscow, Russia",
+            "global_code" : "9G7VPMW4+GW"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJiUzVKfZJtUYR_H1jO5vpH8g",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Komsomol'skiy Prospekt, 16/2, Moscow, Russia, 119021",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7313346,
+               "lng" : 37.5870502
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.73274902989272,
+                  "lng" : 37.58831572989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.73004937010727,
+                  "lng" : 37.58561607010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Architectural Bureau of Roman Leonidov",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109155262795502074210\"\u003eАрхитектурное бюро Романа Леонидова\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYdv_od3-Iq1D17dakIZl6Wr06JCRC0HJFctnlwbp8Dmny0HULr6yTnCVbbuu3L-8ndmPaqFNqhsXDCOZvHS2BikNmicw18Wm2DazyK1zH9Uk2Q7qC4irWh6MVWwN8f_V_BqKU_vzTMr4HybBMRAP3JPMpfVeHIErpcIv27bX2Y8EBS",
+               "width" : 1680
+            }
+         ],
+         "place_id" : "ChIJZSgxh15KtUYRwSdITtyyu0E",
+         "plus_code" : 
+         {
+            "compound_code" : "PHJP+GR Khamovniki District, Moscow, Russia",
+            "global_code" : "9G7VPHJP+GR"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJZSgxh15KtUYRwSdITtyyu0E",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ulitsa Gilyarovskogo, 65, Moscow, Russia, 129110",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7893395,
+               "lng" : 37.6328305
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.79066787989272,
+                  "lng" : 37.63442987989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.78796822010727,
+                  "lng" : 37.63173022010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Portner",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4608,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101030738858963601555\"\u003eАндрей Диков\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJad8Gfq2wJU_Y6zStLggrtd-f0AjkQVOBmon_iiQLnZBDqDroly2TvV04ZK35ELlinVVqNfxxUsS3hEDSnnwMX3vFeE-I4Pn7m9A-kUKIKESfHn7nrQq-dzFB_8BEjiOynA4baCnzu7udpomPMCetYyGkqgY-gJFmHvI3mKFSabROJa",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ78Q1hPU1tUYRw0nfMDX9BV8",
+         "plus_code" : 
+         {
+            "compound_code" : "QJQM+P4 Meshchansky District, Moscow, Russia",
+            "global_code" : "9G7VQJQM+P4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ78Q1hPU1tUYRw0nfMDX9BV8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sadovaya-Chernogryazskaya Ulitsa, 8, СТР. 8, Moscow, Russia, 107078",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7668536,
+               "lng" : 37.6506359
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.76822642989272,
+                  "lng" : 37.65211492989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.76552677010728,
+                  "lng" : 37.64941527010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Nefaresearch",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116173141227805719039\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZt-REAclsZrMdl-76oh5jh7WFZTA898Fqt1q5e_q5-6s3OVS84dXHHwrJbEYSi62hEvDCZjnOLg1r1LeDE_Zm7zLbEo1qp2Rkel8POFfTbOTQ5eiOW0MO1wCfeS56aS1J4XXqsVYNOqnoDpccg6fJJxDo7mHp8cDRHATQNYw-hmzGa",
+               "width" : 5120
+            }
+         ],
+         "place_id" : "ChIJB-o7uuJJtUYRb3Ulr8osTiI",
+         "plus_code" : 
+         {
+            "compound_code" : "QM82+P7 Basmanny District, Moscow, Russia",
+            "global_code" : "9G7VQM82+P7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJB-o7uuJJtUYRb3Ulr8osTiI",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nizhnyaya Syromyatnicheskaya Ulitsa, 10, стр. 4, Moscow, Russia, 105120",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.75214159999999,
+               "lng" : 37.6699007
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.75352672989272,
+                  "lng" : 37.67126877989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.75082707010728,
+                  "lng" : 37.66856912010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "buromoscow",
+         "place_id" : "ChIJp7SLgZRKtUYRzi5brxXrjCU",
+         "plus_code" : 
+         {
+            "compound_code" : "QM29+RX Basmanny District, Moscow, Russia",
+            "global_code" : "9G7VQM29+RX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJp7SLgZRKtUYRzi5brxXrjCU",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Vozdvizhenka St., 5/25, Moscow, Russia, 119019",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7526005,
+               "lng" : 37.60637070000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.75397427989272,
+                  "lng" : 37.60772957989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.75127462010727,
+                  "lng" : 37.60502992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Schusev State Museum of Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2048,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104491457017286399534\"\u003eАнатолий Коршунов\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJajPJSSRVWyfXJmbaELHUyubhBEO4YlRa_StkleNmfpKqKH2es2hX58CUz715dh5dQeeU0BNTvnDPXYDstJRG_LsuHIvuhnXGMMeornrql7PFMKsLTdyGRvdIyGIW6Q5sBOJeymFeoM5rSCDWSQ3lq1EnIU42qdAS78Xlyxi2BRhyNm",
+               "width" : 1704
+            }
+         ],
+         "place_id" : "ChIJiS4N91FKtUYRH_t5cFtzhwU",
+         "plus_code" : 
+         {
+            "compound_code" : "QJ34+2G Arbat District, Moscow, Russia",
+            "global_code" : "9G7VQJ34+2G"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJiS4N91FKtUYRH_t5cFtzhwU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1583
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bersenevskaya Naberezhnaya, 6 стр 2, Moscow, Russia, 119072",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7405743,
+               "lng" : 37.6090789
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.74194962989273,
+                  "lng" : 37.61014897989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.73924997010729,
+                  "lng" : 37.60744932010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "T+T Architects",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 682,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113814683949232006566\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJabM0VoGvlardyF6peC3JfreVtW6RjuNLA4lZHlSOAsaH3Dli071qHKBSMAlumIMgu4q8Kkqo9UJHeQQTTil9FGirMqjX0qD0aKPUBhEh1td_9iD43QKe8i1Wl3OdbyYN8wbQSbiz6DPo3zXktvWozOag6WhM_337QIr1rcHSermb-v",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJL_ey5nhLtUYRma41e3BfJMw",
+         "plus_code" : 
+         {
+            "compound_code" : "PJR5+6J Yakimanka District, Moscow, Russia",
+            "global_code" : "9G7VPJR5+6J"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJL_ey5nhLtUYRma41e3BfJMw",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nikolskaya St, 10, Moscow, Russia, 109012",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7582503,
+               "lng" : 37.6245522
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.75956162989272,
+                  "lng" : 37.62602877989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.75686197010728,
+                  "lng" : 37.62332912010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Angelica Prudnikova",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104821704863584871812\"\u003eСтудия элитных интерьеров Antonovich Design\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbLLPRg7VZUm7rtCOeiH4WHQSRtzbUFUmaVfjCmdKolDdL7eevPTlRkUY4HHDfrV0pQZlcTzVySxf8jD6xku5jscxUyK-mVur9Ko4mk1RWvuUMqGNbFoByF5XBk1Qv1AqFXeofPI4a_sr25Ul4qvLm5L8x6OSIGeghAygAeJRO5AJpN",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJ-Q9HjVtKtUYRb5IbNXaD12M",
+         "plus_code" : 
+         {
+            "compound_code" : "QJ5F+8R Tverskoy District, Moscow, Russia",
+            "global_code" : "9G7VQJ5F+8R"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ-Q9HjVtKtUYRb5IbNXaD12M",
+         "types" : 
+         [
+            "general_contractor",
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 39
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Khoroshovskoye Shosse, 12 корпус 1, Moscow, Russia, 125284",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7749737,
+               "lng" : 37.5499109
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.77638672989272,
+                  "lng" : 37.55122867989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.77368707010728,
+                  "lng" : 37.54852902010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Arkhitekturnaya Studiya Borisa Kostyrina",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 962,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115735258598306258708\"\u003eАрхитектурная и Дизайн Студия Бориса Костырина\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY0LjFWO7sL4PD0oia1DKda9thbd0sl4hvbCEDVZMOz6-hfCi8vw6dT2VrxpJgSXgHnYA8GZHILrRK26eiDGbodNPt3rF13-kLEHlP_ZfsTcLpE8ota2yCS2zNudo1kiGVVaRaRkwNd0EiwWZoDix76vNbN5SQqu3Q0GeWSkiAdrgoD",
+               "width" : 1680
+            }
+         ],
+         "place_id" : "ChIJm9yjOoRJtUYR6b6i0Rm8OVU",
+         "plus_code" : 
+         {
+            "compound_code" : "QGFX+XX Khoroshyovsky District, Moscow, Russia",
+            "global_code" : "9G7VQGFX+XX"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJm9yjOoRJtUYR6b6i0Rm8OVU",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nizhnyaya Syromyatnicheskaya Ulitsa, 10, стр. 2, Moscow, Russia, 105120",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.75213129999999,
+               "lng" : 37.6708488
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.75352142989271,
+                  "lng" : 37.67209412989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.75082177010727,
+                  "lng" : 37.66939447010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kleinewelt Architekten",
+         "place_id" : "ChIJO09vh5RKtUYRlX1DUWxDsyw",
+         "plus_code" : 
+         {
+            "compound_code" : "QM2C+V8 Basmanny District, Moscow, Russia",
+            "global_code" : "9G7VQM2C+V8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJO09vh5RKtUYRlX1DUWxDsyw",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ulitsa Bol'shaya Molchanovka, 24/2 с1, Moscow, Russia, 121069",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.75351860000001,
+               "lng" : 37.5915396
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.75476207989272,
+                  "lng" : 37.59291107989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.75206242010728,
+                  "lng" : 37.59021142010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "UMA",
+         "place_id" : "ChIJ81dPaLVLtUYRnXGLX4C3rkM",
+         "plus_code" : 
+         {
+            "compound_code" : "QH3R+CJ Arbat District, Moscow, Russia",
+            "global_code" : "9G7VQH3R+CJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ81dPaLVLtUYRnXGLX4C3rkM",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Romanov Pereulok, 5, Moscow, Russia, 125009",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.754426,
+               "lng" : 37.6082642
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.75587262989272,
+                  "lng" : 37.60936627989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.75317297010728,
+                  "lng" : 37.60666662010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fedorchenko Ye. Arkhitekturnoye Byuro Ooo",
+         "place_id" : "ChIJX1AVKU5KtUYRNJW35JQppjg",
+         "plus_code" : 
+         {
+            "compound_code" : "QJ35+V2 Arbat District, Moscow, Russia",
+            "global_code" : "9G7VQJ35+V2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJX1AVKU5KtUYRNJW35JQppjg",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "дом 3, корпус 1, Prospekt Mira, Moscow, Russia, 129090",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.773596,
+               "lng" : 37.631956
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.77494627989272,
+                  "lng" : 37.63340707989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.77224662010727,
+                  "lng" : 37.63070742010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "V12 Architects",
+         "photos" : 
+         [
+            {
+               "height" : 4000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109451204057781892826\"\u003eНиколай Шибнев\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbjR4oSuna2ffyC9t5AbE2QDXGb0NigFQkAoVkoyhxNSiVu6QwM3-VBUFBDx4lz3tav0u7CjImGurYnIbLI4wsgMeUVpsz0w7BAD3uULpIKTsI2ONJnmpYBgZVluW1Nt5-z1fIKaY-mIPK0FeNVxEGFXSV_kmOgVMSC334Mgrjsx5VR",
+               "width" : 2250
+            }
+         ],
+         "place_id" : "ChIJrfUxRW5KtUYRZK8UDQ0Dz5s",
+         "plus_code" : 
+         {
+            "compound_code" : "QJFJ+CQ Meshchansky District, Moscow, Russia",
+            "global_code" : "9G7VQJFJ+CQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJrfUxRW5KtUYRZK8UDQ0Dz5s",
+         "types" : 
+         [
+            "general_contractor",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nikitsky Blvd, 8, Moscow, Russia, 119019",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 55.7543038,
+               "lng" : 37.6011797
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 55.75565267989272,
+                  "lng" : 37.60244707989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 55.75295302010728,
+                  "lng" : 37.59974742010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "A2M",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 762,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105111967884668649284\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbjmzeSevpvbdm0qqnf4hp4_Z_l08ZGTqeQY7V4Tf6-9JlSE6ZTEWFZGHXJ68rqRTlqEYREIKpFsm0470aASAKcLmfoIjCtLKGmddM5cZsry8VYIgIbHVDolT1FRFX0IwIZvxLyn7izFs4bKyFLsSaVODYquVowK2Fw5hpRNItPhDlU",
+               "width" : 828
+            }
+         ],
+         "place_id" : "ChIJmXqai0hKtUYRAFkwPDaFiE8",
+         "plus_code" : 
+         {
+            "compound_code" : "QJ32+PF Presnensky District, Moscow, Russia",
+            "global_code" : "9G7VQJ32+PF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJmXqai0hKtUYRAFkwPDaFiE8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      }
+   ],
+   "status" : "OK"
+}

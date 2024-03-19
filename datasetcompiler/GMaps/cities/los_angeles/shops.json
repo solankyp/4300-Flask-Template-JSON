@@ -1,0 +1,1221 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJam4rBemsW9JjWFipiDpXgwt5Fq26asrxVlANfiEjbbVxDIpZ8p2LAP9taLEa_Q43P9F2vl_FIaqFk80xlr6LjvIz25RTpDjgkYi9mjw0T4kVB7EzMEeSiyUPHAAqtkdIdqNDwtydUSKiHEtlJ56CTCuPKNpl8jSQLYEPpmWjt5W3xmAbfI72V5UoR1Y_6e_fhgET5qPuMHWUaoQVD9U_JmzgtcLjvH4ihnnflkygswe4fj-QlRAQuOvuPJrrFY96ztJVrP-jfTaom57_6bFLPfvjfda4ahUSkC3_Ve3WDFTwT12pQl96vdhSIvN1UQgo1sqIEIKHseD_dQIpkvLMsWjBe5_8Rv9qO_qRtUwdh-4Mh2qEZERd-Nm_sBSs7Y8H1DDDxdHySTwOsyIO4dc2EQ",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "189 The Grove Dr, Los Angeles, CA 90036, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0719407,
+               "lng" : -118.3575164
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.07336572989271,
+                  "lng" : -118.3557378201073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.07066607010727,
+                  "lng" : -118.3584374798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Grove",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109817725524612384510\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb5cjqKeeNLR2kbksM4e-KirxKnsMJQvN001DH6Vfq_V5-xrD-fEDnZjlvbEelfjDpMALARwPcpOZH2A9tP4oCI1LaM_vPX3V4_J3bXuDhxHADzw6l-0fIl92MPmqEvTp7nqqhBE01TBMfdQq_zKc5uwNYwpSrhvB1zBmIX0La8s-38",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJwwPTwi-5woARbtuI_49vkMM",
+         "plus_code" : 
+         {
+            "compound_code" : "3JCR+QX Los Angeles, California",
+            "global_code" : "85633JCR+QX"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJwwPTwi-5woARbtuI_49vkMM",
+         "types" : 
+         [
+            "shopping_mall",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 24715
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "735 S Figueroa St, Los Angeles, CA 90017, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0489973,
+               "lng" : -118.2611037
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.05018202989272,
+                  "lng" : -118.2594879201073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.04748237010728,
+                  "lng" : -118.2621875798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "FIGat7th",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 800,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112746598122421593672\"\u003eFig at 7th\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZp4G5a6RSyD_e-qDan4z_tT6NWy3zkA4X_FUjpLZdRfQ_sS6dR8hsLLP1tv0I-AtodOVsDcn2UDuN7EyXRVv70TjYw_q4cKeyr7O7d8K6nZPjuy5US9MenG6qYyV-83X3G0no4hzizVHTZvkEamhbTncR9Hw3hixwBR3G8wqqRBT8L",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJK46NJrHHwoARaVJLvul0IcE",
+         "plus_code" : 
+         {
+            "compound_code" : "2PXQ+HH Los Angeles, California",
+            "global_code" : "85632PXQ+HH"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJK46NJrHHwoARaVJLvul0IcE",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8682
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10250 Santa Monica Blvd, Los Angeles, CA 90067, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0586592,
+               "lng" : -118.4190309
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.05965202989272,
+                  "lng" : -118.41771915
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.05695237010728,
+                  "lng" : -118.42121895
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Westfield Century City",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109149149437797127475\"\u003e鄭舜嘉\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbG-WoYSt7YESOJ0wffFxWhe1MhgD5xIb0NyyzL9Y9dYLuo2hvF1hszkSkcTfXHS3Bo3GhzQhWhqcO0dl331AZ3Q4Ni6xoS8x8nvJhH117wcmyguSgYclz_1ICMNSL3sAi_aY39rxzuWuRgVa6dylqtCF_Hq_49_-e4i1hFiDKdnyEP",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJhcGq9Iy7woARs8VXy7WsEZ0",
+         "plus_code" : 
+         {
+            "compound_code" : "3H5J+F9 Los Angeles, California",
+            "global_code" : "85633H5J+F9"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJhcGq9Iy7woARs8VXy7WsEZ0",
+         "types" : 
+         [
+            "shopping_mall",
+            "department_store",
+            "movie_theater",
+            "shoe_store",
+            "clothing_store",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 12902
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "7001 Hollywood Blvd, Los Angeles, CA 90028, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.1017048,
+               "lng" : -118.3419488
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.10297512989272,
+                  "lng" : -118.3405734701072
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.10027547010728,
+                  "lng" : -118.3432731298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "La La Land",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113513141143855065093\"\u003eRichard Wu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZsjQSrY-RLhqUu-C2qRaA7lNAAb8QaA92mIFSPEAs57B2P4YUxhwmXRbomOlW3uWnJOtYKlIRYZzhRc4JdZhf4IOuIQ8Jc2ijFobz87GiVE6Tv3is0htoANc2PjMzNfI8W4sIppvxj-nRpYtlpBV7lnXEDYmMVZifJOcdf3pSPuhZ8",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJF0xuCSG_woARGlU-V3HMcqk",
+         "plus_code" : 
+         {
+            "compound_code" : "4M25+M6 Los Angeles, California",
+            "global_code" : "85634M25+M6"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJF0xuCSG_woARGlU-V3HMcqk",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1100
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6655 Hollywood Blvd, Los Angeles, CA 90028, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.1018025,
+               "lng" : -118.3348835
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.10312362989271,
+                  "lng" : -118.3335429701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.10042397010727,
+                  "lng" : -118.3362426298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Hollywood Souvenir Outlet",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 543,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106136718804116749007\"\u003eRicardo Herrera\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaV-xz-VaWV36Thz9QgyaqmiSapoIy0ltlx6CitxVwrusoi-3DH3QmsDGvEjfKWssVON5N_vjhLHaa8CjIOZPSIKBvBftn_uWhpiRBVSQR4fWzpAMBM6Hk_b7csMhsT5DEvpfKs1BQHGXMutKuMMW-IiHyWgX47d9BRj_hLGQ3f0NMB",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJDcS9ViO_woARlsqqTzf_FP0",
+         "plus_code" : 
+         {
+            "compound_code" : "4M27+MX Los Angeles, California",
+            "global_code" : "85634M27+MX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJDcS9ViO_woARlsqqTzf_FP0",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "700 W 7th St, Los Angeles, CA 90017, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0475959,
+               "lng" : -118.2590026
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.04923647989272,
+                  "lng" : -118.2571364201072
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.04653682010728,
+                  "lng" : -118.2598360798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Bloc",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1240,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100088868518026698650\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZQi3HVNhuZjgQDfunq3tk66_iisuDK5V1kAGPssSrpM2mbL9lBge9t9q_lIkdvI4xxV-9T35MNCY6swsKkNn3UT6gwd-GfMg8CDqu4W0ieRiuHt5PbZjonOCosYo0Y3iTYuJGXKVT0dG3U1LK2zth8z6XcWK6enmpEVPAnE7mBAyfQ",
+               "width" : 1860
+            }
+         ],
+         "place_id" : "ChIJb8smr7bHwoAR3bLnMPWrcCg",
+         "plus_code" : 
+         {
+            "compound_code" : "2PXR+29 Los Angeles, California",
+            "global_code" : "85632PXR+29"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJb8smr7bHwoAR3bLnMPWrcCg",
+         "types" : 
+         [
+            "shopping_mall",
+            "art_gallery",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7110
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4725 Venice Blvd., Los Angeles, CA 90019, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0471286,
+               "lng" : -118.3401669
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.04853247989272,
+                  "lng" : -118.3388368201073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.04583282010728,
+                  "lng" : -118.3415364798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Midtown Shopping Center",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 357,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107672397233419299610\"\u003eAngelia Harper\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYsREebYFrM6OtFyb5N_Q78RBYPAxGAAsqRUGjPoGOzCwQlSfiarRJU9vKv2Kt_WASc4wIs9BcE0uXdoHq4HqAEEvIUPgWG7b4M4fb7tSxyyHX7Yn1QYZ_CsJ7wkj-vuEPE5G8Tbcgo8z-dx_6nGDhHSnGdJPnZRo5NRT-wuBnZCyFG",
+               "width" : 550
+            }
+         ],
+         "place_id" : "ChIJ2U7_S_i4woARp_cHQeT2Dgg",
+         "plus_code" : 
+         {
+            "compound_code" : "2MW5+VW Los Angeles, California",
+            "global_code" : "85632MW5+VW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ2U7_S_i4woARp_cHQeT2Dgg",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2966
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "300 S Santa Fe Ave t, Los Angeles, CA 90013, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0453587,
+               "lng" : -118.2325328
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.04685907989273,
+                  "lng" : -118.2311883701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.04415942010728,
+                  "lng" : -118.2338880298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Shops at One Santa Fe",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJb40xiT7GwoAR1MmkTbQAedI",
+         "plus_code" : 
+         {
+            "compound_code" : "2QW8+4X Los Angeles, California",
+            "global_code" : "85632QW8+4X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJb40xiT7GwoAR1MmkTbQAedI",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1/2, 339, 1st St, Los Angeles, CA 90012, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0497861,
+               "lng" : -118.2397932
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.05108052989272,
+                  "lng" : -118.2384869201073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.04838087010728,
+                  "lng" : -118.2411865798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Space City Vintage",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1848,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104091841211409662859\"\u003eJason Clark\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ3ccq-IACxLSJCti14D5KUsWnCSEZ0zmekkZELL4gXAeo8FUac3w659huwIZIQUxRiQ8ktz5TRm_FE22zfxRGvKdbEeA3eCBqqLtwxN_GDBZ2rF7E50VwucSCY76-pbMLpFx2IxiaFJYyRwX67u4pEH4s1v08clDknvRalGrgWyK1B",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJv0SM-8HHwoARiCiIGRI5Fdo",
+         "plus_code" : 
+         {
+            "compound_code" : "2QX6+W3 Los Angeles, California",
+            "global_code" : "85632QX6+W3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJv0SM-8HHwoARiCiIGRI5Fdo",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 65
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "630 W 5th St, Los Angeles, CA 90071, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0503533,
+               "lng" : -118.2555236
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.05198187989272,
+                  "lng" : -118.2539603701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.04928222010728,
+                  "lng" : -118.2566600298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Library Store",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109274499606921160711\"\u003eMusho Pea\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZfkwn4nYY2oTd-7_j9P7Bj3PcHFTtNOU5a2kJoGpsAp-F12iyZGDiKf3mRDNMvorqkjVjl8ASsL9gjgUlPnfqnP_V9qubInPV3zVUerBitB5gdssXE-6aDtYIWcBNgQvPZmZ1YK5p5AkhIraIJWvCzc3p7aaxjK9z6LFr9yRvDqZ0t",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJB0oUZ7PHwoARZzuEVnWhc9w",
+         "plus_code" : 
+         {
+            "compound_code" : "3P2V+4Q Los Angeles, California",
+            "global_code" : "85633P2V+4Q"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJB0oUZ7PHwoARZzuEVnWhc9w",
+         "types" : 
+         [
+            "library",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 85
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "727 N Broadway #115, Los Angeles, CA 90012, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.061313,
+               "lng" : -118.239581
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.06277427989272,
+                  "lng" : -118.2385318701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.06007462010727,
+                  "lng" : -118.2412315298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "East West Shop",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4500,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115504602300141289721\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaL5qv-fWoSe9rWlMnsdGf43z6a7__JPYR5tIch1u3WroL5irBK3HGtLfTk5STVSX6lWPlG1xPeSWq4czvGWHv_-lceliOQBdTeTHSV-7U6RbNkm9iIgfLY_tULvOAItrKHFSo5YAPHPKQfZ9FrxxPll4kSIi0EqPDXDd7uX4BZwz79",
+               "width" : 6300
+            }
+         ],
+         "place_id" : "ChIJ8RMZYFrGwoARQoLYZoDhgOE",
+         "plus_code" : 
+         {
+            "compound_code" : "3Q66+G5 Los Angeles, California",
+            "global_code" : "85633Q66+G5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ8RMZYFrGwoARQoLYZoDhgOE",
+         "types" : 
+         [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 22
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "151 S Grand Ave, Los Angeles, CA 90012, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0549978,
+               "lng" : -118.2496987
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.05618852989273,
+                  "lng" : -118.2485627701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.05348887010729,
+                  "lng" : -118.2512624298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "LA Phil Store",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102290613258950400311\"\u003eEddie Kim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZE59Ec83tlseTgCptJYbl4eoAyq0nI3-oDzPgN6yIbNRoRZfTk_V62G4g8TkkiTHEGc-RTO3btRf703MOqVA8TLo7SXsNRp388mD5mxDIzpeZa0qR4gnd6zNDDj7o9pBc6Q8nYwo5kpa2NHs5ptPFNuhf6aXY8riYh4N-C-YWRjV0",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ05Tnn03GwoARD0ZXR-idBj4",
+         "plus_code" : 
+         {
+            "compound_code" : "3Q32+X4 Los Angeles, California",
+            "global_code" : "85633Q32+X4"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ05Tnn03GwoARD0ZXR-idBj4",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1202 N Alvarado St, Los Angeles, CA 90026, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.07835439999999,
+               "lng" : -118.2628645
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.07972467989273,
+                  "lng" : -118.2615718701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.07702502010729,
+                  "lng" : -118.2642715298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Lemon Frog Shop Vintage Bazaar (California Certified Green Business)",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114232064749565265513\"\u003eLemon Frog Shop\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaqoIeFWlwHhg6z0tS1C7SH5I67IsE05nK6l_MzZcwGMXcNHWrLIa4vkEc4La4vsM_3OvKr_Je1qj6VL9MctgBFu8fhVVkhtbtnpEMDscyRDntvJCit3saB0MM4MhKPzQgqLbtEjbjeAxmm7eywpz-n06fut4RCk2uLSQ9TUnA0Y6u9",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJX3cCGRrHwoARaCqufIYaArE",
+         "plus_code" : 
+         {
+            "compound_code" : "3PHP+8V Los Angeles, California",
+            "global_code" : "85633PHP+8V"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJX3cCGRrHwoARaCqufIYaArE",
+         "types" : 
+         [
+            "shoe_store",
+            "jewelry_store",
+            "movie_rental",
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 103
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "11250 W Olympic Blvd, Los Angeles, CA 90064, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0382912,
+               "lng" : -118.44024
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.03931917989271,
+                  "lng" : -118.4391747701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.03661952010727,
+                  "lng" : -118.4418744298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "One Westside Shopping Center",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1265,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111455463913830406601\"\u003eOne Westside\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbV0GFd8Eaah6X784XMbfNtY1vp_tGDKamH6lvk_3WRAaB1x_ZyteIP2c-sNg-rjhPLWcFlNBCUcw82zUSeVGmohatNF9zFAXCS2Pzip238Ca-SYTTfHzITiEMZ6czwZf1nn-ACN-e6W5taNPg-1NiJY7UAPCpcFtIplYwiMm2gwFXl",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJfUIQRaa7woARlh6pWhSOT58",
+         "plus_code" : 
+         {
+            "compound_code" : "2HQ5+8W Los Angeles, California",
+            "global_code" : "85632HQ5+8W"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJfUIQRaa7woARlh6pWhSOT58",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1185
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "210 E Olympic Blvd, Los Angeles, CA 90015, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0388986,
+               "lng" : -118.2556616
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.04041052989272,
+                  "lng" : -118.2545618201073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.03771087010728,
+                  "lng" : -118.2572614798928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Fashion District LA",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104385580468362292652\"\u003eArcticmarkus\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJanXWTDwtyw-pZrBu_ESQQ-6818QBXoTIrPv9kSHJMsekzMVnlC0efTsZwx2cGnz64OfinLeBszSM1whuVfXRaCZ_pnUPDEJ0ErkYzDTm91-fhNs0hNp8xNlzZPggIHBpHk-okZEULZZBIAw2XBVMnb0STuajpqGd7OTBa8vLm8DymW",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjTaafczHwoAReQWDQda6tMU",
+         "plus_code" : 
+         {
+            "compound_code" : "2PQV+HP Los Angeles, California",
+            "global_code" : "85632PQV+HP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJjTaafczHwoAReQWDQda6tMU",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 337
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "7100 Santa Monica Blvd, Los Angeles, CA 90046, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0898164,
+               "lng" : -118.3450254
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.09143994999999,
+                  "lng" : -118.34299915
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.08807255,
+                  "lng" : -118.34734055
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "West Hollywood Gateway",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101365789423036000641\"\u003eDodjie Lopez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZavdLyLTlj0xHYo5PzTB4mE6nlpKFKbY_wYK473MWQwQWjcxYi-V2iaBDmLmLv_8U2ysyrvbii7GEqwqYHwYt-a0AduNE5_pIK4f5GXOAaCzWdpNTlM155zQaDaflkQYcEulJSIcKQZuH7KxlU9mYkgg-RszbskRrfwaQYIyG_fkaF",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJQ8YDuSm_woAR9hzzIwPaBZM",
+         "plus_code" : 
+         {
+            "compound_code" : "3MQ3+WX Los Angeles, California",
+            "global_code" : "85633MQ3+WX"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJQ8YDuSm_woAR9hzzIwPaBZM",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3677
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1600 W Slauson Ave, Los Angeles, CA 90047, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 33.9882789,
+               "lng" : -118.3061484
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 33.98976507989272,
+                  "lng" : -118.3047254
+               },
+               "southwest" : 
+               {
+                  "lat" : 33.98706542010728,
+                  "lng" : -118.3103718
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Slauson Super Mall",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1920,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105395930152255501866\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZso_-5TbGz-rUpe0jfxyelW3KgMPfVCIPbBkkdi3WydXdiF_UIybiAwXN7o_aF5FAD2odFjnOBOZWvQF-amMqjsHauwrXGj3gA6OQCaavMm0maCnDSs5r75ZWVPs6ac-C_mUiLCTybKlQEe-VknF68h2WQFa3pzXzEYiw_6JtLL-JL",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJf78r1d23woARC6f1czcIzzQ",
+         "plus_code" : 
+         {
+            "compound_code" : "XMQV+8G Los Angeles, California",
+            "global_code" : "8553XMQV+8G"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJf78r1d23woARC6f1czcIzzQ",
+         "types" : 
+         [
+            "shopping_mall",
+            "shoe_store",
+            "jewelry_store",
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 5376
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Los Angeles, CA 90019, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0425721,
+               "lng" : -118.3094669
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.04394542989272,
+                  "lng" : -118.3081171701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.04124577010728,
+                  "lng" : -118.3108168298928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Western Plaza Shopping Center",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105173151863109620678\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa1p-xhv-cKc9gWt5TqYLfd209UiZwLadILORqqXzt8SOfrjgV8gJJ-alt5A44nt4tHJpr6UoXbSKTDDNOyXq3txPIAcbME0yD3QLAOeg8ETBK2s7l7SzIvpIjoiNWO9PryXWDZfm3xicNNUevjIR8POadyFRFYy73VNeFZYY5ahljB",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ3wO2xnq4woARDcCSpNKT19s",
+         "plus_code" : 
+         {
+            "compound_code" : "2MVR+26 Los Angeles, California",
+            "global_code" : "85632MVR+26"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ3wO2xnq4woARDcCSpNKT19s",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2600
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "331 E Olympic Blvd, Los Angeles, CA 90015, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0385239,
+               "lng" : -118.2540759
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.03984267989272,
+                  "lng" : -118.2527609701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.03714302010728,
+                  "lng" : -118.2554606298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "LA Street Mall",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1932,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106651601944280082144\"\u003emaria estrada\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJamL4hK2gYeeeOGGiu3zSi-_sIi8vQRdB8fmqzZLsux_q0WPb04bHmfjXC3FihVsirVlrmi1KOGiw7MuiUsvvllt-TbTuIgeAgqRhrJfP6lCIIsHGwWYPLpSIh0LfQDriGh0h5yBRcTGkLYLStrDUYlb8pwicVlWT3rxAOQsAgq8tjS",
+               "width" : 2576
+            }
+         ],
+         "place_id" : "ChIJz1mNv8zHwoARtaEcwNTBZkQ",
+         "plus_code" : 
+         {
+            "compound_code" : "2PQW+C9 Los Angeles, California",
+            "global_code" : "85632PQW+C9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJz1mNv8zHwoARtaEcwNTBZkQ",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 31
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "342 1/4 1st St, Los Angeles, CA 90012, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 34.0494249,
+               "lng" : -118.2399272
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 34.05085827989272,
+                  "lng" : -118.2384926701073
+               },
+               "southwest" : 
+               {
+                  "lat" : 34.04815862010727,
+                  "lng" : -118.2411923298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Ginza-USA Gifts & Music",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112983611179381364210\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYpcmZqoHNPFAHRjLKAsl0sZF1_8Tu6ZEcvYYmvrEXi7XC0hv5ZHj32YAZFCuIxQxjgtmn734BV02tqur0P_ORU20KbWMhhvSEYh0Rl0wPlTsCwfnFBP75RFWJZF-nFODr29wWGEfHCAsiu0_J3FIcUtMLxZGJj3eh1WCni-CUR76SM",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJt9jU60fGwoAR7PQOLLGdoeE",
+         "plus_code" : 
+         {
+            "compound_code" : "2QX6+Q2 Los Angeles, California",
+            "global_code" : "85632QX6+Q2"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJt9jU60fGwoAR7PQOLLGdoeE",
+         "types" : 
+         [
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 75
+      }
+   ],
+   "status" : "OK"
+}

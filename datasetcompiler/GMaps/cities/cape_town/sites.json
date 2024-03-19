@@ -1,0 +1,1214 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZItXGHy9Lg6a5vfNj9pXqypETX0JswC8ly66N1wf6APfY3fIW9Ypzp_79ssej-onUmo1vw0H2sPhEHUF1kHx_YlarzCoKP_PkUAyr5XxSUhx56hEtZ4bgwBtSwQ8jqRrbVde2A_lWh04v3wJsuHhCy80-PbVhDtBUNnQfBWckEoi0uTftwFjlJn5G5ujUzO9MHqFpT4Gr183DeSEiVRLHvWsRdQLOn3v8Xi72bW0fA7aT_4lVSZfWbiZLx-0Qprk8NiNzc4ixHSFIi_Rzx4l968F2Y7KyRDyk-hTszbllN7RcJ-aTRLC8TBD-eGB0DgJL5H72QtYsgULZcp-IytgtZI9BOLcZ3RNatSCEqtBTasEHVLA-zwzC67j2lVkPd__OWDPRfN3y5Yr0IJfHojQ",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rhodes Dr, Newlands, Cape Town, 7735, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9875011,
+               "lng" : 18.432722
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.98503609999999,
+                  "lng" : 18.43704295
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.99489610000001,
+                  "lng" : 18.42919155000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Kirstenbosch National Botanical Garden",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101319290277026755251\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYNMY_LF1eUquMDpqXgzc9ec8DSSP4QrNbTSJWEXglByW2INgaD6mVU9-zcqXqyOhmJ2oRFcU2-H5ORnVwV1NMStsb68QdMl8V1OvhEFFjeoOaq_5B1HDK3-bN7XN-9GE7WJEGTD_YdE5k_0Op0jSbzLdSojGxhynfiAaKkMSeAKmlu",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJecz6YqhCzB0RZqXqcdmKfBs",
+         "plus_code" : 
+         {
+            "compound_code" : "2C6M+X3 Constantia, Cape Town, South Africa",
+            "global_code" : "4FRW2C6M+X3"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJecz6YqhCzB0RZqXqcdmKfBs",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 29331
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Simon's Town, Cape Town, 7995, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -34.1956153,
+               "lng" : 18.4503585
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -34.19358879999999,
+                  "lng" : 18.4569869
+               },
+               "southwest" : 
+               {
+                  "lat" : -34.200346,
+                  "lng" : 18.4433121
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Boulders Beach",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3397,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104222998041222979819\"\u003eAndreas Schuette\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb5GLZZdCQwBnmv-OpxMkhtGLYFRpq9VRHpSI02OJqTJsf0DAPh24N1Pksd1he1s2KOfVeFKc2ntDWz0p07oPrz7ZQH84m_Y9ycs33xhyDNBYreYv3jlpGOPUXUV2y1RzgcXI5D3UEKnrvc-P6KahYRX1r7Ooi6A1wXVBoR2BGhALUc",
+               "width" : 4652
+            }
+         ],
+         "place_id" : "ChIJKeByCDY-zB0RECn0gAHgvHw",
+         "plus_code" : 
+         {
+            "compound_code" : "RF32+Q4 Simon's Town, Cape Town, South Africa",
+            "global_code" : "4FQWRF32+Q4"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJKeByCDY-zB0RECn0gAHgvHw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 22443
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Darling St & Buitenkant St, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.926046,
+               "lng" : 18.4280581
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92441827010728,
+                  "lng" : 18.42903435
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92711792989272,
+                  "lng" : 18.42512935
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Castle of Good Hope",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 496,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112919869334904763385\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYqvOlwhwfQ9r0fOw_-EReiUNc2upx-CX-nxM4O5_J1earhfMCDZZ11_8jjn0H7TPqMndnXkt4OdE4WyxU3V5g5ikl9bh6SXDOLiUfRZQuJbWXuX9hjhSk8kyaQKuQ2Y6jjm4hP-NaK8hI9IQW_2KMk-1obgG1B9hRUvnKUrqfeulmZ",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJwUYG_oddzB0RZYGNwMhCuy0",
+         "plus_code" : 
+         {
+            "compound_code" : "3CFH+H6 De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CFH+H6"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJwUYG_oddzB0RZYGNwMhCuy0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11587
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "The Lawns, Breakwater Blvd, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9026183,
+               "lng" : 18.4193928
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.90135227010727,
+                  "lng" : 18.42083702989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.90405192989272,
+                  "lng" : 18.41813737010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Cape Wheel",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116718764456357113465\"\u003eUwe\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa4etaaasBs31_LWcMAyVUR1HOeY4QgKvIbTFp2mbqp8-h-64i6dGRaQmJ7N4kR_hZ_3q3M5HqSwBqFRh8S0Oq2j-cPIWxgyc5PbCkVTyQoF9uWllUiZIkKRzHoxu9Ifl9b5Zuhx6TTpZFSpxwaxYQ_KXnj3DtoahC_bbDfTfAAOSko",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJeWUZ4F1nzB0RFcD_RkR-5Uw",
+         "plus_code" : 
+         {
+            "compound_code" : "3CW9+XQ De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CW9+XQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJeWUZ4F1nzB0RFcD_RkR-5Uw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10049
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "71 Wale St, Schotsche Kloof, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9215332,
+               "lng" : 18.4149866
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92010072010729,
+                  "lng" : 18.41642472989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92280037989273,
+                  "lng" : 18.41372507010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Iziko Bo-Kaap Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111814635420186257116\"\u003eScoobydoo Labrador\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJblbUbmBbZNsyLs0vi7pZsLr-8HRuvvTsGUefjV6Ltyg6AcxYI3C5ShwlkyV9bHgBqlhwrztDVI7proBT5p_8mdGVByE_FY3mp_uVN1q1jRqPZz5lZw5fr1QsyxKDvQV2ExTiZEquEwrAUecm-XUrF0pEZJHrrE5jQiDiikeiuOZTWk",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJjSQp42VnzB0R6WYFH3MPXjk",
+         "plus_code" : 
+         {
+            "compound_code" : "3CH7+9X De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CH7+9X"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJjSQp42VnzB0R6WYFH3MPXjk",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5334
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cape Point Rd, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -34.3568425,
+               "lng" : 18.4739882
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -34.35557037010728,
+                  "lng" : 18.47515567989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -34.35827002989272,
+                  "lng" : 18.47245602010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Cape of Good Hope",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102708619777227246154\"\u003epmanopawitr\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY_YiHZTM6N_sl6aNi26OX0jswHKGEw9lHUxYbRYLNAqprwSqASTxoN63kZXIrOV44W8FiEozB7M_BTkUz2anaIVg6wlYYbScMyyda9z1zJFdI_G4XiY7FdNjOKQmMY0IYrBaBaz9DmX2PZMIaabsfT6JTEDp77HDpBXt6sZ5wZkeyz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZz_grPwizB0R6aJ8t_FcKDU",
+         "plus_code" : 
+         {
+            "compound_code" : "JFVF+7H Cape Point, Cape Town, South Africa",
+            "global_code" : "4FQWJFVF+7H"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJZz_grPwizB0R6aJ8t_FcKDU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10723
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "25A Buitenkant St, District Six, Cape Town, 8000, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9277222,
+               "lng" : 18.423677
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92633367010728,
+                  "lng" : 18.42497387989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92903332989272,
+                  "lng" : 18.42227422010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "District Six Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111486427903834173298\"\u003eErica Woods\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaBr0J2xfQGFHI1N8nOP90u124l-bgfFkoYQ9HA2tmpUEPUG-cBx6PxXuBkhXV4uGct9gsdH8-Lcz1EL9SXijxnIjrzZjnbNZee-pJXjMqUnHvx24smuZHXpl-bxUzsgMUhErxXjDcZ4zmeQa3wdE0rG-6ZaIJ7IKBDMQo2XW7tUYrz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJXdpUhHtnzB0RI8TYhHL5028",
+         "plus_code" : 
+         {
+            "compound_code" : "3CCF+WF De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CCF+WF"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJXdpUhHtnzB0RI8TYhHL5028",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2171
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8002, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9080317,
+               "lng" : 18.4176607
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.90631867010728,
+                  "lng" : 18.41898612989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.90901832989272,
+                  "lng" : 18.41628647010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Two Oceans Aquarium",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108578745653081195752\"\u003eMartin Goosen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbpc8mEmQuBw7IHZ3ZLG5m0N8kJKBPWqbF2Eyuaf-TADAJS2pecliXIbPTjGgM_ply3B0dSM0ZwSqaYCZm27j5zkX5iZywNjwIQRzTMwuCa2kvgR5w1YqkPZVISVAeiyvnMJf3K_1oOKcGcMkqHkt7hREmTtdDVSoNNWSUSwrUKi4U3",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJfeaqwlpnzB0Rl2i0iRvp6SI",
+         "plus_code" : 
+         {
+            "compound_code" : "3CR9+Q3 De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CR9+Q3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJfeaqwlpnzB0Rl2i0iRvp6SI",
+         "types" : 
+         [
+            "aquarium",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19964
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Fritz Sonnenberg Rd, Green Point, Cape Town, 8051, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9041068,
+               "lng" : 18.4010964
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.90039605,
+                  "lng" : 18.40362315
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.90704024999999,
+                  "lng" : 18.39817175
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Green Point Park",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103106767190777075336\"\u003ePawel Wierzchowiecki\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb2B6wSORN4ihGmwAIDDzPsSopxWjTvsvAIBHm5KlxMEuyajQ0OjPlsdYboxNBSGExfoLneJC6AAB_h4DMLhxc0qjlXayfVXATp-x4LIxwggbFZZ4CbYtmFABnwZCeBOEo7oX_GOaUolJKYVOm4L_ut5JO16ppaO5xpro_-uHvGKhx0",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJrfmRVzZnzB0RupuFfQj-5D0",
+         "plus_code" : 
+         {
+            "compound_code" : "3CW2+9C De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CW2+9C"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJrfmRVzZnzB0RupuFfQj-5D0",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11401
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Level 1 Clock Tower, Clock Tower District, Victoria & Alfred Waterfront, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9072614,
+               "lng" : 18.4224093
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.90591157010728,
+                  "lng" : 18.42375912989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.90861122989273,
+                  "lng" : 18.42105947010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Cape Town Diamond Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 431,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111316918243209660733\"\u003eCape Town Diamond Museum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYvzWW_ISfadWZRUyy5a8sydPHIC3Yu9EEGjXBNAGhQixw0xq7RRc3qKRrLrn3E8L1QvJP5qeG7mJTRsFqStOfGIyaIQA_aLzGjiKcpqFdDLrGMrZYEDQBtaFxBBgr-JlCz3eKj4tl633wJJr51pmkjqMvW-WY-nRZvlU2vWd0x2FwG",
+               "width" : 763
+            }
+         ],
+         "place_id" : "ChIJS8DTnFlnzB0Rw6e4sH0cTdE",
+         "plus_code" : 
+         {
+            "compound_code" : "3CVC+3X De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CVC+3X"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJS8DTnFlnzB0Rw6e4sH0cTdE",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 559
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cape Peninsula, Simon's Town, 7995, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -34.3507582,
+               "lng" : 18.4845731
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -34.34937262010728,
+                  "lng" : 18.48582412989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -34.35207227989272,
+                  "lng" : 18.48312447010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Cape Point Nature Reserve",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3648,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110494286196159943969\"\u003eJurgita Stasiukaitytė\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYtQ-dnljjf20vKGbfS9QRCTOsGrhsmRMjj03HSNo1O3g9Fe8rOZCjvNC7PuRSbWsPgS7ls4c5fsvZ2D8wSVLatup_E1gDTR_nGFtliZBT9hcBhNauZRUBeiqXh1zzUQF0Efky_S5DesMsTBwfUdLkJih2AEXdjJ5Ad9Wm8mBil8dZ_",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJAf2PqQkjzB0RTEFJZ9rJSSM",
+         "plus_code" : 
+         {
+            "compound_code" : "JFXM+MR Cape Point, Cape Town, South Africa",
+            "global_code" : "4FQWJFXM+MR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJAf2PqQkjzB0RTEFJZ9rJSSM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8907
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "25 Queen Victoria St, Gardens, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9284896,
+               "lng" : 18.4148554
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92708852010728,
+                  "lng" : 18.41613352989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92978817989273,
+                  "lng" : 18.41343387010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Iziko South African Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110775467155236807294\"\u003ejintogeorge george\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYmnm1x4AqgXFI5ovgFHac2pIYKoLaXy0ydQ7n60cGhY0GwBtjAYrsX0bCZ-FUl40iQGhf1NLuqAU0lOk70JSkfAr4C164uyelfFqTcJRQuLHf1LMdYMCXdv4XKYfl0gpJWzlqvFJeXjiXoUqBGICRs06tvNmk13GzYMkvMIn0HNVUL",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJ523J8npnzB0Rfvs7MyenlN8",
+         "plus_code" : 
+         {
+            "compound_code" : "3CC7+JW De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CC7+JW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ523J8npnzB0Rfvs7MyenlN8",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 864
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Groote Schuur Hospital, Main Rd, Observatory, Cape Town, 7925, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.94116169999999,
+               "lng" : 18.4615964
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.93980217010727,
+                  "lng" : 18.46298352989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.94250182989272,
+                  "lng" : 18.46028387010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Heart of Cape Town Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3264,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109959004369221057783\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb-J8ehSxHmsgAgdPaCRSxbxSRTYX08KSA6rV_Kkcc2ImIuzvy3E3QPJvCItXNtZY6gRv9_3uf3q16Uzx0TxI2aPY9uOlqvaWQ3g2liF6XmyDUr2i9-QUdP1lYMg9VXnh3F9iKemcSoKzKaH2JAJBu6pDhcjpqReGKykj1j8V3bkvTM",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJu-1c6w9dzB0RksQrWHa4Brk",
+         "plus_code" : 
+         {
+            "compound_code" : "3F56+GJ Goodwood, Cape Town, South Africa",
+            "global_code" : "4FRW3F56+GJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJu-1c6w9dzB0RksQrWHa4Brk",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 470
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9079916,
+               "lng" : 18.420162
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.8980972,
+                  "lng" : 18.4269951
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.91918359999999,
+                  "lng" : 18.4129419
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "V&A Waterfront",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2048,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101773531334874570180\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaVJbVav_ccRF8ETs9cvbWlm5b4O1uBP5CBOtBIcEGn38tvkVwFxZquOB0KvGk5FM05hi6cU19IhIvbUB_x0M2TeIW-RWhoirS39L8y5zyDNQXffhWnpOcacSqiWq9CR2qNTRJM__O_2-9ZSKiDmISXktbe0uUEabdMng2QeZ6afscj",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJpUSVz1BnzB0RgEe7eAWGwx0",
+         "plus_code" : 
+         {
+            "compound_code" : "3CRC+R3 De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CRC+R3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJpUSVz1BnzB0RgEe7eAWGwx0",
+         "types" : 
+         [
+            "shopping_mall",
+            "tourist_attraction",
+            "art_gallery",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 98275
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dock Rd, Victoria & Alfred Waterfront, Cape Town, 8005, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9073858,
+               "lng" : 18.4176111
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.90601592010728,
+                  "lng" : 18.41894092989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.90871557989272,
+                  "lng" : 18.41624127010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "City Pass Cape Town",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 967,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100092131182382541078\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZoQaaqkMb4PPbxHQ3r1J-aDqe7GhRjXToM5Raj5ebHE3u6VGGDlTKjbYKa26iYjgZns0jFZ80R3YtnG11oGawBcYNDhXinPXZUfvecQI-ndAwmSt32S-i724oHPMJZWqALQoT2uB-JCWlx2j8bIStuH6Wl_b-u4QnawVUb2Si-RK9X",
+               "width" : 1980
+            }
+         ],
+         "place_id" : "ChIJA18LXDVczB0RTVePrysHUHo",
+         "plus_code" : 
+         {
+            "compound_code" : "3CV9+22 De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CV9+22"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJA18LXDVczB0RTVePrysHUHo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 74
+      },
+      {
+         "formatted_address" : "Cape Point, Cape Peninsula, Cape Town, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -34.35668709999999,
+               "lng" : 18.4967666
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -34.3474752,
+                  "lng" : 18.512774
+               },
+               "southwest" : 
+               {
+                  "lat" : -34.365898,
+                  "lng" : 18.4807592
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Cape Point",
+         "photos" : 
+         [
+            {
+               "height" : 901,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109714771407929745277\"\u003eAlessio D&#39;Amico\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbg0JycIk2JHqwR8bF9KHOFFRNxvncoGFVApknZm-Hbs2lk9Lb05kYKBE4Sbun0g3qRDEfkAkNxUuiy7aR-zjbvTbQQGu8Zxql3hYOoOkFL3gH1R2XSiEUCMR_YcQNkLkGG2yg6CXS76cVuQV5Z1dI8a75Y0L4MYvNLGNSm0vXwhaY5",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJE0s3aKAjzB0RoQR4Kt3wSug",
+         "plus_code" : 
+         {
+            "compound_code" : "JFVW+8P Cape Point, Cape Town, South Africa",
+            "global_code" : "4FQWJFVW+8P"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJE0s3aKAjzB0RoQR4Kt3wSug",
+         "types" : 
+         [
+            "natural_feature",
+            "establishment"
+         ],
+         "user_ratings_total" : 1069
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "88 Hatfield St, Gardens, Cape Town, 8001, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.92989,
+               "lng" : 18.4169809
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92860272010728,
+                  "lng" : 18.41841847989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.93130237989272,
+                  "lng" : 18.41571882010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "South African Jewish Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110428200823217585841\"\u003eLovewell Siwela\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZTMjo5WiKlx75qDduMLFOrvUjX3mRngWxdpixlJr8V9vZKknLEvU-bCXmavlMaVGr4K17l5627tiQVBtq1UhsBuH6e2W8L_rl1uhYhPGhKp_m0F-QV0ieIDinT75m7XHrhLJ5un1P9xCOvjdH0bWAsB8iVhjXkKtj06J3-fb6BqXSD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJDb99o3BnzB0Rclz4MmRZ2Bg",
+         "plus_code" : 
+         {
+            "compound_code" : "3CC8+3Q De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CC8+3Q"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJDb99o3BnzB0Rclz4MmRZ2Bg",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 406
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "0A Spin St, Cape Town City Centre, Cape Town, 8000, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9251538,
+               "lng" : 18.4212392
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.92383182010727,
+                  "lng" : 18.42255052989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.92653147989272,
+                  "lng" : 18.41985087010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Church Square",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102843183071580513261\"\u003efederico\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJalj_T5axNnUM8pJpj2dS3VRFzhUg7HhI2V7YzDILVSndaV9WkPMvVHtVfQ6DCemR0z25dDv1FD7Zaq5CEYfrK98YrwDS1iPdrO6Wt2Fml-ULBNgxM6LUrWc_nh9HVqSxgVHWwHFWjzt_uAvlX644kAkk1YKJB1-B2udO6jdztrrQhe",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPcTFnsxnzB0RwaSE-zTmDJI",
+         "plus_code" : 
+         {
+            "compound_code" : "3CFC+WF De Waterkant, Cape Town, South Africa",
+            "global_code" : "4FRW3CFC+WF"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJPcTFnsxnzB0RwaSE-zTmDJI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 40
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "220 Main Rd, Muizenberg, Cape Town, 7950, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -34.1129731,
+               "lng" : 18.4657881
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -34.11163722010728,
+                  "lng" : 18.46718762989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -34.11433687989272,
+                  "lng" : 18.46448797010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Battle of Muizenberg (1795)",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1932,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111042662381982770114\"\u003eMarkus Williams\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbAvRuyEXEyUilYuXXOGWdFoTX1C6PV9Su6y1IxgUQX7R2S74PM4Pp5VfNYpGIuvUzopnj10DJtOY0HOdYVHtJb01ZOrtcM9r5rkSy0GylMwIdP2_bnqpcVRNtemXsOD9bctoMB8TDHLqhbC5dVPfRYERLNMTdcrhizupy9dgj_BVqh",
+               "width" : 2576
+            }
+         ],
+         "place_id" : "ChIJhyr3e1BAzB0RPpZcn02W2zM",
+         "plus_code" : 
+         {
+            "compound_code" : "VFP8+R8 St James, Cape Town, South Africa",
+            "global_code" : "4FQWVFP8+R8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJhyr3e1BAzB0RPpZcn02W2zM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Contour Path, Table Mountain (Nature Reserve), Cape Town, South Africa",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -33.9490666,
+               "lng" : 18.3989074
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -33.94771677010728,
+                  "lng" : 18.40025722989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -33.95041642989273,
+                  "lng" : 18.39755757010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kloof Corner",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116892946044998162453\"\u003eFrancois Roux\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJashlce4K_GbDGgBRlHGKn3q0-oLenB3JOYOQS0tomUvFpTQd7Y9-VZAQQMCB4SX0guujnvCAhdN4_kgTaFFklLAzGM7V0Zce5ZnGwj02-RZgbze0raoErwrl9TblFwwTUQPhRxqUqQ6rz7yZH1LV_oMK-tQoaW0oFE3HGiEIyebQwq",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJh3bwdqNnzB0RpBDzZyjRCqA",
+         "plus_code" : 
+         {
+            "compound_code" : "392X+9H Constantia, Cape Town, South Africa",
+            "global_code" : "4FRW392X+9H"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJh3bwdqNnzB0RpBDzZyjRCqA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 459
+      }
+   ],
+   "status" : "OK"
+}

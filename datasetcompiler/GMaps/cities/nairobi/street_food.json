@@ -1,0 +1,1184 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZrr1oef7LcEov9Xr_wli1zSIdk2q6bezyPo4s-L27KbxQ0wnIGFoTQbkfjE_lTRP3Rt_sMX_-IgKrF-8Lev9opD2gB8qhU8IVqD4EMSrIrGrLmEveT0wOCmc2ewsPLVinpuQD4olmVI5BMoMfwFW7lfOnaN3m5Xcth9XmE5CNjIsqUB0Ao8ZZpT8B0P768Y_2t0A1UmIQxSKgrNd15BnVFyVTm7Urf8S-Dvc2es1716L-EUZIBigHNQ13hDcy-5Zte5JJEWGic10c0JAb62uNkK6XkY-6s1lXamCLCKkfyeCGiWxbMPJS1o0xUsurLw1UkSlxe6YQVcSLAidBnd_BI4RtQ7KHi9L8ehdEWlD7LNup2Aws9d98qieLaDUI7dr0_aFgEKDSLnQIrSQtM7lHh-d8",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mpaka Rd, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2652667,
+               "lng" : 36.8045135
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.264065270107278,
+                  "lng" : 36.80563247989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.266764929892722,
+                  "lng" : 36.80293282010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Nairobi Street Kitchen",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117844578206305598031\"\u003esean mo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYlZKGraLfVwbFg--2t7aVbfGzeLnnN0HkjjY24-ZaZti-NQI7jNZN21A-af6QKGvRDr-S26eFGTSSJChCTWPQx756pssegStMyDtcNAN9Ea4e4luRHu8V3iESsORsVHkv9nMbnAmoG6lCtQPkzfaoRsB9ERfB2tUkMZk05TB-vplXU",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJt1Jlq00XLxgR_EqbyJNNUdE",
+         "plus_code" : 
+         {
+            "compound_code" : "PRM3+VR Nairobi, Kenya",
+            "global_code" : "6GCRPRM3+VR"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJt1Jlq00XLxgR_EqbyJNNUdE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2269
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2287345,
+               "lng" : 36.80482970000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.227445770107278,
+                  "lng" : 36.80610707989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.230145429892722,
+                  "lng" : 36.80340742010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "East Seoul Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2656,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110109969161818409421\"\u003eNginda Nganga\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYfLaaMUIxcXlecU6TDT14yGsbquSKAzWtUHKIVxPxrGG47rqF2riaSonoC1PSXc0NUCMyh7c10dWHJTR1HbYx799QnngoWWPchckUhTwcLo0l2VTJTE7zqsnpbhmtHX73M07WkaHI3tbpiKGAHMYR6uqKgcaASaYgM2H2RaYuNX15X",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJH9f_FcIXLxgRGrdk7tvN5OE",
+         "plus_code" : 
+         {
+            "compound_code" : "QRC3+GW Nairobi, Kenya",
+            "global_code" : "6GCRQRC3+GW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJH9f_FcIXLxgRGrdk7tvN5OE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 113
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "PRP3+XH6, Westlands Rd, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2625165,
+               "lng" : 36.8038886
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.261126770107278,
+                  "lng" : 36.80524007989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.263826429892722,
+                  "lng" : 36.80254042010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Japanese Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1921,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107576394721114314371\"\u003eAustin Blessard\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZVGgTptXudHbHPLpEIKQM3qyOrv-fejlqlVb8orxMed3qKqRpSGuBbZuAORIXRBl3bAWqNLUc92Q9Y5c6NUInh6qt6S9xMBCe_0ODHnl311mgnNf_Abn6pR49X8ZfELXYVYyqJPOEglaWruxPO5IZsULzIV7yL7HShtxQTksy3q7RG",
+               "width" : 2562
+            }
+         ],
+         "place_id" : "ChIJD2-D6EkXLxgRMpHmMWJCPpY",
+         "rating" : 0,
+         "reference" : "ChIJD2-D6EkXLxgRMpHmMWJCPpY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3rd, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2593718,
+               "lng" : 36.8169057
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.258003420107278,
+                  "lng" : 36.81822582989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.260703079892722,
+                  "lng" : 36.81552617010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Indian Street Food Desi bites Ltd",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 819,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115309800847150397441\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ1Y-3ThnJMfAvJSyo0ZHGCHH3G2rB1fp5mH1-NhyXGV1n6uufe_Thk4Fg7x2xBNDhEfWKuZjRCVD_hTyOhhCFFyih_BWoQLNWND9utLYvxQBX_h6S-ag4OjyrjzuV45_qyTqbYWPbQYOSNQYz9tQldSID79cHmvwNLQt4VkcApEG4K",
+               "width" : 1087
+            }
+         ],
+         "place_id" : "ChIJb1CywmgXLxgRRItQ1W5he6I",
+         "plus_code" : 
+         {
+            "compound_code" : "PRR8+7P Nairobi, Kenya",
+            "global_code" : "6GCRPRR8+7P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJb1CywmgXLxgRRItQ1W5he6I",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 29
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "MWR5+HV3, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.3085523,
+               "lng" : 36.9096486
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.307186620107278,
+                  "lng" : 36.91097477989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.309886279892722,
+                  "lng" : 36.90827512010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Fast Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJxWkLx6oTLxgRaq4pVDW-qm8",
+         "rating" : 4.1,
+         "reference" : "ChIJxWkLx6oTLxgRaq4pVDW-qm8",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Vinayak complex, 73 General Mathenge Rd, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2509414,
+               "lng" : 36.7937947
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.249893770107278,
+                  "lng" : 36.79502937989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.252593429892722,
+                  "lng" : 36.79232972010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mombasa street foodz",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1064,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104447593659535198170\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYGUi8IwVGB81b0gIWCJq4lRbhipJ6bsjvCM545SQoloDNFdu6fBtMsQb99sD6Iw5PU2cQTqIV21SNjTWfwRj99aOw6wo9yPgJ-C6PQFsBJht-T-VVqXMP_U0e_xP5xxrcBuAewd1v6JvPps3eLvaj2zChOK8fV8_OahDNnwH-3_Rlf",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJtQ9-ZDEXLxgRRVzkfdX2zKg",
+         "plus_code" : 
+         {
+            "compound_code" : "PQXV+JG Nairobi, Kenya",
+            "global_code" : "6GCRPQXV+JG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJtQ9-ZDEXLxgRRVzkfdX2zKg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "MRV9+799, Ole-Sangale Link Rd, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.30685,
+               "lng" : 36.81849
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.305476670107278,
+                  "lng" : 36.81984042989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.308176329892722,
+                  "lng" : 36.81714077010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Barrel Spot Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "place_id" : "ChIJcefCRAARLxgRIHctTKNwiPE",
+         "rating" : 0,
+         "reference" : "ChIJcefCRAARLxgRIHctTKNwiPE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "53 Park Arcade, Ring Rd Kilimani, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2970319,
+               "lng" : 36.787315
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.295677470107278,
+                  "lng" : 36.78872482989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.298377129892722,
+                  "lng" : 36.78602517010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Wok",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3005,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117758423726048320281\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbway8Q-Nsck6dPx5T860IGtGYB25LucjL9x_o_nc_7YCfsjnOmfeSuF1mucOQVQHBgXGQDXNzuJ7iE12lKyaXy_7dTykuPqpX523ehlJu9mmuPb6obA0F59uoVxvpIMUdhY0nzF67f1fRrbo4plHw-PslkhmNuQzL_xoCshWuUVmVR",
+               "width" : 4007
+            }
+         ],
+         "place_id" : "ChIJzax_wrARLxgRyXMG1wdybBw",
+         "plus_code" : 
+         {
+            "compound_code" : "PQ3P+5W Nairobi, Kenya",
+            "global_code" : "6GCRPQ3P+5W"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJzax_wrARLxgRyXMG1wdybBw",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kimathi Street Nairobi KE, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2828721,
+               "lng" : 36.8218418
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.281600820107278,
+                  "lng" : 36.82315402989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.284300479892722,
+                  "lng" : 36.82045437010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "K'Osewe Ranalo Foods",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114759071370334434030\"\u003eClive Bowden\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbPgY57qt-MvqdqO5ZDsMCL7522YfK3Z6pHo0OgDfjGi59uMbgLIy-MVp8FDafhDhCaO5B0F_wdS1a2iEalb_7bLXcE4bJw8-Qu4QbuYqpp6lLcKqoONrmvsjnDF1JMVbcRQVlvaJuddZRrJmQJ1yFlNZhzN_wtqV3KpxcNodQiwcay",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ1WB3ONQQLxgR6jdOCkfr9EI",
+         "plus_code" : 
+         {
+            "compound_code" : "PR8C+VP Nairobi, Kenya",
+            "global_code" : "6GCRPR8C+VP"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ1WB3ONQQLxgR6jdOCkfr9EI",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1555
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "City Centre, Junction of Ronald Ngala &, Mezzanine 2 Mfangano Street, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2859744,
+               "lng" : 36.8275707
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.284609320107278,
+                  "lng" : 36.82891157989271
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.287308979892722,
+                  "lng" : 36.82621192010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Shawarma Street",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106065540077471608181\"\u003esivania41@yahoo.com\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZNx2GoM9ndlMXj4z4U22gYk3vOhBUx0zRF-gjVn0Ie5xAHz9V1BA5BvmD19GRM8RdNIOZDXfdSmjKmN2Jj0vO9RYcuoaJaT_OjxrYk333-WI4lgkotJ--JHbabSIPN_LEKDzf3ZIithsMIV4Rk-rOK_mCWFX7sfS8ffGQxZSaE2eMq",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ-YV4D4sRLxgRIUUm3MM4yiE",
+         "plus_code" : 
+         {
+            "compound_code" : "PR7H+J2 Nairobi, Kenya",
+            "global_code" : "6GCRPR7H+J2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ-YV4D4sRLxgRIUUm3MM4yiE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 201
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "QRC4+VGM, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2277803,
+               "lng" : 36.8062824
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.226441220107278,
+                  "lng" : 36.80759347989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.229140879892722,
+                  "lng" : 36.80489382010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Bistro",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102334196588031741510\"\u003eLisa Njeru\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZSYVRoCVq9psT9SPQKVUb2eSN9Y27zeRaPZdGZ3iToasfuSHk_2T82E6cIJphEk45sWGo3_zNBuI13S_yUW_E_eSwuaFVo9-RJzlGjW2GbNSEJcv2xLSc_lBfKYFdnKYIVh5tBWkD241rdNRPGGF6rFH46z8Lzt4SaV2DLXICBV47a",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ4_fdrMMXLxgRhbog5v2Fnwg",
+         "rating" : 4.2,
+         "reference" : "ChIJ4_fdrMMXLxgRhbog5v2Fnwg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 32
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kimathi St, Starehe, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.282543,
+               "lng" : 36.8215648
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.281256320107278,
+                  "lng" : 36.82283482989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.283955979892722,
+                  "lng" : 36.82013517010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kosewe - Kimathi",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113420988073063000189\"\u003eVictor Messo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa58V5eyeUr1KcAT11gODu4wN5dpYOJEDDHk0MMSUGXLWnB937dblQ8IH697xOgcWIAVRbR-LsIeR57Qy-LuGnAD8KyxMO3Mekg61GzCbaMYe3H8ZPlW2oungOcD9BqhqZvzyyR-9kbTjsuNKunrOvEV031ktUPPgh5CDXVscUYWo6m",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJo6v3hFIRLxgRU461qJ5DD3g",
+         "plus_code" : 
+         {
+            "compound_code" : "PR8C+XJ Nairobi, Kenya",
+            "global_code" : "6GCRPR8C+XJ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJo6v3hFIRLxgRU461qJ5DD3g",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "KTDA Plaza, Tom Mboya St, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2852857,
+               "lng" : 36.8266193
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.283971370107278,
+                  "lng" : 36.82789332989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.286671029892722,
+                  "lng" : 36.82519367010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Altona Fish and Chips",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116698861739678777557\"\u003eGathirwa Timothy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbd2ujdk3EMunqkTrBxGBTsmSozEI4O_GFntkMz29VhPADfwAaO2M7qkmnvP6oAxPqlZpq9A-3eFXPlBp-YyGtJuZJTLerteq_QSOM4svCIumqdQXnOoEfS-mHm5MiyR0TBSSXeAyV9_F0ZZozKFzz9f0oF45AQC5-yJVwUAhgAaaVl",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJf0fctSkRLxgRBEYHpNNChGo",
+         "plus_code" : 
+         {
+            "compound_code" : "PR7G+VJ Nairobi, Kenya",
+            "global_code" : "6GCRPR7G+VJ"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJf0fctSkRLxgRBEYHpNNChGo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 136
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kenrail Towers, Terrace (T) Floor, South Wing, Mkungu Close, Off Parklands Rd, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2612213,
+               "lng" : 36.8039657
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.259814020107278,
+                  "lng" : 36.80522572989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.262513679892722,
+                  "lng" : 36.80252607010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mercado - Mexican Kitchen and Bar",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103594461799529286587\"\u003eTrizah Al\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbnlea6p22zzvxIXY5rEGea9mrLmFpypL-vmvh2UeMrDhGlPPyAPGPEoJi9SYJl_nPo6n3MJFgZPvDNeBUczARtmqyNDF1FMK9xhkt5NJAqexCOC7e2jlw_d0RyPN1r14FWgs1B5kkRnBCUdFCaqw1BXhNHB8t2CY1J8pok2Wz8PNDw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJb__0sBQXLxgRunHdSUf9LHs",
+         "plus_code" : 
+         {
+            "compound_code" : "PRQ3+GH Nairobi, Kenya",
+            "global_code" : "6GCRPRQ3+GH"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJb__0sBQXLxgRunHdSUf9LHs",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2552
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "P O Box 11784 Magharibi Place, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.31351,
+               "lng" : 36.8170805
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.312096520107278,
+                  "lng" : 36.81848362989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.314796179892722,
+                  "lng" : 36.81578397010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Marita's Bhajias",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2322,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101043679515218886366\"\u003eFaith Gichanga\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYVk50TURIk-i9BgJ5it1B52k_dgHhh2SBEMrw4uxPLFhsep3t3IjHJRtshJIIrHVRp71b1B508bPnoq8xWvOBxDhvQVPirCd0-VduSaHoiWGcErehV7kS1ypV4cuvBIE08Ft4-2FdG_eiY4fmvpsilBu6UIbavneieeqi6KtWaY44",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJXzid4VYQLxgRrhC17zziteo",
+         "plus_code" : 
+         {
+            "compound_code" : "MRP8+HR Nairobi, Kenya",
+            "global_code" : "6GCRMRP8+HR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJXzid4VYQLxgRrhC17zziteo",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 495
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Koinange St, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2829456,
+               "lng" : 36.8184265
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.281632020107278,
+                  "lng" : 36.81969977989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.284331679892722,
+                  "lng" : 36.81700012010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "CJ's",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111486213303496343742\"\u003eAginaone\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYyiza2gEyx9wEH5e4Od9vFDaAZdoTUbqqGDBPtuoYLAZdw6VKy2XnRN8IBPPhtDHlCy4dqUuFYCyfgWvvSwqlNdsZ6SykKQ9XPf7hFJRvhZCt4sPOl_-1cDOUbG4bJmf0Gk0ZrBEU9hbQv9oLzBkvpl9_SF92gOFVopU_hm7WjwuDd",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ8Ui659MQLxgRhSG4wJTSpiI",
+         "plus_code" : 
+         {
+            "compound_code" : "PR89+R9 Nairobi, Kenya",
+            "global_code" : "6GCRPR89+R9"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ8Ui659MQLxgRhSG4wJTSpiI",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10083
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "PQ6P+7QM, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2892786,
+               "lng" : 36.7869311
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.287944320107278,
+                  "lng" : 36.78829102989273
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.290643979892722,
+                  "lng" : 36.78559137010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tamu Street",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 477,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100289086025004274185\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa8ePh2HYBGMDexIourFzi2sqZ7C2sH3DFSlpcPtbBTVX7jGsqF8a8f9s8AMx182WkO3xxCmzsm__cb9IQ0alZs8bhQZvEyj86wkCPQVxPjiSU3jAiX7WMr8vJCM7kiM7D0lgzIY196EZVagCSbgL1f7R6MjKSbIyKidKkh0pU3IIbQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ8SDz5ygRLxgRm3PZi9-0PnQ",
+         "rating" : 2.8,
+         "reference" : "ChIJ8SDz5ygRLxgRm3PZi9-0PnQ",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Travel House, Mama Ngina St, Starehe, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2862371,
+               "lng" : 36.8216497
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.284931120107278,
+                  "lng" : 36.82302312989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.287630779892722,
+                  "lng" : 36.82032347010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ankara Food Court",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2976,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102468861428844581010\"\u003eKoffi Kelvin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJavvTpq0jXVaTb0C9-EcxpR5fqWdNBIxnvIxIfQTEQZ5g5_5_aYRdWXMY0zyfuQGUbn-N2OKpuNbl5iHRKB5bWJjixNiiw2LlXhhs-qygdAqRwpYHM_IysgZ88wsdId_cRqvQz4U71bAwMq9oYFDT8NUJqxSFHC8DDPrZ3WVxxhyYMa",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJxd7ZENcQLxgRnlknUIWiJEY",
+         "plus_code" : 
+         {
+            "compound_code" : "PR7C+GM Nairobi, Kenya",
+            "global_code" : "6GCRPR7C+GM"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJxd7ZENcQLxgRnlknUIWiJEY",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 630
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tom Mboya St, Nairobi, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2870464,
+               "lng" : 36.827416
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.285716070107278,
+                  "lng" : 36.82872412989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.288415729892722,
+                  "lng" : 36.82602447010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Memphis Fish & Chips",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116029553849503904823\"\u003edottie muema\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa7pEsgwtSVXp-hmLvG6j0QJGN9uLylRnLQvafK2UJpnBeHklkjBAlmbTx4a_PnxAXxwJbQYwwpMYhRN8tm6tZa7uCA8bUqx40SAWTi44L5X-kCPmg3QnPh48V_RnJMb7oyW7rQewBwU3JC1czxhRAgjuMr08z7sxFNgAY8em9q3Z7D",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ9S7vKiYRLxgRVkLCtmMVGV4",
+         "plus_code" : 
+         {
+            "compound_code" : "PR7G+5X Nairobi, Kenya",
+            "global_code" : "6GCRPR7G+5X"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ9S7vKiYRLxgRVkLCtmMVGV4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1st floor Mfangano St, Nairobi City, Kenya",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -1.2879029,
+               "lng" : 36.8285175
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -1.286536620107278,
+                  "lng" : 36.82989802989272
+               },
+               "southwest" : 
+               {
+                  "lat" : -1.289236279892722,
+                  "lng" : 36.82719837010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Duet Restaurant & Pub",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1920,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112781292811626788933\"\u003eMildred Matara\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJantn-aW0PUuvqD5Qn-uUpzBvIaTpMdRd0XXZHr_IzdtXpqtpcGPNxCGCXElGrvHYA1c8jflSOAA_Do2gOW90ZRs5-XeVv14tUJLHahtYIxFjq_3sBDDW4ZOOikBO6hNlRpojb2qJeBa6BaFSvA79auZAQKOqokyduQciGHmcO6OWEN",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJWWX4OiYRLxgRYo1rqb4Bwi4",
+         "plus_code" : 
+         {
+            "compound_code" : "PR6H+RC Nairobi, Kenya",
+            "global_code" : "6GCRPR6H+RC"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJWWX4OiYRLxgRYo1rqb4Bwi4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 75
+      }
+   ],
+   "status" : "OK"
+}

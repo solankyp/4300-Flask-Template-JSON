@@ -1,0 +1,1233 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJboWnSsYY-kWCcrdXUbaDR1qh8DOQqiTzXlhbEowG2BKQk-xWYS14lj7f81rjf0hYvI0iM1RP-SpFeZxr6fICg8x3OZFJPV-tyLpwpjk1gsv27xjYGZn5mbZo8-Wf3OlLVHxWbwu94hqD_AATqPCp5vcjHUv-IR4QmJ6oFcNF44-yEMtBQCGArChu_4FDPR22as_QAMB0DzyxY4o8KnCPLmyrxnBQJkOncIMZPtcjHopaGpY6P46DJGazNyFUsz0-bvfc--1pXMfH3W_K-P3GjrerWt55GPEo7tzuegQHqdIYgSeGd128c77jY1fDPBlrSDSD7BUi1PekPINqRWDoPN5t9uyo4qVeD_JjHInw0RJp-1G16nhKACN93bUqoDYse0vlOec6AdlzflPdxKV3ra",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Museumstraat 1, 1071 XX Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3599976,
+               "lng" : 4.8852188
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36147432989272,
+                  "lng" : 4.886724679892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.35877467010728,
+                  "lng" : 4.884025020107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Rijksmuseum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109212386834730199749\"\u003eErnesto Elmore V.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYeCFp_JBvEghzC970wfLxfZ5cvH1nMtSbYp4UEOmTHkXpeSThh-dGQUHtOnbMvLIyle7nEKZD8eMwN0mRDK1-gJCbArGLwbyh4yo5rVlYd71Qpu3lLH6ZmCdBwEnRSL3427-JRBp4TSQ-o-rLxSL-HpNPOQquQ25oV0iUh9aHZijn4",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ5Ra7we4JxkcRhYVAaq5zQ9U",
+         "plus_code" : 
+         {
+            "compound_code" : "9V5P+X3 Amsterdam, Netherlands",
+            "global_code" : "9F469V5P+X3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ5Ra7we4JxkcRhYVAaq5zQ9U",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 90527
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Amstel 51, 1018 EJ Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3657717,
+               "lng" : 4.9027821
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36721717989271,
+                  "lng" : 4.903677929892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36451752010727,
+                  "lng" : 4.900978270107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Amsterdam Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114531815770304355029\"\u003eRemco Slegtenhorst\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbtBA__1AhZRR4_WcOGQa0Lk9ay6tm7lUipK7AEpmcS3zXu1jBHj6i8q5c5q8FEIXKxDWH02XZRLlhpTRlwc_gHfOmAU60-YqpS2unBfUbx0KkVge3cpWsOvqOzPp6_YxWR8h1BtXaxx-TUifDNI8ZD-HcP70FZq4_UUOrk8iko2Agg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT9i3G8EJxkcR8mvIlXqnQXc",
+         "plus_code" : 
+         {
+            "compound_code" : "9W83+84 Amsterdam, Netherlands",
+            "global_code" : "9F469W83+84"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJT9i3G8EJxkcR8mvIlXqnQXc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5869
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Museumplein 6, 1071 DJ Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3580757,
+               "lng" : 4.8812053
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.35970317989272,
+                  "lng" : 4.882415929892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.35700352010728,
+                  "lng" : 4.879716270107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Van Gogh Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106741986475406198275\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbWKFtf_3yPYXG_Wp_BzpKlqj4QUFcmtBHCenNULzlFpmLE8jnfrchj1gAy3mO5ijH9qmVhk9CLkSSG0waB46mNyC1bvN1ADR6QV41oF3t0dqi8JZbO0Q7pYCzFhYcsN0Pv_GJTNUqruHBkiS1MQEG2Bi1WT7zGQafQXTyafHmzxx-B",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJX1rTlu8JxkcRGsV8-a4oKMI",
+         "plus_code" : 
+         {
+            "compound_code" : "9V5J+6F Amsterdam, Netherlands",
+            "global_code" : "9F469V5J+6F"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJX1rTlu8JxkcRGsV8-a4oKMI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 84133
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Museumplein 10, 1071 DJ Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3580111,
+               "lng" : 4.879755400000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.35901719999999,
+                  "lng" : 4.880977279892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.35629120000001,
+                  "lng" : 4.878277620107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Stedelijk Museum Amsterdam",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105284116318529922546\"\u003eJulio Gómez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZK9f-UTHxH26GYsb_GbDC6D2ui-mHvXDV-GZ0yxuLQYi5wcFJj131omWaZEd4LRr5nptz3xwawa5Xt-MW2ZV6S9XBDI7PtKKdPKZbUwlq7Vj7TQ__VccNP8wPLQOMICgVLVdIpNXpOMXW3eXRZvVHPcp5qO74pqjjWAAwUqYYKPSJY",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJKzDpZ-UJxkcR6tvKHK2aPOw",
+         "plus_code" : 
+         {
+            "compound_code" : "9V5H+6W Amsterdam, Netherlands",
+            "global_code" : "9F469V5H+6W"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJKzDpZ-UJxkcR6tvKHK2aPOw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13292
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Westermarkt 20, 1016 GV Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3752182,
+               "lng" : 4.8839765
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.37655427989272,
+                  "lng" : 4.885261179892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.37385462010728,
+                  "lng" : 4.882561520107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Anne Frank House",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 678,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112067075639182123981\"\u003eAnne Frank Stichting\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZpxlprig_0ueL50965_TgV_G45b7hk1jbQxmnBKk7QVGHC9cci0lMIlAl6qHn8NCqfD2FfzSDfqNM4H04KhFXTRNJcOub7S0g1z8tf_jiHKboMlbI_StjR6OTX4fSbaeqqCqZ0xMgRiVVnkSenBoJHAZPYWBjUGBSWcsk1hjlFEQ4m",
+               "width" : 528
+            }
+         ],
+         "place_id" : "ChIJSRE-IcUJxkcRCltjPmVdmtQ",
+         "plus_code" : 
+         {
+            "compound_code" : "9VGM+3H Amsterdam, Netherlands",
+            "global_code" : "9F469VGM+3H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJSRE-IcUJxkcRCltjPmVdmtQ",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 64679
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Oudezijds Voorburgwal 38-40, 1012 GD Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.37513629999999,
+               "lng" : 4.899452399999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.37647682989272,
+                  "lng" : 4.900826529892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.37377717010727,
+                  "lng" : 4.898126870107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Our Lord in the Attic Museum (Former Hidden Catholic Church)",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109829938265327016590\"\u003e楊彥泰\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaQlI913uzitZo5tgXncbqVUnr0rU8teJBFJiyx0RLNFgylgiJFIef-xIaZ8sw8om3H7l_acq-xFOczEPe91rh5Whdkn-PpDUdbcHm7fWvGZJ3nBgOzWZhBkdnXRQWjoWAgq2OYRNfP2f7lqbJ168LEi9Vwz5ImsG6ABLT_F6f2nsci",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJU-1ArbkJxkcR_EdFqWrlInA",
+         "plus_code" : 
+         {
+            "compound_code" : "9VGX+3Q Amsterdam, Netherlands",
+            "global_code" : "9F469VGX+3Q"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJU-1ArbkJxkcR_EdFqWrlInA",
+         "types" : 
+         [
+            "museum",
+            "church",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3272
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kattenburgerplein 1, 1018 KK Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3715579,
+               "lng" : 4.9143762
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.37270107989272,
+                  "lng" : 4.916062529892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.37000142010728,
+                  "lng" : 4.913362870107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Maritime Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100951010815020235736\"\u003esaif khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ0rbPdrMvmDoBy9G7CWnQlaMoGNX8YUo6bLzXf6MWONHNSyRs_VdTybra_LbmnZfJGe9Ef2sg47wfRZVmV6NHn4ibIDIeg44eH2zFBB9nYHl9EeVuzNOGV0Wot9gT3n0-jPXwPvU0eWUvMJqBgwdRywyGVuNO3JuWhYj5lOjcPgrUE",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJX-2rTqEJxkcRhjlIZp4bqFk",
+         "plus_code" : 
+         {
+            "compound_code" : "9WC7+JQ Amsterdam, Netherlands",
+            "global_code" : "9F469WC7+JQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJX-2rTqEJxkcRhjlIZp4bqFk",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10602
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "IJpromenade 1, 1031 KT Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.384348,
+               "lng" : 4.901276
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.38580317989271,
+                  "lng" : 4.903135279892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.38310352010727,
+                  "lng" : 4.900435620107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Eye Film Museum",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 9000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118145520373548451382\"\u003eŠmon Kvapil\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZUaM_fRqv21VRt2AsEMgSd8f4hr0o1wm7UglLBPlHt1x5OouyxL_VHVsSup_ZUa3bPr7fSNtCsuMMb6g2hd_YvZMNCRxOsv9JBFKHFssk830YMol3PEiF67Ywyowx6K-ZhG4dUL-rVxnoppLb6NcSY-IDzoPtuzxESi2KiBVYy2d5o",
+               "width" : 12000
+            }
+         ],
+         "place_id" : "ChIJ2eGVTbQJxkcRuT5BhGHEIrM",
+         "plus_code" : 
+         {
+            "compound_code" : "9WM2+PG Amsterdam, Netherlands",
+            "global_code" : "9F469WM2+PG"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ2eGVTbQJxkcRuT5BhGHEIrM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "movie_theater",
+            "museum",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9757
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jodenbreestraat 4, 1011 NK Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.369369,
+               "lng" : 4.9012349
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.37078952989272,
+                  "lng" : 4.90265152989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36808987010728,
+                  "lng" : 4.899951870107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Rembrandt House Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4608,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107322222871664473146\"\u003e김택균\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYEiq8D9r0zg2Besm-nAzWAcE8fhvuP3AtmZhJDgL-a619wfBf2073N7ZzwRwGSTXp7ogqrtA2L6wSsuxptAcq__6jwaP_fwLgCIl2rVk6DbsVMq4yNyYoaKKmdkVEyAfrLm7-mKlyDxUt0OTu8CnL16PYIEm0hn7EOMeNnKCDnpwtA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJNR35jYUJxkcRALmB_1MbY54",
+         "plus_code" : 
+         {
+            "compound_code" : "9W92+PF Amsterdam, Netherlands",
+            "global_code" : "9F469W92+PF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJNR35jYUJxkcRALmB_1MbY54",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11808
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Oosterdok 2, 1011 VX Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3741709,
+               "lng" : 4.912325
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.37531072989272,
+                  "lng" : 4.913500329892723
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.37261107010728,
+                  "lng" : 4.910800670107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "NEMO Science Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 5790,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100395770649372643942\"\u003eScience Center NEMO\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaGHbPKOGLbr0LOuOgoK935tGD17dRBSSlz1ejXJBP5ojOjwfjw9F2RI-cQSD4ATvHL07NBiR24of_4SvBk6Tx17nmkQaIgCdYVf1DWTQHUuDRLx_SEDcdnDkgUGYe77i-pX3OeXhfGvrRmkOC1iLs4bCdS_ClgjNB8rFAKMP37mhpZ",
+               "width" : 8681
+            }
+         ],
+         "place_id" : "ChIJm7tV_qQJxkcRvM4CYqK9SMc",
+         "plus_code" : 
+         {
+            "compound_code" : "9WF6+MW Amsterdam, Netherlands",
+            "global_code" : "9F469WF6+MW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJm7tV_qQJxkcRvM4CYqK9SMc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 30522
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Honthorststraat 20, 1071 DE Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3586975,
+               "lng" : 4.8819082
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.35981147989272,
+                  "lng" : 4.8842938
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.35711182010728,
+                  "lng" : 4.881113
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Moco Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108175215222799148023\"\u003eCarlos Avimadjessi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYjYdG4kZv18N2PL3HRaO3vtTxEphjYjlQDH5M-K2XB8aF4QSjp-JkwbNjLBgoZzSYQ60N9PlsiVTwPl60nBOL6h3dIAuAYTf-0Qx5kPI3SHFmasYHC8axu1JhBuGJz5_LiSP_d5eb-x-19xRZTBBTPGOlN7EF53IuTU3SIjSAR1Btx",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJRTx_o-8JxkcRKLAaBcWCq5w",
+         "plus_code" : 
+         {
+            "compound_code" : "9V5J+FQ Amsterdam, Netherlands",
+            "global_code" : "9F469V5J+FQ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJRTx_o-8JxkcRKLAaBcWCq5w",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19670
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Linnaeusstraat 2, 1092 CK Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.36278489999999,
+               "lng" : 4.922711
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36427847989272,
+                  "lng" : 4.924173029892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36157882010728,
+                  "lng" : 4.921473370107277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Wereldmuseum Amsterdam",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 540,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104598779596692742224\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYX8Mm4IARhT_dewxCxn0jSG_vb4ub4BuJhbjeGkI5ftM3Zm19Vo2NN_FyeQOwdfgit3tw0VrkiD4fVfQAyXlWP3em6G_pH6Nhl5lfPQ4U_WN6pB1JEltnye53aiQ8oVNoNZkiScC-6o3NGfN7xqBoULzi7k0mAx47fjAqbc4kjZ74I",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJO_40qnUJxkcRN_Opi2ibQN0",
+         "plus_code" : 
+         {
+            "compound_code" : "9W7F+43 Amsterdam, Netherlands",
+            "global_code" : "9F469W7F+43"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJO_40qnUJxkcRN_Opi2ibQN0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5172
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Amstel 51, 1018 DR Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3652692,
+               "lng" : 4.902419000000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36638772989273,
+                  "lng" : 4.903773879892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36368807010729,
+                  "lng" : 4.901074220107279
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "H'ART Museum (Hermitage Amsterdam)",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100061906162986971685\"\u003eMahri Chariyeva\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbXiQiYluj9d1MjlAUGtBqd3CQRB7GP2jU0fCX7hcWGWQiBIxnFSggLJ87R68s40FxCtRrrS7AkTomq_lhWlRggxOxzoY9s9nu3mi3bK-zfaGuwyAxD6jcE9Pk3tBL93GWRrhiHIhmCCWpAfDpB6SS7-0qH-h_nJOX8ZAMuWOPdpuX5",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJLTfnTpYJxkcRRFQSHn_ZXCI",
+         "plus_code" : 
+         {
+            "compound_code" : "9W82+4X Amsterdam, Netherlands",
+            "global_code" : "9F469W82+4X"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJLTfnTpYJxkcRRFQSHn_ZXCI",
+         "types" : 
+         [
+            "museum",
+            "art_gallery",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7047
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nieuwe Amstelstraat 1, 1011 PL Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3671182,
+               "lng" : 4.903815499999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36858187989272,
+                  "lng" : 4.905296679892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36588222010728,
+                  "lng" : 4.902597020107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Jewish Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101497046365768212272\"\u003eChristopher Waymire\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYAvSIXJsisiP5VtE8EHBy7WsOoyUyp_Pu2u53bVzUBG3iXe6zHHJ1jA-WpHJKC7oSroQ2kXaZDthPh1q57PRK-NONdkWpXS2f9-F5rtm2u6ltpbZ-imGxc40m8xYifnV4SGy5xv6OdHjnogadSJslxhRLMH_WEx8R2mXUb1uMiFfDS",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJo_CNmb0JxkcRfXyY9FDKtC4",
+         "plus_code" : 
+         {
+            "compound_code" : "9W83+RG Amsterdam, Netherlands",
+            "global_code" : "9F469W83+RG"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJo_CNmb0JxkcRfXyY9FDKtC4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "synagogue",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2013
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "NDSM-Plein 1, 1033 WC Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.4018992,
+               "lng" : 4.8939351
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.40329187989272,
+                  "lng" : 4.895343179892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.40059222010728,
+                  "lng" : 4.892643520107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "STRAAT Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112432487176966488617\"\u003eRombout de Backer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJax9I8EwnPt-wm-J72-jW9XEO81hCVTIUnHQoRH_Wf3mF4Of1kj_Q8YemypvR2R2kTlVmqHUEPjJ5tc0cLOrnwMcw1Iox_VhFUVelJXk7hm6R2928doeM_YUYUZWAlAc0-hr0ZHaOkPv6oAJ2t2QVwbmTdB3ka6OzR-hdGF9OG5QXKD",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJWyBBSNQJxkcRg0yZycbgw-k",
+         "plus_code" : 
+         {
+            "compound_code" : "CV2V+VP Amsterdam, Netherlands",
+            "global_code" : "9F46CV2V+VP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJWyBBSNQJxkcRg0yZycbgw-k",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2581
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plantage Kerklaan 38-40, 1018 CZ Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.36697350000001,
+               "lng" : 4.9128242
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36838297989272,
+                  "lng" : 4.913993879892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36568332010728,
+                  "lng" : 4.911294220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Micropia",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109168347267952347426\"\u003eAriel Rotem\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaKkuoIghLeMT1j0qTIZzAeBDagSAluzr54Y_NnOJ_GFdXoWsdBLotHHqXG8Sbog_YMbMO4u-SUtvkpOAktYCEFBDIv0rHAEpFR5mhPX_D6iyKfTGlKe8OgstKhNcPunxpKX8JUJrM0f3WyCl9jsPKsXcAUDlaXnATY3YniKXmp4-ix",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJRSZwbKIJxkcRbNxQroLl6YU",
+         "plus_code" : 
+         {
+            "compound_code" : "9W87+Q4 Amsterdam, Netherlands",
+            "global_code" : "9F469W87+Q4"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJRSZwbKIJxkcRbNxQroLl6YU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4984
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plantage Kerklaan 61, 1018 CX Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.367825,
+               "lng" : 4.9128184
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36918767989272,
+                  "lng" : 4.914237029892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36648802010728,
+                  "lng" : 4.911537370107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Verzetsmuseum Amsterdam - Museum of WWII Resistance",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115411595316557701562\"\u003eTomasz Wieruszewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJabGPA1RoMd-pVnGBOa9Pzt7zp_c-rlMzUUQ5FKlpzaaI3XrheorpKNgVaoTVUUAmcCziAwzu70gdY6VyuSw3luW_W1NlS4Cz1DwdBokxJbRuz9J-2nMUpJI_gfRULRxeqEecGlQU9sYFDU8wC2BhfHR1A77xm1UYIUe0luSYeetdRC",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJuzgcH4IJxkcR8-_OmJ3aHg0",
+         "plus_code" : 
+         {
+            "compound_code" : "9W97+44 Amsterdam, Netherlands",
+            "global_code" : "9F469W97+44"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJuzgcH4IJxkcR8-_OmJ3aHg0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2392
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Herengracht 605, 1017 CE Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.36562079999999,
+               "lng" : 4.8989993
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36695972989273,
+                  "lng" : 4.900359379892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36426007010728,
+                  "lng" : 4.897659720107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Willet-Holthuysen Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3120,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113449700350089367966\"\u003eEdgardo Morgan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYB2W272E63dXID3xF7Hx45a5nceT_-qbvQW22DQBzRi7rEb1Gtv5o804Mha2Qab0eQ3rom9fJFx4T_LC0Jx8VJPsygCpUNa_r7XzQ5r_qFvk3ZlLs33vspzYts92fZv1BLLGeuY5bujwp8xfp9Rgm2GLE7MRamDATyBVPQX0Q6nzKn",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ_XjAk5UJxkcRJkn-HjEyJjg",
+         "plus_code" : 
+         {
+            "compound_code" : "9V8X+7H Amsterdam, Netherlands",
+            "global_code" : "9F469V8X+7H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ_XjAk5UJxkcRJkn-HjEyJjg",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1144
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Herengracht 386, 1016 CJ Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3678987,
+               "lng" : 4.886253
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.36924882989272,
+                  "lng" : 4.887701129892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.36654917010728,
+                  "lng" : 4.885001470107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of the Canals",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2829,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117559486707723225815\"\u003eavanpeer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYSPLXtd3KaTUTrboMnru4RVpeZHUvVIdYOv50-xthDqs1Y4VJrdcpdhZS4l10D9UTQ5rSVe_-VAaMsqxoM-yCXuYQX43AoVKFuA6ZaKkeVUT6p00325c_3nt1lyukxsGP51umy8XJZZH5iHTA48m4_rIF97GimwNiWBVOZ9LlSiDO0",
+               "width" : 3736
+            }
+         ],
+         "place_id" : "ChIJP5_dbMIJxkcRbzPxerih1N0",
+         "plus_code" : 
+         {
+            "compound_code" : "9V9P+5G Amsterdam, Netherlands",
+            "global_code" : "9F469V9P+5G"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJP5_dbMIJxkcRbzPxerih1N0",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1910
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dam 20, 1012 NP Amsterdam, Netherlands",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 52.3725915,
+               "lng" : 4.8925782
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 52.37401157989272,
+                  "lng" : 4.893931479892721
+               },
+               "southwest" : 
+               {
+                  "lat" : 52.37131192010728,
+                  "lng" : 4.891231820107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Madame Tussauds Amsterdam",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110525745408819235223\"\u003eЕвгения Романчук\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbwPQ6IlZs4poESk5_0bocoGFHTtHq1BRoXNZORZoVQgOH5CQrottUszy96QbFjdOSjewND8MbiyZLDPGdtMTMRVk5oG4uToTQ6327c4gT7xNucnJFQescb3_U5-HbNvlUoHbp8eKBXg0i_Tm7kCGKNCCO58UEGDTuxb6Ghh4g_-zLW",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ19XKKccJxkcRawZK9nzTJz8",
+         "plus_code" : 
+         {
+            "compound_code" : "9VFV+22 Amsterdam, Netherlands",
+            "global_code" : "9F469VFV+22"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ19XKKccJxkcRawZK9nzTJz8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 25314
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1233 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZu-HyQBdgV0hlcEjqjJiGH1Jh1QiYmPcUabcEkATPaawMHYI-pf-2MwfLK-j-8_SCp3wH7ja0o2xUUCo4FwsbW0JlDB5VEuBvx6ySm1zxqhFOhvJZArWOmsYEHXiwI0WvQXt9ZRvJbO4XpaHh85C0kHQIJrOrLgijum5XZvNIeCwxcjJGWjPfm4HVMADZMzaXd8uk_dB4DgEleUg0ufb7RntAaxSkN5SRKR2JTCTZotjy2nmGR35MrInBtNzhU20G1p-AKDtcaq6vbttA0bNouqfOg94rOfG9wFOZs71DxhqlifXZPdaKD1RCUSo6UmGg1F58ftHiBNzfqjS9omdX0NYTCJXDFS7-_2QZN_oeU80q9dlhwgAd-bzu-GG-kDtOnv_gVojWiqGRoF26Lr4P9bQ",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Róg ulicy Ciemnej i, Jakuba, 31-057 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0516146,
+               "lng" : 19.9472585
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05294562989272,
+                  "lng" : 19.94846742989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.05024597010728,
+                  "lng" : 19.94576777010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Plac Izaaka",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101926902590832905311\"\u003eMarlena Lindberg\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaeKG6Dw12bwoSsdp8OzrYHa9LdE45asjO4_JFC6jqQerye6urTE4ORfuyU8k96LqSyd-OwjcYpDjkocO43vp-FfoiZEFUn5qhPOSOzTeiOJXXpF6u7XxmwSlW2ctlvPf6J3SM_YtXPMtRPpqSoeDNNwKl51VqDSjKbm72JcTaVzqr_",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJgQWP1UFbFkcRitQlzjCuazg",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2W+JW Kraków, Poland",
+            "global_code" : "9F2X3W2W+JW"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJgQWP1UFbFkcRitQlzjCuazg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 347
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Berka Joselewicza 18, 31-051 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0546359,
+               "lng" : 19.9465638
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05598647989273,
+                  "lng" : 19.94791747989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.05328682010728,
+                  "lng" : 19.94521782010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Suwayda streetfood",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112097289173673581379\"\u003eqXTooTXp\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZwXj10atgChzgfC96HtmGDsB6t9S96qi5zb9Kq_rf7oSZ2HTKJJ1VTXCwvLg6eu-RR4u11C7jEQrDB7f47Gsq5wHdDmWzwWUCQkrYisxJaEAR11774sie7FNfmVvNLnLop-mIr3lE6dtvbb5x2vU5wrXJUYSxvpPJLIJkk0JXjS_XG",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJfUHPv3hbFkcRVug_AYvuSro",
+         "plus_code" : 
+         {
+            "compound_code" : "3W3W+VH Kraków, Poland",
+            "global_code" : "9F2X3W3W+VH"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJfUHPv3hbFkcRVug_AYvuSro",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 385
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Na Przejściu, 31-035 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0518764,
+               "lng" : 19.9491551
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05323857989273,
+                  "lng" : 19.95050207989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.05053892010728,
+                  "lng" : 19.94780242010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kazimierz Food Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117525335435836419835\"\u003edioszegisandor\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ0GLoWCs0pvLXWZ-Nrt3BBFWj1TKxzzRXPnmV7BWUSVykadbRcV3nx6Q4C1Hn14UIMktgibcenBRNjDDP1jB1LqXhCWkpUvw3EgjOp-O3zV4VWABjNIaqMYgj7ZK2R7966giRi451OnoLGp-EEwNRGVyS4YIJHUeA6rKOReMjmiXZP",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJZXojkfhbFkcRgODWefyqk2I",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2X+QM Kraków, Poland",
+            "global_code" : "9F2X3W2X+QM"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJZXojkfhbFkcRgODWefyqk2I",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 87
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pawia 30, 31-154 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0690189,
+               "lng" : 19.9449684
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.07037282989273,
+                  "lng" : 19.94640252989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.06767317010728,
+                  "lng" : 19.94370287010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kraków Street Food Market",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1296,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117748725934228081301\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYKNi668ByRgS5ukq-oqLDz-ZAnB_ii_93mPYvoMTkn1BvY_e9Xh9b-ARcIeWq_esG8nL3vSvXrJlBtv_nZ0tpznezWxalx4WdCVYTguGsXlvum-ueOqcu0Zn-4s5dSVwPF8iYqJuVkb0AQ3adaBNFcFSfT6DZURhiUGFxvv9qu_CPf",
+               "width" : 1936
+            }
+         ],
+         "place_id" : "ChIJRdNXOhtbFkcRPmz09pI2OLs",
+         "plus_code" : 
+         {
+            "compound_code" : "3W9V+JX Kraków, Poland",
+            "global_code" : "9F2X3W9V+JX"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJRdNXOhtbFkcRPmz09pI2OLs",
+         "types" : 
+         [
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 215
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Krupnicza 24, 31-123 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0632984,
+               "lng" : 19.928732
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.06473902989272,
+                  "lng" : 19.93007762989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.06203937010727,
+                  "lng" : 19.92737797010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "MURAL - Street Food Park",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 788,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107045296448955830246\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYg3hu_2_S8d1AdTWWdHqzYvnU4Mygh-2DHVYKnW2-em8zSFYbbbQ1JyXYeIbQqGtyD_gv4F7-XZeyosUQ3NF5XYQuStNcT0694Qjic3ObUk3x6gXS58jS39AL-vOmiT7PZrPk3hz9NlribMRp_9nXj0JZmS61C0qzCK1gO6waFZeOV",
+               "width" : 940
+            }
+         ],
+         "place_id" : "ChIJnfrNGUJbFkcRxjfThD1zApw",
+         "plus_code" : 
+         {
+            "compound_code" : "3W7H+8F Kraków, Poland",
+            "global_code" : "9F2X3W7H+8F"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJnfrNGUJbFkcRxjfThD1zApw",
+         "types" : 
+         [
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 513
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Zawiła 65a, 30-390 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0070898,
+               "lng" : 19.8968722
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.00839717989273,
+                  "lng" : 19.89818727989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.00569752010728,
+                  "lng" : 19.89548762010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Food u Zalecha",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 665,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102386927264058100142\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaHoY77lltBPc9U22QcPvlnCHUhqqjhMXVB-6c47txEmDM8GiPGwQjccvhNZhNrqw9mFfsIbShU-UIoCUZXqiRu1Oo_GEKaC477E9OIo_YXCpO8PnGkgNeGhTr6H-QzScrK-WkruIum7U-Va5jzO1fayPbAA5UdtoLrKB0UtiC4trQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ7zPCbwJdFkcRdLXEaDqkcEE",
+         "plus_code" : 
+         {
+            "compound_code" : "2V4W+RP Kraków, Poland",
+            "global_code" : "9F2X2V4W+RP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ7zPCbwJdFkcRdLXEaDqkcEE",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 182
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Św. Wawrzyńca 16, 31-060 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0502615,
+               "lng" : 19.948137
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05155367989272,
+                  "lng" : 19.94951602989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.04885402010728,
+                  "lng" : 19.94681637010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Judah Food Market",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4016,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112445836640383940008\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYMbEGMDVTygiVGSpHJRUyb4oJsnt2xPXY-Eyg6DUV94QehmqfUQR1wUJk448XXsHqykDovv3bw-gmeFn6PUvpEgb19S1yuXQZacUg5u454YbFcA5ojk3mOAOpmRvJFnDC_LujzL7wmmQO0xdfBQtKz5J2NO4yXALwilAaM4aAXepEL",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJS_LolEFbFkcRNLKHWZsdNVI",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2X+47 Kraków, Poland",
+            "global_code" : "9F2X3W2X+47"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJS_LolEFbFkcRNLKHWZsdNVI",
+         "types" : 
+         [
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1603
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Św. Wawrzyńca 14A, 33-332 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0502282,
+               "lng" : 19.9482536
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05157292989272,
+                  "lng" : 19.94960002989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.04887327010728,
+                  "lng" : 19.94690037010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Street Food Market",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4624,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102299537798781849896\"\u003eJulio Dobkovski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZUoAyQE6slUZlBJiIdU8ykugep69LGHuc1zKNbWvo_1TpzfcXNkFNEzy5u6BRwNy_XVwihHvG6UP6wU6TU8o_F646F3LXbkB4kcdNmfbEdmrXGz4GH6N--t0-JSWRPPbPAd9nwGmH5-mB785Huxm09LKbDL1P-sD91D4qrYgo421r5",
+               "width" : 3472
+            }
+         ],
+         "place_id" : "ChIJUUGqiCpbFkcRk4PxH8CFxKc",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2X+47 Kraków, Poland",
+            "global_code" : "9F2X3W2X+47"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJUUGqiCpbFkcRk4PxH8CFxKc",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Św. Wawrzyńca 16, 31-060 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0502833,
+               "lng" : 19.9485179
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05161667989272,
+                  "lng" : 19.94987432989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.04891702010728,
+                  "lng" : 19.94717467010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ZapieTrück",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100520419929009885177\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZn9uW2_ebp3F4YFFgAGRqAO5ahgIfKNaiyEpjKzG_fDIUXMhTpwjtIFIU03DpwTqtYzjR-2yVX4slMZRG-VzPoo_odUoxwJeudPDOLgKi9xn9iCLs-ZVhkm1FGz_7t94CxYpF5Wzj9-VXD93WYpwU87eF19xSoQ140AGup40iWHlFu",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJtYhBtx5bFkcR-JTVVrMiRo4",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2X+4C Kraków, Poland",
+            "global_code" : "9F2X3W2X+4C"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJtYhBtx5bFkcR-JTVVrMiRo4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 70
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ciemna 4, 31-053 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0515497,
+               "lng" : 19.9470542
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05298752989271,
+                  "lng" : 19.94835842989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.05028787010727,
+                  "lng" : 19.94565877010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Farsztat",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1512,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105492192110103255379\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaCdCSi3GpdmlxYh7zwLcO4qYhFdNwxYMFXLwVXHM1-V__xCRb9setU9HpP6cvDLk3wjKfxysbJPNTeEMuI1xn1fY-OlzYj1qccfJBdebGMEMLQSN_W8g-t2gMAhOQeJl8LOFeKmDqdp101-W8lzlSvId8GV9H0GXjZZYUfZDl4jnNj",
+               "width" : 2016
+            }
+         ],
+         "place_id" : "ChIJS5Y-2spdFkcRIFYmxE2l73Q",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2W+JR Kraków, Poland",
+            "global_code" : "9F2X3W2W+JR"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJS5Y-2spdFkcRIFYmxE2l73Q",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 66
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kupa 3, 33-332 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0522544,
+               "lng" : 19.9457452
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05361727989271,
+                  "lng" : 19.94715932989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.05091762010726,
+                  "lng" : 19.94445967010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Coca",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114297971579159673177\"\u003eMarcin Walczak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZxGIjAbIONX26Q2aKIXaF6cj4gQgu2qKo7XrOfxR9j5-0LrPCBYUjoWukGkniQXagjlCbuwo5i5zWuxZysXbbDUbE-GUXT1pCfQQQoJLHFk5MvW_OlusRR76bvGy5Id7Yu9NRr9EMSMZmjpC_kCkNvhNy00gk9pzv8b6XYDaJyrsv2",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJP5kdwvxbFkcRDg2u6ukm7oM",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2W+W7 Kraków, Poland",
+            "global_code" : "9F2X3W2W+W7"
+         },
+         "price_level" : 1,
+         "rating" : 4.8,
+         "reference" : "ChIJP5kdwvxbFkcRDg2u6ukm7oM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 681
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pawia 22, 31-154 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.06768779999999,
+               "lng" : 19.9449126
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.06903427989272,
+                  "lng" : 19.94639107989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.06633462010727,
+                  "lng" : 19.94369142010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kebab Shoarma Street",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111614973047074728713\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJboIYkwb61resYuy1oxfjqws-g4FYb14tppMe7DSXD8YN8JjLg3dJbY34tTTPXsmC5vOuNGO9hkvcqfl66JHBw3GonhOBKUnIcMZx-EFrz9rCIALcVqqOfb9tjr3E6rXEbGBgu9lK3-GNQCugBI-Ioe7YvZcJEvRl0R_JL_WBO4EuYB",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJaTQOeBJdFkcRDK0HvZlNMNs",
+         "plus_code" : 
+         {
+            "compound_code" : "3W9V+3X Kraków, Poland",
+            "global_code" : "9F2X3W9V+3X"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJaTQOeBJdFkcRDK0HvZlNMNs",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 433
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Starowiślna 16, 31-032 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0575863,
+               "lng" : 19.9444197
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05889957989272,
+                  "lng" : 19.94568372989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.05619992010728,
+                  "lng" : 19.94298407010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Masala Rolls ( Indian Street Food )",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101642680621002126489\"\u003eJasper Hunt\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ6IgXJJgBfq4eUGCR--VHsB1Mp5Z8Kq_pDjkIInHd5aYaq-LuznVpzis2JXwFavodc1vBfdIwwXa-b25WfeTqVlVPuKWaH2YrQUspVYCVA8TyG8mq-G5Ra6S4wXuNVP4K0SPPHyLwUgyIJZT8wvlpM9kMP5jgvjpn2vCdhaw1SNbHt",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ3YWCDdNbFkcR_rB80xXctz4",
+         "plus_code" : 
+         {
+            "compound_code" : "3W5V+2Q Kraków, Poland",
+            "global_code" : "9F2X3W5V+2Q"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ3YWCDdNbFkcR_rB80xXctz4",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 315
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Beera Meiselsa 9/A, 31-063 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0509116,
+               "lng" : 19.943142
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05235092989271,
+                  "lng" : 19.94453927989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.04965127010727,
+                  "lng" : 19.94183962010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "BurgerStreet",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109011164328884806965\"\u003esharvari shinde\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJashMqyN7bkwvAoe1iPE9PWJnZNIYgyLy7AppnN166zkzDIpesE-spdvUv37rcEmpu-zqJpjq0nk1WSD5X-K6ACFjzhaKhRxqGHNYB5oThcnuybaQSMn8ArDn0z6xG_dHdE0_fTqEJc4dMhQ6VlmI4tkglhGwoa35Im0V8lpYLdl-e3",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJhV2RkjVbFkcR2geWmN1y1nM",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2V+97 Kraków, Poland",
+            "global_code" : "9F2X3W2V+97"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJhV2RkjVbFkcR2geWmN1y1nM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 202
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kozia 30, 30-732 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0329402,
+               "lng" : 19.9936597
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.03434122989272,
+                  "lng" : 19.99518217989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.03164157010728,
+                  "lng" : 19.99248252010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Black Cow Street Food",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3968,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111264820587925438608\"\u003eDomi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb9N9V-f9cmDw9P3JDW16lo9v_PCLWtA8cDwOh98_g12a-iF9I11j3d81m9gUaO1WiLv5015U5_DrskwUSWCpSRttS7UCnEYkcg2n3CIuHcCb_kh_c_Ww7dvl_zo6GVzkWYH2cW511JyTwF5kYie_oWmA0aDh-EqvSxAdo7TpUjw3WU",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJzwceAKNEFkcROZC3B65BGpg",
+         "plus_code" : 
+         {
+            "compound_code" : "2XMV+5F Kraków, Poland",
+            "global_code" : "9F2X2XMV+5F"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJzwceAKNEFkcROZC3B65BGpg",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 467
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Na Przejściu 22, 31-052 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0517949,
+               "lng" : 19.9489381
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05319617989273,
+                  "lng" : 19.95027597989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.05049652010728,
+                  "lng" : 19.94757632010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ur'Tacos Kraków",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 810,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111497695928005346327\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYCAWYZsVft4K5kxPsgN4A9iGS82KgVexcOPot4Tw27xFXzgbWkPlpB1o7emoVafNX06mo2txSg0gDLjq_EeITzMq4aJvF8npgyoxQfaDp3nsXtSNjFhJy2A9A-gX5GVR8_pmrflIphK76ygomP9RiTL4l0PEKrJIITV2_doTgxgR7u",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ2V_3YbRbFkcROWty19PhXHM",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2X+PH Kraków, Poland",
+            "global_code" : "9F2X3W2X+PH"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ2V_3YbRbFkcROWty19PhXHM",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 267
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grodzka 43, 31-001 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0577755,
+               "lng" : 19.9378226
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05931037989272,
+                  "lng" : 19.93930287989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.05661072010727,
+                  "lng" : 19.93660322010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Hot Mamita Pizza Kraków Stare Miasto ⭐️⭐️⭐️⭐️ Pizzeria Streetfood By The Slice",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2296,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106763017690352060175\"\u003eMarek Baranowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbFldDSwLh3iYmo0QIJnjDw6smCDoFKtJ_46OAr084FU5Ankon9CWFzbY2Rqe8e5t4nO7PZAyaFT_P2_oSFU3W93vsi0NgenWyltb-RjDJDiJJuNJoj56aFcTAZeWA0Bc5cc1OG17fE09rK2e0lLSKOukEW_CI2dS8Q1UT73go6SqXx",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJ0UtfCDNbFkcRiyhhjH-JCDk",
+         "plus_code" : 
+         {
+            "compound_code" : "3W5Q+44 Kraków, Poland",
+            "global_code" : "9F2X3W5Q+44"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ0UtfCDNbFkcRiyhhjH-JCDk",
+         "types" : 
+         [
+            "meal_takeaway",
+            "bar",
+            "night_club",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 327
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Św. Wawrzyńca 16, 31-060 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.0503875,
+               "lng" : 19.9480046
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05161022989272,
+                  "lng" : 19.94941877989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.04891057010727,
+                  "lng" : 19.94671912010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mr Kumpir",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115856819229986332358\"\u003eAlicja Różańska\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJav_UVMLl1gryLFstDWrQQbAwXNNXURCmXxZJiKBHCHSfMl3Z_aiGvcZoClpjmHwJonshfSkoRXi8S6-vXcsGWHxcXMaxN6l2QB3aB1EhbYjGAatm6tOo4HXoUjiM0rAtmePU85keA89lEF7t7FCA5ZbG66B0Dfp7NrPZT-Y8Hl41NK",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJVWUvlUFbFkcRKMgwMRU1q_U",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2X+56 Kraków, Poland",
+            "global_code" : "9F2X3W2X+56"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJVWUvlUFbFkcRKMgwMRU1q_U",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 314
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "Kupa 6, 31-057 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.052145,
+               "lng" : 19.946066
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.05348327989272,
+                  "lng" : 19.94735877989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.05078362010727,
+                  "lng" : 19.94465912010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Kiosk Streat Slow Food",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 1840,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108650721859861594498\"\u003eAdam Bień\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZY_yZlj5reuMxPQ3ZgX26G5uSxQ70GApUJbNa27bZioWkaURieC7Hxc1eNP5rvtPh5HoAFjU8rIJkbtnNU8IjLV7Pm-M26IlFTIzUwtcJmNs2eIYPTA8l8FuJubzAXaX3Bh0Y4_ngtki-eto3jwIuNich2txRwEd1UnzOkr5zAcoQb",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJzbwzvXNbFkcRAnb6KX6xUoI",
+         "plus_code" : 
+         {
+            "compound_code" : "3W2W+VC Kraków, Poland",
+            "global_code" : "9F2X3W2W+VC"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJzbwzvXNbFkcRAnb6KX6xUoI",
+         "types" : 
+         [
+            "restaurant",
+            "park",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1005
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pawia 30, 31-154 Kraków, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 50.06907169999999,
+               "lng" : 19.9447963
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 50.07041587989272,
+                  "lng" : 19.94616972989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 50.06771622010728,
+                  "lng" : 19.94347007010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Asian Bowl",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 544,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105551896809999057257\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJahK_j2xPZ1mJfeI4fJ5VTZamxd2whaJbPzf3_clZWFAZaB9Aru74LNOMbB2SftXm9b0VjrQUAw8mtnxhE69G8wuTDiNEyZ8CXQrJvRsqCqYHCbEt3oG2vIHLsByh74j9_mj8EBXjd6IUkqfllmXHTeZCSx2gJ2hsKwqbwUqBHfALha",
+               "width" : 1010
+            }
+         ],
+         "place_id" : "ChIJX982l-BbFkcRdE2sZCMI60c",
+         "plus_code" : 
+         {
+            "compound_code" : "3W9V+JW Kraków, Poland",
+            "global_code" : "9F2X3W9V+JW"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJX982l-BbFkcRdE2sZCMI60c",
+         "types" : 
+         [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 67
+      }
+   ],
+   "status" : "OK"
+}

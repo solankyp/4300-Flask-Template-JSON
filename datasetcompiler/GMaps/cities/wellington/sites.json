@@ -1,0 +1,314 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "53 Waiapu Road, Karori, Wellington 6012, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -41.2908984,
+               "lng" : 174.7535089
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -41.28943432010728,
+                  "lng" : 174.7547225798927
+               },
+               "southwest" : 
+               {
+                  "lat" : -41.29213397989272,
+                  "lng" : 174.7520229201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Zealandia Te Māra a Tāne",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113796906834393803419\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbv3azdv75O7w3c8Pne2BnntBys6mwC10cbbACXPIjbpOI0rSfyB4DWklqJi95hW_3iuIwNaRgWddvC4_6PUWhEt4xjNnsowx_sbKjY4xnOYydAE7lbatyuXTg9nUxLzuUlAMCpRrq0zM-HtwL0fjP2rppWhdRuO071gELPd6wlIQvr",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJmfs6nEKwOG0REKydJGLvAA8",
+         "plus_code" : 
+         {
+            "compound_code" : "PQ53+JC Wellington, New Zealand",
+            "global_code" : "4VCPPQ53+JC"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJmfs6nEKwOG0REKydJGLvAA8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4936
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Weka Street, Miramar, Wellington 6022, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -41.3063939,
+               "lng" : 174.8242868
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -41.30504327010728,
+                  "lng" : 174.8257393298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -41.30774292989272,
+                  "lng" : 174.8230396701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Weta Cave",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112987350364907702083\"\u003eNeil McMahon\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYpDDxhSdzLTlhOmC371ZANSx8lBzBmj_geGduhazklFOPTYSd0qnRVuylulv6_dcyv0A7BdVs_tbOIKBEMxWh2qoKpTdLq5VExvtK4_6CB9PVXncnBEdWn7mvzy9bLtlZRdlBeOJl6QpYWbI-pFiavxPTuEGpL5yfUJxA0j7hHW4Mn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJuTBolXKvOG0RRyTJ00rgcXw",
+         "plus_code" : 
+         {
+            "compound_code" : "MRVF+CP Wellington, New Zealand",
+            "global_code" : "4VCPMRVF+CP"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJuTBolXKvOG0RRyTJ00rgcXw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "movie_theater",
+            "museum",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3458
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3 Jervois Quay, Wellington Central, Wellington 6011, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -41.2852794,
+               "lng" : 174.7780948
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -41.28386652010727,
+                  "lng" : 174.7795392298927
+               },
+               "southwest" : 
+               {
+                  "lat" : -41.28656617989272,
+                  "lng" : 174.7768395701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Wellington Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1367,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116251869162100988009\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYuj3mbcyS-zFgazBcDyGDcAg4Tqj6GbK1dcQ_crkch3T9v60gUPxsE8f8X4wRDJf-2QUBsK2u2RlkMzKa8_aSwZp9d9T5V1ADO-yugC6qcDGBsxmqGuzT-i0P2YgWAN9EzLNdmeNMZ6_vlFMX3Wq-Q4Y9UnOqAExucV6rcq0Ji-TSi",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJLyoZhNSvOG0R579NxQyM2YQ",
+         "plus_code" : 
+         {
+            "compound_code" : "PQ7H+V6 Wellington, New Zealand",
+            "global_code" : "4VCPPQ7H+V6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJLyoZhNSvOG0R579NxQyM2YQ",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2336
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "11676 Pierson Rd, Wellington, FL 33414, United States",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 26.6316884,
+               "lng" : -80.23246429999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 26.6391404,
+                  "lng" : -80.23103177010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 26.62920440000001,
+                  "lng" : -80.23373142989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Peaceful Waters Sanctuary",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103533953172331734175\"\u003eAndré Luz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZfipcJgpIl-TMlAjwYfnYE3s-FmMkPfPvL4U6s4J1__L5DXKvE649LVwiwtZDeLa4XTHeU9dA2Ryak4IxocIe7eB3T7NghGKyZxNxLYB2GrQ0R-SJojTlRmkwnV41a_5AGgMnI9zAmAvpFBeUHdExrrtdUEwCPE-FJUcp-UT7rnxBc",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ_-KaA3Yl2YgReYYDYc9tqzM",
+         "plus_code" : 
+         {
+            "compound_code" : "JQJ9+M2 Wellington, Florida",
+            "global_code" : "76RXJQJ9+M2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ_-KaA3Yl2YgReYYDYc9tqzM",
+         "types" : 
+         [
+            "park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 371
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "101 Glenmore Street, Kelburn, Wellington 6012, New Zealand",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : -41.28293619999999,
+               "lng" : 174.7666016
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : -41.2777787,
+                  "lng" : 174.77440325
+               },
+               "southwest" : 
+               {
+                  "lat" : -41.2878663,
+                  "lng" : 174.75708385
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Wellington Botanic Garden",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111364996409746657596\"\u003eKoko Kaka\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZFb53Dw8LNeYXQfxK8fOVKRwfaQlL9PaJVlAwlIAj4p0Pd2Jwq50bQF1FC8dBpsYDNMQR6ZrpeJNCBMOAx1ccx078emvSyXP3HqxZ-72gOOc1b3xfDd7SSL5Rf4lTRVbSBDLqzF25FjHyIYDKujH-xVFHN4jgOlb84AyPwYX66rFQZ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPaSvMdOxOG0REKudJGLvAA8",
+         "plus_code" : 
+         {
+            "compound_code" : "PQ88+RJ Wellington, New Zealand",
+            "global_code" : "4VCPPQ88+RJ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJPaSvMdOxOG0REKudJGLvAA8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9220
+      }
+   ],
+   "status" : "OK"
+}

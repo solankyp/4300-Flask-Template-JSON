@@ -1,0 +1,1222 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJY-Zb6GMcy_-8bS3giSEr2254StaLaWsYd4NM26KzOWUudzB9qQzELqLLzXd-Ezo0OvNlnLkFxRp8iR4D1UOOPcv3jcE5OrhjSwUMh2gJUITZPdoBvDL6MQAIFOTGydnDJHHuf6ogFCaMT1LUuaaRZaZQYAnF1kQb5kFhQYVSIrCALDFgjXsA1Ozele0rdwZl6dYhq2iK4LJSpzWsycR3iUlCNSgZE13xnoZrL_i4J-lhzd_i6J2ItTQrwJXNBpC9Vx6blWLswtVprxQpGRwjCPUNLHk2nCP8lTZPh2bIpHwJzccX1Bs1n1oBDu9-ioQpUrBOkvdhnoKZNrupAIj04zXFpboujX0zCwOze5fcYYa_xY-II1csLDBhDWpbM0Q8DvkIXgjEfrLyu6Bh18pA",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "plac Powstańców Warszawy 5, 50-153 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1109051,
+               "lng" : 17.0476483
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11215467989273,
+                  "lng" : 17.04936242989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10945502010728,
+                  "lng" : 17.04666277010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Museum in Wrocław",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107651516360371682322\"\u003eMarcin Cz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYDCxaeTvRzKvUG046S-WLkgT6ShmWglSx23_OPaxhJ0MHMvhkZpYYsrBmEtWikHjYsgjeBkWvZoIUTHJK8AwO_GYxcMCgYpQIltP7IEuqFzxu8aNzmliThCtXBEGQb95XiejFSeT5yzA0T3PQWtYoRRrpqDWj49CONq_iqHH402Kpr",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJETCeNdbpD0cRb5LArfNTaCY",
+         "plus_code" : 
+         {
+            "compound_code" : "426X+93 Wrocław, Poland",
+            "global_code" : "9F3V426X+93"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJETCeNdbpD0cRb5LArfNTaCY",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7476
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Na Grobli 17, 50-421 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1042536,
+               "lng" : 17.0566485
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.10566487989272,
+                  "lng" : 17.0590971
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10296522010728,
+                  "lng" : 17.0554479
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Hydropolis",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3366,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100388331770975902890\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYOVnVcBwTE62XSfQSfTbHSpcu7QDnAW9oa_P8kAjujdvMkZYNh1HF4yCAeAT5rKtP26dLrZgZW9hDvr5jmS2fDfKTomk48v6oAhrxmeSt4Gql5P5aomBaYL29R8y-a5lnPul0V9tk45Jg2cWD4W5FJ0LAHh2XOYG_4zmk3wXjWu1PN",
+               "width" : 5984
+            }
+         ],
+         "place_id" : "ChIJ00svx4DCD0cRWRQck-i2I18",
+         "plus_code" : 
+         {
+            "compound_code" : "4334+PM Wrocław, Poland",
+            "global_code" : "9F3V4334+PM"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ00svx4DCD0cRWRQck-i2I18",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7491
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jana Ewangelisty Purkyniego 11, 50-155 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1103046,
+               "lng" : 17.0449743
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11171082989272,
+                  "lng" : 17.04610282989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10901117010727,
+                  "lng" : 17.04340317010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Panorama of the Battle of Racławice",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103670664877640490927\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbQh1rALuLBMoubcwfX73DxxzYUUUDGMgwpM3By0e7z4pj2OwcBsjN4WUPCN-hhUQb_lgAXlRoIVYN39WSYiQkJVwy8BW2ppl5Z4mVgVm4k8yiOYHj124o3dO9IY55SagxDy1kHbdvNdOSP2qVs2_K1znKqV5A-wUF4-SxoOqxuXPsN",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJt3QO4tfpD0cRGn3pBQc7SDc",
+         "plus_code" : 
+         {
+            "compound_code" : "426V+4X Wrocław, Poland",
+            "global_code" : "9F3V426V+4X"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJt3QO4tfpD0cRGn3pBQc7SDc",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 20486
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bernardyńska 5, 50-156 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1095231,
+               "lng" : 17.0421574
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11091722989271,
+                  "lng" : 17.04329402989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10821757010727,
+                  "lng" : 17.04059437010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Architecture",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 12240,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101522610003673780376\"\u003eAlexandr T\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZEJEV9ipUk7eHhTUrd7V8K5vWl7aOM7nbvxieyGvLnlMhQ9XEsrpikq7CaEuKZ6HoqdfUO7xAuzqpmK82UnvfXSQKLovHbhXc9Sy2JbKWYbSJCFJPAlQLA-83StK9Tf9T4PIqS7dZrd2p3SG_E9qKKUFKcopMKx2K9eX6oJ3Qlo1hx",
+               "width" : 16320
+            }
+         ],
+         "place_id" : "ChIJazJy8XfCD0cRvCTZFwTfdO4",
+         "plus_code" : 
+         {
+            "compound_code" : "425R+RV Wrocław, Poland",
+            "global_code" : "9F3V425R+RV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJazJy8XfCD0cRvCTZFwTfdO4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1256
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "plac Uniwersytecki 1, 50-001 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1137814,
+               "lng" : 17.0335044
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11487127989272,
+                  "lng" : 17.03487992989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.11217162010728,
+                  "lng" : 17.03218027010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of the University of Wrocław",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 12240,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101522610003673780376\"\u003eAlexandr T\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb0GEPkEU7_NLs8zT9HkGZHfmi8R4rqEnQ05pBs_GPZde3SbKXcpT0-rc77hK9A7Lrx1OsKuEXR1c5Q4gv8k1giNa3BKi7WTaJldQnqbgZDEm97XNHLNrMkL7SbEzG_HyAK0L06EjI20YtiD7Ft5QE-r_gUlT5VkwLBqJMn4jTekjKR",
+               "width" : 16320
+            }
+         ],
+         "place_id" : "ChIJfzgACN_pD0cRqUrfM13itRs",
+         "plus_code" : 
+         {
+            "compound_code" : "427M+GC Wrocław, Poland",
+            "global_code" : "9F3V427M+GC"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJfzgACN_pD0cRqUrfM13itRs",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 80
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rynek 6, 50-106 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1103688,
+               "lng" : 17.0302821
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11171437989272,
+                  "lng" : 17.03125432989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10901472010728,
+                  "lng" : 17.02855467010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Pan Tadeusz",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 641,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110855560776708878531\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY6Xi9yJeWpbLWU4Rtsgx-jISJl9auQdsEJklOGbvqPWkFFQ_nMIcCJxTuUx7AX_Swil_HLe1g8ndCDLk4wHcW-7ZFdHLlqDZ_56ldiIgeRHDvXwj6fWmd2Yd2ZOtjGWjyAbdT918fYGrWxBC_WAsnmkQ9sF7BfIF3SLY_ALWvcTabu",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJEXEeDnXCD0cRQ7tgE319oF4",
+         "plus_code" : 
+         {
+            "compound_code" : "426J+44 Wrocław, Poland",
+            "global_code" : "9F3V426J+44"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJEXEeDnXCD0cRQ7tgE319oF4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1394
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sukiennice 14/15, 50-107 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.10966270000001,
+               "lng" : 17.0322294
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11108617989272,
+                  "lng" : 17.03402217989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10838652010728,
+                  "lng" : 17.03132252010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "City Museum of Wroclaw",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1371,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115513136881615780642\"\u003edarkszu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYZWa88Jeq_PE2C0qUqZcNidk1CYYGqvFQbrfhK4DQRKLiGMqhwWvaKonF7F7cGxNiBe31l--JQfJO1WG10zpo9Nl7hInMCx7FIIjCZ-zWc4WuS3HQR4glg1k-uBAmQrwGYwpg3m56VYHocqfC0AMVUyrzhICLKhP45etEKtBzEuoqn",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJZbdqsXXCD0cRkptNxqnwak4",
+         "plus_code" : 
+         {
+            "compound_code" : "425J+VV Wrocław, Poland",
+            "global_code" : "9F3V425J+VV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJZbdqsXXCD0cRkptNxqnwak4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 255
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Wystawowa 1, 51-618 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1082478,
+               "lng" : 17.0758624
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.10959762989272,
+                  "lng" : 17.07721222989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10689797010728,
+                  "lng" : 17.07451257010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Four Domes Pavilion",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 973,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110101634083675891607\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbBoeYNDpKWEgL2czVVe4Im5veUbocc_oKtnyx0HgSPvtVOm8jZMNNZR2p07RZDI638pvZL5MOLQ5dZ6lX6TYyJaNe1JP-E-IAXoj-McgoGZKR0J-85ebYaQdjr4rkDD73Jda__-TUc-zpJ1L5zk194CwfIDwdZmje0FisHVZqtuJHQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJQQGqTCboD0cRgbxPHH1OgSI",
+         "plus_code" : 
+         {
+            "compound_code" : "435G+78 Wrocław, Poland",
+            "global_code" : "9F3V435G+78"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJQQGqTCboD0cRgbxPHH1OgSI",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2047
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "plac Orląt Lwowskich 20A, 53-605 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1081286,
+               "lng" : 17.0181216
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.10953532989272,
+                  "lng" : 17.01947572989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10683567010727,
+                  "lng" : 17.01677607010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Games and Computers of the Past",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104600674826299550042\"\u003eTomasz Machynia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY2vSeiMcMhTFTcIBtun0PdFIIwb0-JHLRjiCqN8g8DCftdVJxIdxoU-SfvTpoD30AbttHb0GZgBHeB0HUa6A5kQcOJeyLo8pl3qW-K5FSmZ8RLVn69_HaOQM8TNwfu0BpWbZD26kffSptEhvUtbHFPgC9bqDE_jM-xRfkjt_RZ7npf",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTa0DcAzCD0cRs2RImVV5g88",
+         "plus_code" : 
+         {
+            "compound_code" : "4259+76 Wrocław, Poland",
+            "global_code" : "9F3V4259+76"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJTa0DcAzCD0cRs2RImVV5g88",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2291
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Grabiszyńska 184, 53-235 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.09670970000001,
+               "lng" : 16.9913446
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.09833044999998,
+                  "lng" : 16.99310857989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.09526425000001,
+                  "lng" : 16.99040892010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Centrum Historii Zajezdnia",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1335,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113433534127842385785\"\u003eCentrum Historii Zajezdnia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYnXNPcaHO0UZGEZpenA4jxvJV16m-n8k2heZlEwRXezhqOtnRnl9WX9D-1R_TNolzAe9X0t6a45UmI0OP24CSQyrnPIHxRt4szzXk_7z0rUUzTRwJ6YsPWrNu4jH1AA0jhcWFvtsi8BmvW_dCOsSnr0fHLJojk_a-R22ubwZpreI65",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJq39b1SHCD0cRWrbo_l6e8mw",
+         "plus_code" : 
+         {
+            "compound_code" : "3XWR+MG Wrocław, Poland",
+            "global_code" : "9F3R3XWR+MG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJq39b1SHCD0cRWrbo_l6e8mw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3758
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Główna 12, 55-040 Ślęza, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.0341465,
+               "lng" : 16.9913695
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.03545322989273,
+                  "lng" : 16.99278742989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.03275357010728,
+                  "lng" : 16.99008777010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Topacz. Automobile Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113968274832983080637\"\u003eGrazyna Slazok\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYNRneoYiUlS6QizfiZj8Qpzct4DN8aL6fc3RbSiTxlhUEgPGdwB323vOHARQDp6Inf64HiGXMEclnAUvKdQeyVaIvW-ObSUWhNQBbavCb_waFbNLP69lY1VxLa-P7YZscZ72sFJ8IKF29NG8LQw3Qi-mMcT4cZ70VjJSW9GQm-iwn7",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJV5F80-jFD0cRhhZ2PsKTbZU",
+         "plus_code" : 
+         {
+            "compound_code" : "2XMR+MG Ślęza, Poland",
+            "global_code" : "9F3R2XMR+MG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJV5F80-jFD0cRhhZ2PsKTbZU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2615
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Staromłyńska 4, 50-266 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1153622,
+               "lng" : 17.0398433
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11667597989272,
+                  "lng" : 17.04122147989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.11397632010728,
+                  "lng" : 17.03852182010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Muzeum Iluzji Wrocław / Museum of illusions Wroclaw",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2304,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106074517831495070801\"\u003eСергій Величко\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbg0T2se08-x2gSlJyPFn0zA7yVClXTnRwOIWLbsmHmRPmb7qcVJXRZa-Y5noIOJ7EOl9mZHcyKYTqNZ2OIgyvp_xLwlvxefpS76ESI5MlLPqqhHZe5P5q96lzkoi7hhIMzfImqvzYnEvuNawSEtb1HeShIkhjfJ5ZX6mmLih136e4Z",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJZ5NXwRDpD0cRh8-tO68-40Q",
+         "plus_code" : 
+         {
+            "compound_code" : "428Q+5W Wrocław, Poland",
+            "global_code" : "9F3V428Q+5W"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZ5NXwRDpD0cRh8-tO68-40Q",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2545
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kazimierza Wielkiego 35, 50-077 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.10747809999999,
+               "lng" : 17.0288952
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.10904837989272,
+                  "lng" : 17.03037647989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10634872010728,
+                  "lng" : 17.02767682010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "The City Museum of Wroclaw",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109890306724890284567\"\u003eNorbert Pewestorff\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ30MrEAEQsudcTrV9AqMyK4adGHPFnVAKRR3iQDO8COMVz3auv23u-TC4Wig4FMyFV7ZFZYeMytIdrNSd9lNVZjTrYRSOrWOx3-7Q1x2wtDUx_3EUymCwhAupzz52FPjjPL0T5jpgHBicIpJ1AZzbMzb-42fT6An00eJQ1plJIpCYV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQzaTiHTCD0cRcUGQCGGX4ZM",
+         "plus_code" : 
+         {
+            "compound_code" : "424H+XG Wrocław, Poland",
+            "global_code" : "9F3V424H+XG"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJQzaTiHTCD0cRcUGQCGGX4ZM",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2582
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plac Solny 4, 50-060 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1099349,
+               "lng" : 17.0293697
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11121962989273,
+                  "lng" : 17.03053172989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10851997010729,
+                  "lng" : 17.02783207010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Oppenheim",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 667,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108784714464425198462\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa1pag20zVwJf8DjIczOsM96uvKip6DPO2b7PT3urTSQ4CN1U4XdyJBRJ0UbXPYxO2-8pF3d0h56Ow5i66YINXTJLSftX144j_FSgmhtvzztkC8iVOJC2RN9iMJghwAKdrISIe3ABZgqECfITVkmT1QXUl0tPO5z371V82Xc8SZl07v",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJ51KTHnXCD0cRdNGc7AxxshY",
+         "plus_code" : 
+         {
+            "compound_code" : "425H+XP Wrocław, Poland",
+            "global_code" : "9F3V425H+XP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ51KTHnXCD0cRdNGc7AxxshY",
+         "types" : 
+         [
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 57
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Plac Solny 10a, 50-061 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.10933720000001,
+               "lng" : 17.0289908
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11069892989272,
+                  "lng" : 17.03027632989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10799927010728,
+                  "lng" : 17.02757667010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Moviegate",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117413002603849646503\"\u003eHubo Hubert\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb4SNgvZnZmTwzMxyKTBAeV0acgDh4uJf_vvngCSHFf3d4YHpKVHFphOZbrWHd4xMEG8wsRhCfPC4gSOq4MpaKBwM7o8QAFL2_lJkthW8Ui74zVipA6aotOGP3px8Q8UHu_I1-LHLxsHvsCP5m4ku8QvOdBCVzj0-6t7GmroQkGvs5u",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ-Wzx-nTCD0cR0WJVOgqVIJ8",
+         "plus_code" : 
+         {
+            "compound_code" : "425H+PH Wrocław, Poland",
+            "global_code" : "9F3V425H+PH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ-Wzx-nTCD0cR0WJVOgqVIJ8",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1999
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pawilon Czterech Kopuł,, Wystawowa 1, 51-618 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1080641,
+               "lng" : 17.0759641
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.10895867989272,
+                  "lng" : 17.07693032989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10625902010727,
+                  "lng" : 17.07423067010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Contemporary Art, National Museum in Wroclaw",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2592,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115225253897869586731\"\u003eLukasz N.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaO9CqIRxoEACbcCghBX51nzcRAnuzZgEc1j1MwcjtvbvkA0Bouh1QWBgDDpCEalb--IVKq_6sYMNTD7OePIZbKiIZJGsjP8ricHaYZds3p_Nw5hRJ-E5KWFp4sMPSyfzROcpZdT6FJoQeAB4TglK1_oUFn0DB_-GuIuX58g4a2TsPB",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJb9HKTCboD0cR0ph3BRXr6Lw",
+         "plus_code" : 
+         {
+            "compound_code" : "435G+69 Wrocław, Poland",
+            "global_code" : "9F3V435G+69"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJb9HKTCboD0cR0ph3BRXr6Lw",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 511
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kurzy Targ 4, 50-103 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1096504,
+               "lng" : 17.0338855
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11093592989272,
+                  "lng" : 17.03519267989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10823627010728,
+                  "lng" : 17.03249302010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Pharmacy Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114029377560449174596\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaahTn85bCDpz7ChvSQ2IXk0A6FNahaa84sDcFmsEwhM6UuypP0wGsl3H1AU45DdMOzCTSc6BlTmzPwiIzcWcnH_EFMv44ZwowNFNKKcDe5YYRnx65SK9dxw1g87pSeU0Zr2Pmd82hvDplDu6nnfNDbc5YeieHuSzVDOpwIZOMlx9eC",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ14Bd0HXCD0cR1t5ZHB2VTYI",
+         "plus_code" : 
+         {
+            "compound_code" : "425M+VH Wrocław, Poland",
+            "global_code" : "9F3V425M+VH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ14Bd0HXCD0cR1t5ZHB2VTYI",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 258
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Henryka Sienkiewicza 21, 50-335 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1168313,
+               "lng" : 17.0464664
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.11829627989272,
+                  "lng" : 17.04783962989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.11559662010728,
+                  "lng" : 17.04513997010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Natural History",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2736,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118139140535058414256\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZf9dx6chYctZE_f9gQC98o6hWypPiYV4WBufyDYFz6sgHk4aQw-RGhPqKJyFCVziCgPUTkdMQQvraaDUdxsCXQG4vzeINoYnPrO8RTTvnTnQ5KA9ANmx7lIhDWEWQ9vDxiMsOdLEF7u-Szjrs_4A8J2i7tAcK0nmnFiSsz1VkUgxVW",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ5TEactrpD0cR4RMHUUlmVVI",
+         "plus_code" : 
+         {
+            "compound_code" : "428W+PH Wrocław, Poland",
+            "global_code" : "9F3V428W+PH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ5TEactrpD0cR4RMHUUlmVVI",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1475
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Pełczyńska 33, 51-180 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.16404679999999,
+               "lng" : 17.0003254
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.16528092989272,
+                  "lng" : 17.00151067989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.16258127010727,
+                  "lng" : 16.99881102010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Mobile Military Museum",
+         "photos" : 
+         [
+            {
+               "height" : 2080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109733950142043610341\"\u003eMagdalena Hajduk\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZgO0Dn-mhAisUKyhAtx2Fk4TK7iAn4T4fMQC98KQjDaTqnaOvyZF17bEORY_AAnS6e-MoGIquw5a0Xgbgq469BNuyH3w7-EMRguY4FYf2tlFxqucz6_HjZ_bPJs0N6jk_fAf3Zqr1yNyVCCzmV2yfcqaV93Qvl_uuKbwTU2yN9QYy2",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJUyrgO8rrD0cRXr9lagabV0U",
+         "plus_code" : 
+         {
+            "compound_code" : "5272+J4 Wrocław, Poland",
+            "global_code" : "9F3V5272+J4"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJUyrgO8rrD0cRXr9lagabV0U",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 202
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "plac Wolności 7A, 50-071 Wrocław, Poland",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 51.1069341,
+               "lng" : 17.0279696
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 51.10802607989272,
+                  "lng" : 17.02988257989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 51.10532642010728,
+                  "lng" : 17.02718292010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Henryk Tomaszewski Museum of Theater",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1942,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103691434092846868106\"\u003eMartin Scislowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYZ7uAR7QZ8GbGHaSXRuzRs1GeRw8y-6a89wx4W4Mb0mVKs0bjkTS8J63CHvcKEYKS4BfnHpJb30u_wZMWyoD-vy3jfJ57uUjjTkLIal6YQFxa-sVFRTue7x1d23-8epEmjARGirEipcSqz_6lUTKHvmioOSJEMaK4uF4y_37QBnMQr",
+               "width" : 2915
+            }
+         ],
+         "place_id" : "ChIJkfR1Y3PCD0cRM5iqgNTGA0M",
+         "plus_code" : 
+         {
+            "compound_code" : "424H+Q5 Wrocław, Poland",
+            "global_code" : "9F3V424H+Q5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJkfR1Y3PCD0cRM5iqgNTGA0M",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 362
+      }
+   ],
+   "status" : "OK"
+}

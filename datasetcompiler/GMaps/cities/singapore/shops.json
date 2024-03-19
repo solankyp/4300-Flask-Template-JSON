@@ -1,0 +1,1167 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJZLYZ-SEk9xIwvHnR13QtNDv-48-fBz0rPB_BlP2XiI615Ud3g37spRkMiUSypPXpDWOyjdamlbufjv3OC6nMjvdo9QvaMtrx7pGrrYFd4sEFhYq1Vuti1gYxvqDB58RM7OHXwYymXWn1DIG_79JsJ-sr4eBmuVGr10-vdeb8lcSNFrtSV2MLXCK00ypho3ll99-gCNMhUeCw6DxdLzBQj29hHypMOwsg6X8zBmfoG8yZqN_ms_xjFtK1plWzD-WOhGyAKubfzLN03Q8I7_n4yJM2LnjOdXduibIG7FEVEJHXKjI4xHkYqfZtyx-sEW9VyffZm1OKkdYgHciG-XTOGLckXC3Nh2VhkobWm5m_7-ItofraqhJ91IluWAKwVTEM1YfYMGb4g1ZGlYFv-b9A",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "129 Syed Alwi Rd, Singapore 207693",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.310262,
+               "lng" : 103.8546614
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.311662229892722,
+                  "lng" : 103.8560579298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.308962570107278,
+                  "lng" : 103.8533582701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Singapore Tourist Shop-5 For $10",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 540,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102352775427227520405\"\u003eMNTS GROUP\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa8lijAZo_IMFqpfUDkifuHcixxfZrO7BlnZX08GE0vEc1NrBCLEEa3fto5uC6DlOba6Iw0a-wAbZmOEyrnJJg0b5Ok6i3lELqNg43Nt_tuqwOmM5EAiv9vkdPNEnd_yaaMJzIn-jjpoeqBIb2nYfXenQts3cSCMhXL_1-saVIEjfpi",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJbypkScYZ2jERbWVRDMrCxBA",
+         "plus_code" : 
+         {
+            "compound_code" : "8V63+3V Singapore",
+            "global_code" : "6PH58V63+3V"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJbypkScYZ2jERbWVRDMrCxBA",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3 Coleman St, Singapore 179804",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.2919205,
+               "lng" : 103.850109
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.293407329892722,
+                  "lng" : 103.8515577298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.290707670107278,
+                  "lng" : 103.8488580701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Peninsula Shopping Centre Singapore",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107686314887741070419\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZbdKj7zPIUKBjSMN7hssYMix-CawyC0IpEW9a8zaA5J5uNada4UrIO957XclqwFs6R0bkhIFo_Ik5UdpUey9HLG6f6Q18i7-tP4BSn76mFX6N-FbWtdpnhxOuHsgBuWaGBDaQ_GXuxi2rd_wIuCdtaMb795ZydJ2O55xovQKQgeez8",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJDQn9K6EZ2jERGfy2lsTL4gM",
+         "plus_code" : 
+         {
+            "compound_code" : "7VR2+Q2 Singapore",
+            "global_code" : "6PH57VR2+Q2"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJDQn9K6EZ2jERGfy2lsTL4gM",
+         "types" : 
+         [
+            "shopping_mall",
+            "department_store",
+            "shoe_store",
+            "electronics_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4501
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Serangoon Rd, #91, Singapore 217996",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3068808,
+               "lng" : 103.8519081
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.308193679892722,
+                  "lng" : 103.8533132298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.305494020107278,
+                  "lng" : 103.8506135701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Singapore Souvenirs N Gifts PTE LTD",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103843217260332600836\"\u003eHector Miñoza\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaFUdfOmL9dN5zBrIAUySHkvpDKp1A1g9yNlxhsD6jNMKmIbnGj9780tRHqGTvA5xwYb3isoNaD8fX47xpH7xL-bfDjugGo9kxPg7QEWSbs7FHTpneOYfY4_3yZ8zJ-YrU4310pmTWyjuMM-X0xawrVf8GqisNWH8wwgr-ruECgNkY_",
+               "width" : 4500
+            }
+         ],
+         "place_id" : "ChIJjWS9AioZ2jERqw3lrWkio9A",
+         "plus_code" : 
+         {
+            "compound_code" : "8V42+QQ Singapore",
+            "global_code" : "6PH58V42+QQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJjWS9AioZ2jERqw3lrWkio9A",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3 New Bugis St, Singapore 188867",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3006613,
+               "lng" : 103.8549626
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.302137579892722,
+                  "lng" : 103.8561470798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.299437920107278,
+                  "lng" : 103.8534474201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Bugis Street",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111254726948384881076\"\u003eBudum Way\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbvc2cCr8jpM2okTMNIntZB9zuhkQuL0g59s7nJYdG9kv_BaLfYl69UPsr6DkE-jej8rWvZWP3TFx4zDuce79bz7YNGi12Iru2u3kqChGlHVOUESX-yNeaG4VkNimKKrXTZnpZW5kMh0F9eIE04wT3XN0lijElRa_YmWOj3GVyYnhsr",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJj7TW9LoZ2jERQgNlXkKhASQ",
+         "plus_code" : 
+         {
+            "compound_code" : "8V23+7X Singapore",
+            "global_code" : "6PH58V23+7X"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJj7TW9LoZ2jERQgNlXkKhASQ",
+         "types" : 
+         [
+            "shopping_mall",
+            "beauty_salon",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 20120
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "201 Henderson Rd, Singapore 159545",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.2811261,
+               "lng" : 103.8187388
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.282390979892722,
+                  "lng" : 103.8199281798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.279691320107278,
+                  "lng" : 103.8172285201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "shop",
+         "place_id" : "ChIJt4UZN9Yb2jER3C4lCk7cg2E",
+         "plus_code" : 
+         {
+            "compound_code" : "7RJ9+FF Singapore",
+            "global_code" : "6PH57RJ9+FF"
+         },
+         "rating" : 0,
+         "reference" : "ChIJt4UZN9Yb2jER3C4lCk7cg2E",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "https://shopee.sg/everythingstreetwear, Singapore 228461",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3000603,
+               "lng" : 103.8475182
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.301352479892722,
+                  "lng" : 103.8488695298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.298652820107278,
+                  "lng" : 103.8461698701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "EverythingStreetwearSG@Shopee",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1856,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113561983174021782283\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ7OIgWYe1Y4z8MhsvpCBRCLKYgIYDv97DkOYRh8uCehGWcpnCFhweDMqb4QAL68VhNuJK-4pknERtgAZZD2FAl-aV3kjPHWbDFseexHHdn2_DBOKBoEwJJe-Ir-F7hJ2V_6mJ_bLub23Zm2JIsevQdPzyA-c5RUrIu1b-xaqoW2OjK",
+               "width" : 790
+            }
+         ],
+         "place_id" : "ChIJw_C8s3IZ2jERSN5SyaQGS3E",
+         "plus_code" : 
+         {
+            "compound_code" : "8R2X+22 Singapore",
+            "global_code" : "6PH58R2X+22"
+         },
+         "rating" : 0,
+         "reference" : "ChIJw_C8s3IZ2jERSN5SyaQGS3E",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lucky Plaza, Singapore 238863",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.30436,
+               "lng" : 103.833751
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.305639829892722,
+                  "lng" : 103.8350561298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.302940170107278,
+                  "lng" : 103.8323564701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Shop",
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101463544696976686930\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaqD8HElhKIGwcZ6_4Ef8Ho880f5K9vN3vUPA9yZeyI5w8xEp8rJb-80XrKD8C25akM39R7R9Cr4tNVUVP3eInsn03OWB8qn9ZCa4NGNC7-cbEjb1Jsx__FbUsdzcHsyTvyNTKMfJfLFzknzaXa_aIYtNpaNZPFIt35dgQezqIyUet7",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJHXFAbZIZ2jERQ6n7Dpd35UA",
+         "plus_code" : 
+         {
+            "compound_code" : "8R3M+PG Singapore",
+            "global_code" : "6PH58R3M+PG"
+         },
+         "rating" : 1.5,
+         "reference" : "ChIJHXFAbZIZ2jERQ6n7Dpd35UA",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "277 Orchard Road, Orchard Gateway #04-14, Singapore 238858",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3005375,
+               "lng" : 103.8390914
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.301891179892722,
+                  "lng" : 103.8403958298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.299191520107278,
+                  "lng" : 103.8376961701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sects Shop by DEPRESSION",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1350,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109536797142414590573\"\u003eDepression\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYd68yJ9pNr0ahFx_R7x796htv_8KwSLex9ryXW7cHhbbmg7ot59mjguuWyAsyf9RZbelSQj2Qyhv32N9yUzadB250Arf5dLt2s76eF93dOEKroXFqXB7glfOgAMj-y4-yXE4mlS5Z9H6NbUTkGaL8L1csETQwMUBSbPTa7_cukK6wr",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJjSLAppIZ2jERtfTLscw75GA",
+         "plus_code" : 
+         {
+            "compound_code" : "8R2Q+6J Singapore",
+            "global_code" : "6PH58R2Q+6J"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJjSLAppIZ2jERtfTLscw75GA",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8 Bayfront Ave, Singapore 018955",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.284128,
+               "lng" : 103.859461
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.285568779892722,
+                  "lng" : 103.8611028798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.282869120107278,
+                  "lng" : 103.8584032201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Shoppes at Marina Bay Sands",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101936367117565243325\"\u003eDaniel Wilkinson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJblmZS3qufCIpJY_KP39tKFtUT06gSBqojeHooYaCtlPF__sW0INAr_j5-B_JY-LGSP6K8iOuuhTb7Gd1xIotVoQrP1VBJzSs2_DDhMOirnGICYlXK6q9m96U0LjCfM9WK2UJIKLDdUo7DIUqO0wFAxEMpc4_tkKCmyOSQ39NGVokax",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJuzb5KOYZ2jERLUHxHfP7ApY",
+         "plus_code" : 
+         {
+            "compound_code" : "7VM5+MQ Singapore",
+            "global_code" : "6PH57VM5+MQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJuzb5KOYZ2jERLUHxHfP7ApY",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 392
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 HarbourFront Walk, Singapore 098585",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.2648859,
+               "lng" : 103.8221267
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.266336629892722,
+                  "lng" : 103.8228337298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.263636970107278,
+                  "lng" : 103.8201340701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "VivoCity",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109532441449540262596\"\u003eBobby Wan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYAp4YGgFob8zvu3VuMMF9kI_wGFp_wcfB9BVhwysz5_lI_88jB9s5M6ZkmbkEUt-Do195_ERtfedpbWL6syqRdmbBvw1IeeAvRs701iKOdXVvDxWBNigp7vcwRGl9_JsKk1sPMddxG5tmqgev-VYWbq6W_MSs02gniGmpWrSqxjgFl",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJK7xLl1gZ2jERP_GdUY9XNLo",
+         "plus_code" : 
+         {
+            "compound_code" : "7R7C+XV Singapore",
+            "global_code" : "6PH57R7C+XV"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJK7xLl1gZ2jERP_GdUY9XNLo",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 50445
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "7 Draycott Dr, Orchard, Singapore 259421",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3088519,
+               "lng" : 103.8304374
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.310212529892722,
+                  "lng" : 103.8317529298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.307512870107278,
+                  "lng" : 103.8290532701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Lanos",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105458395243512062573\"\u003eevelyn goh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbkEry_XJCA0OtlUCxrvGu8r41AuI9U3EZz8mG48NNTGwHn26t2XOt-kVsX3u-IbyWucxQRwdTPsN-f7A-aaTLqh64cE88neqzjHPR594RiPAqyMGKOalVEEqpYfeNTCwidz8hhHn4wHWbfoHyaTGSIJ_TXaF-RFWwnJtl794-40-QR",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ6-ylXPUZ2jERL4Oq_0mb3xk",
+         "plus_code" : 
+         {
+            "compound_code" : "8R5J+G5 Singapore",
+            "global_code" : "6PH58R5J+G5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ6-ylXPUZ2jERL4Oq_0mb3xk",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 27
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "174 Serangoon Rd, Singapore 218054",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3083408,
+               "lng" : 103.8531656
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.309721779892722,
+                  "lng" : 103.8544672798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.307022120107278,
+                  "lng" : 103.8517676201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Singapore Tourist Shop",
+         "photos" : 
+         [
+            {
+               "height" : 1920,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105924536962955441114\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY5ur6dTJP27KoWwIGA4aIH2IelraKEgYoNhwS-fjyY6bBktmKm-9sKSyOtCbFEXNLXSpk0Wea_KfyuN3ogVN44Ep8c4YT3qf7Rf_bySJLS7BUJkSIlaCvASk1xssctbCBSBDyigyUaYVXQe2bQihjDoIkO29iKtbX8V_QllpNeU6Ry",
+               "width" : 907
+            }
+         ],
+         "place_id" : "ChIJL_aSrWsZ2jERi3670WlJOC4",
+         "plus_code" : 
+         {
+            "compound_code" : "8V53+87 Singapore",
+            "global_code" : "6PH58V53+87"
+         },
+         "rating" : 0,
+         "reference" : "ChIJL_aSrWsZ2jERi3670WlJOC4",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "290 Orchard Rd, Singapore 238859",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3039633,
+               "lng" : 103.8360565
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.305277279892722,
+                  "lng" : 103.8376003798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.302577620107278,
+                  "lng" : 103.8349007201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Paragon Shopping Centre",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106985665516652823764\"\u003ePaul Leach\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ2HZPd9u1mBQXu8C11niGF4mHcTidxWqintQoTT4pwcP-V9Sk0SSUdUZqtmEngC8DAgHDVjzoubRyI-1J8fZYHTiVqTgmF5Wm-8KHqpVB5bGf8GKktmkpuZrPRzlQXQhbwIuqa1xuuXd4KF8njFyEMiYfV21bPJ36fh2c7I8dbf-Cv",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJl_sOMpIZ2jERKgmuCf4FCs0",
+         "plus_code" : 
+         {
+            "compound_code" : "8R3P+HC Singapore",
+            "global_code" : "6PH58R3P+HC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJl_sOMpIZ2jERKgmuCf4FCs0",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13188
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lucky Plaza #b1-121, 304 Orchard Road (S)238863, Singapore 238863",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3045755,
+               "lng" : 103.8340344
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.306030729892722,
+                  "lng" : 103.8354992298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.303331070107278,
+                  "lng" : 103.8327995701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Singapore Gift Centre",
+         "photos" : 
+         [
+            {
+               "height" : 1960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101222089436758795522\"\u003eSuchi spore\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYL1DIqAlj1_F5hHGRY9SUKzoAlSSdQxJqcNks1j_aBLWXRWc4PbRGU7YL_yst6ixh98PSUViRmVq24ukvJ2HT5Rf8uf3r8WYKnBcHV1ngo-dJ9NBtiZ0wJZchSUE_GOPEZ8VINTkS2rKxTq1O0YslNP8AlMHhpFpVRehuKGaS8sPO0",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJHXFAbZIZ2jERmvpJQsTeT-0",
+         "rating" : 5,
+         "reference" : "ChIJHXFAbZIZ2jERmvpJQsTeT-0",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "St George's Rd, Block 13, Singapore 320013",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3233202,
+               "lng" : 103.8626847
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.324557379892722,
+                  "lng" : 103.8641723298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.321857720107278,
+                  "lng" : 103.8614726701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Singapore Gifts and Souvenirs / Rainbow Arts Gallery",
+         "photos" : 
+         [
+            {
+               "height" : 3641,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105011236333641368860\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbS8o5UgnCT_QErGP2Ge5HtPtxITJFq-iB0kwZHtX0t-iJQMdim5slLaoT8Y0yNML8vZIBrUiCHq_eSx0_A8Wmue-VIMCkc85ydgL27EILPu6olCINBQtyDgISYO2RetiX2nLc0sQ8NecYcms_xGLJvhG449xe1SXIokIup3J60lUbU",
+               "width" : 5237
+            }
+         ],
+         "place_id" : "ChIJjSLAppIZ2jERrMCYr_Z4bq8",
+         "plus_code" : 
+         {
+            "compound_code" : "8VF7+83 Singapore",
+            "global_code" : "6PH58VF7+83"
+         },
+         "rating" : 2,
+         "reference" : "ChIJjSLAppIZ2jERrMCYr_Z4bq8",
+         "types" : 
+         [
+            "department_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "100 Beach Rd, #02-22/23, Singapore 189702",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.2964735,
+               "lng" : 103.8565768
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.297864579892722,
+                  "lng" : 103.8578624798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.295164920107278,
+                  "lng" : 103.8551628201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Jade Gift Shop",
+         "place_id" : "ChIJy1ZYha8Z2jERewoFPfvffC8",
+         "plus_code" : 
+         {
+            "compound_code" : "7VW4+HJ Singapore",
+            "global_code" : "6PH57VW4+HJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJy1ZYha8Z2jERewoFPfvffC8",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Bayfront Ave, Singapore 018971",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.2834292,
+               "lng" : 103.8605058
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.284212979892722,
+                  "lng" : 103.8614421798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.281513320107278,
+                  "lng" : 103.8587425201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Sky Park Shop",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101570268307637931017\"\u003eVasya Banochkin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbRYC1cmwYcuyT8SQZaxjc-L10i5mvQWEX_AVnQcjYvVIJOD8Oqd34cSWq6eUKZ8c6ENTrHG9Ij5lSdKjhuo3dqmK2M50VzHxQ4psxaaZArI3yyGnMCTehVKgpcsohTevrbAnWxm0ok4LKRncIywYnToQcsdDHgViN5go-uW-WKIqrA",
+               "width" : 1812
+            }
+         ],
+         "place_id" : "ChIJY8ZyPgQZ2jER3ERAbiiXWdQ",
+         "plus_code" : 
+         {
+            "compound_code" : "7VM6+96 Singapore",
+            "global_code" : "6PH57VM6+96"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJY8ZyPgQZ2jER3ERAbiiXWdQ",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 29
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "18 Dempsey Rd, Singapore 249677",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3057491,
+               "lng" : 103.810895
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.307003979892722,
+                  "lng" : 103.8121206298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.304304320107278,
+                  "lng" : 103.8094209701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Dover Street Market Singapore",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101850695083288813511\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZVxJ73omHhxCnVavCLFcyHRtVLwx_FFHzoAH4a3pF3F77kAnPaUfxSrkp06c0G85JCRU-gf8jglJeYjzH7m0GcR3Dvjp5tjBF2DQr4TnmjGjLcWGAnTF8Tjo6J9aTXnPQrPxd56GXnB557C0wFMTQjgNDQ8A3xsMS61RdyceFpV9w6",
+               "width" : 4800
+            }
+         ],
+         "place_id" : "ChIJ9azI2SIa2jERrPSh1ZowJw4",
+         "plus_code" : 
+         {
+            "compound_code" : "8R46+79 Singapore",
+            "global_code" : "6PH58R46+79"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ9azI2SIa2jERrPSh1ZowJw4",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 395
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "59 Haji Ln, Singapore 189252",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.3012519,
+               "lng" : 103.8586211
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.302624479892722,
+                  "lng" : 103.8599998798927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.299924820107278,
+                  "lng" : 103.8573002201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Alternative Store SG",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4128,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104981328298367701955\"\u003eErlend Wahl\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaEBrqNcrZc1aFhFA8hTgzJovb71KPeu02jiIDE2-tp6wzbGUJYSmZt9CZCZVd6Q_o7qzfW1XLRgRYbIkcVFUAnUEL4QNHZLHEVhTrk8WNC9pyK9HVZ2u-a6aDFb7QpwoZptBB5MceEYVI19I4a5SL5D0fpZfYK4mNEDWRIlzeU5s4u",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJgen977AZ2jER0yS-OMaZ5SM",
+         "plus_code" : 
+         {
+            "compound_code" : "8V25+GC Singapore",
+            "global_code" : "6PH58V25+GC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJgen977AZ2jER0yS-OMaZ5SM",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "635 Veerasamy Rd, #01-148, Singapore 200635",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 1.306305,
+               "lng" : 103.8550884
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 1.307712029892722,
+                  "lng" : 103.8563415298927
+               },
+               "southwest" : 
+               {
+                  "lat" : 1.305012370107278,
+                  "lng" : 103.8536418701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Loop Garms",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104391036902679527460\"\u003eAnh Đức Đỗ\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZorXdm5_0-3pDvFQHaE1NigSnvVk3J_rBHEbnCoQ48ERs4h66IjsLg4ZUvpIHHotWCh9VOvyLRx5CU1I4u8NCxEFgp63bGrzbyqKJhrxSpYDFWlzipdQybU8s7Xnq0O98MwX-9a3KTmo7irYphGZpJNvkO_XK7QszM_FK7N48F_ozd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4ylLFLgZ2jERUsuuU4_68hk",
+         "plus_code" : 
+         {
+            "compound_code" : "8V44+G2 Singapore",
+            "global_code" : "6PH58V44+G2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ4ylLFLgZ2jERUsuuU4_68hk",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 81
+      }
+   ],
+   "status" : "OK"
+}

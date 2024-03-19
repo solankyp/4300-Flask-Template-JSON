@@ -1,0 +1,1211 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJa_vgFfOGCQZPgIjAbYv-3MSL2pry9M8zXqj_rediomqDtvNwQQzHbbGKxQGQSf6QUMnInvmoNPNO98UKToMXan7--K4rcKbVJYPWxHZW6cVBgNB0ZD6nETnN5iD6StGYw9MjN7JVZKrFMv31gSbDIveQox1BwRtrlxBQ3ayXemd5LyafEPehaZeslMhG7OQvxFf6rpd4TF6S9AZiB0dDFEsBbtzT41i9IGUY7SW6S03bRjKdea61XvlVT0i9sstHHIhyOrUJgWcBAGgLwf2k_06faLJq-aIuq6axQDKZReAHhnKKx9pSTFHBPeMMJLc8TLnyYfFjcSg7j0I1cFbbIp65tXkGPscDWkqQV5hJiWcMcnCU7YFYTT0w3BAu6wphuNxfrABsrc25Rdqn8",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "250 Augusta Ave, Toronto, ON M5T 2L7, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.65565,
+               "lng" : -79.402675
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.65702272989272,
+                  "lng" : -79.40123557010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.65432307010728,
+                  "lng" : -79.40393522989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Blue Banana Market",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116192296406003824542\"\u003eWils Solutions\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYGOmVCkhwrZXMGXp4pUUoSu870z4bxFNGc1MHsnuv4ASO_OlFCJXjBwUC3wOZUhUyWT573ZK7KviET5Ez0BLreGitY-4AutHyBNTgEXz47kjaik-uXQTI41iNyP26zpLjZI0jAhl1FnZo3EXyzNl7npucK2d1f8ZRMlb3w4aWOYIVc",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ3QAWAcI0K4gRRk03JfzJW5Q",
+         "plus_code" : 
+         {
+            "compound_code" : "MH4W+7W Toronto, Ontario, Canada",
+            "global_code" : "87M2MH4W+7W"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ3QAWAcI0K4gRRk03JfzJW5Q",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1436
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "401 Richmond St W, Toronto, ON M5V 3A8, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.648135,
+               "lng" : -79.39399399999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.64952427989272,
+                  "lng" : -79.39269792010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.64682462010727,
+                  "lng" : -79.39539757989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Spacing Store",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106833722526947327072\"\u003eSang-Yeon Cho\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYQwQ3amTKZxwPHTbH9jVoSj9o07Oud4tkYFRjaLOJ7UGBGU56L2mS1k-GBiTxP8YuwoT_uxY3HAg41-clNPs4goGekyPmJo6xk9RIKcJ2KRPJG7F3sUwRsEQCxhOD3_6aVqtzaBQwHdk9P3OYEAOCYYdYuZJdRE4riEFhGNrGlP-In",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJUUaSqds0K4gR7hgbDKT64CA",
+         "plus_code" : 
+         {
+            "compound_code" : "JJX4+7C Toronto, Ontario, Canada",
+            "global_code" : "87M2JJX4+7C"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJUUaSqds0K4gR7hgbDKT64CA",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 192
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3401 Dufferin St, Toronto, ON M6A 2T9, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.725435,
+               "lng" : -79.4521692
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.72791614999999,
+                  "lng" : -79.45055587010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.72460795000001,
+                  "lng" : -79.45325552989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Yorkdale Shopping Centre",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104601700149455328008\"\u003emap gocgle\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa-Tl5xqQ5MLRq3JnAKy_rSd1oCGgG3S52ME6h7Wc7AI52HjDaT2U8xvESkoXqNp1Qt5DDjkxbs7vekes0mP-dNNXj0sP_Yzczg_M9iQrcH2or4c7QGDg-3nxXhQbK0y5kUAnVAgCa__FwXBTG5DqFPLZpD4lqigCrzkb72UN1u1coE",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoYAZDTQyK4gRuR4PYg_YSJk",
+         "plus_code" : 
+         {
+            "compound_code" : "PGGX+54 Toronto, Ontario, Canada",
+            "global_code" : "87M2PGGX+54"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJoYAZDTQyK4gRuR4PYg_YSJk",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 37900
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "384 Yonge St #35, Toronto, ON M5B 1S8, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.65923799999999,
+               "lng" : -79.382903
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.66075227989272,
+                  "lng" : -79.38121437010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.65805262010728,
+                  "lng" : -79.38391402989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "CHIC Store",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1365,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106368126961129311513\"\u003eCHIC Luxury Soaps and Cosmetics\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbN14GiJsv_VyxwXwxoqIbO9XUIVSMwiyyDGn0_gQk65np1aPat2Cm5Tpy_1ddtlzdsePPBYet2U4zPuFOEVlUOqNp5WsAe3Yjq8OFalv_1YpOIdnLVl8tEFshxmOg7H78janQ7ZSEKv76QknGFi-z18DveWc_VHgsTQVpbK7nANRBJ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ84m_ebU0K4gRtTqE7BV4Yfs",
+         "plus_code" : 
+         {
+            "compound_code" : "MJ58+MR Toronto, Ontario, Canada",
+            "global_code" : "87M2MJ58+MR"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ84m_ebU0K4gRtTqE7BV4Yfs",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "384 Yonge St, Toronto, ON M5G, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.65966239999999,
+               "lng" : -79.3825772
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.66096447989272,
+                  "lng" : -79.38110272010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.65826482010728,
+                  "lng" : -79.38380237989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Aura Concourse Shopping Mall",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108998824566085890001\"\u003eHenry Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY6StbLY2IrWv5HP5T43NJ90zELEyccqV0irw2lMwb8OgXxY_fBexASDvLrddTB9Qw0zNqJyZUNbAzzSAxcBp-5PDdzvphxh6iiMFJ-z63czjuHtRf8BCuNbUgj-wR1cGiAmQ0n3wLwFwTqSo1hVyctG6OtpQohF8tMthUyGxF3z14P",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ6yjScLU0K4gRMbT9lwM8bbQ",
+         "plus_code" : 
+         {
+            "compound_code" : "MJ58+VX Toronto, Ontario, Canada",
+            "global_code" : "87M2MJ58+VX"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ6yjScLU0K4gRMbT9lwM8bbQ",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1278
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "317 Dundas St W, Toronto, ON M5T 1G4, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.653807,
+               "lng" : -79.3925728
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.65526857989271,
+                  "lng" : -79.39128707010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.65256892010727,
+                  "lng" : -79.39398672989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "shopAGO",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3072,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110919135385696323471\"\u003eGavin Zau\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJabev6fqftKgjzec_LzoQGXYGB-QsnX9CvbQadfbyHNZPiSJF2lrc7NgU06cmzkYbjrxpmQ0FrDKta26qBmCBs8Dbwg1MdSKmbwuG6GjvlJq6R2eEI-Xxl1tKxnabGFS7Th7aLc-32tIAcyStacVkSkpwxE27VEC8gfcl46Got0Y-Wk",
+               "width" : 4080
+            }
+         ],
+         "place_id" : "ChIJ6Yf0lMU0K4gRiSvwgbbnw9w",
+         "plus_code" : 
+         {
+            "compound_code" : "MJ34+GX Toronto, Ontario, Canada",
+            "global_code" : "87M2MJ34+GX"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJ6Yf0lMU0K4gRiSvwgbbnw9w",
+         "types" : 
+         [
+            "museum",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 64
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "55 Avenue Rd Suite 2250, Toronto, ON M5R 3L2, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.6718657,
+               "lng" : -79.3950406
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.67322017989272,
+                  "lng" : -79.39387627010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.67052052010727,
+                  "lng" : -79.39657592989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Yorkville Village",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110622699077657781946\"\u003eNadia Ghani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYkHsgBULUPJb-2NI7MU9VvxwMIe3hDgw1eihdQDQOu1dhJcg7dMJ9I5hTvBG6L5758FtB8QCcOO7K7c07HPA0ibtPTNiWXY6aH-hO4Fb_56BSKl-lo-rhsboIgiFUokKdaJvkrEVMnGNnMUNMfw9vcPle9dqm37E7Frmyf2pCPWfzt",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoQGlVqQ0K4gRS3EJz-sq0C0",
+         "plus_code" : 
+         {
+            "compound_code" : "MJC3+PX Toronto, Ontario, Canada",
+            "global_code" : "87M2MJC3+PX"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJoQGlVqQ0K4gRS3EJz-sq0C0",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2099
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1090 Don Mills Rd., Toronto, ON M3C 3R6, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.7339042,
+               "lng" : -79.3440459
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.73869775,
+                  "lng" : -79.33986970000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.73107395000002,
+                  "lng" : -79.35022289999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "CF Shops at Don Mills",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1518,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114842505477372159901\"\u003eChen Shaowei\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYJppIG2-OnPhLjCMNEzNDz49kq4W6UFZMT_aDIVL8x1qLTibZi3LYBNGr-6httXygs2jlSxSUT-L7HaPWPAyGh0qyacWjHTFsE2ob2FaOOOgM3KhzI1xZgQARu2HWOaeIprEAG1eHQ-aCfaLKHKLSp3ObM8gmccSTuSogAP0N2ydkv",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJD3IDQXLN1IkRzCC_4M7jlnY",
+         "plus_code" : 
+         {
+            "compound_code" : "PMM4+H9 Toronto, Ontario, Canada",
+            "global_code" : "87M2PMM4+H9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJD3IDQXLN1IkRzCC_4M7jlnY",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 10063
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 York St, Toronto, ON M5J 0B6, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.6415042,
+               "lng" : -79.38015249999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.64294417989272,
+                  "lng" : -79.37912977010726
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.64024452010728,
+                  "lng" : -79.3818294298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Shops at One York",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3465,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103869356910055494380\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbA_7gHJITSwyIjQ_yj9WhPe5HP5R9_sIY1XUPj80vQaTzzCsBi51o_xzRpugkLzzhIWlG-XTP4geOC_13SZhQ9pHamDPjgYEixpK-FaokjTvUvFo7a1eNoRK7ff9349vVCUlTxEa7snpx-KiG43tWzCG7tnRn0BVajvZ101FQeKBB5",
+               "width" : 4412
+            }
+         ],
+         "place_id" : "ChIJ7bCxIfs1K4gRMcva0xwVcYc",
+         "plus_code" : 
+         {
+            "compound_code" : "JJR9+JW Toronto, Ontario, Canada",
+            "global_code" : "87M2JJR9+JW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7bCxIfs1K4gRMcva0xwVcYc",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "220 Yonge St, Toronto, ON M5B 2H1, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.6544382,
+               "lng" : -79.3806994
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.6579308,
+                  "lng" : -79.37795955000001
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.65035399999999,
+                  "lng" : -79.38525695
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "CF Toronto Eaton Centre",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3888,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106905036477916841523\"\u003eDavid Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJblZLqdXBYH_Q_f3Ajr2cBwec7sQRovjYfXfLSOWiyz8o-bOXJQAIQ7rG81yQauixpErFJF8zxeQ9aN5wO953t7n_1iwmlQMl3YjxV43MSKqR_A6fM9srPNOmz4cBCN-GJ-jyxBvnwV8vjCyk6N5GphIcKvuhiOT2KjPpi_1nfrD1A",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJvUYHUcs0K4gRN8i7jHsUiYs",
+         "plus_code" : 
+         {
+            "compound_code" : "MJ39+QP Toronto, Ontario, Canada",
+            "global_code" : "87M2MJ39+QP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJvUYHUcs0K4gRN8i7jHsUiYs",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 50963
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "900 Dufferin St, Toronto, ON M6H 4A9, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.6558241,
+               "lng" : -79.435698
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.6580999,
+                  "lng" : -79.43361549999997
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.6550655,
+                  "lng" : -79.4372527
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Dufferin Mall",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1836,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112084369144949254529\"\u003eMárcio Cutri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaWDE7khLtHUgFvCh66PBkBgqjamkdgzq4C2lsFW49QbGYk9dRjRumXuVdx-6znd7VRsiu2U77e3HX7JsJ0guuTe5pZFbQ8xdElneKJDeSkCK5CK0MJkGKHnLOazlwYekkisLjsU_yTLL-6d2RUo-vv0WdukRnSFeGHGPHtpgLnIn0o",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJqVQVxVo0K4gR3uQgqESecTc",
+         "plus_code" : 
+         {
+            "compound_code" : "MH47+8P Toronto, Ontario, Canada",
+            "global_code" : "87M2MH47+8P"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJqVQVxVo0K4gR3uQgqESecTc",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14429
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Dundas St W, Toronto, ON M5N 1R4, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.6558668,
+               "lng" : -79.3819144
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.65732297989273,
+                  "lng" : -79.38056027010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.65462332010728,
+                  "lng" : -79.38325992989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Paw Ports",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ12ThGMs0K4gRRjtAF40QiDo",
+         "plus_code" : 
+         {
+            "compound_code" : "MJ49+86 Toronto, Ontario, Canada",
+            "global_code" : "87M2MJ49+86"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ12ThGMs0K4gRRjtAF40QiDo",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "145 Queens Quay W, Toronto, ON M5J 2H4, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.6397467,
+               "lng" : -79.38007829999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.64122502989272,
+                  "lng" : -79.37885952010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.63852537010727,
+                  "lng" : -79.38155917989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Toronto Best Souvenirs",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107391538852853799931\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbZWxZnGwQh5POoy8bi_gawFrshbsMsR6nimMsVIrhogxKt-X1-IpiuxrpNXfPn37RN2WgDagv8JrTfveBHp-tLYT-V4dbfiuf0Wxv_ryKDftdHW12N8htpvIArJvE1FEX_feKGp_w8579QeSgLhqfBvlyv_1SzJxnv7Y-TeNKCK2ao",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJNVnyqyrL1IkRNYe-0EgTBh4",
+         "plus_code" : 
+         {
+            "compound_code" : "JJQ9+VX Toronto, Ontario, Canada",
+            "global_code" : "87M2JJQ9+VX"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJNVnyqyrL1IkRNYe-0EgTBh4",
+         "types" : 
+         [
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 87
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "541 Queen St W, Toronto, ON M5V 2B6, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.647876,
+               "lng" : -79.39987950000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.64926812989272,
+                  "lng" : -79.39854492010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.64656847010727,
+                  "lng" : -79.40124457989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Mama Loves You Vintage",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100544660061474259224\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa-1KP639v3hvWpZStA1rAnQHjyR3XOaBeXzxVYoJ2EohhlSj-D6WvPTxCA18zPJXLdm3tjTq4kPHv7Uzg1jui5RFYJGnE9gBs9d13pXqD2Mw92slZr0yIzxcIy_ImvX8yGDGsfeFN3V_LFpy7zxVjFVZJWRDpHEK932nRqqXxf_bM1",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ5ZjzUtw0K4gRAxi4UsdEz58",
+         "plus_code" : 
+         {
+            "compound_code" : "JJX2+43 Toronto, Ontario, Canada",
+            "global_code" : "87M2JJX2+43"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ5ZjzUtw0K4gRAxi4UsdEz58",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 82
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "370 Yonge St, Toronto, ON M5B 1S5, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.65855,
+               "lng" : -79.38207199999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.65994622989273,
+                  "lng" : -79.38075497010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.65724657010728,
+                  "lng" : -79.38345462989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Canada Gifts",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3503,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101265696377806165067\"\u003eImboch Tinka\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaiWHVEdj3YurOubDq3jelYco5KfkinccPhukJfM3KybNI2w7tyqhPI0gwHEi3znJgtrhdzbKawLqQBzgWYMfv-yujX-3qXV-Ep8Rojw8Seh22o7BJVZiNTE6qFxlz2zIYjZABPcHlK8gXSDtTvL7OF2nTtaxP9r3RisERkhfl4gi5s",
+               "width" : 5253
+            }
+         ],
+         "place_id" : "ChIJdwAWnso0K4gR3SblJuzbXkE",
+         "plus_code" : 
+         {
+            "compound_code" : "MJ59+C5 Toronto, Ontario, Canada",
+            "global_code" : "87M2MJ59+C5"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJdwAWnso0K4gR3SblJuzbXkE",
+         "types" : 
+         [
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 115
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "528 Church St, Toronto, ON M4Y 1C5, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.6648174,
+               "lng" : -79.3807465
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.66618502989272,
+                  "lng" : -79.37931022010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.66348537010728,
+                  "lng" : -79.38200987989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Grapefruit",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 600,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106604010629037019881\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZsX-Arjl0zKmIB_ots_dDOKkR66R4cXVV6AyL2FkbxIfw3lkN62ccjgsiO5kA9SkqsJns_Y6tJPgU7-_0IDKv2QiLQSR4z29uJceZ5R7qGAKax4VRNbwbzzRf7WGQKGh0QT5SlzQh8mRYJ3D-_zHGH2F2f7i5Jc4RAUKGkgs2m7THE",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ1wCQeWI1K4gRlxkCSniA-Rs",
+         "plus_code" : 
+         {
+            "compound_code" : "MJ79+WP Toronto, Ontario, Canada",
+            "global_code" : "87M2MJ79+WP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ1wCQeWI1K4gRlxkCSniA-Rs",
+         "types" : 
+         [
+            "clothing_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 134
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "220 Yonge St H010, Toronto, ON M5B 2H1, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.6532932,
+               "lng" : -79.38014609999999
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.65467962989273,
+                  "lng" : -79.37862987010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.65197997010728,
+                  "lng" : -79.38132952989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Canadian Naturalist",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113784814157550461589\"\u003eC Mo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYgAW4xSI-IMs3DhSXnxh_TgVS2UFHhgP1fOO69I2eI4PsN5YsRXYmYjqjYkq1uWE3Txz5C3xchKdYKzBncqFmFrkwzH343TF1rwhQ0yGk-oV6rQj72iXchzHKasPxQYp72rWk2zDKT0YnavFD-phaLrYRIRc45-M24Dn8OfUinPbJr",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJY8qjVTPL1IkRNbFtvZN-I3U",
+         "plus_code" : 
+         {
+            "compound_code" : "MJ39+8W Toronto, Ontario, Canada",
+            "global_code" : "87M2MJ39+8W"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJY8qjVTPL1IkRNbFtvZN-I3U",
+         "types" : 
+         [
+            "jewelry_store",
+            "grocery_or_supermarket",
+            "clothing_store",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 140
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1280 Bloor St W, Toronto, ON M6H 1N8, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.6587725,
+               "lng" : -79.4415801
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.66004727989272,
+                  "lng" : -79.44015262010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.65734762010727,
+                  "lng" : -79.44285227989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "THE SPOT",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2448,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111350949936133979050\"\u003eTHE SPOT\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZZ5QW5xo-Cm3N7ZnTBM25SoL5I5Ppne0OSXc9aP14MMTDVzfq0ecWhcb5DyUsVRS_OW_21AFlITdAWSvkdTxGDtnTcXwZeGe6a_15p0plzFYG9nxNWY87owgvbt3I5u8oGz2r4wQTsejGp082ZdfEcgg1nkMDtl8P7AXrZNY_bWUkQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJq6qeGkQ0K4gRJr1GuKhnCOQ",
+         "plus_code" : 
+         {
+            "compound_code" : "MH55+G9 Toronto, Ontario, Canada",
+            "global_code" : "87M2MH55+G9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJq6qeGkQ0K4gRJr1GuKhnCOQ",
+         "types" : 
+         [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 228
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "55 Bloor St W, Toronto, ON M4W 1A5, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.6696176,
+               "lng" : -79.3886462
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.67110637989271,
+                  "lng" : -79.38732172010728
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.66840672010727,
+                  "lng" : -79.39002137989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Manulife Centre",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103222570211810044510\"\u003etianlei hou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaqVdOAkntiK7ThBRV1e5EM852Z7xucPuFEhoVX8xxkNYakrI97pHxsaDyc5V6b9rqJJ6OFOWiioVx8na4HMw89usCU94YMmPjvzwDXEc5XRZAlMFtCw2KFDISKraEyPvZbEYqV0JhhRV7xt-XOAhTC9VFJkiF9Tsx_ejop9werc-Nz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZ5aVM640K4gRn0YPjIKUP_4",
+         "plus_code" : 
+         {
+            "compound_code" : "MJ96+RG Toronto, Ontario, Canada",
+            "global_code" : "87M2MJ96+RG"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJZ5aVM640K4gRn0YPjIKUP_4",
+         "types" : 
+         [
+            "shopping_mall",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2931
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "776 College St, Toronto, ON M6G 1C6, Canada",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 43.654922,
+               "lng" : -79.4207078
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 43.65624252989272,
+                  "lng" : -79.41934617010727
+               },
+               "southwest" : 
+               {
+                  "lat" : 43.65354287010727,
+                  "lng" : -79.42204582989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Monocle Shop",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105981472158432610978\"\u003eAhmed Harith\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJamLZHMxCKEHFIHY4fGT-TWoKahK7D1ooG6wwJih1A4YCUk3yj2Kbq351PLzmVmdpD39INUSquq-QSs2g3D_SaXyVYNWIdNDhlRVKpGuVfswC57MNxhA5dMPBFi_vr-hy6g3uRzKxB8CxUCXL4RzgbMXalKFL9mZOmuusjhM8wEhOKM",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJbwUpJPc0K4gRhaUtbWciGfE",
+         "plus_code" : 
+         {
+            "compound_code" : "MH3H+XP Toronto, Ontario, Canada",
+            "global_code" : "87M2MH3H+XP"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJbwUpJPc0K4gRhaUtbWciGfE",
+         "types" : 
+         [
+            "home_goods_store",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 52
+      }
+   ],
+   "status" : "OK"
+}

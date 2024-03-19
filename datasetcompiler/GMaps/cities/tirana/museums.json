@@ -1,0 +1,885 @@
+{
+   "html_attributions" : [],
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sheshi Skënderbej 7, Tirana 1001, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3293304,
+               "lng" : 19.8171972
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.33068022989273,
+                  "lng" : 19.81854702989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.32798057010729,
+                  "lng" : 19.81584737010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "National Historical Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3464,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111839345429730651857\"\u003eDušan Huč\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaC4R7xMmLxvJuTI-4HqIAWzLitkXmrZsJi-EwlmuyCOMWQmndCp8S-QoDfTzIbyOHrvt1I8NQcG_oEWo2408eRGaBVqoM4OFbIbI2CaCGTVGiY0H3HTZmfzDSNtBecPA80PPv79hDvIDki-l1JRK-N-2-ccYtqPKGHjNFK_J1qcLfD",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJ8UCauA8xUBMRnbaL_o6uAXc",
+         "plus_code" : 
+         {
+            "compound_code" : "8RH8+PV Tirana, Albania",
+            "global_code" : "8FHX8RH8+PV"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ8UCauA8xUBMRnbaL_o6uAXc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1967
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8RG8+MHG, Tirana, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3266896,
+               "lng" : 19.8164418
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.32804992989271,
+                  "lng" : 19.81785562989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.32535027010727,
+                  "lng" : 19.81515597010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "House of Leaves Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3096,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101971402989276313656\"\u003eAleksandar Djordjevic\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbVG1fS1pKXfTVoMECnzbB0GtC_maKe8_VFlf3uYY_je0KeRIjGWdz_ufNPeYZPMoaKQWXmYstQaHgSw0KytQCJTHg8nQni0cN3WOq_58KgssBrEwHkB7j-TMVDvit17nYr2NdIgk4QXNbefQ5Qg7XodmQla5RIgbfj0yyP6X1_0Ez1",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJS-JbDQUxUBMRJpTxxW-ELEU",
+         "rating" : 4.4,
+         "reference" : "ChIJS-JbDQUxUBMRJpTxxW-ELEU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1044
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Street Abdi Toptani, Tiranë, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3269805,
+               "lng" : 19.8195631
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.32833432989273,
+                  "lng" : 19.82094757989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.32563467010728,
+                  "lng" : 19.81824792010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Bunk'Art 2",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102036448414628966084\"\u003eSarah Conrad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYycihCfS17hleUEc1yWWSkOddFHChHVcvKdraZ7J1qwY5WxHjdgPqZsxCMTFwSl-YGN_s2KJezP4O5wPXtR2bDBE3nXQwnmUXiO-PTGRRO9ipXLPEfrwolhB31NjY9HZBQ5g4vYgIhLyEHicn1Kyh43-8fG3wQyh4IKU-2pbgrkHZp",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9UMspBoxUBMRfwKKAxuMsQg",
+         "plus_code" : 
+         {
+            "compound_code" : "8RG9+QR Tirana, Albania",
+            "global_code" : "8FHX8RG9+QR"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ9UMspBoxUBMRfwKKAxuMsQg",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4014
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rruga Fadil Deliu, Tiranë 1001, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3497735,
+               "lng" : 19.8604339
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.35111302989272,
+                  "lng" : 19.86181012989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.34841337010728,
+                  "lng" : 19.85911047010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "BUNK'ART",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1124,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114647298085396208768\"\u003eGeorge Morina\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY4FJYkABdvEloQ-3RuUOrhcJYDto5qynU_KvJWe6CtQ8qPONkKQYh2_TmNhm7CLeMHSjvLiIUd-0BmVm2U2aSlhoVp5-h-TytrsxH3rKzm3VLeFJM1iLRrE90sh0BmNIV616PSNAVWaTT_b8o8lzApy4d6exVCcL4CcXsL5XASkgpk",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJWefPqAE0UBMRe5lBduTNzf4",
+         "plus_code" : 
+         {
+            "compound_code" : "8VX6+W5 Tirana, Albania",
+            "global_code" : "8FHX8VX6+W5"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJWefPqAE0UBMRe5lBduTNzf4",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "art_gallery",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1605
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rruga Petro Nini Luarasi 76, 1010, Tiranë, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3255924,
+               "lng" : 19.8345264
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.32699662989272,
+                  "lng" : 19.83585937989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.32429697010728,
+                  "lng" : 19.83315972010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Museum of Natural Sciences",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1200,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100590982888685797023\"\u003eShpëtim Bisha\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY57tUj6-cpl3H0zMJ257pFLfQLCi3FJhxdoVFbOzQG7yMSrAPl-kR1ea1b-GJ4EzSYx2c7BlpnHhhfujrR3wmkCxQ7R0MlJJAgDv6zTxKlbJom-VQOf8JmoRSg1SWlWOccYcrsk_MaLw7K3mZlO5kv3bMOd-Ajpf5YfRD8s62g5c8c",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ3_2BwzwxUBMR_JJ3Jsmg_9M",
+         "plus_code" : 
+         {
+            "compound_code" : "8RGM+6R Tirana, Albania",
+            "global_code" : "8FHX8RGM+6R"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ3_2BwzwxUBMR_JJ3Jsmg_9M",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 59
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sheshi Nënë Tereza 3, Tiranë 1010, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3182401,
+               "lng" : 19.821871
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.31952182989271,
+                  "lng" : 19.82307537989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.31682217010727,
+                  "lng" : 19.82037572010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Tirana National Archaeological Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3000,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110686791295317877466\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYvvZ8snQ9suX3YP00nThmTBe9ZH5JpIYwyMWrkWy-hQ8yNsHH6ApjCfjfugfl5iTTEMO_g6_kwvfx9kZ2-Qx9Y2-s3XqYqKZuzbzQH9lNjwq8U92Hgn1zJODgEVlklFWnGf1qYKhckLxMATfySlxnv0mXxJp0CjxCiGLwsldXxhPXa",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJiYofnx0xUBMRfrCJK-3_XWM",
+         "plus_code" : 
+         {
+            "compound_code" : "8R9C+7P Tirana, Albania",
+            "global_code" : "8FHX8R9C+7P"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJiYofnx0xUBMRfrCJK-3_XWM",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 209
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8RJC+422, Rruga e Dibrës 25, Tirana, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.33043869999999,
+               "lng" : 19.8202145
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.33175292989272,
+                  "lng" : 19.82161747989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.32905327010727,
+                  "lng" : 19.81891782010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Muzeu Kadare - Shtëpia Studio e Shkrimtarit Ismail Kadare",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1333,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111567099198962454799\"\u003eVasken Spiru\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb8OWdVJY5k6a96_WL_1yijOF95ngOEfBNtY2s1XhAXIiJ1m7VToPYCSm5xOErQypt8emFWcIr_7vD8ix8w9Zv9A-cLax1JmO3PZubo7L62CKb8Az9CL0PnQYpPbbaAYggnTH8nF-Q9W56u2QCVqS12WkZmDYzAlPJo2qgopUvamHNR",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJG1KGXV0xUBMRtvYgjlfCGfo",
+         "rating" : 4.6,
+         "reference" : "ChIJG1KGXV0xUBMRtvYgjlfCGfo",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 31
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rruga Medar Shtylla, Tirana, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3181436,
+               "lng" : 19.8066992
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.31956162989272,
+                  "lng" : 19.80810577989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.31686197010728,
+                  "lng" : 19.80540612010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Galeria E. Rira",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3199,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117679722857246790279\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ2L5rnmVrQMyZF49RltTZqMLDj3LyuZ2qCbORwU0HKXomcDDtUohFpRFODpM9CJ02QONE2KgLV8-H3XfIxtc0ZMt68-XURFmHt1hTCrgBd-5_XSkS1ycnrlndXSlraUUhTOmbhKMfrpjrvIbCRRxCuVxmOfMZdjQQ0cRd6St2-I-aX",
+               "width" : 4781
+            }
+         ],
+         "place_id" : "ChIJVcFrfVUwUBMRT2aP8h1eKgw",
+         "plus_code" : 
+         {
+            "compound_code" : "8R94+7M Tirana, Albania",
+            "global_code" : "8FHX8R94+7M"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJVcFrfVUwUBMRT2aP8h1eKgw",
+         "types" : 
+         [
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8RH7+9VF, Kavaja St, Tirana, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3284366,
+               "lng" : 19.8146806
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.32968667989272,
+                  "lng" : 19.81601962989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.32698702010727,
+                  "lng" : 19.81331997010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Mezuraj Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 478,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109927579561136886021\"\u003eRexhino Kovaci\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZQne9JEIrM5zIBocuLFaLYNikW2Tq6csDjxquq2axS7WPnrUkcsdvWeDm4Fy-K4yrgQ7Gs6iOOHJGr6idxGfq5wjCjRiAEzE5XNI0-4YOYd33MiRKiy7j-Rhm6myQCPwmpu5VcguiVV4yPXy9lqZPm7pahYcquzsFgTQD-WYtjsI47",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJIRObYQ8xUBMRm7u_ylV6Nrk",
+         "rating" : 3.6,
+         "reference" : "ChIJIRObYQ8xUBMRm7u_ylV6Nrk",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 27
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rruga Mihal Grameno 2, Tiranë 1015, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3243334,
+               "lng" : 19.8280276
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.32571077989272,
+                  "lng" : 19.82943442989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.32301112010727,
+                  "lng" : 19.82673477010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Art Museum \"Thanas Papa\"",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3780,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107313320712652401024\"\u003eBesart Papa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYBk33EKsKVtbnQc14ASBLpQu6oFdJiHOUUTXFyWR_WQYGM9KY-L1IPqgQ3r8guN7YvPhxn2zT7l1_1wPABeEqH4CVvpho1Csbqz-Nx8c3CQZynrhyPZqopUsuC4PJWvCtgmz1sD4KSzmlw2LbbbHsrQbWjWyasYGF07GQ_qe7PY6lV",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJHxeeIpYxUBMR3u2FWYimV8E",
+         "plus_code" : 
+         {
+            "compound_code" : "8RFH+P6 Tirana, Albania",
+            "global_code" : "8FHX8RFH+P6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJHxeeIpYxUBMR3u2FWYimV8E",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8RRQ+JCX, Rruga Odhise Paskali, Tirana, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3416238,
+               "lng" : 19.8386051
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.34287222989273,
+                  "lng" : 19.84004352989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.34017257010728,
+                  "lng" : 19.83734387010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Armed Forces Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 653,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100873230152803554208\"\u003eShëndet Paç\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY3E4VOMLzzLBaCN7Rv-xLO2AaOKwjOrHEz1kIPQq6Rth6OAgjc1V6O-SlRgBkvbjiEeWr5lhTYQMGUyklSkTvl-bm75V9naoHIcDbswEjWGRL-xMTaYMAmhNdGI6SiVqu0K0M5KsiJP1zItKnQtBRBf095tSp2wtB7UMRwqmTTWM7F",
+               "width" : 980
+            }
+         ],
+         "place_id" : "ChIJQ6Os7UQxUBMRMw6EREyNhvE",
+         "rating" : 4.1,
+         "reference" : "ChIJQ6Os7UQxUBMRMw6EREyNhvE",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 23
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sheshi Austria 1, 1001, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.327669,
+               "lng" : 19.8167201
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.32899042989272,
+                  "lng" : 19.81787017989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.32629077010728,
+                  "lng" : 19.81517052010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Bank of Albania Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1536,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110492439525896561758\"\u003eErald Halili\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYB4IrphXioE6Adwgwx2yIaa4f9udUPhnfg_TyK6E5ArP5Ln3S_j2LbId0JZFcE2_j6UOuuGnV76l7SWCW1tOKAO0n8mRQ2ToTt1P42aCTgHUA9PPbrVkV-kp3VrTx-NrXvH8sIa15BOWnkW4fusrtZUx-Yp1x8BnGZWwFbBk7vL-eJ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJS1yrhoxUBMRLegeWcndRA4",
+         "plus_code" : 
+         {
+            "compound_code" : "8RH8+3M Tirana, Albania",
+            "global_code" : "8FHX8RH8+3M"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJJS1yrhoxUBMRLegeWcndRA4",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 99
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rruga Myslym Shyri 2, Tiranë, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.3255422,
+               "lng" : 19.8153565
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.32679042989272,
+                  "lng" : 19.81673437989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.32409077010728,
+                  "lng" : 19.81403472010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "MiG - Women's Museum",
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104548179353667207751\"\u003eMaximus Chatsky\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYBgPEMIN9PXlhXluCaPedwZK1UH_6PUqhlmVoAHGprrmebTCsBtRkFhLSJCS8Bppt5eRWdgfIbrjho-pgaN4lRFvZ5BZ5xY2zzck6Ar7bH-zLcNjFWjwID2AOqusAFueyC8eduV4okmC1JiRqJ0Bip_4v_DbrjBgMCD2CCRzj-6Tbm",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJceh8EYcxUBMRAqygWDGIQyA",
+         "plus_code" : 
+         {
+            "compound_code" : "8RG8+64 Tirana, Albania",
+            "global_code" : "8FHX8RG8+64"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJceh8EYcxUBMRAqygWDGIQyA",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Rruga Elvia Celebi, Gjirokastra, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.0727906,
+               "lng" : 20.1392199
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.07412902989272,
+                  "lng" : 20.14054587989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.07142937010727,
+                  "lng" : 20.13784622010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Castle of Gjirokastra",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103891442426328631007\"\u003eAlexandr Petrina\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbvoe4Ut1cffC7-pOik5VGU26ibzd-G4vzxOCGrCI_x3WE6iMrJPzAtBECTn1e_d-qhsvGK55841V5YKqbU9ZPYXVd5EiVCgVSRarMRsGdQ_UNIGmWc8WhFncB7QQoZxdfp7htfCSyYSwEl7-IICH9Cp9_LQR9MtbMLmprEy4rAQO9R",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJkWVZ1DQDWxMRGEF1kU1oT9Q",
+         "plus_code" : 
+         {
+            "compound_code" : "34FQ+4M Gjirokaster, Albania",
+            "global_code" : "8GG234FQ+4M"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJkWVZ1DQDWxMRGEF1kU1oT9Q",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 7069
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "GQ4V+MFJ, Rruga Kala, Krujë, Albania",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 41.5065518,
+               "lng" : 19.7936706
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 41.50813937989273,
+                  "lng" : 19.79537332989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 41.50543972010728,
+                  "lng" : 19.79267367010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Ethnographic Museum of Kruja",
+         "permanently_closed" : true,
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111200283875303824453\"\u003e嶋田完治\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaTyMDCV1L-VBCjufVNHxPUdtWu8dB3_UjSFqt_pob4lKPMqOG8xoM5n41b4jbMhwX3XruQybW9W97aZJ7hvCJ8YgZaGRK3lMvubb0bXXmLf3io3wKJdt3v__ajrbtu-5rZK5vmvGHpJAzgMMtcyypxNeWX_0VN9ommoEynNRUP4SP1",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6d5altrNURMRR5vE3pbj9Yw",
+         "rating" : 4.6,
+         "reference" : "ChIJ6d5altrNURMRR5vE3pbj9Yw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 348
+      }
+   ],
+   "status" : "OK"
+}

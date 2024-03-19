@@ -1,0 +1,1042 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJYR-ZqXmCzJglp53A1ewpfIzvw1Pe3fPItnEGHcxECwe9RH4CJbMKvMviE4EeUdofL-rpgI_Hq--ozarcZtAE7UnqgN5d73Lkp5yqySI9OMjtqnW3aot-Y38lZlnAYWgq1RzoUDSm6zx4ju1dm_KLNN0BWAI7y1FcOV93mQtV5GG_mjtJkp8iCyruH9EWFdnuYH-je59khGOdefnc6qljB_jj8Nvd4UUVr-tWTRldFI9doEYu-FjCF2ukB8iPfREEh4-3jmB4EpaPZ0ReH0SeA3vsZT83KLaS6EsDTa-3BhBkPtGC9XLB61m_DbJ-ygAHX6fNDfG1o5GeAxXTvP7q8NfntO8Hj-_JkFEL-aJzb3UDJMlvBtzK-ku3YlBdvtaMYXLDVNC76CUAPi",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Boulevard, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1494802,
+               "lng" : 1.2300128
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.150882729892722,
+                  "lng" : 1.231317429892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.148183070107278,
+                  "lng" : 1.228617770107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Colombe De La Paix",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1487,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108363227327562484559\"\u003ePierre Dumenyo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYeLQKSFYQTsOM6AQo7c_Y6gMmfn0z5_SJmnCGCp1FSl5St7MjBtR-GnInUa2aVggSJ7Ogs5SUUTPmE3D4yDA2OrKQKz4X-dmLltZqDpgZ99pbve2WRo6tfBxxRUhgv5JioABQwUnxarHn80HVkszHoPzMIbcaaoAefdnQLPRyimmY",
+               "width" : 2165
+            }
+         ],
+         "place_id" : "ChIJK_BTFvXhIxARxs-XClzqjMw",
+         "plus_code" : 
+         {
+            "compound_code" : "46XJ+Q2 Lomé, Togo",
+            "global_code" : "6FR346XJ+Q2"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJK_BTFvXhIxARxs-XClzqjMw",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1669
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "382 avenue de la Marina, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1184087,
+               "lng" : 1.2127102
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.119706829892722,
+                  "lng" : 1.214080879892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.117007170107278,
+                  "lng" : 1.211381220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Palais de Lomé",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 683,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109011251413992042040\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJajOwlKKEklcC-slUTg0ZMcL1ayaUzZ2N4S3qAeYQWgnmRMg1dlxUCWDFn_qPwe5yg0PuYwg9vNoYjBX97MXwqJ4iRkQgwybkvBoVSkvmfPHwKncztro29s0oDRwUBbh3UOvvCSSkO5oZHjcvEjUBDuG8QAlvasWSrMhhyrANDZOJWb",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJVVVVoWJfIRARCANa6zS1XL8",
+         "plus_code" : 
+         {
+            "compound_code" : "4697+93 Lomé, Togo",
+            "global_code" : "6FR34697+93"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJVVVVoWJfIRARCANa6zS1XL8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 509
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.130713099999999,
+               "lng" : 1.2179824
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.132092179892722,
+                  "lng" : 1.219410729892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.129392520107278,
+                  "lng" : 1.216711070107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Musee National",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 807,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103352787511710935050\"\u003eThierry Agbassou\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ4GS8zuIJDWM38pTV1_9H6QZbIHOsD6UTKtLjL50gQKpQqtsr3Diw4Cwn6HCyq_UweI4SnKMv3NEAGi__s4eUHN39BIpmYwB2vePpg3T2C2jXiV_my3xfLIS3ZkdKwUe8g55XV2hWC5o45vVr_ylsq1ZmH-ZGR6NcbBJ6sROC31JsL",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ74FfV-fhIxARow0P_qO1i_8",
+         "plus_code" : 
+         {
+            "compound_code" : "46J9+75 Lomé, Togo",
+            "global_code" : "6FR346J9+75"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ74FfV-fhIxARow0P_qO1i_8",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 711
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1603, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1326876,
+               "lng" : 1.2519532
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.133999579892722,
+                  "lng" : 1.253316879892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.131299920107278,
+                  "lng" : 1.250617220107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "International Museum of the Gulf of Guinea",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2048,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109342026742725245209\"\u003eMohammad Qutaishat\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJan86iNe3Q82IacgJeU9ELv5c8AmidIKtpTuZGzEUfHrnNqtvVZw8JY0XV5jH5Q0CLCFOAWjGGw-TLifxuf6zAQseY47iqCUjJMwXt4_b-7RwrawFVWNYbFSSfF2A6aSqNRnKIs1mJO6nzTabQu45EPu5eOqojQkHeB0hI9Aw9N0VTh",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ01TxbXThIxARfKLw8FykKcA",
+         "plus_code" : 
+         {
+            "compound_code" : "47M2+3Q Lomé, Togo",
+            "global_code" : "6FR347M2+3Q"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ01TxbXThIxARfKLw8FykKcA",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 123
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1256261,
+               "lng" : 1.2254183
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.126976029892721,
+                  "lng" : 1.226768229892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.124276370107277,
+                  "lng" : 1.224068570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "TATA PARK",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3984,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112947913721015236000\"\u003eAlbert Ardevol\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaiFU290l7cilMb1e17lUmBCJT2tZPS5SQMQL_gRIAsWXzatmeJE3WVNJadmtNeCcDvFXO0fzpJeHYMpvW95PZ6kKYymBVtDfZaZW8c1F8G4Qi8LX6v8UIcNVMlzHpYvx2hDaRXMsLcdQX9YYoc0VyPf7yOAB0GHkZFm7-bx_g5bbKI",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJXatDl67jIxARmk9lEbOhFAo",
+         "plus_code" : 
+         {
+            "compound_code" : "46GG+75 Lomé, Togo",
+            "global_code" : "6FR346GG+75"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJXatDl67jIxARmk9lEbOhFAo",
+         "types" : 
+         [
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 492
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Boulevard du Mono, Béniglato, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.127136699999999,
+               "lng" : 1.2366433
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.128576879892721,
+                  "lng" : 1.237962829892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.125877220107277,
+                  "lng" : 1.235263170107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Plage de Lomé",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 799,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104472502819159993640\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb0NSD1qaOAJSnoxfSTrlt6fdhcTpKi3GClILQTIv528Sgx8mGN3LeClKZoOezVJynPEAt3E4D0eueEMbHxC4MYJyXPADtQTkI8WPYwn0KQUaPphsft66TNackblHgvjtb7rCeab11XH5AjcE_RRe59LxSqmAAKs6AasK93Zzb8d5mC",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJPUTJwhzhIxARPcS6M_-EQ7E",
+         "plus_code" : 
+         {
+            "compound_code" : "46GP+VM Lomé, Togo",
+            "global_code" : "6FR346GP+VM"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJPUTJwhzhIxARPcS6M_-EQ7E",
+         "types" : 
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 233
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "07BP7748, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1472428,
+               "lng" : 1.2042818
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.148570579892723,
+                  "lng" : 1.205605329892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.145870920107279,
+                  "lng" : 1.202905670107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "VISITE-TOGO",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2400,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114746240996173548244\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYgx82cKSnC7Et_8-p0ES7eykVAEmSp9C0yIFjiJTdP704TdhuYNIWt0W7BixJ5Oh-Cl1AkkmIcKM8_acPxQtKqGmChBi-7p82XouqoYtmWt-bYdwq9HywUF1fcQowiFfo1eYCiJhFa2OXFdZ9nbqMvqzm0f2x9n-wYJYJfecE75cvU",
+               "width" : 3300
+            }
+         ],
+         "place_id" : "ChIJn9RLkFNfIRAR43SncWqeg1g",
+         "plus_code" : 
+         {
+            "compound_code" : "46W3+VP Lomé, Togo",
+            "global_code" : "6FR346W3+VP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJn9RLkFNfIRAR43SncWqeg1g",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ave 2 Fevrier, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1299654,
+               "lng" : 1.2159647
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.131052479892722,
+                  "lng" : 1.217646379892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.128352820107278,
+                  "lng" : 1.214946720107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Monument de l'independance",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102281736312330391114\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJamgpx-dWJapdmHy0jMcGth5lhZDUeObUH7BimwLmi6TjOl7oNoFuepR1ElVtD_sCe1Gs8bTiFlJG6IgtyvkvhT8ii7SRy8uTJgCJf9so2wFzvb51AdTv2nCED9ViKuegiaFJ-hcBY3kp-mV2BvKFDmLzej-DuUkOIYlF7S6AKhgrjV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJB_6PHt7hIxARj3LYHZaXuGA",
+         "plus_code" : 
+         {
+            "compound_code" : "46H8+X9 Lomé, Togo",
+            "global_code" : "6FR346H8+X9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJB_6PHt7hIxARj3LYHZaXuGA",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 908
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "56G6+QM9, Unnamed Road, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.176919,
+               "lng" : 1.2117396
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.178188479892722,
+                  "lng" : 1.213079629892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.175488820107278,
+                  "lng" : 1.210379970107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Esplanade de Gayibor",
+         "place_id" : "ChIJoaf5kJRZIRARQsSbxyb0usM",
+         "rating" : 3.3,
+         "reference" : "ChIJoaf5kJRZIRARQsSbxyb0usM",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "55CF+2CW, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1701698,
+               "lng" : 1.1735654
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.171539479892721,
+                  "lng" : 1.174918929892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.168839820107277,
+                  "lng" : 1.172219270107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Togo",
+         "place_id" : "ChIJmazxAftZIRAR96fkucAAN3w",
+         "rating" : 1,
+         "reference" : "ChIJmazxAftZIRAR96fkucAAN3w",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "563V+2R6, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1525266,
+               "lng" : 1.2445295
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.153860179892722,
+                  "lng" : 1.245952279892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.151160520107278,
+                  "lng" : 1.243252620107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Place Yesuvito de Be-Gakpoto",
+         "photos" : 
+         [
+            {
+               "height" : 1280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100138159582304342596\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYcWWRik4v_VKvA1P4Qk8eDauEMiu-gzYvYtE0_c6Sw5XajLLTFzQttGwob12y8XGa6MHMy4xf9uDPnetK4AfCQ8hBSgIFdvqk2808rAvIENJVwX5RvsJolgUro0QvTmVP_jKGNAdTYrZnwS1RurgheR4TUVj6PZb8B0GfB1UM8pYSY",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJo6_XL87jIxARY_do3h016G8",
+         "rating" : 4.5,
+         "reference" : "ChIJo6_XL87jIxARY_do3h016G8",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "55QX+PJ7, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.189028299999999,
+               "lng" : 1.1995283
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.190372679892723,
+                  "lng" : 1.200876379892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.187673020107279,
+                  "lng" : 1.198176720107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bassin de rétention d'eau \"Kagbara\"",
+         "place_id" : "ChIJpRV0HQBZIRARBeA1QqzuWCU",
+         "rating" : 0,
+         "reference" : "ChIJpRV0HQBZIRARBeA1QqzuWCU",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Eyadema, Agouenyive, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.233785,
+               "lng" : 1.2095066
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.235052779892722,
+                  "lng" : 1.210858229892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.232353120107278,
+                  "lng" : 1.208158570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fil'o Parc",
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108669142445379289781\"\u003eabdoul khalid oussey\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbmgxeUU8aUKtSZvTcJO7g54ek1ECpUemQXfeexSnVzIfu83lp5NSSuSW7GxH32n4a-sdzcwd482zVbMgW5VEmTcZCwmn9FeL4y2J9FxVzXYgXcN_V13cIUqKiJPvvawlH8jSUurp2N7NHpYqNk2dsrWDmvQn9X7fMB0wXepfUkt5xx",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJDWaSqwFYIRARn62Oq-i6blo",
+         "plus_code" : 
+         {
+            "compound_code" : "66M5+GR Agouenyive, Togo",
+            "global_code" : "6FR366M5+GR"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJDWaSqwFYIRARn62Oq-i6blo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 776
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "47X4+327, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.147670499999999,
+               "lng" : 1.2550396
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.149038229892721,
+                  "lng" : 1.256450379892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.146338570107277,
+                  "lng" : 1.253750720107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Legion",
+         "place_id" : "ChIJFRUBG1_hIxARV5obGRInZQo",
+         "rating" : 0,
+         "reference" : "ChIJFRUBG1_hIxARV5obGRInZQo",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "367, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1845415,
+               "lng" : 1.163448
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.185887979892722,
+                  "lng" : 1.164828129892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.183188320107278,
+                  "lng" : 1.162128470107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "JFC",
+         "place_id" : "ChIJp-1xYnZZIRARq8r3go0mi84",
+         "plus_code" : 
+         {
+            "compound_code" : "55M7+R9 Lomé, Togo",
+            "global_code" : "6FR355M7+R9"
+         },
+         "rating" : 0,
+         "reference" : "ChIJp-1xYnZZIRARq8r3go0mi84",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Appart AMADEUS, Rue 200 HDN, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1897794,
+               "lng" : 1.2496239
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.191136679892722,
+                  "lng" : 1.251028229892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.188437020107278,
+                  "lng" : 1.248328570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mosaics Tourism Agence",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 607,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104747895499188473942\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa6Rl4itZUW8QKBT3tCod_p1t4pMqNhxWW40MU4Tuo8Ar7tf7FfacBDJFmtPnc-t8CZKCYImdZTxi5XpRHH5kUiNv4d3G4uIuJTTdqXyM59lb3VZjyNDGE7Q80eXtQaBAZkEx3ZyQB1gEtdKTjRaV3UJOtE4pbV8sNxirF3sqjkKg7C",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJMW9gXKHjIxAReEW8q2mkivY",
+         "plus_code" : 
+         {
+            "compound_code" : "56QX+WV Lomé, Togo",
+            "global_code" : "6FR356QX+WV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJMW9gXKHjIxAReEW8q2mkivY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "BP. 80335, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1256261,
+               "lng" : 1.2254183
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.126976029892721,
+                  "lng" : 1.226768229892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.124276370107277,
+                  "lng" : 1.224068570107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "ECOGU",
+         "place_id" : "ChIJc4SAwIXhIxARqZf1pD1LhfY",
+         "plus_code" : 
+         {
+            "compound_code" : "46GG+75 Lomé, Togo",
+            "global_code" : "6FR346GG+75"
+         },
+         "rating" : 0,
+         "reference" : "ChIJc4SAwIXhIxARqZf1pD1LhfY",
+         "types" : 
+         [
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.1576318,
+               "lng" : 1.267046
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.158980879892722,
+                  "lng" : 1.268329429892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.156281220107278,
+                  "lng" : 1.265629770107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Akodessewa Fetish Market",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2280,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101439377141555450156\"\u003eArtur Anuszewski\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJa58fqqoPWP7jI5Bz7E3D-XIrUQUWLTmNxeZEGqYB-x-sBs4T-4zo3ml3wlPU6WAKgftPn44cNyWj5OL-b6bWrWo-gtS5L2FF1MHJRfZDJClK-t1V40FstfC8lmy4w-wky06hf16R_QzzY4Vr660nhdhddGtNaNb5nEhEY-1TIqRURr",
+               "width" : 3001
+            }
+         ],
+         "place_id" : "ChIJi4nxNtzjIxARyIbRSXiZm6U",
+         "plus_code" : 
+         {
+            "compound_code" : "5758+3R Lomé, Togo",
+            "global_code" : "6FR35758+3R"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJi4nxNtzjIxARyIbRSXiZm6U",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 998
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "55G6+VQ, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.177173199999999,
+               "lng" : 1.1619143
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.178510679892721,
+                  "lng" : 1.163246129892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.175811020107277,
+                  "lng" : 1.160546470107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Carrefour Sodabidapé",
+         "place_id" : "ChIJm7GWyv1ZIRARUFaueW4mUgs",
+         "rating" : 3.2,
+         "reference" : "ChIJm7GWyv1ZIRARUFaueW4mUgs",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "55XH+4GM, Lomé, Togo",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 6.197847599999999,
+               "lng" : 1.1787893
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 6.199203029892721,
+                  "lng" : 1.180120279892722
+               },
+               "southwest" : 
+               {
+                  "lat" : 6.196503370107277,
+                  "lng" : 1.177420620107278
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Carrefour Y",
+         "opening_hours" : {},
+         "photos" : 
+         [
+            {
+               "height" : 1080,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107523436563344405564\"\u003eyao kantchoni obognon\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZ4-Shl7NAdRTbDMhLohX_5GPudzt7JCn4ep010kQ2JirMk050qx2hoCET4_eeI_NzLHpJNVKn2KHqkJJ6V03a2r5aAVog4uijERNL3UkZSqLd3749U_Q2BOpmGwP7z_iqdVa4LSw8NJz9JKIRb_FZVH5a6BAYh0RXK-x04HMLb-RvG",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJH6kGj4VZIRARa7mxnQtn8tg",
+         "rating" : 3.7,
+         "reference" : "ChIJH6kGj4VZIRARa7mxnQtn8tg",
+         "types" : 
+         [
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 323
+      }
+   ],
+   "status" : "OK"
+}

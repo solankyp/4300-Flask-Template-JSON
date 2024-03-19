@@ -1,0 +1,1200 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATplDJb0ZBCv_yK_IZj7c1CQB3pcKrtEnG-sooBFSI5-BY52HFTqqrmJ2Qi6RcU0EXGR2_Ct9TKASRM1XwtmlFWUYlt7ycSOaxGzGKcEhve-0BKd_hSJXR6007312sDQ_hqJMeeY9HFU5Of8w8pHFleV0RkjdMwEzvZ_Sn3uUUnjxkON24Kg1WmuHupZ2WInoYfeKg4-zqymz6Vey6UkpqxHE7pvti4z7SI2VwNY0lRw2SttZ-2SB3eY4Vezyyy5GKjdinEijBV2YbK1c21QTZh0SLbhz7IFdP7Kw99NOkXUI0ZJmb7J3wJNF3BlgJYqCqoQYu1hpQuxsPLa4-jhPFV4x6DqdDeXW1K0AsdnR2_0n-0KU9EhDQQ_jdLt-d2Nyr0oqdlrqztB8HFRoYlfFd09",
+   "results" : 
+   [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Klausner St 15, Tel Aviv-Yafo, 6139202, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.1137948,
+               "lng" : 34.8053246
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.11523202989272,
+                  "lng" : 34.80658717989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.11253237010727,
+                  "lng" : 34.80388752010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "ANU Museum of the Jewish People",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100756833587271372686\"\u003eCoach Audionor Miranda Neto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZjjEoSIALPTuveugrD_KyjPsH2PsclOnVmrWEwt0UdCHCm3342Nxs_o-pc4pZ0hmOHgCUM90TJcdSE9NHgQvoBn3ePaf9GGsIWsVcVnL8g8PBAQemG0hn6QRgmt03fhxKsBKdZaxDMgAgvHP24rZo_E2arJWsghxkQUuWxJHEFISwD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJWwWBiG9JHRURWwoTx2FDXKU",
+         "plus_code" : 
+         {
+            "compound_code" : "4R74+G4 Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P4R74+G4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJWwWBiG9JHRURWwoTx2FDXKU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6178
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0797451,
+               "lng" : 34.7745391
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.08109647989271,
+                  "lng" : 34.77584902989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.07839682010727,
+                  "lng" : 34.77314937010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The White City of Tel Aviv",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2160,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108111346581201431547\"\u003eOliver Schreek\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaCiW13OQYdD_CeDd-RHjKI_lJ7Tq_is2Y2-4JsGgYKoCNACVFDFJQT0PljXrQUvmwVPsJCcMynhZonKISrLl6H1C6CEHRvGe1bfoYI6B4aGltRu3eN1NCEwJVGZZ19v-297U14zZj80xle9UgzO9QDw10trDHhMFxcy7DIzTJIkqED",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJYar-modLHRURYkuTg3E8RQA",
+         "plus_code" : 
+         {
+            "compound_code" : "3QHF+VR Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QHF+VR"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJYar-modLHRURYkuTg3E8RQA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Chaim Levanon St 2, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.1031819,
+               "lng" : 34.7961939
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.10474082989272,
+                  "lng" : 34.79783537989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.10204117010728,
+                  "lng" : 34.79513572010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Eretz Israel Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1948,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105607425647171596140\"\u003eרינה טולדו\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbC3d9GAe4oico--KuTsfJrizYcfYRHyN4DfVpeUiMV0eovov6DsGWiVh1gfMVLIY3kyXk72N5GHvxZA8govVSqJAUUB2qRsssJDbEDVqHV5it2RQ7usBICsd9b2arBnydIPh9MG9F_AiW9C30Nu8FtLSfJQbDed7CuWjiIvrCMzq6s",
+               "width" : 2840
+            }
+         ],
+         "place_id" : "ChIJ0X2q6uBLHRURndij5PvfBA8",
+         "plus_code" : 
+         {
+            "compound_code" : "4Q3W+7F Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P4Q3W+7F"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ0X2q6uBLHRURndij5PvfBA8",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5580
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "המחסן 1, Nemal Yafo St, Tel Aviv-Yafo, 6803326, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.051524,
+               "lng" : 34.7487189
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.05287422989272,
+                  "lng" : 34.75006777989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.05017457010727,
+                  "lng" : 34.74736812010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "נמל יפו",
+         "photos" : 
+         [
+            {
+               "height" : 2735,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109716530768574744261\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZGKi4ZOPa1cfTa9u-H32mmhJENQpB4bMaW46T1D4rSimEgb7KIeyxHnqjqYONULVa4tCSWpc4E-g0fSrURrHnwW9I9KGUp5TgJqR6q3pjE4MxqtAEQZYqQq27uGl-jmG51sLomqweQqQTvcyFrZO_MZmlzaMklyoXEy--4vuf2IkP-",
+               "width" : 4250
+            }
+         ],
+         "place_id" : "ChIJmXTausdMHRURrObAxfhF7tc",
+         "plus_code" : 
+         {
+            "compound_code" : "3P2X+JF Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3P2X+JF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJmXTausdMHRURrObAxfhF7tc",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8131
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nemal Tel Aviv St, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0972612,
+               "lng" : 34.7737655
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.09860237989272,
+                  "lng" : 34.77515972989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.09590272010728,
+                  "lng" : 34.77246007010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tel Aviv Port",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3456,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116662672862060853074\"\u003eאורטל ירושלמי\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaV-ShqQirEZjtO0jlJC2MELCgYXZGuXVi1vaGSGnoTMjnZdaMxsiQUYCmu8owQaIy3W7uDniykQWJ30t0975ffEGyIbsvlgFDSetzXahbWgGfCbzORYETwaoyx122DkfHKkuGvUEj7-494v36G-KxAhthCyX7LNv-ZbYnXnlLPgaIY",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJrSgPCwpMHRUR1mO_RZWIgCw",
+         "plus_code" : 
+         {
+            "compound_code" : "3QWF+WG Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QWF+WG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJrSgPCwpMHRUR1mO_RZWIgCw",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8119
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sderot Ben Gurion 17, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0853,
+               "lng" : 34.7716765
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.08664192989272,
+                  "lng" : 34.77302327989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.08394227010728,
+                  "lng" : 34.77032362010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Ben-Gurion House",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100050164143975660450\"\u003emyexperience4u\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbSfKl5RndN2CLGWH0SZ21MYmGWcrCO9DxX9-Yafyl7dMGQoDxaOlA5Ujtic9B0nupu4_xkyrD5KE40Nomn_SSPKDFe-BQCPpX0gtCp0hi485umXMW6NLyo0lbkK20GcZ1Dly3xISNVobOpDBB9PjNKl54PvJWNVr3kJA0BvsbjhxL1",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJJe03mXdMHRURsKOpdeNjUp0",
+         "plus_code" : 
+         {
+            "compound_code" : "3QPC+5M Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QPC+5M"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJJe03mXdMHRURsKOpdeNjUp0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1233
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Bialik St 27, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0733795,
+               "lng" : 34.7710266
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.07462672989272,
+                  "lng" : 34.77226012989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.07192707010728,
+                  "lng" : 34.76956047010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Beit Ha’Ir Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117959199072543111231\"\u003emiki levy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJam4xKC2TsKcITZxGZ53jsOyWwtQLqlEi9zbrD7w_qkWTtZJ8jhxMfqTAdpB5GsxQsTpwCZeATseVLkT9XSjAyRygNm27GfDcAb2VIuq1FGgYHK4XmAvkANSkvpWHC96QeCsu2IhHX9pF2d7Bui6t-X6YgrpFGY-lch_-Q6BKCoPA8f",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJM4t1jIBMHRUR7dmJ4AuqpfY",
+         "plus_code" : 
+         {
+            "compound_code" : "3QFC+9C Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QFC+9C"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJM4t1jIBMHRUR7dmJ4AuqpfY",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 356
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "The Golda Meir Cultural and Art Center, Sderot Sha'ul HaMelech 27, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0773591,
+               "lng" : 34.7868363
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.07828132989273,
+                  "lng" : 34.78840762989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.07558167010728,
+                  "lng" : 34.78570797010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Tel Aviv Museum of Art",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118420582421113940876\"\u003eKamila Katarzyna Świerska\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb0wq3aMHFIIMwmOCbmWhuraq6WOBOekB0skY48eUy5vHf-aKpLtr9VNi6gUGyIca1uPCNptMCC4OHvkY-90ViEThzusGw-JlIynuf1DTtlWdPjJsTq-4MqT9BMQEIwGMQFNKAIO1AqyYrYieYLRxAt52Az9IeBIQVnW2MvQiY9VmfI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpz9FAptLHRURE7h6eDCkS_c",
+         "plus_code" : 
+         {
+            "compound_code" : "3QGP+WP Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QGP+WP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJpz9FAptLHRURE7h6eDCkS_c",
+         "types" : 
+         [
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14652
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "בית הפלמ\"ח, Chaim Levanon St 10, Tel Aviv-Yafo, 6997505, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.104537,
+               "lng" : 34.7991338
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.10595737989273,
+                  "lng" : 34.80042132989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.10325772010729,
+                  "lng" : 34.79772167010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Palmach Museum",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2767,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110927706164988038541\"\u003eנדב ברקאי\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJaovyVntJIgNWNw9SkZRqUpigq2F9_dimTOdosNa0Jh9trjdXl8IiD68qKJscUKthO33mC5loZDY6v-Rsj-Rx7mR36i2RHqQn-nhJquwgT9e0zl-e_SVTtU3UN94BrkVjh7qHl5pJPfkjwKqWFjL5z4gXk_5KzzJ5YXbyPpHoseBxv1",
+               "width" : 4142
+            }
+         ],
+         "place_id" : "ChIJ52yKnd9LHRURqutciiqXsGU",
+         "plus_code" : 
+         {
+            "compound_code" : "4Q3X+RM Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P4Q3X+RM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ52yKnd9LHRURqutciiqXsGU",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2308
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Chaim Levanon St 8, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.1029129,
+               "lng" : 34.7996758
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.10411882989273,
+                  "lng" : 34.80104762989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.10141917010728,
+                  "lng" : 34.79834797010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Yitzhak Rabin Center",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1368,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110927706164988038541\"\u003eנדב ברקאי\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb6rRwaLvuXy58-rDU6YCfzIXetegjf2UC1zeN0_7qkWWYU37iHAHS_AdUtNHGDaiqCqBnNIvH57Io3F1E7ybGJh6SBh5PwmI-QRy5fHBELKHQUw8A_RArPILI416mwRMJ0U1jbHuQjY6FFA5QoWkf0qWUbkGxrJ2t5n7lsrUykYTXc",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJzzvlHN9LHRURS69dmJm-dno",
+         "plus_code" : 
+         {
+            "compound_code" : "4Q3X+5V Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P4Q3X+5V"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJzzvlHN9LHRURS69dmJm-dno",
+         "types" : 
+         [
+            "tourist_attraction",
+            "museum",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2515
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Retzif HaAliya HaShniya St 11-7, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.055207,
+               "lng" : 34.7520746
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.05662162989272,
+                  "lng" : 34.75338472989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.05392197010728,
+                  "lng" : 34.75068507010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Old Jaffa town-Tel Aviv",
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116824525821462215006\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZhpR0sL80hb6xOW25jUCNDnVhBOnBGJ8shznXVhoRPceAYm9YEJsAnxVtUJ4zgcRzeHlKNYEBFnyHlruiUZm3FRW6eY2sIbLV5l4Qht3Wd_uY3zhOKH-AwhVDuTBGf9A7H-Zp2S3FGfRXchG2eCh8Soxm-a6LNGCpJsMy0S-G5Xex4",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJcdq8OtlNHRURn-8X05cE9ss",
+         "plus_code" : 
+         {
+            "compound_code" : "3Q42+3R Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3Q42+3R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJcdq8OtlNHRURn-8X05cE9ss",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tarsat Ave 2, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.072387,
+               "lng" : 34.7795841
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.07358727989273,
+                  "lng" : 34.78117847989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.07088762010728,
+                  "lng" : 34.77847882010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "HaBima Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 585,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108186968207538151354\"\u003ePoonam Mongar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJb83VVFocO2WfM9j6RA0WJY5E-JMXRAayzTvbnc8AJx7spIKudBhtTkzE1jXRHIMPW6g6e7CASVVtN9Juab1bLVictEaagRYIQ8SwRIXrM4oHmshL9VEwLEUdEaaeLTKRY3B_7Uj_pJfnNSyWNUi1aVx_fHMQD79bQFJZo_yJfXDGYr",
+               "width" : 780
+            }
+         ],
+         "place_id" : "ChIJC72L8YFLHRURukXv09VhNGA",
+         "plus_code" : 
+         {
+            "compound_code" : "3QCH+XR Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QCH+XR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJC72L8YFLHRURukXv09VhNGA",
+         "types" : 
+         [
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8289
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dizengoff St 92, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0779583,
+               "lng" : 34.7742048
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.07946472989272,
+                  "lng" : 34.77548397989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.07676507010728,
+                  "lng" : 34.77278432010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kikar Dizengoff",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105674832954245747902\"\u003eDror Guldin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJYepP419kcAhXYhBK7IQOOwHQpeIPGBbkoptCISN6UqhXwVwFeK_429VMLVktkZPvdT8ZHgNIdQ8nHB_knahbd7HRPSH_KV6liWwUP-hEjqacn7O-81X-7E3tfDyfAK-d0RtI3jolhzoU87MCOrR7gu7UM7azl2z5CIFsmT68sHmBIU",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJnxiciIdLHRURdoxFs7fuFyU",
+         "plus_code" : 
+         {
+            "compound_code" : "3QHF+5M Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QHF+5M"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJnxiciIdLHRURdoxFs7fuFyU",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4061
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dizengoff St, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.077928,
+               "lng" : 34.7742053
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.07944957989272,
+                  "lng" : 34.77548422989273
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.07674992010728,
+                  "lng" : 34.77278457010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dizengoff Fountain",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117529651563342535423\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZBvOh1Dox8TnoWYFUJQ1JmMHJuljPhY4czLFplitFTSVvTFKPSYhKymj4KVG3k3BnUN6o-LpVG1mzlZc_1fCeebT6SXY-7d-kziNplhI47pdvf9_MRrJlTBqP450wfvvgtuwOmw1_mNnnRXyq25gNak0202ixQPxgsVCGYu6n3TnE",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJK6gtqoBLHRURwdBMFVz7h4s",
+         "plus_code" : 
+         {
+            "compound_code" : "3QHF+5M Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QHF+5M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJK6gtqoBLHRURwdBMFVz7h4s",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 792
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0658854,
+               "lng" : 34.774907
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.06727072989273,
+                  "lng" : 34.77626947989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.06457107010728,
+                  "lng" : 34.77356982010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "King Albert Square",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 4032,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106542501815526111485\"\u003eAvigdor Freud\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZgD-U3gG4OScNDqTcv6M2Q0zMMun7WS6B5NSXEG8LckR4eWVpta590QVUfPXHKH_2nqYaJyAMT9cfEYfUqeHrb0ZXKAO9Cup40PW2D3z3AywmWL6SmUc2JVUuDOWkUv3VCPIpHJohn-AJoAtQqzQ-ZBqRLwHSVjleem3YNQdLsMNx-",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJZ4qgnH1LHRURYu6QxxQaLxo",
+         "plus_code" : 
+         {
+            "compound_code" : "3Q8F+9X Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3Q8F+9X"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJZ4qgnH1LHRURYu6QxxQaLxo",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 58
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Berdyczewski St 9, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0712449,
+               "lng" : 34.7798848
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.07257062989273,
+                  "lng" : 34.78122552989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.06987097010728,
+                  "lng" : 34.77852587010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Joseph Bau House Museum",
+         "photos" : 
+         [
+            {
+               "height" : 1960,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111845409789435389749\"\u003eRafael Dahan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbnqEFnnx-I2kabHZ9Nhf7cICW2xbff0Ga6shvI20flYRqUDbVPbwBkVfcrLn4BtslpXOcPANVU6u5ySAcPcIMSkWdVp5ojA5ST3MesOPwxWLClkm16mQOta1T_w3WTCkGQCBqbsPSEf45csChoKpRdFrh4herfakXy2dGueGQgq1zO",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ64cYrHhLHRURXMRz0fbKS1w",
+         "plus_code" : 
+         {
+            "compound_code" : "3QCH+GX Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QCH+GX"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ64cYrHhLHRURXMRz0fbKS1w",
+         "types" : 
+         [
+            "museum",
+            "tourist_attraction",
+            "art_gallery",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 306
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shlomo Lahat Promenade 17, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0789318,
+               "lng" : 34.7668016
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.08027197989273,
+                  "lng" : 34.76823097989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.07757232010728,
+                  "lng" : 34.76553132010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tel Aviv Promenade",
+         "opening_hours" : 
+         {
+            "open_now" : true
+         },
+         "photos" : 
+         [
+            {
+               "height" : 2252,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115732124124113802194\"\u003eOrel S\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJY9pUCkvyXf7ElxOWx6-HHXj5meVNm65ExBFHwFpssoWmmvw2dTplYjV0_YdQQDuPhTXc37PEjEMAwS2TLzvpG0EX5UfOpR4330hiwXDbZovTfZ8GMvl3xqT8Y1oLiwxfIJw51_gjijggTWup0rwUn9vfJ8txN43TB0JrchX-mXQQwE",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJbxUvRHxMHRURG2-Na6PYUTY",
+         "plus_code" : 
+         {
+            "compound_code" : "3QH8+HP Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QH8+HP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJbxUvRHxMHRURG2-Na6PYUTY",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1107
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Zvi Herman Segal St, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0474958,
+               "lng" : 34.7659747
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.04892637989272,
+                  "lng" : 34.76728162989271
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.04622672010728,
+                  "lng" : 34.76458197010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sabil Abu Nabut",
+         "photos" : 
+         [
+            {
+               "height" : 2268,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110825860561300937773\"\u003eJacob Ganz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJakmAzAh5-ua_9R2yTIqVZroJRsiyJ7tQ2QlKdJMprZkpLQVrJYHWo9dWZ-9jhGYt-0cOTi--oXb3qHUhXEVRmsbLgek842cGsswgOGGEC8BUKA3axLTykkekT8QgkxbR2c43HA4zgfNusBFPbmUWr6LZdXTPOKrWmAxVfsqDzHJ-I",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ1f38CaVMHRUR-Uz7GRjffM0",
+         "plus_code" : 
+         {
+            "compound_code" : "2QW8+X9 Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P2QW8+X9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ1f38CaVMHRUR-Uz7GRjffM0",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 77
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Dizengoff St 77, Tel Aviv-Yafo, 6433249, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.0765714,
+               "lng" : 34.774394
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.07794927989272,
+                  "lng" : 34.77585462989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.07524962010728,
+                  "lng" : 34.77315497010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bauhaus Center Tel Aviv",
+         "opening_hours" : 
+         {
+            "open_now" : false
+         },
+         "photos" : 
+         [
+            {
+               "height" : 1090,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110025996535704942300\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJbc5QICY5LcMi9Ic_1WdGM4Mt30Op1K8MfLgxThWzYuAFZ8AdlHz5kjldQLza7V_Yb-dUVCE_Xkg82O6FSgE7nhfaONcgwpA2Y-QT2ft-sGEnseFoJZkSmScU7CSEFRfPYaYXPUG-vnpAF35NkIrWyv35CJgjO8FkGvnntjD4cvnNTj",
+               "width" : 1230
+            }
+         ],
+         "place_id" : "ChIJfbQnpHhMHRURIfixJQvC5eQ",
+         "plus_code" : 
+         {
+            "compound_code" : "3QGF+JQ Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3QGF+JQ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJfbQnpHhMHRURIfixJQvC5eQ",
+         "types" : 
+         [
+            "art_gallery",
+            "tourist_attraction",
+            "museum",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1014
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kdumim Visitor Center Square, Tel Aviv-Yafo, Israel",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 32.054458,
+               "lng" : 34.75215000000001
+            },
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 32.05580782989272,
+                  "lng" : 34.75349982989272
+               },
+               "southwest" : 
+               {
+                  "lat" : 32.05310817010728,
+                  "lng" : 34.75080017010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kdumim Square",
+         "photos" : 
+         [
+            {
+               "height" : 3024,
+               "html_attributions" : 
+               [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100159526993529271240\"\u003eVincent Leger\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATplDJZvLeG2JJYj0H3h-izEsfl4LcbYiQsvfCQeZztJHDUKyZvZDTZSxSYo4AwKia71GTUnCUje3dVsGtwfij6rAM3wp6S1deCU9oopbDZvHFuz8QHP0djoQz0SAHega97XZhhI1OPlE75-ZNFADsaf7cnD2yb8xBQWLK-wcSAPJEh7_JNd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJb5sR769NHRURP3cqd3TQ-8w",
+         "plus_code" : 
+         {
+            "compound_code" : "3Q32+QV Tel Aviv-Yafo, Israel",
+            "global_code" : "8G4P3Q32+QV"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJb5sR769NHRURP3cqd3TQ-8w",
+         "types" : 
+         [
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8
+      }
+   ],
+   "status" : "OK"
+}
