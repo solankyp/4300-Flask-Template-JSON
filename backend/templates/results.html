@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results - Study Abroad Finder</title>
+</head>
+<body>
+    <div class="search-results">
+        <h2>Search Results</h2>
+        <ul>
+            {% for result in top_10 %}
+                <li>
+                    <p>City: {{ result.city }}</p>
+                    <p>Jaccard Similarity: {{ result.similarity }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>

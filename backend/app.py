@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)
 
 # ROOT_PATH for linking with all your files.
-os.environ['ROOT_PATH'] = os.path.abspath(os.path.join("..",os.curdir))
+os.environ['ROOT_PATH'] = os.path.abspath(os.path.join("..", os.curdir))
 
 # Get the directory of the current script
 current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -26,7 +26,7 @@ def preprocess_data(data):
     for city, categories in data.items():
         for _, details in categories.items():
             food_info = details.get('Eat')
-            if food_info != None:
+            if food_info is not None:
                 preprocessed_data[city] = food_info
     return preprocessed_data
 
@@ -40,7 +40,6 @@ def create_term_frequency_matrix(data):
             else:
                 term_frequency_matrix[city][term] += 1
     return term_frequency_matrix
-
 
 def calculate_jaccard_similarity(query, data_term_frequency_matrix):
     query_terms = set(re.findall(r'\w+', query.lower()))
@@ -60,17 +59,19 @@ def top_jaccard_sim(similarities):
 
 @app.route("/")
 def home():
-    return render_template('base.html', title="sample html")
+    return render_template('base.html', title="Sample HTML")
 
 @app.route("/food_search")
 def food_search():
     query = request.args.get("query")
     preprocessed_data = preprocess_data(data)
-
     term_frequency_matrix = create_term_frequency_matrix(preprocessed_data)
     similarities = calculate_jaccard_similarity(query, term_frequency_matrix)
     top_10 = top_jaccard_sim(similarities)
-    return (top_10)
+    
+    top_10_json = [{"city": city, "similarity": similarity} for city, similarity in top_10]
+    return jsonify(top_10=top_10_json)
+
 
 if __name__ == "__main__":
     app.run(debug=True)
