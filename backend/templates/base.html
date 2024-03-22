@@ -1,51 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+        
     <meta charset="UTF-8">
+        
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}{% endblock %} - Study Abroad Finder</title>
+        <title>{% block title %}{% endblock %} - Study Abroad Finder</title>
+        
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+        
     <link rel="preconnect" href="https://fonts.googleapis.com">
+        
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat&family=Open+Sans:wght@500&display=swap" rel="stylesheet">
+        
+    <link href="https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat&family=Open+Sans:wght@500&display=swap"
+        rel="stylesheet">
 </head>
+
 <body>
-    <div class="full-body-container">
-        <div class="top-text">
-            <div class="google-colors">
-                <h1 id="google-0">A</h1>
-                <h1 id="google-1">b</h1>
-                <h1 id="google-2">r</h1>
-                <h1 id="google-3">o</h1>
-                <h1 id="google-4">a</h1>
-                <h1 id="google-5">d</h1>
-                <h1 id="google-6">A</h1>
-                <h1 id="google-7">d</h1>
-                <h1 id="google-8">v</h1>
-                <h1 id="google-9">i</h1>
-                <h1 id="google-10">s</h1>
-                <h1 id="google-11">o</h1>
-                <h1 id="google-12">r</h1>
-                <h1 id="google-13">s</h1>
-            </div>
-            <div class="input-box" onclick="sendFocus()">
-                <img src="{{ url_for('static', filename='images/search.png') }}" alt="Search Icon" />
-                <input placeholder="Search for a study abroad destination" id="filter-text-val" onkeyup="filterText()">
-            </div>
-        </div>
-        <div id="answer-box">
+        <div class="full-body-container">
+                <div class="top-text">
+                        <div class="google-colors">
+                                <h1 id="google-0">A</h1>
+                                <h1 id="google-1">b</h1>
+                                <h1 id="google-2">r</h1>
+                                <h1 id="google-3">o</h1>
+                                <h1 id="google-4">a</h1>
+                                <h1 id="google-5">d</h1>
+                                <h1 id="google-6">A</h1>
+                                <h1 id="google-7">d</h1>
+                                <h1 id="google-8">v</h1>
+                                <h1 id="google-9">i</h1>
+                                <h1 id="google-10">s</h1>
+                                <h1 id="google-11">o</h1>
+                                <h1 id="google-12">r</h1>
+                                <h1 id="google-13">s</h1>
+                            </div>
+                        <div class="input-box" onclick="sendFocus()">
+                                <img src="{{ url_for('static', filename='images/search.png') }}" alt="Search Icon" />
+                                <input placeholder="Search for a study abroad destination" id="filter-text-val"
+                    onkeyup="filterText()">
+                            </div>
+                    </div>
+                <div id="answer-box">
 
-        </div>
-    </div>
+                    </div>
+            </div>
 
+        
     <script>
         function answerBoxTemplate(city, similarity) {
             return `
-                <div class='search-result'>
-                    <p>City: ${city}</p>
-                    <p>Jaccard Similarity: ${similarity}</p>
-                </div>
-            `;
+                <div class='search-result'>
+                    <p>City: ${city}</p>
+                    <p>Cosine Similarity: ${similarity}</p>
+                </div>
+            `;
         }
 
         function sendFocus() {
@@ -59,19 +70,20 @@
 
             if (query.trim() !== "") {
                 fetch("/food_search?" + new URLSearchParams({ query: query }))
-                .then(response => response.json())
-                .then(data => {
-                    data.top_10.forEach(result => {
-                        let tempDiv = document.createElement("div");
-                        tempDiv.innerHTML = answerBoxTemplate(result.city, result.similarity);
-                        answerBox.appendChild(tempDiv);
+                    .then(response => response.json())
+                    .then(data => {
+                        data.top_10.forEach(result => {
+                            let tempDiv = document.createElement("div");
+                            tempDiv.innerHTML = answerBoxTemplate(result.city, result.similarity);
+                            answerBox.appendChild(tempDiv);
+                        });
+                    })
+                    .catch(error => {
+                        console.error("Error fetching data:", error);
                     });
-                })
-                .catch(error => {
-                    console.error("Error fetching data:", error);
-                });
             }
         }
     </script>
 </body>
+
 </html>
