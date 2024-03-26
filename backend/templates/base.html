@@ -43,7 +43,7 @@
             return `
                 <div class='search-result'>
                     <p>City: ${city}</p>
-                    <p>Jaccard Similarity: ${similarity}</p>
+                    <p>Cosine Similarity: ${similarity}</p>
                 </div>
             `;
         }
@@ -54,7 +54,7 @@
 
         function filterText() {
             const answerBox = document.getElementById("answer-box");
-            answerBox.innerHTML = ""; // Clear previous search results
+            answerBox.innerHTML = "";
             const query = document.getElementById("filter-text-val").value;
 
             if (query.trim() !== "") {
