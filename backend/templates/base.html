@@ -48,6 +48,19 @@
             `;
         }
 
+        function didYouMeanTemplate(correctedQuery) {
+            return `
+                <div class='did-you-mean' onclick="useCorrectedQuery('${correctedQuery}')">
+                    <p>Did you mean <strong>${correctedQuery}</strong>?</p>
+                </div>
+            `;
+        }
+
+        function useCorrectedQuery(correctedQuery) {
+            document.getElementById("filter-text-val").value = correctedQuery;
+            filterText();
+        }
+
         function sendFocus() {
             document.getElementById('filter-text-val').focus();
         }
@@ -61,11 +74,21 @@
                 fetch("/food_search?" + new URLSearchParams({ query: query }))
                 .then(response => response.json())
                 .then(data => {
-                    data.top_10.forEach(result => {
-                        let tempDiv = document.createElement("div");
-                        tempDiv.innerHTML = answerBoxTemplate(result.city, result.similarity);
-                        answerBox.appendChild(tempDiv);
-                    });
+                    if (data.corrected_query && data.corrected_query !== query) {
+                        let didYouMeanDiv = document.createElement("div");
+                        didYouMeanDiv.innerHTML = didYouMeanTemplate(data.corrected_query);
+                        answerBox.appendChild(didYouMeanDiv);
+                    }
+
+                    if (data.top_10.length > 0) {
+                        data.top_10.forEach(result => {
+                            let tempDiv = document.createElement("div");
+                            tempDiv.innerHTML = answerBoxTemplate(result.city, result.similarity);
+                            answerBox.appendChild(tempDiv);
+                        });
+                    } else if (!data.corrected_query) {
+                        answerBox.innerHTML = "<p>No results found.</p>";
+                    }
                 })
                 .catch(error => {
                     console.error("Error fetching data:", error);
