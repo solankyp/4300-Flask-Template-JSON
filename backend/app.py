@@ -22,7 +22,7 @@ with open(json_file_path, 'r') as file:
     data = json.load(file)
 
 def preprocess_data(data):
-    preprocessed_data = defaultdict(dict) 
+    preprocessed_data = defaultdict(dict)
     for city, categories in data.items():
         for _, details in categories.items():
             food_info = details.get('Eat')
@@ -36,17 +36,20 @@ def preprocess_data(data):
                 preprocessed_data[city]['Buy'] = buy
     return preprocessed_data
 
-def create_term_frequency_matrix(data):
+def create_term_frequency_matrix(data, sections_pressed):
     term_frequency_matrix = defaultdict(dict)
+    if not any(sections_pressed):
+        sections_pressed = [True, True, True]
     for city, city_data in data.items():
-        for category in city_data.keys():
-            info = city_data.get(category)
-            terms = re.findall(r'\w+', info.lower())
-            for term in terms:
-                if term not in term_frequency_matrix[city]:
-                    term_frequency_matrix[city][term] = 1
-                else:
-                    term_frequency_matrix[city][term] += 1
+        for index, (_, pressed) in enumerate(city_data.items()):
+            if sections_pressed[index]:
+                info = pressed
+                terms = re.findall(r'\w+', info.lower())
+                for term in terms:
+                    if term not in term_frequency_matrix[city]:
+                        term_frequency_matrix[city][term] = 1
+                    else:
+                        term_frequency_matrix[city][term] += 1
     return term_frequency_matrix
 
 def calculate_jaccard_similarity(query, data_term_frequency_matrix):
@@ -133,15 +136,29 @@ def spell_check(query, data_terms):
 @app.route("/food_search")
 def food_search():
     query = request.args.get("query")
+    sections = request.args.getlist("section")
+
+    sections_pressed = [False, False, False]
+    
+    for section in sections:
+        if section == 'Eat':
+            sections_pressed[0] = True
+        elif section == 'Do':
+            sections_pressed[1] = True
+        elif section == 'Buy':
+            sections_pressed[2] = True
+
+    if not any(sections_pressed):
+        sections_pressed = [True, True, True]
+    print(sections_pressed)
     preprocessed_data = preprocess_data(data)
-    term_frequency_matrix = create_term_frequency_matrix(preprocessed_data)
+    term_frequency_matrix = create_term_frequency_matrix(preprocessed_data, sections_pressed)
     
     all_terms = set()
     for city, matrix in term_frequency_matrix.items():
         all_terms.update(matrix.keys())
 
     corrected_query, corrected = spell_check(query, all_terms)
-    print(corrected_query)
     query_vector = calculate_query_vector(corrected_query, term_frequency_matrix)
     similarities = {}
     for city, city_vector in term_frequency_matrix.items():

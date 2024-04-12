@@ -8,6 +8,15 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat&family=Open+Sans:wght@500&display=swap" rel="stylesheet">
+    <style>
+        .buttons-container button.active {
+            background-color: #4CAF50;
+        }
+
+        .buttons-container button {
+            background-color: #e7e7e7;
+        }
+    </style>
 </head>
 <body>
     <div class="full-body-container">
@@ -28,6 +37,11 @@
                 <h1 id="google-12">r</h1>
                 <h1 id="google-13">s</h1>
             </div>
+            <div class="buttons-container">
+                <button onclick="toggleSection('Do')" id="doButton">Activities</button>
+                <button onclick="toggleSection('Buy')" id="buyButton">Shopping</button>
+                <button onclick="toggleSection('Eat')" id="eatButton">Food</button>
+            </div>
             <div class="input-box" onclick="sendFocus()">
                 <img src="{{ url_for('static', filename='images/search.png') }}" alt="Search Icon" />
                 <input placeholder="Search for a study abroad destination" id="filter-text-val" onkeyup="filterText()">
@@ -39,6 +53,8 @@
     </div>
 
     <script>
+        let activeSections = [];
+
         function answerBoxTemplate(city, similarity) {
             return `
                 <div class='search-result'>
@@ -65,34 +81,62 @@
             document.getElementById('filter-text-val').focus();
         }
 
+        function toggleSection(section) {
+            const index = activeSections.indexOf(section);
+            const button = document.getElementById(section.toLowerCase() + 'Button');
+            if (index === -1) {
+                activeSections.push(section);
+                button.classList.add('active');
+            } else {
+                activeSections.splice(index, 1);
+                button.classList.remove('active');
+            }
+            filterText();
+        }
+
         function filterText() {
             const answerBox = document.getElementById("answer-box");
             answerBox.innerHTML = "";
             const query = document.getElementById("filter-text-val").value;
 
             if (query.trim() !== "") {
-                fetch("/food_search?" + new URLSearchParams({ query: query }))
-                .then(response => response.json())
-                .then(data => {
-                    if (data.corrected_query && data.corrected_query !== query) {
-                        let didYouMeanDiv = document.createElement("div");
-                        didYouMeanDiv.innerHTML = didYouMeanTemplate(data.corrected_query);
-                        answerBox.appendChild(didYouMeanDiv);
-                    }
+                search();
+            }
+        }
 
-                    if (data.top_10.length > 0) {
-                        data.top_10.forEach(result => {
-                            let tempDiv = document.createElement("div");
-                            tempDiv.innerHTML = answerBoxTemplate(result.city, result.similarity);
-                            answerBox.appendChild(tempDiv);
-                        });
-                    } else if (!data.corrected_query) {
-                        answerBox.innerHTML = "<p>No results found.</p>";
-                    }
-                })
-                .catch(error => {
-                    console.error("Error fetching data:", error);
+        function search() {
+            const answerBox = document.getElementById("answer-box");
+            answerBox.innerHTML = "";
+            const query = document.getElementById("filter-text-val").value;
+
+            if (query.trim() !== "") {
+                const params = new URLSearchParams({ query: query });
+                activeSections.forEach(section => {
+                    params.append('section', section);
                 });
+
+                fetch("/food_search?" + params)
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.corrected_query && data.corrected_query !== query) {
+                            let didYouMeanDiv = document.createElement("div");
+                            didYouMeanDiv.innerHTML = didYouMeanTemplate(data.corrected_query);
+                            answerBox.appendChild(didYouMeanDiv);
+                        }
+
+                        if (data.top_10.length > 0) {
+                            data.top_10.forEach(result => {
+                                let tempDiv = document.createElement("div");
+                                tempDiv.innerHTML = answerBoxTemplate(result.city, result.similarity);
+                                answerBox.appendChild(tempDiv);
+                            });
+                        } else if (!data.corrected_query) {
+                            answerBox.innerHTML = "<p>No results found.</p>";
+                        }
+                    })
+                    .catch(error => {
+                        console.error("Error fetching data:", error);
+                    });
             }
         }
     </script>
