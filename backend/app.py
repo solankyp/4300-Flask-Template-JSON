@@ -28,18 +28,21 @@ def preprocess_data(data):
             food_info = details.get('Eat')
             activities = details.get('Do')
             buy = details.get('Buy')
+            see = details.get('See')
             if food_info is not None:
                 preprocessed_data[city]['Eat'] = food_info 
             if activities is not None:
                 preprocessed_data[city]['Do'] = activities
             if buy is not None:
                 preprocessed_data[city]['Buy'] = buy
+            if see is not None:
+                preprocessed_data[city]['See'] = see
     return preprocessed_data
 
 def create_term_frequency_matrix(data, sections_pressed):
     term_frequency_matrix = defaultdict(dict)
     if not any(sections_pressed):
-        sections_pressed = [True, True, True]
+        sections_pressed = [True, True, True, True]
     for city, city_data in data.items():
         for index, (_, pressed) in enumerate(city_data.items()):
             if sections_pressed[index]:
@@ -138,7 +141,7 @@ def food_search():
     query = request.args.get("query")
     sections = request.args.getlist("section")
 
-    sections_pressed = [False, False, False]
+    sections_pressed = [False, False, False, False]
     
     for section in sections:
         if section == 'Eat':
@@ -147,9 +150,11 @@ def food_search():
             sections_pressed[1] = True
         elif section == 'Buy':
             sections_pressed[2] = True
+        elif section == 'See':
+            sections_pressed[3] = True
 
     if not any(sections_pressed):
-        sections_pressed = [True, True, True]
+        sections_pressed = [True, True, True, True]
     print(sections_pressed)
     preprocessed_data = preprocess_data(data)
     term_frequency_matrix = create_term_frequency_matrix(preprocessed_data, sections_pressed)
