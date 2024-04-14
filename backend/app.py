@@ -5,6 +5,8 @@ from flask_cors import CORS
 import re
 from collections import defaultdict
 import math
+import pickle
+import numpy as np
 
 app = Flask(__name__)
 CORS(app)
@@ -97,6 +99,50 @@ def calculate_cosine_similarity(query_vector, doc_vector):
     normalized_cossim = (cossim + 1) / 2  
     return normalized_cossim
 
+def calculate_svd_similarities(query):
+    # retrieve SVD matrices from pickle
+    with open("static/svd_vars.pkl", 'rb') as f:
+        svd_vars = pickle.load(f)
+    docs_compressed_normed = svd_vars['docs_compressed_normed']
+    words_compressed_normed = svd_vars['words_compressed_normed']
+    cities = svd_vars['cities']
+    vocab = svd_vars['vocab']
+
+    # get svd similarities
+    words = query.split(" ")
+    sims_sum = np.zeros(len(docs_compressed_normed))
+    for word in words:
+        if word not in vocab: continue
+        sims = docs_compressed_normed.dot(words_compressed_normed[vocab[word],:])
+        sims_sum = sims + sims
+
+    # min-max scale the similarities to be between 0 and 1:
+    min_sim = min(sims_sum)
+    max_sim = max(sims_sum)
+    sims_sum = [(sim - min_sim) / (max_sim - min_sim) for sim in sims_sum]
+
+    city_sim_dict = {}
+    for i, sim in enumerate(sims_sum):
+        city_sim_dict[cities[i]] = sim
+
+    return city_sim_dict
+
+def merge_similarities(cosine_dict, svd_dict, cosine_weight, svd_weight):
+    """
+    merge cosine and svd similarities for a given query according to the weights
+    """
+    cosine_keys = set(cosine_dict.keys())
+    svd_keys = set(svd_dict.keys())
+    merged_keys = cosine_keys.intersection(svd_keys)
+
+    similarities = {}
+    for key in merged_keys:
+        similarities[key] = (cosine_weight * cosine_dict[key]) + (svd_weight * svd_dict[key])
+        # print("KEY = " + str(key))
+        # print("COSINE = " + str(cosine_dict[key]))
+        # print("SVD = " + str(svd_dict[key]))
+    return similarities
+
 @app.route("/")
 def home():
     return render_template('base.html', title="Sample HTML")
@@ -165,14 +211,24 @@ def food_search():
 
     corrected_query, corrected = spell_check(query, all_terms)
     query_vector = calculate_query_vector(corrected_query, term_frequency_matrix)
-    similarities = {}
+    
+    # cosine similarities
+    cosine_similarities = {}
     for city, city_vector in term_frequency_matrix.items():
         cosine_sim = calculate_cosine_similarity(query_vector, city_vector)
-        similarities[city] = cosine_sim
+        cosine_similarities[city] = cosine_sim
+    
+    # svd similarities
+    svd_similarities = calculate_svd_similarities(query)
+
+    # merge svd and similarity dicts
+    similarities = merge_similarities(cosine_dict=cosine_similarities,
+                                      svd_dict=svd_similarities,
+                                      cosine_weight=0.8,
+                                      svd_weight=0.2)
 
     top_10 = top_sim(similarities)
-    top_10_json = [{"city": city, "similarity": similarity} for city, similarity in top_10]
-    
+    top_10_json = [{"city": city, "cos_similarity": cosine_similarities[city], "svd_similarity": svd_similarities[city]} for city, _ in top_10]
     response = {"top_10": top_10_json, "original_query": query, "corrected_query": corrected_query}
     
     if corrected:

@@ -56,11 +56,12 @@
     <script>
         let activeSections = [];
 
-        function answerBoxTemplate(city, similarity) {
+        function answerBoxTemplate(city, cos_similarity, svd_similarity) {
             return `
                 <div class='search-result'>
-                    <p>City: ${city}</p>
-                    <p>Cosine Similarity: ${similarity}</p>
+                    <p><b>City: ${city}</b></p>
+                    <p>Cosine Similarity: ${cos_similarity}</p>
+                    <p>SVD Similarity: ${svd_similarity}</p>
                 </div>
             `;
         }
@@ -128,7 +129,7 @@
                         if (data.top_10.length > 0) {
                             data.top_10.forEach(result => {
                                 let tempDiv = document.createElement("div");
-                                tempDiv.innerHTML = answerBoxTemplate(result.city, result.similarity);
+                                tempDiv.innerHTML = answerBoxTemplate(result.city, result.cos_similarity, result.svd_similarity);
                                 answerBox.appendChild(tempDiv);
                             });
                         } else if (!data.corrected_query) {

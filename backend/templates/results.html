@@ -11,8 +11,9 @@
         <ul>
             {% for result in top_10 %}
                 <li>
-                    <p>City: {{ result.city }}</p>
-                    <p>Cosine Similarity: {{ result.similarity }}</p>
+                    <p><b>City: {{ result.city }}</b></p>
+                    <p>Cosine Similarity: {{ result.cos_similarity }}</p>
+                    <p>SVD Similarity: {{ result.svd_similarity }}</p>
                 </li>
             {% endfor %}
         </ul>
