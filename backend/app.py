@@ -23,6 +23,14 @@ json_file_path = os.path.join(current_directory, 'data.json')
 with open(json_file_path, 'r') as file:
     data = json.load(file)
 
+import pandas as pd
+
+csv_file_path = os.path.join(current_directory, 'studylocations.csv')
+cities_df = pd.read_csv(csv_file_path)
+cities_series = cities_df['City'].astype(str).str.strip()
+allowed_cities_set = set(cities_series.unique())
+
+
 def preprocess_data(data):
     preprocessed_data = defaultdict(dict)
     for city, categories in data.items():
@@ -188,7 +196,6 @@ def food_search():
     sections = request.args.getlist("section")
 
     sections_pressed = [False, False, False, False]
-    
     for section in sections:
         if section == 'Eat':
             sections_pressed[0] = True
@@ -204,22 +211,25 @@ def food_search():
     print(sections_pressed)
     preprocessed_data = preprocess_data(data)
     term_frequency_matrix = create_term_frequency_matrix(preprocessed_data, sections_pressed)
-    
+
     all_terms = set()
     for city, matrix in term_frequency_matrix.items():
         all_terms.update(matrix.keys())
 
     corrected_query, corrected = spell_check(query, all_terms)
     query_vector = calculate_query_vector(corrected_query, term_frequency_matrix)
-    
+
     # cosine similarities
+    print("Before filtering:", term_frequency_matrix.keys())
     cosine_similarities = {}
     for city, city_vector in term_frequency_matrix.items():
-        cosine_sim = calculate_cosine_similarity(query_vector, city_vector)
-        cosine_similarities[city] = cosine_sim
-    
+        if city in allowed_cities_set:
+            cosine_sim = calculate_cosine_similarity(query_vector, city_vector)
+            cosine_similarities[city] = cosine_sim
+    print("After filtering:", cosine_similarities.keys())
+
     # svd similarities
-    svd_similarities = calculate_svd_similarities(query)
+    svd_similarities = calculate_svd_similarities(corrected_query)
 
     # merge svd and similarity dicts
     similarities = merge_similarities(cosine_dict=cosine_similarities,
@@ -228,13 +238,14 @@ def food_search():
                                       svd_weight=0.2)
 
     top_10 = top_sim(similarities)
-    top_10_json = [{"city": city, "cos_similarity": cosine_similarities[city], "svd_similarity": svd_similarities[city]} for city, _ in top_10]
+    top_10_json = [{"city": city, "cos_similarity": cosine_similarities.get(city, 0), "svd_similarity": svd_similarities.get(city, 0)} for city, _ in top_10 if city in allowed_cities_set]
     response = {"top_10": top_10_json, "original_query": query, "corrected_query": corrected_query}
     
     if corrected:
         response["corrected_query"] = corrected_query
     
     return jsonify(response)
+
 
 if __name__ == "__main__":
     app.run(debug=True)
