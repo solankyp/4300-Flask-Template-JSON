@@ -1,22 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Search Results - Study Abroad Finder</title>
 </head>
+
 <body>
     <div class="search-results">
         <h2>Search Results</h2>
         <ul>
-            {% for result in top_10 %}
-                <li>
-                    <p><b>City: {{ result.city }}</b></p>
-                    <p>Cosine Similarity: {{ result.cos_similarity }}</p>
-                    <p>SVD Similarity: {{ result.svd_similarity }}</p>
-                </li>
+            {% for result in top_10_with_schools %}
+            <li>
+                <p><b>City: {{ result.city }}</b></p>
+                <p>Cosine Similarity: {{ result.cos_similarity }}</p>
+                <p>SVD Similarity: {{ result.svd_similarity }}</p>
+                <p> Schools in this Region:</p>
+                {% for school in result.schools %}
+            <li>{{ school }}</li>
             {% endfor %}
         </ul>
+        </li>
+        {% endfor %}
+
+        </ul>
+
     </div>
 </body>
+
 </html>

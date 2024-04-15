@@ -30,6 +30,10 @@ cities_df = pd.read_csv(csv_file_path)
 cities_series = cities_df['City'].astype(str).str.strip()
 allowed_cities_set = set(cities_series.unique())
 
+def load_school_data():
+    schools_by_city = cities_df.groupby('City')['School'].apply(list).to_dict()
+    return schools_by_city
+
 
 def preprocess_data(data):
     preprocessed_data = defaultdict(dict)
@@ -220,13 +224,12 @@ def food_search():
     query_vector = calculate_query_vector(corrected_query, term_frequency_matrix)
 
     # cosine similarities
-    print("Before filtering:", term_frequency_matrix.keys())
     cosine_similarities = {}
     for city, city_vector in term_frequency_matrix.items():
         if city in allowed_cities_set:
             cosine_sim = calculate_cosine_similarity(query_vector, city_vector)
             cosine_similarities[city] = cosine_sim
-    print("After filtering:", cosine_similarities.keys())
+
 
     # svd similarities
     svd_similarities = calculate_svd_similarities(corrected_query)
@@ -236,10 +239,21 @@ def food_search():
                                       svd_dict=svd_similarities,
                                       cosine_weight=0.8,
                                       svd_weight=0.2)
-
+    schools_by_city = load_school_data()
+    print(schools_by_city)
     top_10 = top_sim(similarities)
-    top_10_json = [{"city": city, "cos_similarity": cosine_similarities.get(city, 0), "svd_similarity": svd_similarities.get(city, 0)} for city, _ in top_10 if city in allowed_cities_set]
-    response = {"top_10": top_10_json, "original_query": query, "corrected_query": corrected_query}
+    top_10_with_schools = []
+    for city, _ in top_10:
+        schools = schools_by_city.get(city, [])
+        top_10_with_schools.append({
+            'city': city,
+            'cos_similarity': cosine_similarities.get(city, 0),
+            'svd_similarity': svd_similarities.get(city, 0),
+            'schools': schools
+        })
+    
+    
+    response = {"top_10": top_10_with_schools, "original_query": query, "corrected_query": corrected_query}
     
     if corrected:
         response["corrected_query"] = corrected_query

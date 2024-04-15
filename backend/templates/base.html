@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +8,8 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat&family=Open+Sans:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat&family=Open+Sans:wght@500&display=swap"
+        rel="stylesheet">
     <style>
         .buttons-container button.active {
             background-color: #4CAF50;
@@ -18,6 +20,7 @@
         }
     </style>
 </head>
+
 <body>
     <div class="full-body-container">
         <div class="top-text">
@@ -56,14 +59,21 @@
     <script>
         let activeSections = [];
 
-        function answerBoxTemplate(city, cos_similarity, svd_similarity) {
+        function answerBoxTemplate(city, cos_similarity, svd_similarity, schools) {
+            let schoolsHtml = '<ul>';
+            schools.forEach(school => {
+                schoolsHtml += `<li>${school}</li>`;
+            });
+            schoolsHtml += '</ul>';
+
             return `
                 <div class='search-result'>
                     <p><b>City: ${city}</b></p>
                     <p>Cosine Similarity: ${cos_similarity}</p>
                     <p>SVD Similarity: ${svd_similarity}</p>
+                    ${schoolsHtml}
                 </div>
-            `;
+    `;
         }
 
         function didYouMeanTemplate(correctedQuery) {
@@ -129,7 +139,7 @@
                         if (data.top_10.length > 0) {
                             data.top_10.forEach(result => {
                                 let tempDiv = document.createElement("div");
-                                tempDiv.innerHTML = answerBoxTemplate(result.city, result.cos_similarity, result.svd_similarity);
+                                tempDiv.innerHTML = answerBoxTemplate(result.city, result.cos_similarity, result.svd_similarity, result.schools);
                                 answerBox.appendChild(tempDiv);
                             });
                         } else if (!data.corrected_query) {
@@ -139,8 +149,10 @@
                     .catch(error => {
                         console.error("Error fetching data:", error);
                     });
+
             }
         }
     </script>
 </body>
+
 </html>
