@@ -59,20 +59,24 @@
     <script>
         let activeSections = [];
 
-        function answerBoxTemplate(city, cos_similarity, svd_similarity, schools) {
-            let schoolsHtml = '<ul>';
-            schools.forEach(school => {
-                schoolsHtml += `<li>${school}</li>`;
+        function answerBoxTemplate(city, cos_similarity, svd_similarity, school_info) {
+            let schoolsHtml = '';
+            school_info.forEach(info => {
+                schoolsHtml += `
+                    <div>
+                        <h4>${info.School}</h4>
+                        <p>${info.Description.replace(/\n/g, "<br>")}</p>
+                    </div>
+                `;
             });
-            schoolsHtml += '</ul>';
 
             return `
-                <div class='search-result'>
-                    <p><b>City: ${city}</b></p>
-                    <p>Cosine Similarity: ${cos_similarity}</p>
-                    <p>SVD Similarity: ${svd_similarity}</p>
-                    ${schoolsHtml}
-                </div>
+        <div class='search-result'>
+            <p><b>City: ${city}</b></p>
+            <p>Cosine Similarity: ${cos_similarity}</p>
+            <p>SVD Similarity: ${svd_similarity}</p>
+            ${schoolsHtml}
+        </div>
     `;
         }
 
@@ -139,7 +143,7 @@
                         if (data.top_10.length > 0) {
                             data.top_10.forEach(result => {
                                 let tempDiv = document.createElement("div");
-                                tempDiv.innerHTML = answerBoxTemplate(result.city, result.cos_similarity, result.svd_similarity, result.schools);
+                                tempDiv.innerHTML = answerBoxTemplate(result.city, result.cos_similarity, result.svd_similarity, result.school_info);
                                 answerBox.appendChild(tempDiv);
                             });
                         } else if (!data.corrected_query) {

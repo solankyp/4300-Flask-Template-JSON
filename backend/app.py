@@ -25,14 +25,17 @@ with open(json_file_path, 'r') as file:
 
 import pandas as pd
 
-csv_file_path = os.path.join(current_directory, 'studylocations.csv')
+csv_file_path = os.path.join(current_directory, 'programs.csv')
 cities_df = pd.read_csv(csv_file_path)
 cities_series = cities_df['City'].astype(str).str.strip()
 allowed_cities_set = set(cities_series.unique())
 
+program_desc = cities_df['Description'].astype(str).str.strip()
+
+
 def load_school_data():
-    schools_by_city = cities_df.groupby('City')['School'].apply(list).to_dict()
-    return schools_by_city
+    schools_with_descriptions = cities_df.groupby('City').apply(lambda x: x[['School', 'Description']].to_dict('records')).to_dict()
+    return schools_with_descriptions
 
 
 def preprocess_data(data):
@@ -239,27 +242,30 @@ def food_search():
                                       svd_dict=svd_similarities,
                                       cosine_weight=0.8,
                                       svd_weight=0.2)
-    schools_by_city = load_school_data()
-    print(schools_by_city)
+    schools_with_descriptions = load_school_data()
     top_10 = top_sim(similarities)
-    top_10_with_schools = []
+
+    top_10_with_schools_and_descriptions = []
     for city, _ in top_10:
-        schools = schools_by_city.get(city, [])
-        top_10_with_schools.append({
+        school_info = schools_with_descriptions.get(city, [])
+        top_10_with_schools_and_descriptions.append({
             'city': city,
             'cos_similarity': cosine_similarities.get(city, 0),
             'svd_similarity': svd_similarities.get(city, 0),
-            'schools': schools
+            'school_info': school_info  # This now includes the descriptions
         })
-    
-    
-    response = {"top_10": top_10_with_schools, "original_query": query, "corrected_query": corrected_query}
+    print(school_info )
+    response = {
+            "top_10": top_10_with_schools_and_descriptions,
+            "original_query": query,
+            "corrected_query": corrected_query
+        }
     
     if corrected:
         response["corrected_query"] = corrected_query
-    
-    return jsonify(response)
+    print(json.dumps(top_10_with_schools_and_descriptions, indent=4))
 
+    return jsonify(response)
 
 if __name__ == "__main__":
     app.run(debug=True)
