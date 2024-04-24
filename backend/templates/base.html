@@ -8,15 +8,107 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat&family=Open+Sans:wght@500&display=swap"
+    <link
+        href="https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Montserrat:wght@400;500&family=Open+Sans:wght@400;600&display=swap"
         rel="stylesheet">
     <style>
-        .buttons-container button.active {
-            background-color: #4CAF50;
+        body {
+            font-family: 'Open Sans', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #212529;
+        }
+
+        .full-body-container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background-color: white;
+        }
+
+        .top-text {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .google-colors h1 {
+            display: inline;
+            font-weight: bold;
+        }
+
+        .buttons-container {
+            margin-bottom: 1rem;
         }
 
         .buttons-container button {
             background-color: #e7e7e7;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            margin-right: 0.5rem;
+        }
+
+        .buttons-container button.active,
+        .buttons-container button:hover {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .input-box {
+            position: relative;
+            max-width: 500px;
+            margin: 1rem auto;
+            display: flex;
+            align-items: center;
+        }
+
+        .search-result {
+            background-color: #fff;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 1rem;
+        }
+
+        .search-result h5 {
+            margin: 0 0 1rem 0;
+            color: #007bff;
+        }
+
+        .search-result button {
+            background-color: #e7e7e7;
+            color: #333;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 0.25rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .search-result button:hover {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .search-result .programs-container {
+            max-height: 300px;
+            overflow-y: auto;
+            display: none;
+            background-color: #f8f9fa;
+            border-left: 3px solid #4CAF50;
+            border-radius: 0.25rem;
+            margin-top: 0.5rem;
+        }
+
+        .search-result .program-description {
+            padding: 0.5rem;
+            border-bottom: 1px solid #e7e7e7;
+        }
+
+        .search-result .program-description:last-child {
+            border-bottom: none;
         }
     </style>
 </head>
@@ -60,24 +152,33 @@
         let activeSections = [];
 
         function answerBoxTemplate(city, cos_similarity, svd_similarity, school_info) {
-            let schoolsHtml = '';
-            school_info.forEach(info => {
-                schoolsHtml += `
-                    <div>
-                        <h4>${info.School}</h4>
-                        <p>${info.Description.replace(/\n/g, "<br>")}</p>
+            let programsHtml = school_info.map((info, index) => {
+                return `
+                    <div class="program-description">
+                        <p><strong>${info.School}</strong>: ${info.Description.replace(/\n/g, "<br>")}</p>
                     </div>
                 `;
-            });
+            }).join('');
 
             return `
-        <div class='search-result'>
-            <p><b>City: ${city}</b></p>
-            <p>Cosine Similarity: ${cos_similarity}</p>
-            <p>SVD Similarity: ${svd_similarity}</p>
-            ${schoolsHtml}
-        </div>
-    `;
+                <div class='search-result mb-3'>
+                    <h5><b>City: ${city}</b></h5>
+                    <p>Cosine Similarity: ${cos_similarity.toFixed(2)}</p>
+                    <p>SVD Similarity: ${svd_similarity.toFixed(2)}</p>
+                    <button onclick="togglePrograms(event, '${city}')" type="button">
+                        Study abroad programs offered here
+                    </button>
+                    <div class="programs-container" id="programs${city.replace(/\s+/g, '')}">
+                        ${programsHtml}
+                    </div>
+                </div>
+            `;
+        }
+
+        function togglePrograms(event, city) {
+            const programsContainer = document.getElementById(`programs${city.replace(/\s+/g, '')}`);
+            const isDisplayed = programsContainer.style.display === 'block';
+            programsContainer.style.display = isDisplayed ? 'none' : 'block';
         }
 
         function didYouMeanTemplate(correctedQuery) {
@@ -123,6 +224,7 @@
         function search() {
             const answerBox = document.getElementById("answer-box");
             answerBox.innerHTML = "";
+
             const query = document.getElementById("filter-text-val").value;
 
             if (query.trim() !== "") {
@@ -134,6 +236,8 @@
                 fetch("/food_search?" + params)
                     .then(response => response.json())
                     .then(data => {
+                        answerBox.innerHTML = "";
+
                         if (data.corrected_query && data.corrected_query !== query) {
                             let didYouMeanDiv = document.createElement("div");
                             didYouMeanDiv.innerHTML = didYouMeanTemplate(data.corrected_query);
