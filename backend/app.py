@@ -158,6 +158,32 @@ def merge_similarities(cosine_dict, svd_dict, cosine_weight, svd_weight):
         # print("SVD = " + str(svd_dict[key]))
     return similarities
 
+def retrieve_landmarks(city, landmark_type):
+    """
+    retrieve all the landmarks of a certain type from a city. landmark_type can be:
+    'street_food'
+    'museums'
+    'sites'
+    'shops'
+    'restaurants'
+
+    return list of tuples: (lmark name, lmark address, lmark rating, lmark nratings)
+    """
+    landmarks_dict = data[city]["gmaps"][landmark_type]
+    landmarks_list = []
+    for key in list(landmarks_dict.keys()):
+        landmark = landmarks_dict[key]
+        landmarks_list.append((landmark["name"], landmark["address"], landmark['rating'], landmark['nratings']))
+
+    # Remove items with 0 reviews
+    landmarks_list = [landmark for landmark in landmarks_list if landmark[3] != 0]
+
+    # Sort list by number of ratings
+    landmarks_list_sorted = sorted(landmarks_list, key=lambda x: x[3], reverse=True)
+    
+    return landmarks_list_sorted
+# streetfood, museums, sites, shops, restaurants
+
 @app.route("/")
 def home():
     return render_template('base.html', title="Sample HTML")
@@ -252,7 +278,12 @@ def food_search():
             'city': city,
             'cos_similarity': cosine_similarities.get(city, 0),
             'svd_similarity': svd_similarities.get(city, 0),
-            'school_info': school_info  # This now includes the descriptions
+            'school_info': school_info,  # This now includes the descriptions
+            "sites":  retrieve_landmarks(city, 'sites'), # List of sites in the city
+            "restaurants": retrieve_landmarks(city, 'restaurants'),
+            "shops": retrieve_landmarks(city, 'shops'),
+            "museums": retrieve_landmarks(city, 'museums'),
+            "street_food": retrieve_landmarks(city, 'street_food')
         })
     print(school_info )
     response = {

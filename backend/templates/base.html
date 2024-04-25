@@ -64,6 +64,22 @@
             align-items: center;
         }
 
+        .input-box button {
+            background-color: green;
+            border: none;
+            color: white;
+            border-radius: 10px;
+            padding: 10px 10px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            margin-left: -40px; /* Adjust this value as needed */
+        }
+
+        .input-box button:hover {
+            background-color: rgb(206, 206, 206);
+            color: #4CAF50;
+        }
+
         .search-result {
             background-color: #fff;
             padding: 1rem;
@@ -140,7 +156,8 @@
             </div>
             <div class="input-box" onclick="sendFocus()">
                 <img src="{{ url_for('static', filename='images/search.png') }}" alt="Search Icon" />
-                <input placeholder="Search for a study abroad destination" id="filter-text-val" onkeyup="filterText()">
+                <input placeholder="Search for a study abroad destination" id="filter-text-val">
+                <button onclick="filterText()">Search</button>
             </div>
         </div>
         <div id="answer-box">
@@ -151,11 +168,76 @@
     <script>
         let activeSections = [];
 
-        function answerBoxTemplate(city, cos_similarity, svd_similarity, school_info) {
+        function answerBoxTemplate(city, cos_similarity, svd_similarity, school_info, sites, restaurants, shops, museums, street_food) {
             let programsHtml = school_info.map((info, index) => {
                 return `
                     <div class="program-description">
                         <p><strong>${info.School}</strong>: ${info.Description.replace(/\n/g, "<br>")}</p>
+                    </div>
+                `;
+            }).join('');
+
+            let sitesHtml = sites.map((site, index) => {
+                return `
+                    <div class="program-description">
+                        <p><strong>${site[0]}</strong>
+                            <br>
+                            <b>Address:</b> ${site[1]}<br>
+                            <b>Rating:</b> ${site[2]}/5<br>
+                            <b>Number of Ratings:</b> ${site[3]}<br>
+                        </p>
+                    </div>
+                `;
+            }).join('');
+
+            let restaurantsHtml = restaurants.map((site, index) => {
+                return `
+                    <div class="program-description">
+                        <p><strong>${site[0]}</strong>
+                            <br>
+                            <b>Address:</b> ${site[1]}<br>
+                            <b>Rating:</b> ${site[2]}/5<br>
+                            <b>Number of Ratings:</b> ${site[3]}<br>
+                        </p>
+                    </div>
+                `;
+            }).join('');
+
+            let shopsHtml = shops.map((site, index) => {
+                return `
+                    <div class="program-description">
+                        <p><strong>${site[0]}</strong>
+                            <br>
+                            <b>Address:</b> ${site[1]}<br>
+                            <b>Rating:</b> ${site[2]}/5<br>
+                            <b>Number of Ratings:</b> ${site[3]}<br>
+                        </p>
+                    </div>
+                `;
+            }).join('');
+
+            let museumsHtml = museums.map((site, index) => {
+                return `
+                    <div class="program-description">
+                        <p><strong>${site[0]}</strong>
+                            <br>
+                            <b>Address:</b> ${site[1]}<br>
+                            <b>Rating:</b> ${site[2]}/5<br>
+                            <b>Number of Ratings:</b> ${site[3]}<br>
+                        </p>
+                    </div>
+                `;
+            }).join('');
+
+            let streetFoodHtml = street_food.map((site, index) => {
+                return `
+                    <div class="program-description">
+                        <p><strong>${site[0]}</strong>
+                            <br>
+                            <b>Address:</b> ${site[1]}<br>
+                            <b>Rating:</b> ${site[2]}/5<br>
+                            <b>Number of Ratings:</b> ${site[3]}<br>
+                        </p>
                     </div>
                 `;
             }).join('');
@@ -168,8 +250,38 @@
                     <button onclick="togglePrograms(event, '${city}')" type="button">
                         Study abroad programs offered here
                     </button>
+                    <button onclick="toggleSites(event, '${city}')" type="button">
+                        Sites
+                    </button>
+                    <button onclick="toggleRestaurants(event, '${city}')" type="button">
+                        Restaurants
+                    </button>
+                    <button onclick="toggleShops(event, '${city}')" type="button">
+                        Shops
+                    </button>
+                    <button onclick="toggleMuseums(event, '${city}')" type="button">
+                        Museums
+                    </button>
+                    <button onclick="toggleStreetFood(event, '${city}')" type="button">
+                        Street Food
+                    </button>
                     <div class="programs-container" id="programs${city.replace(/\s+/g, '')}">
                         ${programsHtml}
+                    </div>
+                    <div class="programs-container" id="sites${city.replace(/\s+/g, '')}">
+                        ${sitesHtml}
+                    </div>
+                    <div class="programs-container" id="restaurants${city.replace(/\s+/g, '')}">
+                        ${restaurantsHtml}
+                    </div>
+                    <div class="programs-container" id="shops${city.replace(/\s+/g, '')}">
+                        ${shopsHtml}
+                    </div>
+                    <div class="programs-container" id="museums${city.replace(/\s+/g, '')}">
+                        ${museumsHtml}
+                    </div>
+                    <div class="programs-container" id="street_food${city.replace(/\s+/g, '')}">
+                        ${streetFoodHtml}
                     </div>
                 </div>
             `;
@@ -179,6 +291,54 @@
             const programsContainer = document.getElementById(`programs${city.replace(/\s+/g, '')}`);
             const isDisplayed = programsContainer.style.display === 'block';
             programsContainer.style.display = isDisplayed ? 'none' : 'block';
+            closeRemainingContainers('programs', city);
+        }
+
+        function toggleSites(event, city) {
+            const programsContainer = document.getElementById(`sites${city.replace(/\s+/g, '')}`);
+            const isDisplayed = programsContainer.style.display === 'block';
+            programsContainer.style.display = isDisplayed ? 'none' : 'block';
+            closeRemainingContainers('sites', city);
+        }
+
+        function toggleRestaurants(event, city) {
+            const programsContainer = document.getElementById(`restaurants${city.replace(/\s+/g, '')}`);
+            const isDisplayed = programsContainer.style.display === 'block';
+            programsContainer.style.display = isDisplayed ? 'none' : 'block';
+            closeRemainingContainers('restaurants', city);
+        }
+
+        function toggleShops(event, city) {
+            const programsContainer = document.getElementById(`shops${city.replace(/\s+/g, '')}`);
+            const isDisplayed = programsContainer.style.display === 'block';
+            programsContainer.style.display = isDisplayed ? 'none' : 'block';
+            closeRemainingContainers('shops', city);
+        }
+
+        function toggleMuseums(event, city) {
+            const programsContainer = document.getElementById(`museums${city.replace(/\s+/g, '')}`);
+            const isDisplayed = programsContainer.style.display === 'block';
+            programsContainer.style.display = isDisplayed ? 'none' : 'block';
+            closeRemainingContainers('museums', city);
+        }
+
+        function toggleStreetFood(event, city) {
+            const programsContainer = document.getElementById(`street_food${city.replace(/\s+/g, '')}`);
+            const isDisplayed = programsContainer.style.display === 'block';
+            programsContainer.style.display = isDisplayed ? 'none' : 'block';
+            closeRemainingContainers('street_food', city);
+        }
+
+        // close other popups when one opens
+        function closeRemainingContainers(container_type, city) {
+            const container_types = ['programs', 'sites', 'restaurants', 'shops', 'museums', 'street_food'];
+            for (let i = 0; i < container_types.length; i++){
+                current_type = container_types[i];
+                if (container_type !== current_type){
+                    container = document.getElementById(current_type += `${city.replace(/\s+/g, '')}`);
+                    container.style.display = 'none';
+                }
+            }
         }
 
         function didYouMeanTemplate(correctedQuery) {
@@ -197,6 +357,13 @@
         function sendFocus() {
             document.getElementById('filter-text-val').focus();
         }
+
+        // hitting enter should trigger a search
+        document.getElementById("filter-text-val").addEventListener("keydown", function(event) {
+            if (event.key === "Enter") {
+                filterText();
+            }
+        });
 
         function toggleSection(section) {
             const index = activeSections.indexOf(section);
@@ -247,7 +414,7 @@
                         if (data.top_10.length > 0) {
                             data.top_10.forEach(result => {
                                 let tempDiv = document.createElement("div");
-                                tempDiv.innerHTML = answerBoxTemplate(result.city, result.cos_similarity, result.svd_similarity, result.school_info);
+                                tempDiv.innerHTML = answerBoxTemplate(result.city, result.cos_similarity, result.svd_similarity, result.school_info, result.sites, result.restaurants, result.shops, result.museums, result.street_food);
                                 answerBox.appendChild(tempDiv);
                             });
                         } else if (!data.corrected_query) {
