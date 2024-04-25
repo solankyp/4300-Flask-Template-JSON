@@ -7,6 +7,12 @@ from collections import defaultdict
 import math
 import pickle
 import numpy as np
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+nltk.download('punkt')
+nltk.download('stopwords')
 
 app = Flask(__name__)
 CORS(app)
@@ -38,6 +44,21 @@ def load_school_data():
     return schools_with_descriptions
 
 
+def stem_and_process(str):
+    stemmer = PorterStemmer()
+    stop_words = set(stopwords.words('english'))
+    tokens = word_tokenize(str)
+
+    # Remove stop words
+    filtered_tokens = [token for token in tokens if token.lower() not in stop_words]
+
+    # Stem each token
+    stemmed_tokens = [stemmer.stem(token) for token in filtered_tokens]
+
+    # Join the stemmed tokens into a string
+    stemmed_text = " ".join(stemmed_tokens)
+    return stemmed_text
+
 def preprocess_data(data):
     preprocessed_data = defaultdict(dict)
     for city, categories in data.items():
@@ -47,13 +68,14 @@ def preprocess_data(data):
             buy = details.get('Buy')
             see = details.get('See')
             if food_info is not None:
-                preprocessed_data[city]['Eat'] = food_info 
+                preprocessed_data[city]['Eat'] = stem_and_process(food_info)
             if activities is not None:
-                preprocessed_data[city]['Do'] = activities
+                preprocessed_data[city]['Do'] = stem_and_process(activities)
             if buy is not None:
-                preprocessed_data[city]['Buy'] = buy
+                preprocessed_data[city]['Buy'] = stem_and_process(buy)
             if see is not None:
-                preprocessed_data[city]['See'] = see
+                preprocessed_data[city]['See'] = stem_and_process(food_info)
+        print(city)
     return preprocessed_data
 
 def create_term_frequency_matrix(data, sections_pressed):
@@ -73,6 +95,7 @@ def create_term_frequency_matrix(data, sections_pressed):
     return term_frequency_matrix
 
 def calculate_jaccard_similarity(query, data_term_frequency_matrix):
+    query = stem_and_process(query)
     query_terms = set(re.findall(r'\w+', query.lower()))
     similarities = {}
     for city, matrix in data_term_frequency_matrix.items():
@@ -184,7 +207,11 @@ def retrieve_landmarks(city, landmark_type):
     return landmarks_list_sorted
 # streetfood, museums, sites, shops, restaurants
 
+# preprocess data
+preprocessed_data = preprocess_data(data)
+
 @app.route("/")
+
 def home():
     return render_template('base.html', title="Sample HTML")
 
@@ -242,7 +269,6 @@ def food_search():
     if not any(sections_pressed):
         sections_pressed = [True, True, True, True]
     print(sections_pressed)
-    preprocessed_data = preprocess_data(data)
     term_frequency_matrix = create_term_frequency_matrix(preprocessed_data, sections_pressed)
 
     all_terms = set()
