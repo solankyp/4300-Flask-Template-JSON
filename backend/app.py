@@ -18,10 +18,16 @@ os.environ['ROOT_PATH'] = os.path.abspath(os.path.join("..", os.curdir))
 current_directory = os.path.dirname(os.path.abspath(__file__))
 
 # Specify the path to the JSON file relative to the current script
-json_file_path = os.path.join(current_directory, 'data.json')
+json_file_path1 = os.path.join(current_directory, 'data_1.json') # first part of data
+json_file_path2 = os.path.join(current_directory, 'data_2.json') # second part of data
 
-with open(json_file_path, 'r') as file:
-    data = json.load(file)
+with open(json_file_path1, 'r') as f1:
+    data = json.load(f1)
+
+with open(json_file_path2, 'r') as f2:
+    data2 = json.load(f2)
+
+data.update(data2)
 
 import pandas as pd
 
@@ -29,6 +35,7 @@ csv_file_path = os.path.join(current_directory, 'programs.csv')
 cities_df = pd.read_csv(csv_file_path)
 cities_series = cities_df['City'].astype(str).str.strip()
 allowed_cities_set = set(cities_series.unique())
+print(allowed_cities_set)
 
 program_desc = cities_df['Description'].astype(str).str.strip()
 
@@ -167,13 +174,17 @@ def retrieve_landmarks(city, landmark_type):
     'shops'
     'restaurants'
 
-    return list of tuples: (lmark name, lmark address, lmark rating, lmark nratings)
+    return list of tuples: (lmark name, lmark address, lmark rating, lmark nratings, lmark image, lmark review)
     """
     landmarks_dict = data[city]["gmaps"][landmark_type]
     landmarks_list = []
     for key in list(landmarks_dict.keys()):
         landmark = landmarks_dict[key]
-        landmarks_list.append((landmark["name"], landmark["address"], landmark['rating'], landmark['nratings']))
+        print(landmark.keys())
+        if 'photo' in landmark.keys():
+            landmarks_list.append((landmark["name"], landmark["address"], landmark['rating'], landmark['nratings'], landmark['review'], landmark['photo']['photo_binary']))
+        else:
+            landmarks_list.append((landmark["name"], landmark["address"], landmark['rating'], landmark['nratings'], landmark['review'])) # photo field optional
 
     # Remove items with 0 reviews
     landmarks_list = [landmark for landmark in landmarks_list if landmark[3] != 0]
