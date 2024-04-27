@@ -81,14 +81,29 @@
     margin-right: 3px;
 }
 
+.cornell-colors {
+    font-family: 'Libre Baskerville', serif; 
+    color: #B31B1B; 
+    font-size: 48px; 
+    font-weight: 700;
+    -webkit-text-stroke: 0.5px white; /* For webkit browsers */
+    text-shadow:
+        -1px -1px 0 #fff,
+            1px -1px 0 #fff,
+        -1px 1px 0 #fff,
+            1px 1px 0 #fff;
+}
+
 .input-box {
     border-radius: 50px;
-    border: 1px solid black;
+    border: 1px solid #005BBB;
     display: flex;
     align-items: center;
     margin-top: 10px;
     padding: 12px;
     width: 600px;
+    background-color: #fff; 
+    color: #333;
 }
 
 .input-box img {
@@ -122,3 +137,4 @@
 .episode-desc {
     font-family: 'Montserrat', sans-serif;
 }
+
