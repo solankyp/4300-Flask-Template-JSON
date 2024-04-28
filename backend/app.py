@@ -16,6 +16,7 @@ from nltk.tokenize import word_tokenize
 
 # Download NLTK resources if not already downloaded
 nltk.download('stopwords')
+nltk.download('punkt')
 
 app = Flask(__name__)
 CORS(app)
