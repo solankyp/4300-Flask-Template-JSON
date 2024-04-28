@@ -7,6 +7,15 @@ from collections import defaultdict
 import math
 import pickle
 import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+import nltk
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tokenize import word_tokenize
+
+# Download NLTK resources if not already downloaded
+nltk.download('stopwords')
 
 app = Flask(__name__)
 CORS(app)
@@ -62,6 +71,23 @@ def preprocess_data(data):
             if see is not None:
                 preprocessed_data[city]['See'] = see
     return preprocessed_data
+
+def stem_and_stop(str):
+    # Tokenize the text into words
+    words = word_tokenize(str.lower())  # Convert text to lowercase
+    
+    # Remove stop words
+    stop_words = set(stopwords.words('english'))
+    words = [word for word in words if word not in stop_words]
+    
+    # Perform light stemming
+    stemmer = PorterStemmer()
+    stemmed_words = [stemmer.stem(word) for word in words]
+    
+    # Join the stemmed words back into a single string
+    processed_text = ' '.join(stemmed_words)
+    
+    return processed_text
 
 def create_term_frequency_matrix(data, sections_pressed):
     term_frequency_matrix = defaultdict(dict)
@@ -181,6 +207,8 @@ def retrieve_landmarks(city, landmark_type):
     for key in list(landmarks_dict.keys()):
         landmark = landmarks_dict[key]
         print(landmark.keys())
+        if len(landmark.keys()) <= 8: #incomplete location
+            continue
         if 'photo' in landmark.keys():
             landmarks_list.append((landmark["name"], landmark["address"], landmark['rating'], landmark['nratings'], landmark['review'], landmark['photo']['photo_binary']))
         else:
@@ -252,7 +280,7 @@ def food_search():
 
     if not any(sections_pressed):
         sections_pressed = [True, True, True, True]
-    print(sections_pressed)
+    # print(sections_pressed)
     preprocessed_data = preprocess_data(data)
     term_frequency_matrix = create_term_frequency_matrix(preprocessed_data, sections_pressed)
 
@@ -261,6 +289,10 @@ def food_search():
         all_terms.update(matrix.keys())
 
     corrected_query, corrected = spell_check(query, all_terms)
+    
+    #stem and remove stop words for svd
+    svd_query = stem_and_stop(corrected_query)
+
     query_vector = calculate_query_vector(corrected_query, term_frequency_matrix)
 
     # cosine similarities
@@ -272,13 +304,13 @@ def food_search():
 
 
     # svd similarities
-    svd_similarities = calculate_svd_similarities(corrected_query)
+    svd_similarities = calculate_svd_similarities(svd_query)
 
     # merge svd and similarity dicts
     similarities = merge_similarities(cosine_dict=cosine_similarities,
                                       svd_dict=svd_similarities,
-                                      cosine_weight=0.8,
-                                      svd_weight=0.2)
+                                      cosine_weight=0.6,
+                                      svd_weight=0.4)
     schools_with_descriptions = load_school_data()
     top_10 = top_sim(similarities)
 
@@ -296,7 +328,7 @@ def food_search():
             "museums": retrieve_landmarks(city, 'museums'),
             "street_food": retrieve_landmarks(city, 'street_food')
         })
-    print(school_info )
+    # print(school_info )
     response = {
             "top_10": top_10_with_schools_and_descriptions,
             "original_query": query,
@@ -305,7 +337,7 @@ def food_search():
     
     if corrected:
         response["corrected_query"] = corrected_query
-    print(json.dumps(top_10_with_schools_and_descriptions, indent=4))
+    # print(json.dumps(top_10_with_schools_and_descriptions, indent=4))
 
     return jsonify(response)
 
