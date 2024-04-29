@@ -14,6 +14,29 @@
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
 
     <style>
+        .loader {
+            border: 8px solid #f3f3f3;
+            border-top: 8px solid #005BBB;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .hidden {
+            display: none;
+        }
+
         body {
             font-family: 'Open Sans', sans-serif;
             margin: 0;
@@ -34,7 +57,7 @@
         }
 
         .top-banner {
-            height:150px;
+            height: 150px;
             width: 100%;
             background-image: url(https://aap.cornell.edu/sites/default/files/2020_1227_LF_008%20%281%29.jpg);
             background-size: cover;
@@ -67,7 +90,7 @@
 
         .buttons-container button.active,
         .buttons-container button:hover {
-            background-color:#005BBB;
+            background-color: #005BBB;
             color: white;
         }
 
@@ -80,14 +103,15 @@
         }
 
         .input-box button {
-            background-color:#005BBB;
+            background-color: #005BBB;
             border: none;
             color: white;
             border-radius: 10px;
             padding: 10px 10px;
             cursor: pointer;
             transition: background-color 0.3s;
-            margin-left: -40px; /* Adjust this value as needed */
+            margin-left: -40px;
+            /* Adjust this value as needed */
         }
 
         .input-box button:hover {
@@ -105,7 +129,8 @@
 
         /* Style the button */
         .slider-wrapper button {
-            height: 77px; /* Make the button height same as its parent container */
+            height: 77px;
+            /* Make the button height same as its parent container */
             background-color: #00910a;
             color: #ffffff;
             border: none;
@@ -116,7 +141,7 @@
         }
 
         .slider-wrapper button:hover {
-            background-color:#ffffff;
+            background-color: #ffffff;
             color: #00910a;
         }
 
@@ -155,7 +180,8 @@
             float: right;
         }
 
-        #answer-box{
+
+        #answer-box {
             margin-top: 0px;
         }
 
@@ -183,7 +209,7 @@
         }
 
         .search-result button:hover {
-            background-color:#005BBB;
+            background-color: #005BBB;
             color: white;
         }
 
@@ -220,8 +246,10 @@
         }
 
         .search-result .image-container {
-            width: 150px; /* Adjust the width as needed */
-            height: 150px; /* Adjust the height as needed */
+            width: 150px;
+            /* Adjust the width as needed */
+            height: 150px;
+            /* Adjust the height as needed */
             overflow: hidden;
             padding-left: 10px;
             padding-top: 0.5rem;
@@ -232,7 +260,6 @@
             height: 100%;
             object-fit: cover;
         }
-
     </style>
 </head>
 
@@ -268,11 +295,10 @@
                 <button onclick="filterText()">Search</button>
             </div>
         </div>
-        <div id="answer-box">
+        <div id="loader" class="loader hidden"></div>
+        <div id="answer-box"></div>
 
-        </div>
-
-        </div>
+    </div>
     </div>
 
     <script>
@@ -292,7 +318,7 @@
         }
 
         function answerBoxTemplate(city, cos_similarity, svd_similarity, school_info, sites, restaurants, shops, museums, street_food) {
-            
+
             let programsHtml = school_info.map((info, index) => {
                 return `
                     <div class="program-description">
@@ -302,7 +328,7 @@
             }).join('');
 
             let sitesHtml = sites.map((site, index) => {
-                if (site.length == 6){
+                if (site.length == 6) {
                     return `
                     <div class="landmark-description">
                         <div class="landmark-info">
@@ -335,7 +361,7 @@
             }).join('');
 
             let restaurantsHtml = restaurants.map((site, index) => {
-                if (site.length == 6){
+                if (site.length == 6) {
                     return `
                     <div class="landmark-description">
                         <div class="landmark-info">
@@ -368,7 +394,7 @@
             }).join('');
 
             let shopsHtml = shops.map((site, index) => {
-                if (site.length == 6){
+                if (site.length == 6) {
                     return `
                     <div class="landmark-description">
                         <div class="landmark-info">
@@ -401,7 +427,7 @@
             }).join('');
 
             let museumsHtml = museums.map((site, index) => {
-                if (site.length == 6){
+                if (site.length == 6) {
                     return `
                     <div class="landmark-description">
                         <div class="landmark-info">
@@ -434,7 +460,7 @@
             }).join('');
 
             let streetFoodHtml = street_food.map((site, index) => {
-                if (site.length == 6){
+                if (site.length == 6) {
                     return `
                     <div class="landmark-description">
                         <div class="landmark-info">
@@ -556,9 +582,9 @@
         // close other popups when one opens
         function closeRemainingContainers(container_type, city) {
             const container_types = ['programs', 'sites', 'restaurants', 'shops', 'museums', 'street_food'];
-            for (let i = 0; i < container_types.length; i++){
+            for (let i = 0; i < container_types.length; i++) {
                 current_type = container_types[i];
-                if (container_type !== current_type){
+                if (container_type !== current_type) {
                     container = document.getElementById(current_type += `${city.replace(/\s+/g, '')}`);
                     container.style.display = 'none';
                 }
@@ -583,7 +609,7 @@
         }
 
         // hitting enter should trigger a search
-        document.getElementById("filter-text-val").addEventListener("keydown", function(event) {
+        document.getElementById("filter-text-val").addEventListener("keydown", function (event) {
             if (event.key === "Enter") {
                 filterText();
             }
@@ -610,7 +636,7 @@
             var container = document.getElementById("slider-container");
 
             // Iterate through each word and create a slider container
-            words.forEach(function(word, index) {
+            words.forEach(function (word, index) {
                 // Create container div for slider, word, and slider value
                 var sliderBox = document.createElement("div");
                 sliderBox.className = "slider-box";
@@ -648,8 +674,8 @@
             });
 
             // event listener to update value based on slider
-            document.querySelectorAll(".slider").forEach(function(slider, index) {
-                slider.addEventListener("input", function() {
+            document.querySelectorAll(".slider").forEach(function (slider, index) {
+                slider.addEventListener("input", function () {
                     // Get the value of the slider
                     var sliderValue = parseFloat(this.value);
                     // Get the index of the slider
@@ -663,7 +689,7 @@
                     var valueSpan = sliderBox.querySelector(".value");
                     // Update the value span's text content
                     if (valueSpan) {
-                    valueSpan.textContent = this.value;
+                        valueSpan.textContent = this.value;
                     }
                 });
             });
@@ -687,11 +713,13 @@
 
         function search() {
             const answerBox = document.getElementById("answer-box");
+            const loader = document.getElementById("loader");
             answerBox.innerHTML = "";
+            loader.classList.remove('hidden');
 
             const query = document.getElementById("filter-text-val").value;
 
-            if (query.trim() !== "" && query !== oldQuery){
+            if (query.trim() !== "" && query !== oldQuery) {
                 oldQuery = query;
                 sliderWeights = [];
             }
@@ -704,17 +732,14 @@
                 sliderWeights.forEach(weight => {
                     params.append('weight', weight)
                 });
-                console.log(params)
-
+                console.log(params);
 
                 fetch("/food_search?" + params)
                     .then(response => response.json())
                     .then(data => {
                         answerBox.innerHTML = "";
+                        loader.classList.add('hidden');
 
-                        // fill in weights
-                        sliderWeights = data.weights
-                        console.log(sliderWeights)
 
                         if (data.corrected_query && data.corrected_query !== query) {
                             let didYouMeanDiv = document.createElement("div");
@@ -722,31 +747,28 @@
                             answerBox.appendChild(didYouMeanDiv);
                         }
 
-                        // add weights
                         let weightDiv = document.createElement("div");
                         weightDiv.innerHTML = adjustWeightsTemplate();
                         answerBox.appendChild(weightDiv);
 
-                        // add search result title
                         let titleDiv = document.createElement("div");
                         titleDiv.innerHTML = "<h3>Search Results:</h3>";
                         answerBox.appendChild(titleDiv);
 
-                        if (data.top_10.length > 0) {
-                            data.top_10.forEach(result => {
-                                let tempDiv = document.createElement("div");
-                                tempDiv.innerHTML = answerBoxTemplate(result.city, result.cos_similarity, result.svd_similarity, result.school_info, result.sites, result.restaurants, result.shops, result.museums, result.street_food);
-                                answerBox.appendChild(tempDiv);
-                            });
-                            createSliders(data.stopped_query);
-                        } else if (!data.corrected_query) {
-                            answerBox.innerHTML = "<p>No results found.</p>";
-                        }
+                        data.top_10.forEach(result => {
+                            let tempDiv = document.createElement("div");
+                            tempDiv.innerHTML = answerBoxTemplate(result.city, result.cos_similarity, result.svd_similarity, result.school_info, result.sites, result.restaurants, result.shops, result.museums, result.street_food);
+                            answerBox.appendChild(tempDiv);
+                        });
+                        createSliders(data.stopped_query);
                     })
                     .catch(error => {
                         console.error("Error fetching data:", error);
+                        loader.classList.add('hidden');
+                        answerBox.innerHTML = "<p>Error loading results. Please try again.</p>";
                     });
-
+            } else {
+                loader.classList.add('hidden');
             }
         }
     </script>
