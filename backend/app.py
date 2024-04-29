@@ -90,6 +90,20 @@ def stem_and_stop(str):
     
     return processed_text
 
+def stop(str):
+    # Tokenize the text into words
+    words = word_tokenize(str.lower())  # Convert text to lowercase
+    
+    # Remove stop words
+    stop_words = set(stopwords.words('english'))
+    words = [word for word in words if word not in stop_words]
+
+    # Join the stemmed words back into a single string
+    processed_text = ' '.join(words)
+
+    return processed_text
+
+
 def create_term_frequency_matrix(data, sections_pressed):
     term_frequency_matrix = defaultdict(dict)
     if not any(sections_pressed):
@@ -148,7 +162,7 @@ def calculate_cosine_similarity(query_vector, doc_vector):
     normalized_cossim = (cossim + 1) / 2  
     return normalized_cossim
 
-def calculate_svd_similarities(query):
+def calculate_svd_similarities(query, weights):
     # retrieve SVD matrices from pickle
     with open("static/svd_vars.pkl", 'rb') as f:
         svd_vars = pickle.load(f)
@@ -160,10 +174,10 @@ def calculate_svd_similarities(query):
     # get svd similarities
     words = query.split(" ")
     sims_sum = np.zeros(len(docs_compressed_normed))
-    for word in words:
+    for idx, word in enumerate(words):
         if word not in vocab: continue
         sims = docs_compressed_normed.dot(words_compressed_normed[vocab[word],:])
-        sims_sum = sims + sims
+        sims_sum = sims_sum + (sims * weights[idx])
 
     # min-max scale the similarities to be between 0 and 1:
     min_sim = min(sims_sum)
@@ -207,7 +221,7 @@ def retrieve_landmarks(city, landmark_type):
     landmarks_list = []
     for key in list(landmarks_dict.keys()):
         landmark = landmarks_dict[key]
-        print(landmark.keys())
+        # print(landmark.keys())
         if len(landmark.keys()) <= 8: #incomplete location
             continue
         if 'photo' in landmark.keys():
@@ -267,7 +281,12 @@ def spell_check(query, data_terms):
 def food_search():
     query = request.args.get("query")
     sections = request.args.getlist("section")
+    weights = request.args.getlist("weight")
+    weights = [float(weight) for weight in weights]
+    print(weights)
+    valid_weights = True
 
+    # process sections
     sections_pressed = [False, False, False, False]
     for section in sections:
         if section == 'Eat':
@@ -281,6 +300,7 @@ def food_search():
 
     if not any(sections_pressed):
         sections_pressed = [True, True, True, True]
+
     # print(sections_pressed)
     preprocessed_data = preprocess_data(data)
     term_frequency_matrix = create_term_frequency_matrix(preprocessed_data, sections_pressed)
@@ -296,6 +316,15 @@ def food_search():
 
     query_vector = calculate_query_vector(corrected_query, term_frequency_matrix)
 
+    # stop query for weight adjustments. only non-stopword terms can be weighted manually
+    stopped_query = stop(corrected_query)
+    #process weights
+    if len(weights) < len(word_tokenize(stopped_query)):
+        valid_weights = False
+    print(valid_weights)
+    if not valid_weights:
+        weights = [1 for term in word_tokenize(stopped_query)]
+
     # cosine similarities
     cosine_similarities = {}
     for city, city_vector in term_frequency_matrix.items():
@@ -305,7 +334,7 @@ def food_search():
 
 
     # svd similarities
-    svd_similarities = calculate_svd_similarities(svd_query)
+    svd_similarities = calculate_svd_similarities(svd_query, weights)
 
     # merge svd and similarity dicts
     similarities = merge_similarities(cosine_dict=cosine_similarities,
@@ -333,7 +362,9 @@ def food_search():
     response = {
             "top_10": top_10_with_schools_and_descriptions,
             "original_query": query,
-            "corrected_query": corrected_query
+            "corrected_query": corrected_query,
+            "stopped_query": stopped_query,
+            "weights": weights
         }
     
     if corrected:

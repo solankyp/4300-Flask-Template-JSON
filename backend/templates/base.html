@@ -51,6 +51,7 @@
         }
 
         .buttons-container {
+            margin-top: 1rem;
             margin-bottom: 1rem;
         }
 
@@ -92,6 +93,70 @@
         .input-box button:hover {
             background-color: rgb(206, 206, 206);
             color: #005BBB;
+        }
+
+        /* Style the slider wrapper */
+        .slider-wrapper {
+            display: flex;
+            flex-direction: row;
+            justify-content: normal;
+            align-items: center;
+        }
+
+        /* Style the button */
+        .slider-wrapper button {
+            height: 77px; /* Make the button height same as its parent container */
+            background-color: #00910a;
+            color: #ffffff;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 0.25rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .slider-wrapper button:hover {
+            background-color:#ffffff;
+            color: #00910a;
+        }
+
+        /* Style the container for the sliders */
+        #slider-container {
+            overflow-x: auto;
+            white-space: nowrap;
+            padding: 20px;
+            max-width: 700px;
+            background-color: #fff;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 1rem;
+        }
+
+        /* Style individual slider box */
+        .slider-box {
+            border: 1px solid #ccc;
+            padding: 10px;
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        /* Style individual slider */
+        .slider {
+            width: 150px;
+        }
+
+        /* Style slider word and value */
+        .word {
+            font-weight: bold;
+        }
+
+        .value {
+            float: right;
+        }
+
+        #answer-box{
+            margin-top: 0px;
         }
 
         .search-result {
@@ -206,12 +271,28 @@
         <div id="answer-box">
 
         </div>
+
+        </div>
     </div>
 
     <script>
         let activeSections = [];
+        let sliderWeights = [];
+        let oldQuery = "";
+
+        function adjustWeightsTemplate() {
+            return `
+                <h3>Adjust Term Weights:</h3>
+                    <div class="slider-wrapper">
+                        <div id="slider-container"></div>
+                        <button onclick="filterText()">Update</button>
+                    </div>
+                <div id="answer-box">
+                `;
+        }
 
         function answerBoxTemplate(city, cos_similarity, svd_similarity, school_info, sites, restaurants, shops, museums, street_food) {
+            
             let programsHtml = school_info.map((info, index) => {
                 return `
                     <div class="program-description">
@@ -521,6 +602,79 @@
             filterText();
         }
 
+        function createSliders(inputString) {
+            // Split the input string into an array of words
+            var words = inputString.split(" ");
+
+            // Get the container element to append sliders
+            var container = document.getElementById("slider-container");
+
+            // Iterate through each word and create a slider container
+            words.forEach(function(word, index) {
+                // Create container div for slider, word, and slider value
+                var sliderBox = document.createElement("div");
+                sliderBox.className = "slider-box";
+
+                // Create span element for the word
+                var wordSpan = document.createElement("span");
+                wordSpan.textContent = word;
+                wordSpan.className = "word";
+
+                // Create span element to display slider value
+                var sliderValueSpan = document.createElement("span");
+                sliderValueSpan.textContent = sliderWeights[index];
+                sliderValueSpan.className = "value";
+
+                // Create input element for the slider
+                var sliderInput = document.createElement("input");
+                sliderInput.type = "range";
+                sliderInput.min = "0";
+                sliderInput.max = "1";
+                sliderInput.value = sliderWeights[index];
+                sliderInput.step = "0.01";
+                sliderInput.className = "slider";
+
+                // Append elements to the slider container
+                sliderBox.appendChild(wordSpan);
+                sliderBox.appendChild(sliderValueSpan);
+                sliderBox.appendChild(document.createElement("br"));
+                sliderBox.appendChild(sliderInput);
+
+                // Append the slider container to the main container
+                container.appendChild(sliderBox);
+
+                // store initial slider values if sliderWeights is defined
+                sliderWeights[index] = parseFloat(sliderInput.value);
+            });
+
+            // event listener to update value based on slider
+            document.querySelectorAll(".slider").forEach(function(slider, index) {
+                slider.addEventListener("input", function() {
+                    // Get the value of the slider
+                    var sliderValue = parseFloat(this.value);
+                    // Get the index of the slider
+                    var sliderIndex = index;
+                    // Call updateSliderValue function with sliderIndex and sliderValue
+                    updateSliderValue(sliderIndex, sliderValue);
+
+                    // Get the parent slider box
+                    var sliderBox = this.parentNode;
+                    // Find the value span within the slider box
+                    var valueSpan = sliderBox.querySelector(".value");
+                    // Update the value span's text content
+                    if (valueSpan) {
+                    valueSpan.textContent = this.value;
+                    }
+                });
+            });
+        }
+
+        // Function to update sliderValues array when slider value changes
+        function updateSliderValue(sliderIndex, sliderValue) {
+            sliderWeights[sliderIndex] = sliderValue;
+            console.log(sliderWeights)
+        }
+
         function filterText() {
             const answerBox = document.getElementById("answer-box");
             answerBox.innerHTML = "";
@@ -537,16 +691,30 @@
 
             const query = document.getElementById("filter-text-val").value;
 
+            if (query.trim() !== "" && query !== oldQuery){
+                oldQuery = query;
+                sliderWeights = [];
+            }
+
             if (query.trim() !== "") {
                 const params = new URLSearchParams({ query: query });
                 activeSections.forEach(section => {
                     params.append('section', section);
                 });
+                sliderWeights.forEach(weight => {
+                    params.append('weight', weight)
+                });
+                console.log(params)
+
 
                 fetch("/food_search?" + params)
                     .then(response => response.json())
                     .then(data => {
                         answerBox.innerHTML = "";
+
+                        // fill in weights
+                        sliderWeights = data.weights
+                        console.log(sliderWeights)
 
                         if (data.corrected_query && data.corrected_query !== query) {
                             let didYouMeanDiv = document.createElement("div");
@@ -554,12 +722,23 @@
                             answerBox.appendChild(didYouMeanDiv);
                         }
 
+                        // add weights
+                        let weightDiv = document.createElement("div");
+                        weightDiv.innerHTML = adjustWeightsTemplate();
+                        answerBox.appendChild(weightDiv);
+
+                        // add search result title
+                        let titleDiv = document.createElement("div");
+                        titleDiv.innerHTML = "<h3>Search Results:</h3>";
+                        answerBox.appendChild(titleDiv);
+
                         if (data.top_10.length > 0) {
                             data.top_10.forEach(result => {
                                 let tempDiv = document.createElement("div");
                                 tempDiv.innerHTML = answerBoxTemplate(result.city, result.cos_similarity, result.svd_similarity, result.school_info, result.sites, result.restaurants, result.shops, result.museums, result.street_food);
                                 answerBox.appendChild(tempDiv);
                             });
+                            createSliders(data.stopped_query);
                         } else if (!data.corrected_query) {
                             answerBox.innerHTML = "<p>No results found.</p>";
                         }
